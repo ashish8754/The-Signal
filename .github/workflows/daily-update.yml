@@ -23,13 +23,12 @@ jobs:
 
       - name: 📦 Fetch fresh content
         run: node scripts/fetch-content.js
-        working-directory: ./newsletter
 
       - name: 📝 Commit and push updated data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add newsletter/data.js newsletter/cache.json
+          git add data.js cache.json
           # Only commit if there are changes
           git diff --cached --quiet || git commit -m "🔄 Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
