@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Signal — Your Personal Tech Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="grain-overlay"></div>
+    
+    <!-- Header -->
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">The Signal</span>
+            </div>
+            <nav class="main-nav">
+                <a href="#today" class="nav-link active">Today</a>
+                <a href="#topics" class="nav-link">Topics</a>
+                <a href="#papers" class="nav-link">Research</a>
+                <a href="#repos" class="nav-link">GitHub</a>
+            </nav>
+            <button class="interests-toggle" id="interestsToggle">
+                <span>Your Interests</span>
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Interests Panel -->
+    <div class="interests-panel" id="interestsPanel">
+        <div class="interests-panel-inner">
+            <h3>Curate Your Feed</h3>
+            <p class="interests-subtitle">Select what matters to you. We'll surface the most relevant stories first.</p>
+            <div class="interests-grid" id="interestsGrid">
+                <!-- Populated by JS -->
+            </div>
+            <div class="interests-actions">
+                <button class="btn-secondary" id="resetInterests">Reset</button>
+                <button class="btn-primary" id="saveInterests">Apply & Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hero -->
+    <section class="hero">
+        <div class="hero-content">
+            <p class="hero-eyebrow">Your Personal Intelligence Briefing</p>
+            <h1 class="hero-title">
+                Cut through the noise.<br>
+                <em>Only what moves the needle.</em>
+            </h1>
+            <p class="hero-desc">
+                The Signal curates the most important developments in AI, next-gen computing, 
+                and emerging technology — grouped by topic, ranked by relevance to you.
+            </p>
+            <div class="hero-meta">
+                <span class="date-badge" id="currentDate"></span>
+                <span class="issue-badge">Issue #<span id="issueNumber">42</span></span>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="orbit-ring ring-1"></div>
+            <div class="orbit-ring ring-2"></div>
+            <div class="orbit-ring ring-3"></div>
+            <div class="orbit-center">◈</div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="content-wrapper">
+        
+        <!-- Featured / Top Story -->
+        <section class="featured-section" id="today">
+            <div class="section-header">
+                <h2 class="section-title">Today's Lead</h2>
+                <span class="section-count" id="featuredCount"></span>
+            </div>
+            <div class="featured-card" id="featuredCard">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- Topic Clusters -->
+        <section class="topics-section" id="topics">
+            <div class="section-header">
+                <h2 class="section-title">Topic Clusters</h2>
+                <p class="section-desc">Related stories grouped for deeper understanding</p>
+            </div>
+            <div class="topics-container" id="topicsContainer">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- Research Papers -->
+        <section class="papers-section" id="papers">
+            <div class="section-header">
+                <h2 class="section-title">Research Spotlight</h2>
+                <p class="section-desc">Papers worth your attention</p>
+            </div>
+            <div class="papers-grid" id="papersGrid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- GitHub Spotlight -->
+        <section class="repos-section" id="repos">
+            <div class="section-header">
+                <h2 class="section-title">GitHub Spotlight</h2>
+                <p class="section-desc">Repositories to watch</p>
+            </div>
+            <div class="repos-grid" id="reposGrid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- Next-Gen Tech -->
+        <section class="nextgen-section" id="nextgen">
+            <div class="section-header">
+                <h2 class="section-title">The Frontier</h2>
+                <p class="section-desc">Quantum, biotech, space, and beyond</p>
+            </div>
+            <div class="nextgen-grid" id="nextgenGrid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">The Signal</span>
+            </div>
+            <p class="footer-tagline">Curated intelligence for the curious mind.</p>
+            <div class="footer-links">
+                <a href="#">About</a>
+                <a href="#">Archive</a>
+                <a href="#">RSS</a>
+            </div>
+            <p class="footer-copy">Built for those who want to know what's next.</p>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

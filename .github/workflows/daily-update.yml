@@ -1,0 +1,35 @@
+name: 🔄 Daily Newsletter Update
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Fetch fresh content
+        run: node scripts/fetch-content.js
+        working-directory: ./newsletter
+
+      - name: 📝 Commit and push updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add newsletter/data.js newsletter/cache.json
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "🔄 Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
