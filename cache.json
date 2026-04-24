@@ -1,19 +1,19 @@
 {
   "stories": [
     {
-      "id": "rss-mgb7mskc",
+      "id": "rss-0f2ch9eo",
       "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
       "source": "TechCrunch",
-      "time": "5h ago",
+      "time": "Just now",
       "rawDate": "2026-04-24 12:00:00",
       "topic": "infra",
       "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
       "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "score": 88,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "score": 93,
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-niwe9wpo",
+      "id": "rss-la7xci58",
       "title": "Introducing GPT-5.5",
       "source": "OpenAI",
       "time": "1d ago",
@@ -22,22 +22,22 @@
       "url": "https://openai.com/index/introducing-gpt-5-5",
       "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
       "score": 87,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-1fqt7jii",
+      "id": "rss-317g4xvy",
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
       "source": "TechCrunch",
-      "time": "20h ago",
+      "time": "15h ago",
       "rawDate": "2026-04-23 21:00:00",
       "topic": "agents",
       "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
       "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
       "score": 83,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-xmzdqayo",
+      "id": "rss-7ta3y2os",
       "title": "We're launching two specialized TPUs for the agentic era.",
       "source": "Google Blog",
       "time": "2d ago",
@@ -46,10 +46,10 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "description": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "score": 83,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-v6qsenn9",
+      "id": "rss-vk2mpmo7",
       "title": "Top 10 uses for Codex at work",
       "source": "OpenAI",
       "time": "1d ago",
@@ -58,10 +58,10 @@
       "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
       "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
       "score": 82.71428571428571,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-yaotac25",
+      "id": "rss-x5l7ymwy",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "source": "Google Blog",
       "time": "1d ago",
@@ -70,22 +70,22 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
       "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "score": 81.66666666666667,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-actqtseh",
+      "id": "rss-gs2fcsjm",
       "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
       "source": "TechCrunch",
-      "time": "23h ago",
+      "time": "18h ago",
       "rawDate": "2026-04-23 18:29:29",
       "topic": "llms",
       "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
       "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
       "score": 79.53846153846153,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-9m83pi78",
+      "id": "rss-d4s08x55",
       "title": "GPT-5.5 System Card",
       "source": "OpenAI",
       "time": "1d ago",
@@ -94,10 +94,10 @@
       "url": "https://openai.com/index/gpt-5-5-system-card",
       "description": "",
       "score": 78.66666666666667,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-4ov3bc1w",
+      "id": "rss-ays5izgo",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "source": "VentureBeat",
       "time": "Jan 19",
@@ -106,31 +106,31 @@
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
       "score": 77.66666666666667,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-jpsbzolb",
+      "id": "rss-ybm7iare",
       "title": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
       "source": "MarkTechPost",
-      "time": "20h ago",
+      "time": "15h ago",
       "rawDate": "2026-04-23 21:25:34",
       "topic": "research",
       "url": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/",
       "description": "In this tutorial, we explore the implementation of OpenMythos, a theoretical reconstruction of the Claude Mythos architecture that enables deeper reasoning through iterative computation rather than increased parameter size. We build and analyze models using both GQA and MLA attention mechanisms, examine memory efficiency through KV-cache comparisons, and validate stability via the spectral properties of […] The post A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth…",
       "score": 77.5,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-hjp25yxm",
+      "id": "rss-8hi02qcq",
       "title": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
       "source": "MarkTechPost",
-      "time": "13h ago",
+      "time": "7h ago",
       "rawDate": "2026-04-24 04:40:10",
       "topic": "research",
       "url": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/",
       "description": "Training frontier AI models is, at its core, a coordination problem. Thousands of chips must communicate with each other continuously, synchronizing every gradient update across the network. When one chip fails or even slows down, the entire training run can stall. As models scale toward hundreds of billions of parameters, that fragility becomes increasingly untenable. […] The post Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under…",
       "score": 77.05882352941177,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
       "id": "hn-47886517",
@@ -142,22 +142,22 @@
       "url": "https://ynarwal.github.io/how-llms-work/",
       "description": "",
       "score": 76.61538461538461,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-yxdtk6kp",
+      "id": "rss-33aloy3g",
       "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
       "source": "Google Blog",
-      "time": "3d ago",
+      "time": "2d ago",
       "rawDate": "2026-04-21 14:30:00",
       "topic": "llms",
       "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
       "description": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
       "score": 76.33333333333333,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-rwoy43da",
+      "id": "rss-k1ea2ehx",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "source": "VentureBeat",
       "time": "Jan 13",
@@ -166,10 +166,10 @@
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
       "score": 76,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-4getyckl",
+      "id": "rss-6qltgmkg",
       "title": "Elevating Austria: Google invests in its first data center in the Alps.",
       "source": "Google Blog",
       "time": "1d ago",
@@ -178,7 +178,7 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
       "description": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
       "score": 75,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
       "id": "hn-47888465",
@@ -190,10 +190,10 @@
       "url": "https://github.com/AndrewVos/endless-toil",
       "description": "",
       "score": 74.85714285714286,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-ydief0xi",
+      "id": "rss-4gv5rbjr",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "source": "VentureBeat",
       "time": "Jan 22",
@@ -202,34 +202,22 @@
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
       "score": 74.63636363636364,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "hn-47886272",
-      "title": "Show HN: Gova – The declarative GUI framework for Go",
-      "source": "Hacker News",
-      "time": "5h ago",
-      "rawDate": "2026-04-24T06:16:47.000Z",
-      "topic": "devtools",
-      "url": "https://github.com/NV404/gova",
-      "description": "",
-      "score": 74,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
-    },
-    {
-      "id": "rss-yrxvidt8",
+      "id": "rss-byh698ew",
       "title": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
       "source": "MarkTechPost",
-      "time": "19h ago",
+      "time": "14h ago",
       "rawDate": "2026-04-23 22:11:30",
       "topic": "research",
       "url": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
       "description": "The model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step The post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost .",
       "score": 73.33333333333333,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-a378eyoi",
+      "id": "rss-56sjbzm2",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "source": "VentureBeat",
       "time": "Jan 16",
@@ -238,19 +226,19 @@
       "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
       "score": 72.42857142857143,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
-      "id": "rss-3t5o0h2s",
+      "id": "rss-hm2h74v6",
       "title": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
       "source": "MarkTechPost",
-      "time": "15h ago",
+      "time": "10h ago",
       "rawDate": "2026-04-24 02:07:11",
       "topic": "research",
       "url": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
       "description": "Mend.io's new framework gives engineering and security teams a practical playbook for governing AI systems before the next incident forces the conversation. The post Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model appeared first on MarkTechPost .",
       "score": 72.22222222222223,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
       "id": "hn-47875843",
@@ -262,7 +250,7 @@
       "url": "https://biobank.rocher.lc",
       "description": "",
       "score": 71.44444444444444,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
       "id": "hn-47878905",
@@ -274,7 +262,19 @@
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
       "description": "",
       "score": 69.5,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
+    },
+    {
+      "id": "hn-47886272",
+      "title": "Show HN: Gova – The declarative GUI framework for Go",
+      "source": "Hacker News",
+      "time": "6h ago",
+      "rawDate": "2026-04-24T06:16:47.000Z",
+      "topic": "devtools",
+      "url": "https://github.com/NV404/gova",
+      "description": "",
+      "score": 69,
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
       "id": "hn-47865822",
@@ -286,7 +286,7 @@
       "url": "https://github.com/Infisical/agent-vault",
       "description": "",
       "score": 65.66666666666667,
-      "cachedAt": "2026-04-24T12:11:43.146Z"
+      "cachedAt": "2026-04-24T12:38:37.336Z"
     },
     {
       "id": "rss-7khu3poq",
