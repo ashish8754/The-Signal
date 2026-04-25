@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-04-24T12:38:37.339Z
-   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-04-25T07:23:09.114Z
+   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-0f2ch9eo",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-    "excerpt": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-    "source": "TechCrunch",
-    "time": "Just now",
+    "id": "rss-h4syiiki",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Introducing GPT-5.5",
+    "excerpt": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "source": "OpenAI",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 93,
-    "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"
+    "relevance": 87,
+    "url": "https://openai.com/index/introducing-gpt-5-5"
 },
 
     topics: [
@@ -45,104 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-la7xci58",
+                "id": "rss-h4syiiki",
                 "title": "Introducing GPT-5.5",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 87
             },
             {
-                "id": "rss-7ta3y2os",
+                "id": "rss-h287p73i",
+                "title": "8 Gemini tips for organizing your space (and life)",
+                "source": "Google Blog",
+                "time": "12h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-8m0rqgti",
                 "title": "We're launching two specialized TPUs for the agentic era.",
                 "source": "Google Blog",
                 "time": "2d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-vk2mpmo7",
+                "id": "rss-gjwfw8bd",
                 "title": "Top 10 uses for Codex at work",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-x5l7ymwy",
+                "id": "rss-8wfo70fm",
                 "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
                 "source": "Google Blog",
                 "time": "1d ago",
                 "relevance": 82
-            },
-            {
-                "id": "rss-gs2fcsjm",
-                "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-                "source": "TechCrunch",
-                "time": "18h ago",
-                "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-ybm7iare",
-                "title": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-8hi02qcq",
-                "title": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
-                "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-byh698ew",
-                "title": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
-                "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-hm2h74v6",
-                "title": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-317g4xvy",
-                "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 83
-            },
-            {
-                "id": "hn-47888465",
-                "title": "Hear your agent suffer through your code",
-                "source": "Hacker News",
-                "time": "1h ago",
-                "relevance": 75
-            },
-            {
-                "id": "hn-47865822",
-                "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
             }
         ]
     },
@@ -153,18 +88,83 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-0f2ch9eo",
-                "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+                "id": "rss-nfcyydub",
+                "title": "Google to invest up to $40B in Anthropic in cash and compute",
                 "source": "TechCrunch",
-                "time": "Just now",
-                "relevance": 93
+                "time": "13h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-4gv5rbjr",
+                "id": "rss-sywqhwx4",
+                "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-0joufgzp",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
+            },
+            {
+                "id": "rss-s9nziy03",
+                "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-multimodal",
+        "name": "Multimodal AI",
+        "icon": "◑",
+        "color": "#b87333",
+        "stories": [
+            {
+                "id": "rss-btwhgjsc",
+                "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-mkgnctsr",
+                "title": "A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 79
+            },
+            {
+                "id": "hn-47894747",
+                "title": "My audio interface has SSH enabled by default",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-wzn8met3",
+                "title": "Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-f1jumji5",
+                "title": "A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context Compression, and Fine-Tuning Data Preparation",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 78
             }
         ]
     },
@@ -175,18 +175,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-56sjbzm2",
+                "id": "hn-47897790",
+                "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-dravtxl2",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
-            },
-            {
-                "id": "hn-47875843",
-                "title": "UK Biobank health data keeps ending up on GitHub",
-                "source": "Hacker News",
-                "time": "22h ago",
-                "relevance": 71
             }
         ]
     }
@@ -194,7 +194,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-i3hoed0j",
+        "id": "arxiv-u0kkg6kp",
         "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
         "authors": "Yen-Siang Wu, Rundong Luo, Jingsen Zhu, Tao Tu, Ali…",
         "journal": "arXiv preprint",
@@ -203,7 +203,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21931v1"
     },
     {
-        "id": "arxiv-pr3pvbcy",
+        "id": "arxiv-nydi3lzo",
         "title": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
         "authors": "Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis,…",
         "journal": "arXiv preprint",
@@ -212,7 +212,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21930v1"
     },
     {
-        "id": "arxiv-81ydui0t",
+        "id": "arxiv-44b2nucj",
         "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
         "authors": "Thibault Bañeras-Roux, Shashi Kumar, Driss Khalil, Sergio…",
         "journal": "arXiv preprint",
@@ -221,7 +221,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21928v1"
     },
     {
-        "id": "arxiv-1iw0jbub",
+        "id": "arxiv-tz0eapx1",
         "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
         "authors": "Paul-Tiberiu Iordache, Elena Burceanu",
         "journal": "arXiv preprint",
@@ -230,7 +230,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21927v1"
     },
     {
-        "id": "arxiv-6853uxsj",
+        "id": "arxiv-2xjv9drm",
         "title": "Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs",
         "authors": "Hao-Yu Hsu, Tianhang Cheng, Jing Wen, Alexander G. Schwing,…",
         "journal": "arXiv preprint",
@@ -239,7 +239,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21926v1"
     },
     {
-        "id": "arxiv-ix3swzue",
+        "id": "arxiv-lujxzywa",
         "title": "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
         "authors": "Isabella Liu, An-Chieh Cheng, Rui Yan, Geng Chen, Ri-Zhao…",
         "journal": "arXiv preprint",
@@ -251,7 +251,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-pmw2pqfy",
+        "id": "gh-mvnxxkkw",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "183.7k",
@@ -260,7 +260,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-apkxix7x",
+        "id": "gh-siscm4bi",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "159.9k",
@@ -269,7 +269,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-1x6pnuql",
+        "id": "gh-oyhx7iw6",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.3k",
@@ -278,16 +278,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-1zc1z58j",
+        "id": "gh-o90et6gu",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "114.5k",
+        "stars": "115.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-35km11xx",
+        "id": "gh-o6a4uw37",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.4k",
@@ -296,7 +296,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-19k2elhx",
+        "id": "gh-rqyd5hln",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.6k",
@@ -305,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-0e7r78u7",
+        "id": "gh-zbjeymq5",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "109.9k",
+        "stars": "110.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
