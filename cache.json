@@ -1,28 +1,244 @@
 {
   "stories": [
     {
-      "id": "rss-h4syiiki",
+      "id": "rss-3y1a7yt2",
+      "title": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
+      "source": "MarkTechPost",
+      "time": "3h ago",
+      "rawDate": "2026-04-26 04:22:40",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/04/25/rag-without-vectors-how-pageindex-retrieves-by-reasoning/",
+      "description": "Retrieval is where most RAG systems quietly break. Traditional pipelines rely on vector similarity—embedding queries and document chunks into the same space and fetching the “closest” matches. But similarity is a weak proxy for what we actually need: relevance grounded in reasoning. In long, professional documents—like financial reports, research papers, or legal texts—the right answer […] The post RAG Without Vectors: How PageIndex Retrieves by Reasoning appeared first on MarkTechPost .",
+      "score": 85,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-0i3aox43",
       "title": "Introducing GPT-5.5",
       "source": "OpenAI",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-04-23 11:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/introducing-gpt-5-5",
       "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "score": 87,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
+      "score": 85,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
     },
     {
-      "id": "rss-h287p73i",
+      "id": "rss-gzgg3q75",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-04-22 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "description": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "score": 83,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-okyyyjhd",
+      "title": "A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics",
+      "source": "MarkTechPost",
+      "time": "3h ago",
+      "rawDate": "2026-04-26 04:04:15",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/04/25/a-coding-tutorial-on-datashader-on-rendering-massive-datasets-with-high-performance-python-visual-analytics/",
+      "description": "In this tutorial, we explore Datashader, a powerful, high-performance visualization library for rendering massive datasets that quickly overwhelm traditional plotting tools. We work through its full rendering pipeline in Google Colab, starting from dense point clouds and reduction-based aggregations to categorical rendering, line visualizations, raster data, quadmesh grids, compositing, and dashboard-style analytical views. As we […] The post A Coding Tutorial on Datashader on Rendering Massive…",
+      "score": 82.14285714285714,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-3atbwjp3",
       "title": "8 Gemini tips for organizing your space (and life)",
       "source": "Google Blog",
-      "time": "12h ago",
+      "time": "1d ago",
       "rawDate": "2026-04-24 19:00:00",
       "topic": "llms",
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "description": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-      "score": 84.66666666666667,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
+      "score": 81.66666666666667,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "hn-47908047",
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "source": "Hacker News",
+      "time": "Just now",
+      "rawDate": "2026-04-26T07:00:10.000Z",
+      "topic": "devtools",
+      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+      "description": "",
+      "score": 81.44444444444444,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-jyluhdl1",
+      "title": "Top 10 uses for Codex at work",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-04-23 10:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "score": 80.71428571428571,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-ngkwxwp4",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-04-23 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-acoyhyjy",
+      "title": "A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Model GPU Sharing",
+      "source": "MarkTechPost",
+      "time": "10h ago",
+      "rawDate": "2026-04-25 21:30:28",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/04/25/a-coding-implementation-on-kvcached-for-elastic-kv-cache-memory-bursty-llm-serving-and-multi-model-gpu-sharing/",
+      "description": "In this tutorial, we explore kvcached, a dynamic KV-cache implementation on top of vLLM, to understand how dynamic KV-cache allocation transforms GPU memory usage for large language models. We begin by setting up the environment and deploying lightweight Qwen2.5 models through an OpenAI-compatible API, ensuring a realistic inference workflow. We then design controlled experiments where […] The post A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and…",
+      "score": 79.41176470588235,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-llt1qmj0",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "source": "VentureBeat",
+      "time": "Jan 19",
+      "rawDate": "2026-01-19 14:00:00",
+      "topic": "llms",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
+      "score": 77.66666666666667,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-hdaqz28i",
+      "title": "xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More",
+      "source": "MarkTechPost",
+      "time": "9h ago",
+      "rawDate": "2026-04-25 22:36:57",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/04/25/xai-launches-grok-voice-think-fast-1-0-topping-%CF%84-voice-bench-at-67-3-outperforming-gemini-gpt-realtime-and-more/",
+      "description": "The new flagship voice model outperforms Gemini, GPT Realtime, and its own predecessor across retail, airline, and telecom workflows The post xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More appeared first on MarkTechPost .",
+      "score": 77.14285714285714,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-1dnzvzl4",
+      "title": "GPT-5.5 System Card",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-04-23 11:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "description": "",
+      "score": 76.66666666666667,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-at3znbde",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "source": "VentureBeat",
+      "time": "Jan 13",
+      "rawDate": "2026-01-13 13:00:00",
+      "topic": "llms",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
+      "score": 76,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-38fj5pxu",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "source": "VentureBeat",
+      "time": "Jan 22",
+      "rawDate": "2026-01-22 14:00:00",
+      "topic": "infra",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
+      "score": 74.63636363636364,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-a0bhoj2l",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-04-23 09:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "description": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+      "score": 73,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "rss-j7wdrwvt",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "source": "VentureBeat",
+      "time": "Jan 16",
+      "rawDate": "2026-01-16 14:01:00",
+      "topic": "opensource",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
+      "score": 72.42857142857143,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "hn-47885239",
+      "title": "Mahjong: A Visual Guide",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-04-24T03:41:09.000Z",
+      "topic": "vision",
+      "url": "https://themahjong.guide/",
+      "description": "",
+      "score": 72,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "hn-47905768",
+      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
+      "source": "Hacker News",
+      "time": "8h ago",
+      "rawDate": "2026-04-25T23:44:05.000Z",
+      "topic": "llms",
+      "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
+      "description": "",
+      "score": 69.85714285714286,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "hn-47870901",
+      "title": "OpenAI Privacy Filter",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-04-23T00:14:55.000Z",
+      "topic": "security",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "description": "",
+      "score": 68.66666666666667,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
+    },
+    {
+      "id": "hn-47875597",
+      "title": "Optimizing Datalog for the GPU",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-04-23T13:34:47.000Z",
+      "topic": "infra",
+      "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-04-26T07:45:12.242Z"
     },
     {
       "id": "rss-nfcyydub",
@@ -37,30 +253,6 @@
       "cachedAt": "2026-04-25T07:23:09.112Z"
     },
     {
-      "id": "rss-8m0rqgti",
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-04-22 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "description": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "score": 83,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
-      "id": "rss-gjwfw8bd",
-      "title": "Top 10 uses for Codex at work",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-04-23 10:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "score": 82.71428571428571,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
       "id": "rss-sywqhwx4",
       "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
       "source": "TechCrunch",
@@ -70,18 +262,6 @@
       "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
       "description": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystem than the one Cook spent decades shaping. The App […]",
       "score": 82.61538461538461,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
-      "id": "rss-8wfo70fm",
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-04-23 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "score": 81.66666666666667,
       "cachedAt": "2026-04-25T07:23:09.112Z"
     },
     {
@@ -133,30 +313,6 @@
       "cachedAt": "2026-04-25T07:23:09.112Z"
     },
     {
-      "id": "rss-w01bp1p0",
-      "title": "GPT-5.5 System Card",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-04-23 11:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "description": "",
-      "score": 78.66666666666667,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
-      "id": "rss-aazttzi8",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "source": "VentureBeat",
-      "time": "Jan 19",
-      "rawDate": "2026-01-19 14:00:00",
-      "topic": "llms",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
-      "score": 77.66666666666667,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
       "id": "rss-f1jumji5",
       "title": "A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context Compression, and Fine-Tuning Data Preparation",
       "source": "MarkTechPost",
@@ -181,30 +337,6 @@
       "cachedAt": "2026-04-25T07:23:09.112Z"
     },
     {
-      "id": "rss-ib1xw2zi",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "source": "VentureBeat",
-      "time": "Jan 13",
-      "rawDate": "2026-01-13 13:00:00",
-      "topic": "llms",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
-      "score": 76,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
-      "id": "rss-tzpo5ugr",
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-04-23 09:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "description": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
-      "score": 75,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
       "id": "rss-771z88fc",
       "title": "Turbo Vision 2.0 – a modern port",
       "source": "Hacker News",
@@ -217,18 +349,6 @@
       "cachedAt": "2026-04-25T07:23:09.112Z"
     },
     {
-      "id": "rss-0joufgzp",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "source": "VentureBeat",
-      "time": "Jan 22",
-      "rawDate": "2026-01-22 14:00:00",
-      "topic": "infra",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
-      "score": 74.63636363636364,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
       "id": "hn-47897647",
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "source": "Hacker News",
@@ -238,18 +358,6 @@
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
       "description": "",
       "score": 72.71428571428571,
-      "cachedAt": "2026-04-25T07:23:09.112Z"
-    },
-    {
-      "id": "rss-dravtxl2",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "source": "VentureBeat",
-      "time": "Jan 16",
-      "rawDate": "2026-01-16 14:01:00",
-      "topic": "opensource",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
-      "score": 72.42857142857143,
       "cachedAt": "2026-04-25T07:23:09.112Z"
     },
     {

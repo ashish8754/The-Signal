@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-04-25T07:23:09.114Z
-   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-04-26T07:45:12.244Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-h4syiiki",
+    "id": "rss-0i3aox43",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing GPT-5.5",
     "excerpt": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 87,
+    "relevance": 85,
     "url": "https://openai.com/index/introducing-gpt-5-5"
 },
 
@@ -45,38 +45,60 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-h4syiiki",
+                "id": "rss-0i3aox43",
                 "title": "Introducing GPT-5.5",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-h287p73i",
-                "title": "8 Gemini tips for organizing your space (and life)",
-                "source": "Google Blog",
-                "time": "12h ago",
+                "time": "2d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-8m0rqgti",
+                "id": "rss-gzgg3q75",
                 "title": "We're launching two specialized TPUs for the agentic era.",
                 "source": "Google Blog",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-gjwfw8bd",
-                "title": "Top 10 uses for Codex at work",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-8wfo70fm",
-                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+                "id": "rss-3atbwjp3",
+                "title": "8 Gemini tips for organizing your space (and life)",
                 "source": "Google Blog",
                 "time": "1d ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-jyluhdl1",
+                "title": "Top 10 uses for Codex at work",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-ngkwxwp4",
+                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+                "source": "Google Blog",
+                "time": "2d ago",
+                "relevance": 80
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-3y1a7yt2",
+                "title": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-okyyyjhd",
+                "title": "A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics",
+                "source": "MarkTechPost",
+                "time": "3h ago",
                 "relevance": 82
             }
         ]
@@ -88,105 +110,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-nfcyydub",
-                "title": "Google to invest up to $40B in Anthropic in cash and compute",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-sywqhwx4",
-                "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-0joufgzp",
+                "id": "rss-38fj5pxu",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
             },
             {
-                "id": "rss-s9nziy03",
-                "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+                "id": "hn-47875597",
+                "title": "Optimizing Datalog for the GPU",
                 "source": "Hacker News",
                 "time": "2d ago",
-                "relevance": 65
-            }
-        ]
-    },
-    {
-        "id": "topic-multimodal",
-        "name": "Multimodal AI",
-        "icon": "◑",
-        "color": "#b87333",
-        "stories": [
-            {
-                "id": "rss-btwhgjsc",
-                "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-mkgnctsr",
-                "title": "A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence",
-                "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 79
-            },
-            {
-                "id": "hn-47894747",
-                "title": "My audio interface has SSH enabled by default",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-wzn8met3",
-                "title": "Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-f1jumji5",
-                "title": "A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context Compression, and Fine-Tuning Data Preparation",
-                "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "hn-47897790",
-                "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-                "source": "Hacker News",
-                "time": "5h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-dravtxl2",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "relevance": 66
             }
         ]
     }
@@ -194,7 +129,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-u0kkg6kp",
+        "id": "arxiv-9fxmsp9s",
         "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
         "authors": "Yen-Siang Wu, Rundong Luo, Jingsen Zhu, Tao Tu, Ali…",
         "journal": "arXiv preprint",
@@ -203,7 +138,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21931v1"
     },
     {
-        "id": "arxiv-nydi3lzo",
+        "id": "arxiv-0h4w9aeo",
         "title": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
         "authors": "Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis,…",
         "journal": "arXiv preprint",
@@ -212,7 +147,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21930v1"
     },
     {
-        "id": "arxiv-44b2nucj",
+        "id": "arxiv-6dafg00j",
         "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
         "authors": "Thibault Bañeras-Roux, Shashi Kumar, Driss Khalil, Sergio…",
         "journal": "arXiv preprint",
@@ -221,7 +156,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21928v1"
     },
     {
-        "id": "arxiv-tz0eapx1",
+        "id": "arxiv-pv4jz2kt",
         "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
         "authors": "Paul-Tiberiu Iordache, Elena Burceanu",
         "journal": "arXiv preprint",
@@ -230,7 +165,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21927v1"
     },
     {
-        "id": "arxiv-2xjv9drm",
+        "id": "arxiv-fzfbarub",
         "title": "Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs",
         "authors": "Hao-Yu Hsu, Tianhang Cheng, Jing Wen, Alexander G. Schwing,…",
         "journal": "arXiv preprint",
@@ -239,7 +174,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.21926v1"
     },
     {
-        "id": "arxiv-lujxzywa",
+        "id": "arxiv-etpkh58w",
         "title": "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
         "authors": "Isabella Liu, An-Chieh Cheng, Rui Yan, Geng Chen, Ri-Zhao…",
         "journal": "arXiv preprint",
@@ -251,16 +186,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-mvnxxkkw",
+        "id": "gh-tn49t8qo",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "183.7k",
+        "stars": "183.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-siscm4bi",
+        "id": "gh-jimgs819",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "159.9k",
@@ -269,25 +204,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-oyhx7iw6",
+        "id": "gh-at0315iv",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "147.3k",
+        "stars": "147.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-o90et6gu",
+        "id": "gh-o0nbrk3t",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "115.6k",
+        "stars": "117.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-o6a4uw37",
+        "id": "gh-cp8sbame",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.4k",
@@ -296,7 +231,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-rqyd5hln",
+        "id": "gh-p8fcxc75",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.6k",
@@ -305,10 +240,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-zbjeymq5",
+        "id": "gh-g7bldmx6",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "110.0k",
+        "stars": "110.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
