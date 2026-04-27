@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-04-26T07:45:12.244Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-04-27T08:31:45.951Z
+   Stories: 18 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-0i3aox43",
+    "id": "rss-mhz13sfi",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing GPT-5.5",
     "excerpt": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "3d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/introducing-gpt-5-5"
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-0i3aox43",
+                "id": "rss-mhz13sfi",
                 "title": "Introducing GPT-5.5",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-gzgg3q75",
+                "id": "rss-tso441qj",
                 "title": "We're launching two specialized TPUs for the agentic era.",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-3atbwjp3",
-                "title": "8 Gemini tips for organizing your space (and life)",
-                "source": "Google Blog",
-                "time": "1d ago",
+                "id": "rss-7jj5zc37",
+                "title": "Plugins and skills",
+                "source": "OpenAI",
+                "time": "3d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-jyluhdl1",
-                "title": "Top 10 uses for Codex at work",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-ngkwxwp4",
-                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+                "id": "rss-9bngpqvi",
+                "title": "8 Gemini tips for organizing your space (and life)",
                 "source": "Google Blog",
                 "time": "2d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-yjj84clr",
+                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+                "source": "Google Blog",
+                "time": "3d ago",
                 "relevance": 80
             }
         ]
@@ -88,40 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-3y1a7yt2",
-                "title": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
+                "id": "rss-mp153rff",
+                "title": "The LoRA Assumption That Breaks in Production",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 85
+                "time": "2h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-okyyyjhd",
-                "title": "A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics",
+                "id": "rss-tl9tmzxj",
+                "title": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama",
                 "source": "MarkTechPost",
                 "time": "3h ago",
-                "relevance": 82
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-38fj5pxu",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "relevance": 79
             },
             {
-                "id": "hn-47875597",
-                "title": "Optimizing Datalog for the GPU",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 66
+                "id": "rss-q09ecsmv",
+                "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-kbc3sjbr",
+                "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 73
             }
         ]
     }
@@ -129,64 +121,64 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-9fxmsp9s",
-        "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
-        "authors": "Yen-Siang Wu, Rundong Luo, Jingsen Zhu, Tao Tu, Ali…",
+        "id": "arxiv-pw9l10x9",
+        "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
+        "authors": "Sijie Li, Shanda Li, Haowei Lin, Weiwei Sun, Ameet…",
         "journal": "arXiv preprint",
-        "abstract": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention has been paid to perceiving and controlling the passage of time. In this paper, we study time as a learnable visual…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.21931v1"
-    },
-    {
-        "id": "arxiv-0h4w9aeo",
-        "title": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
-        "authors": "Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis,…",
-        "journal": "arXiv preprint",
-        "abstract": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutral preprocessing choice, but a structural component of evaluation: different valid splits of the same stream can induce…",
+        "abstract": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.21930v1"
+        "url": "http://arxiv.org/abs/2604.22753v1"
     },
     {
-        "id": "arxiv-6dafg00j",
-        "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
-        "authors": "Thibault Bañeras-Roux, Shashi Kumar, Driss Khalil, Sergio…",
+        "id": "arxiv-5qydeozo",
+        "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+        "authors": "Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada…",
         "journal": "arXiv preprint",
-        "abstract": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human perception, but decoder-based Large Language Models (LLMs) remain underexplored for this task. This paper evaluates their…",
+        "abstract": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questions naturally arise: (1) Where do AI agents spend the tokens? (2) Which models are more token-efficient? and (3) Can…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2604.21928v1"
+        "url": "http://arxiv.org/abs/2604.22750v1"
     },
     {
-        "id": "arxiv-pv4jz2kt",
-        "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
-        "authors": "Paul-Tiberiu Iordache, Elena Burceanu",
+        "id": "arxiv-jjrcbrqc",
+        "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+        "authors": "Ilana Nguyen, Harini Suresh, Thema Monroe-White, Evan Shieh",
         "journal": "arXiv preprint",
-        "abstract": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typically keep the fine-tuning regime fixed. In this paper, we argue that the fine-tuning regime, defined by the trainable…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.21927v1"
+        "abstract": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2604.22749v1"
     },
     {
-        "id": "arxiv-fzfbarub",
-        "title": "Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs",
-        "authors": "Hao-Yu Hsu, Tianhang Cheng, Jing Wen, Alexander G. Schwing,…",
+        "id": "arxiv-c4mtmrjg",
+        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+        "authors": "Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin, Lingdong…",
         "journal": "arXiv preprint",
-        "abstract": "Understanding human activities and their surrounding environments typically relies on visual perception, yet cameras pose persistent challenges in privacy, safety, energy efficiency, and scalability. We explore an alternative: 4D perception without vision. Its goal is to reconstruct human motion and 3D scene layouts…",
+        "abstract": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, navigate software, coordinate with others, or design experiments require predictive environment models, yet the term…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2604.22748v1"
+    },
+    {
+        "id": "arxiv-qfh8vu1y",
+        "title": "Relaxation-Informed Training of Neural Network Surrogate Models",
+        "authors": "Calvin Tsay",
+        "journal": "arXiv preprint",
+        "abstract": "ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function. The tractability of the resulting MILP depends on structural properties of the network, i.e., the number of binary variables in associated…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2604.22746v1"
+    },
+    {
+        "id": "arxiv-nbqfbhxw",
+        "title": "Inter-Stance: A Dyadic Multimodal Corpus for Conversational Stance Analysis",
+        "authors": "Xiang Zhang, Xiaotian Li, Taoyue Wang, Nan Bi, Xin Zhou,…",
+        "journal": "arXiv preprint",
+        "abstract": "Social interactions dominate our perceptions of the world and shape our daily behavior by attaching social meaning to acts as simple and spontaneous as gestures, facial expressions, voice, and speech. People mimic and otherwise respond to each other's postures, facial expressions, mannerisms, and other verbal and…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.21926v1"
-    },
-    {
-        "id": "arxiv-etpkh58w",
-        "title": "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
-        "authors": "Isabella Liu, An-Chieh Cheng, Rui Yan, Geng Chen, Ri-Zhao…",
-        "journal": "arXiv preprint",
-        "abstract": "Long-horizon manipulation remains challenging for vision-language-action (VLA) policies: real tasks are multi-step, progress-dependent, and brittle to compounding execution errors. We present LoHo-Manip, a modular framework that scales short-horizon VLA execution to long-horizon instruction following via a dedicated…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2604.21924v1"
+        "url": "http://arxiv.org/abs/2604.22739v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-tn49t8qo",
+        "id": "gh-ujyqfo00",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "183.8k",
@@ -195,16 +187,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-jimgs819",
+        "id": "gh-x5d44f0o",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "159.9k",
+        "stars": "160.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-at0315iv",
+        "id": "gh-xttib385",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.4k",
@@ -213,25 +205,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-o0nbrk3t",
+        "id": "gh-8scvb8y8",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "117.2k",
+        "stars": "119.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-cp8sbame",
+        "id": "gh-0e622icw",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "99.4k",
+        "stars": "99.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-p8fcxc75",
+        "id": "gh-ccqysazn",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.6k",
@@ -240,10 +232,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-g7bldmx6",
+        "id": "gh-sstbgls2",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "110.1k",
+        "stars": "110.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -252,44 +244,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "DeepMind"
-    },
-    {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "id": "ng-rss-9bngpqvi",
+        "title": "8 Gemini tips for organizing your space (and life)",
+        "desc": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "SpaceNews"
+        "source": "Google Blog"
     },
     {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Reuters"
+        "id": "ng-rss-kbc3sjbr",
+        "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
+        "desc": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese,…",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "MarkTechPost"
     },
     {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "id": "ng-hn-47900820",
+        "title": "The Military Rockets That Launched the Space Age (2023)",
+        "desc": "Click to read more about this development.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "Hacker News"
     }
 ]
 };
