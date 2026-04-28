@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-04-27T08:31:45.951Z
-   Stories: 18 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-04-28T08:29:50.401Z
+   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-mhz13sfi",
+    "id": "rss-bk7mnd3t",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Introducing GPT-5.5",
-    "excerpt": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "excerpt": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "18h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/introducing-gpt-5-5"
+    "relevance": 90,
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
 },
 
     topics: [
@@ -45,36 +45,36 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-mhz13sfi",
-                "title": "Introducing GPT-5.5",
+                "id": "rss-bk7mnd3t",
+                "title": "OpenAI available at FedRAMP Moderate",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 85
+                "time": "18h ago",
+                "relevance": 90
             },
             {
-                "id": "rss-tso441qj",
-                "title": "We're launching two specialized TPUs for the agentic era.",
-                "source": "Google Blog",
-                "time": "4d ago",
+                "id": "rss-1g9ob68c",
+                "title": "An open-source spec for orchestration: Symphony",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-slljt16s",
+                "title": "Choco automates food distribution with AI agents",
+                "source": "OpenAI",
+                "time": "1d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-7jj5zc37",
-                "title": "Plugins and skills",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-9bngpqvi",
-                "title": "8 Gemini tips for organizing your space (and life)",
+                "id": "rss-7bbthr1d",
+                "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
                 "source": "Google Blog",
-                "time": "2d ago",
+                "time": "19h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-yjj84clr",
-                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+                "id": "rss-c2cm0l0p",
+                "title": "8 Gemini tips for organizing your space (and life)",
                 "source": "Google Blog",
                 "time": "3d ago",
                 "relevance": 80
@@ -88,32 +88,76 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-mp153rff",
-                "title": "The LoRA Assumption That Breaks in Production",
+                "id": "rss-esf6p2bl",
+                "title": "How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Model Predictive Control",
                 "source": "MarkTechPost",
-                "time": "2h ago",
+                "time": "3h ago",
                 "relevance": 81
             },
             {
-                "id": "rss-tl9tmzxj",
-                "title": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama",
+                "id": "rss-xs825i5f",
+                "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 79
+                "time": "13h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-q09ecsmv",
-                "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+                "id": "rss-4l4rmvun",
+                "title": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "13h ago",
                 "relevance": 76
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-ghsd7nlg",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
             },
             {
-                "id": "rss-kbc3sjbr",
-                "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 73
+                "id": "hn-47924813",
+                "title": "Easyduino: Open Source PCB Devboards for KiCad",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-47923357",
+                "title": "GitHub Copilot is moving to usage-based billing",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-multimodal",
+        "name": "Multimodal AI",
+        "icon": "◑",
+        "color": "#b87333",
+        "stories": [
+            {
+                "id": "hn-47919630",
+                "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+                "source": "Hacker News",
+                "time": "22h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-47901433",
+                "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 65
             }
         ]
     }
@@ -121,64 +165,64 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-pw9l10x9",
-        "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
-        "authors": "Sijie Li, Shanda Li, Haowei Lin, Weiwei Sun, Ameet…",
+        "id": "arxiv-24e1o8z3",
+        "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
+        "authors": "Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu…",
         "journal": "arXiv preprint",
-        "abstract": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.22753v1"
-    },
-    {
-        "id": "arxiv-5qydeozo",
-        "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
-        "authors": "Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada…",
-        "journal": "arXiv preprint",
-        "abstract": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questions naturally arise: (1) Where do AI agents spend the tokens? (2) Which models are more token-efficient? and (3) Can…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2604.22750v1"
-    },
-    {
-        "id": "arxiv-jjrcbrqc",
-        "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
-        "authors": "Ilana Nguyen, Harini Suresh, Thema Monroe-White, Evan Shieh",
-        "journal": "arXiv preprint",
-        "abstract": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2604.22749v1"
-    },
-    {
-        "id": "arxiv-c4mtmrjg",
-        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
-        "authors": "Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin, Lingdong…",
-        "journal": "arXiv preprint",
-        "abstract": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, navigate software, coordinate with others, or design experiments require predictive environment models, yet the term…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2604.22748v1"
-    },
-    {
-        "id": "arxiv-qfh8vu1y",
-        "title": "Relaxation-Informed Training of Neural Network Surrogate Models",
-        "authors": "Calvin Tsay",
-        "journal": "arXiv preprint",
-        "abstract": "ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function. The tractability of the resulting MILP depends on structural properties of the network, i.e., the number of binary variables in associated…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2604.22746v1"
-    },
-    {
-        "id": "arxiv-nbqfbhxw",
-        "title": "Inter-Stance: A Dyadic Multimodal Corpus for Conversational Stance Analysis",
-        "authors": "Xiang Zhang, Xiaotian Li, Taoyue Wang, Nan Bi, Xin Zhou,…",
-        "journal": "arXiv preprint",
-        "abstract": "Social interactions dominate our perceptions of the world and shape our daily behavior by attaching social meaning to acts as simple and spontaneous as gestures, facial expressions, voice, and speech. People mimic and otherwise respond to each other's postures, facial expressions, mannerisms, and other verbal and…",
+        "abstract": "Recent video foundation models demonstrate impressive visual synthesis but frequently suffer from geometric inconsistencies. While existing methods attempt to inject 3D priors via architectural modifications, they often incur high computational costs and limit scalability. We propose World-R1, a framework that aligns…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.22739v1"
+        "url": "http://arxiv.org/abs/2604.24764v1"
+    },
+    {
+        "id": "arxiv-ytl27svf",
+        "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
+        "authors": "Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen,…",
+        "journal": "arXiv preprint",
+        "abstract": "Unified multimodal models typically rely on pretrained vision encoders and use separate visual representations for understanding and generation, creating misalignment between the two tasks and preventing fully end-to-end optimization from raw pixels. We introduce Tuna-2, a native unified multimodal model that performs…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2604.24763v1"
+    },
+    {
+        "id": "arxiv-lk5zmcnc",
+        "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
+        "authors": "Boyang Wang, Guangyi Xu, Zhipeng Tang, Jiahui Zhang, Zezhou…",
+        "journal": "arXiv preprint",
+        "abstract": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods often produce non-interpretable boundaries on transitions, miss subtle yet harmful discontinuities, and rely on noisy,…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2604.24762v1"
+    },
+    {
+        "id": "arxiv-fh3y565o",
+        "title": "Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components",
+        "authors": "Griffin Pitts, Muntasir Hoq, Peter Brusilovsky, Narges…",
+        "journal": "arXiv preprint",
+        "abstract": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2604.24758v1"
+    },
+    {
+        "id": "arxiv-msfgwu20",
+        "title": "The Optimal Sample Complexity of Multiclass and List Learning",
+        "authors": "Chirag Pabbaraju",
+        "journal": "arXiv preprint",
+        "abstract": "While the optimal sample complexity of binary classification in terms of the VC dimension is well-established, determining the optimal sample complexity of multiclass classification has remained open. The appropriate complexity parameter for multiclass classification is the DS dimension, and despite significant…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2604.24749v1"
+    },
+    {
+        "id": "arxiv-0ttmcmbd",
+        "title": "Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes",
+        "authors": "Zhangyong Liang",
+        "journal": "arXiv preprint",
+        "abstract": "In this paper, we propose a harmonized rotational gradient method, termed HRGrad, for simultaneously tackling multiscale time-dependent kinetic problems with varying small parameters.   These parameters exhibit asymptotic transitions from microscopic to macroscopic physics, making it a challenging multi-task problem…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2604.24745v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-ujyqfo00",
+        "id": "gh-xbdyk7g4",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "183.8k",
@@ -187,7 +231,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-x5d44f0o",
+        "id": "gh-xao5nl8n",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.0k",
@@ -196,7 +240,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-xttib385",
+        "id": "gh-6la45b7k",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.4k",
@@ -205,16 +249,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-8scvb8y8",
+        "id": "gh-yxcp9ugf",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "119.3k",
+        "stars": "121.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-0e622icw",
+        "id": "gh-z2muv7bt",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.5k",
@@ -223,19 +267,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ccqysazn",
+        "id": "gh-a03h0nap",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "162.6k",
+        "stars": "162.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-sstbgls2",
+        "id": "gh-m5r94r9e",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "110.3k",
+        "stars": "110.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -244,28 +288,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-9bngpqvi",
-        "title": "8 Gemini tips for organizing your space (and life)",
-        "desc": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Google Blog"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-kbc3sjbr",
-        "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
-        "desc": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese,…",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "MarkTechPost"
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
     },
     {
-        "id": "ng-hn-47900820",
-        "title": "The Military Rockets That Launched the Space Age (2023)",
-        "desc": "Click to read more about this development.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
