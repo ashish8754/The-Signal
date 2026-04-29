@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-04-28T08:29:50.401Z
-   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-04-29T08:24:06.951Z
+   Stories: 27 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-bk7mnd3t",
+    "id": "rss-5is23hxt",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "OpenAI available at FedRAMP Moderate",
-    "excerpt": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "title": "Our commitment to community safety",
+    "excerpt": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
     "source": "OpenAI",
-    "time": "18h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
+    "relevance": 87,
+    "url": "https://openai.com/index/our-commitment-to-community-safety"
 },
 
     topics: [
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-bk7mnd3t",
-                "title": "OpenAI available at FedRAMP Moderate",
-                "source": "OpenAI",
-                "time": "18h ago",
-                "relevance": 90
-            },
-            {
-                "id": "rss-1g9ob68c",
-                "title": "An open-source spec for orchestration: Symphony",
+                "id": "rss-5is23hxt",
+                "title": "Our commitment to community safety",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 87
             },
             {
-                "id": "rss-slljt16s",
-                "title": "Choco automates food distribution with AI agents",
+                "id": "rss-mrw8ysvy",
+                "title": "OpenAI available at FedRAMP Moderate",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 83
+                "relevance": 87
             },
             {
-                "id": "rss-7bbthr1d",
-                "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-                "source": "Google Blog",
-                "time": "19h ago",
-                "relevance": 80
+                "id": "rss-0mzfvu9t",
+                "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 84
             },
             {
-                "id": "rss-c2cm0l0p",
+                "id": "rss-w7kmyuep",
                 "title": "8 Gemini tips for organizing your space (and life)",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-esf6p2bl",
-                "title": "How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Model Predictive Control",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 81
             },
             {
-                "id": "rss-xs825i5f",
-                "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-4l4rmvun",
-                "title": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 76
+                "id": "rss-k0x9rhzj",
+                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+                "source": "Google Blog",
+                "time": "5d ago",
+                "relevance": 80
             }
         ]
     },
@@ -117,25 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-ghsd7nlg",
+                "id": "hn-47936479",
+                "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-u1nyj5es",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-47924813",
-                "title": "Easyduino: Open Source PCB Devboards for KiCad",
+                "id": "rss-c4motxsk",
+                "title": "Ghostty is leaving GitHub",
                 "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 70
+                "time": "12h ago",
+                "relevance": 72
             },
             {
-                "id": "hn-47923357",
-                "title": "GitHub Copilot is moving to usage-based billing",
+                "id": "hn-47932422",
+                "title": "An update on GitHub availability",
                 "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 70
+                "time": "22h ago",
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-w71z8nt8",
+                "title": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 84
+            },
+            {
+                "id": "rss-vlzsbqb3",
+                "title": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
+                "source": "MarkTechPost",
+                "time": "1h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-xemyfa46",
+                "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
+                "source": "MarkTechPost",
+                "time": "2h ago",
+                "relevance": 77
             }
         ]
     },
@@ -146,18 +153,40 @@ const NEWSLETTER_DATA = {
         "color": "#b87333",
         "stories": [
             {
-                "id": "hn-47919630",
-                "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-                "source": "Hacker News",
-                "time": "22h ago",
-                "relevance": 69
+                "id": "rss-gbz0eah1",
+                "title": "smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 85
             },
             {
-                "id": "hn-47901433",
-                "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
+                "id": "rss-on94kbvm",
+                "title": "Amazon launches an AI-powered audio Q&amp;A experience on product pages",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 84
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-iyns4q9p",
+                "title": "Amazon is already offering new OpenAI products on AWS",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-9kzdyghx",
+                "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 80
             }
         ]
     }
@@ -165,100 +194,100 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-24e1o8z3",
-        "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
-        "authors": "Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu…",
+        "id": "arxiv-hqth1ner",
+        "title": "Recursive Multi-Agent Systems",
+        "authors": "Xiyuan Yang, Jiaru Zou, Rui Pan, Ruizhong Qiu, Pan Lu,…",
         "journal": "arXiv preprint",
-        "abstract": "Recent video foundation models demonstrate impressive visual synthesis but frequently suffer from geometric inconsistencies. While existing methods attempt to inject 3D priors via architectural modifications, they often incur high computational costs and limit scalability. We propose World-R1, a framework that aligns…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.24764v1"
+        "abstract": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling principle from a single model to multi-agent systems, and ask: Can agent collaboration itself be scaled through recursion? To…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2604.25917v1"
     },
     {
-        "id": "arxiv-ytl27svf",
-        "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
-        "authors": "Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen,…",
+        "id": "arxiv-k4cxqmg0",
+        "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+        "authors": "Jinxiang Meng, Shaoping Huang, Fangyu Lei, Jingyu Guo,…",
         "journal": "arXiv preprint",
-        "abstract": "Unified multimodal models typically rely on pretrained vision encoders and use separate visual representations for understanding and generation, creating misalignment between the two tasks and preventing fully end-to-end optimization from raw pixels. We introduce Tuna-2, a native unified multimodal model that performs…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.24763v1"
+        "abstract": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinement, single-language creation-only tasks, and assumption of perfect intent. To bridge these gaps, we introduce DV-World,…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2604.25914v1"
     },
     {
-        "id": "arxiv-lk5zmcnc",
-        "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
-        "authors": "Boyang Wang, Guangyi Xu, Zhipeng Tang, Jiahui Zhang, Zezhou…",
+        "id": "arxiv-lw1t75ll",
+        "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
+        "authors": "Chu-Cheng Lin, Eugene Ie",
         "journal": "arXiv preprint",
-        "abstract": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods often produce non-interpretable boundaries on transitions, miss subtle yet harmful discontinuities, and rely on noisy,…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.24762v1"
+        "abstract": "Adapting reasoning models to new tasks during post-training with only output-level supervision stalls under reinforcement learning from verifiable rewards (RLVR) when the initial success probability $p_0$ is small. Using the Tsallis $q$-logarithm, we define a loss family $J_Q$ that interpolates between RLVR (at…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2604.25907v1"
     },
     {
-        "id": "arxiv-fh3y565o",
-        "title": "Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components",
-        "authors": "Griffin Pitts, Muntasir Hoq, Peter Brusilovsky, Narges…",
+        "id": "arxiv-r2ralich",
+        "title": "A paradox of AI fluency",
+        "authors": "Christopher Potts, Moritz Sudhof",
         "journal": "arXiv preprint",
-        "abstract": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does…",
+        "abstract": "How much does a user's skill with AI shape what AI actually delivers for them? This question is critical for users, AI product builders, and society at large, but it remains underexplored. Using a richly annotated sample of 27K transcripts from WildChat-4.8M, we show that fluent users take on more complex tasks than…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2604.25905v1"
+    },
+    {
+        "id": "arxiv-ye3npeen",
+        "title": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
+        "authors": "Andre Herz, Daniel Durstewitz, Georgia Koppe",
+        "journal": "arXiv preprint",
+        "abstract": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2604.25904v1"
+    },
+    {
+        "id": "arxiv-athfm4o1",
+        "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
+        "authors": "Ajmain Inqiad Alam, Palash Roy, Chanchal K. Roy, Banani…",
+        "journal": "Proceedings of ACM Software Engineering 3, FSE, Article FSE047, 2026",
+        "abstract": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy.…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2604.24758v1"
-    },
-    {
-        "id": "arxiv-msfgwu20",
-        "title": "The Optimal Sample Complexity of Multiclass and List Learning",
-        "authors": "Chirag Pabbaraju",
-        "journal": "arXiv preprint",
-        "abstract": "While the optimal sample complexity of binary classification in terms of the VC dimension is well-established, determining the optimal sample complexity of multiclass classification has remained open. The appropriate complexity parameter for multiclass classification is the DS dimension, and despite significant…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.24749v1"
-    },
-    {
-        "id": "arxiv-0ttmcmbd",
-        "title": "Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes",
-        "authors": "Zhangyong Liang",
-        "journal": "arXiv preprint",
-        "abstract": "In this paper, we propose a harmonized rotational gradient method, termed HRGrad, for simultaneously tackling multiscale time-dependent kinetic problems with varying small parameters.   These parameters exhibit asymptotic transitions from microscopic to macroscopic physics, making it a challenging multi-task problem…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.24745v1"
+        "url": "http://arxiv.org/abs/2604.25903v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-xbdyk7g4",
+        "id": "gh-dwuqtiq1",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "183.8k",
+        "stars": "183.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-xao5nl8n",
+        "id": "gh-jnmuwla4",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "160.0k",
+        "stars": "160.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-6la45b7k",
+        "id": "gh-9xlbn1ez",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "147.4k",
+        "stars": "147.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-yxcp9ugf",
+        "id": "gh-f8zy0g6u",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "121.5k",
+        "stars": "123.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-z2muv7bt",
+        "id": "gh-ji04ktd2",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.5k",
@@ -267,7 +296,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-a03h0nap",
+        "id": "gh-vshokah8",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.7k",
@@ -276,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-m5r94r9e",
+        "id": "gh-510f8ypf",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "110.4k",
+        "stars": "110.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
