@@ -1,16 +1,220 @@
 {
   "stories": [
     {
-      "id": "rss-5is23hxt",
-      "title": "Our commitment to community safety",
+      "id": "rss-a8owovla",
+      "title": "Where the goblins came from",
+      "source": "OpenAI",
+      "time": "12h ago",
+      "rawDate": "2026-04-29 20:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "score": 88,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-4m9vqpgf",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "source": "OpenAI",
+      "time": "17h ago",
+      "rawDate": "2026-04-29 15:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "score": 87.5,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-ng4z9g4j",
+      "title": "Cybersecurity in the Intelligence Age",
       "source": "OpenAI",
       "time": "1d ago",
+      "rawDate": "2026-04-29 04:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "score": 85,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-b0jmlir4",
+      "title": "Our commitment to community safety",
+      "source": "OpenAI",
+      "time": "2d ago",
       "rawDate": "2026-04-28 00:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/our-commitment-to-community-safety",
       "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "score": 87,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
+      "score": 85,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-1r88cv8r",
+      "title": "Cursor Introduces a TypeScript SDK for Building Programmatic Coding Agents With Sandboxed Cloud VMs, Subagents, Hooks, and Token-Based Pricing",
+      "source": "MarkTechPost",
+      "time": "3h ago",
+      "rawDate": "2026-04-30 04:40:37",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/04/29/cursor-introduces-a-typescript-sdk-for-building-programmatic-coding-agents-with-sandboxed-cloud-vms-subagents-hooks-and-token-based-pricing/",
+      "description": "Cursor Launches TypeScript SDK to Let Developers Build and Deploy Programmatic Coding Agents The post Cursor Introduces a TypeScript SDK for Building Programmatic Coding Agents With Sandboxed Cloud VMs, Subagents, Hooks, and Token-Based Pricing appeared first on MarkTechPost .",
+      "score": 80.26315789473684,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-iw56ji3g",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-04-24 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "description": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-4hz0e3ht",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "source": "Google Blog",
+      "time": "6d ago",
+      "rawDate": "2026-04-23 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-tpf6iarb",
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "source": "TechCrunch",
+      "time": "8h ago",
+      "rawDate": "2026-04-30 00:07:15",
+      "topic": "llms",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "score": 79.53846153846153,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-1sn7tw9k",
+      "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
+      "source": "MarkTechPost",
+      "time": "14h ago",
+      "rawDate": "2026-04-29 17:28:17",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/",
+      "description": "The QwenLM team has released FlashQLA, a new kernel library that dramatically accelerates the forward and backward passes of Gated Delta Network (GDN) Chunked Prefill, targeting both large-scale pretraining and edge-side agentic inference scenarios. The post Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs appeared first on MarkTechPost .",
+      "score": 79,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-yhoj5q1c",
+      "title": "IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference",
+      "source": "MarkTechPost",
+      "time": "1h ago",
+      "rawDate": "2026-04-30 07:01:42",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/04/30/ibm-releases-two-granite-speech-4-1-2b-models-autoregressive-asr-with-translation-and-non-autoregressive-editing-for-fast-inference/",
+      "description": "IBM Releases Granite Speech 4.1 2B and Its Non-Autoregressive Twin — Compact ASR Models Built for Enterprise The post IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference appeared first on MarkTechPost .",
+      "score": 78.33333333333333,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-7m9ot769",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "source": "Hacker News",
+      "time": "5h ago",
+      "rawDate": "2026-04-30 03:11:51",
+      "topic": "research",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "description": "Comments",
+      "score": 78,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-g0oig5uh",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "source": "VentureBeat",
+      "time": "Jan 19",
+      "rawDate": "2026-01-19 14:00:00",
+      "topic": "llms",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
+      "score": 77.66666666666667,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-bniqoppv",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "source": "VentureBeat",
+      "time": "Jan 13",
+      "rawDate": "2026-01-13 13:00:00",
+      "topic": "llms",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
+      "score": 76,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-xvim9n3d",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "source": "Google Blog",
+      "time": "1d ago",
+      "rawDate": "2026-04-28 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "description": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "score": 75,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-ow5qeglw",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-04-27 13:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "description": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "score": 74.66666666666667,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-0dau05zt",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "source": "VentureBeat",
+      "time": "Jan 22",
+      "rawDate": "2026-01-22 14:00:00",
+      "topic": "infra",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
+      "score": 74.63636363636364,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-on36qzm6",
+      "title": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods",
+      "source": "MarkTechPost",
+      "time": "12h ago",
+      "rawDate": "2026-04-29 19:28:32",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/04/29/top-10-kv-cache-compression-techniques-for-llm-inference-reducing-memory-overhead-across-eviction-quantization-and-low-rank-methods/",
+      "description": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods The post Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods appeared first on MarkTechPost .",
+      "score": 74.44444444444444,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
+    },
+    {
+      "id": "rss-ffawixxg",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "source": "VentureBeat",
+      "time": "Jan 16",
+      "rawDate": "2026-01-16 14:01:00",
+      "topic": "opensource",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
+      "score": 72.42857142857143,
+      "cachedAt": "2026-04-30T08:26:45.245Z"
     },
     {
       "id": "rss-mrw8ysvy",
@@ -97,30 +301,6 @@
       "cachedAt": "2026-04-29T08:24:06.947Z"
     },
     {
-      "id": "rss-w7kmyuep",
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "source": "Google Blog",
-      "time": "4d ago",
-      "rawDate": "2026-04-24 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "description": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
-      "id": "rss-k0x9rhzj",
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "source": "Google Blog",
-      "time": "5d ago",
-      "rawDate": "2026-04-23 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
       "id": "rss-vlzsbqb3",
       "title": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
       "source": "MarkTechPost",
@@ -133,30 +313,6 @@
       "cachedAt": "2026-04-29T08:24:06.947Z"
     },
     {
-      "id": "rss-ppcrrhy6",
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "source": "Google Blog",
-      "time": "16h ago",
-      "rawDate": "2026-04-28 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "description": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-      "score": 78,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
-      "id": "rss-ewkhojqo",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "source": "VentureBeat",
-      "time": "Jan 19",
-      "rawDate": "2026-01-19 14:00:00",
-      "topic": "llms",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
-      "score": 77.66666666666667,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
       "id": "rss-xemyfa46",
       "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
       "source": "MarkTechPost",
@@ -166,30 +322,6 @@
       "url": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
       "description": "Poolside Releases Laguna XS.2 and M.1: Open-Weight Agentic Coding Models Built for Long-Horizon Tasks The post Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified appeared first on MarkTechPost .",
       "score": 77.3529411764706,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
-      "id": "rss-qjnaodx9",
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-04-27 13:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "description": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-      "score": 76.66666666666667,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
-      "id": "rss-5578fky5",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "source": "VentureBeat",
-      "time": "Jan 13",
-      "rawDate": "2026-01-13 13:00:00",
-      "topic": "llms",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
-      "score": 76,
       "cachedAt": "2026-04-29T08:24:06.947Z"
     },
     {
@@ -214,30 +346,6 @@
       "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
       "description": "",
       "score": 75,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
-      "id": "rss-lsowh6d9",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "source": "VentureBeat",
-      "time": "Jan 22",
-      "rawDate": "2026-01-22 14:00:00",
-      "topic": "infra",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
-      "score": 74.63636363636364,
-      "cachedAt": "2026-04-29T08:24:06.947Z"
-    },
-    {
-      "id": "rss-u1nyj5es",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "source": "VentureBeat",
-      "time": "Jan 16",
-      "rawDate": "2026-01-16 14:01:00",
-      "topic": "opensource",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
-      "score": 72.42857142857143,
       "cachedAt": "2026-04-29T08:24:06.947Z"
     },
     {

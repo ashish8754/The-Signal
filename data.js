@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-04-29T08:24:06.951Z
-   Stories: 27 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-04-30T08:26:45.249Z
+   Stories: 18 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-5is23hxt",
+    "id": "rss-a8owovla",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Our commitment to community safety",
-    "excerpt": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "title": "Where the goblins came from",
+    "excerpt": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "12h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/our-commitment-to-community-safety"
+    "relevance": 88,
+    "url": "https://openai.com/index/where-the-goblins-came-from"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-5is23hxt",
+                "id": "rss-a8owovla",
+                "title": "Where the goblins came from",
+                "source": "OpenAI",
+                "time": "12h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-4m9vqpgf",
+                "title": "Building the compute infrastructure for the Intelligence Age",
+                "source": "OpenAI",
+                "time": "17h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-ng4z9g4j",
+                "title": "Cybersecurity in the Intelligence Age",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-b0jmlir4",
                 "title": "Our commitment to community safety",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-mrw8ysvy",
-                "title": "OpenAI available at FedRAMP Moderate",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-0mzfvu9t",
-                "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-w7kmyuep",
+                "id": "rss-iw56ji3g",
                 "title": "8 Gemini tips for organizing your space (and life)",
-                "source": "Google Blog",
-                "time": "4d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-k0x9rhzj",
-                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
                 "source": "Google Blog",
                 "time": "5d ago",
                 "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "hn-47936479",
-                "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-u1nyj5es",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
-            },
-            {
-                "id": "rss-c4motxsk",
-                "title": "Ghostty is leaving GitHub",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 72
-            },
-            {
-                "id": "hn-47932422",
-                "title": "An update on GitHub availability",
-                "source": "Hacker News",
-                "time": "22h ago",
-                "relevance": 71
             }
         ]
     },
@@ -124,69 +88,39 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-w71z8nt8",
-                "title": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
+                "id": "rss-1r88cv8r",
+                "title": "Cursor Introduces a TypeScript SDK for Building Programmatic Coding Agents With Sandboxed Cloud VMs, Subagents, Hooks, and Token-Based Pricing",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 84
+                "time": "3h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-vlzsbqb3",
-                "title": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
+                "id": "rss-1sn7tw9k",
+                "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
                 "source": "MarkTechPost",
-                "time": "1h ago",
+                "time": "14h ago",
                 "relevance": 79
             },
             {
-                "id": "rss-xemyfa46",
-                "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
+                "id": "rss-yhoj5q1c",
+                "title": "IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 77
-            }
-        ]
-    },
-    {
-        "id": "topic-multimodal",
-        "name": "Multimodal AI",
-        "icon": "◑",
-        "color": "#b87333",
-        "stories": [
-            {
-                "id": "rss-gbz0eah1",
-                "title": "smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 85
+                "time": "1h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-on94kbvm",
-                "title": "Amazon launches an AI-powered audio Q&amp;A experience on product pages",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 84
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
+                "id": "rss-7m9ot769",
+                "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 78
+            },
             {
-                "id": "rss-iyns4q9p",
-                "title": "Amazon is already offering new OpenAI products on AWS",
-                "source": "TechCrunch",
+                "id": "rss-on36qzm6",
+                "title": "Top 10 KV Cache Compression Techniques for LLM Inference: Reducing Memory Overhead Across Eviction, Quantization, and Low-Rank Methods",
+                "source": "MarkTechPost",
                 "time": "12h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-9kzdyghx",
-                "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 80
+                "relevance": 74
             }
         ]
     }
@@ -194,64 +128,64 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-hqth1ner",
-        "title": "Recursive Multi-Agent Systems",
-        "authors": "Xiyuan Yang, Jiaru Zou, Rui Pan, Ruizhong Qiu, Pan Lu,…",
+        "id": "arxiv-t2yanfws",
+        "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+        "authors": "Gongbo Zhang, Wen Wang, Ye Tian, Li Yuan",
         "journal": "arXiv preprint",
-        "abstract": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling principle from a single model to multi-agent systems, and ask: Can agent collaboration itself be scaled through recursion? To…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2604.25917v1"
-    },
-    {
-        "id": "arxiv-k4cxqmg0",
-        "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
-        "authors": "Jinxiang Meng, Shaoping Huang, Fangyu Lei, Jingyu Guo,…",
-        "journal": "arXiv preprint",
-        "abstract": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinement, single-language creation-only tasks, and assumption of perfect intent. To bridge these gaps, we introduce DV-World,…",
+        "abstract": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distillation methods for dLLMs reduce inference steps within a single architecture, none address cross-architecture knowledge…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2604.25914v1"
+        "url": "http://arxiv.org/abs/2604.26951v1"
     },
     {
-        "id": "arxiv-lw1t75ll",
-        "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
-        "authors": "Chu-Cheng Lin, Eugene Ie",
+        "id": "arxiv-bob05vtz",
+        "title": "Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation",
+        "authors": "Wanrong Zheng, Yunhao Ge, Laurent Itti",
+        "journal": "Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS), 2026",
+        "abstract": "Breakthrough progress in vision-based navigation through unknown environments has been achieved by using multimodal large language models (MLLMs). These models can plan a sequence of motions by evaluating the current view at each time step against the task and goal given to the agent. However, current zero-shot…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2604.26946v1"
+    },
+    {
+        "id": "arxiv-stq44wfc",
+        "title": "ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python",
+        "authors": "Alexander Raistrick, Karhan Kayan, Jack Nugent, David Yan,…",
         "journal": "arXiv preprint",
-        "abstract": "Adapting reasoning models to new tasks during post-training with only output-level supervision stalls under reinforcement learning from verifiable rewards (RLVR) when the initial success probability $p_0$ is small. Using the Tsallis $q$-logarithm, we define a loss family $J_Q$ that interpolates between RLVR (at…",
+        "abstract": "We introduce ProcFunc, a library for Blender-based procedural 3D generation in Python. ProcFunc provides a library of easy-to-use Python functions, which streamline creating, combining, analyzing, and executing procedural generation code. ProcFunc makes it easy to create large-scale diverse training data, by…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2604.26943v1"
+    },
+    {
+        "id": "arxiv-may6p15l",
+        "title": "Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport",
+        "authors": "Shayan Hundrieser, Insung Kong, Johannes Schmidt-Hieber",
+        "journal": "arXiv preprint",
+        "abstract": "We introduce Hyper Input Convex Neural Networks (HyCNNs), a novel neural network architecture designed for learning convex functions. HyCNNs combine the principles of Maxout networks with input convex neural networks (ICNNs) to create a neural network that is always convex in the input, theoretically capable of…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.25907v1"
+        "url": "http://arxiv.org/abs/2604.26942v1"
     },
     {
-        "id": "arxiv-r2ralich",
-        "title": "A paradox of AI fluency",
-        "authors": "Christopher Potts, Moritz Sudhof",
+        "id": "arxiv-6mf7087o",
+        "title": "Select to Think: Unlocking SLM Potential with Local Sufficiency",
+        "authors": "Wenxuan Ye, Yangyang Zhang, Xueli An, Georg Carle, Yunpu Ma",
         "journal": "arXiv preprint",
-        "abstract": "How much does a user's skill with AI shape what AI actually delivers for them? This question is critical for users, AI product builders, and society at large, but it remains underexplored. Using a richly annotated sample of 27K transcripts from WildChat-4.8M, we show that fluent users take on more complex tasks than…",
+        "abstract": "Small language models (SLMs) offer computational efficiency for scalable deployment, yet they often fall short of the reasoning power exhibited by their larger counterparts (LLMs). To mitigate this gap, current approaches invoke an LLM to generate tokens at points of reasoning divergence, but these external calls…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2604.25905v1"
+        "url": "http://arxiv.org/abs/2604.26940v1"
     },
     {
-        "id": "arxiv-ye3npeen",
-        "title": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
-        "authors": "Andre Herz, Daniel Durstewitz, Georgia Koppe",
+        "id": "arxiv-0uo3dg3z",
+        "title": "World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning",
+        "authors": "Wanyue Zhang, Wenxiang Wu, Wang Xu, Jiaxin Luo, Helu Zhi,…",
         "journal": "arXiv preprint",
-        "abstract": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2604.25904v1"
-    },
-    {
-        "id": "arxiv-athfm4o1",
-        "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
-        "authors": "Ajmain Inqiad Alam, Palash Roy, Chanchal K. Roy, Banani…",
-        "journal": "Proceedings of ACM Software Engineering 3, FSE, Article FSE047, 2026",
-        "abstract": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy.…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2604.25903v1"
+        "abstract": "Vision-language models (VLMs) have shown strong performance on static visual understanding, yet they still struggle with dynamic spatial reasoning that requires imagining how scenes evolve under egocentric motion. Recent efforts address this limitation either by scaling spatial supervision with synthetic data or by…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2604.26934v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-dwuqtiq1",
+        "id": "gh-blm4qhko",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "183.9k",
@@ -260,7 +194,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-jnmuwla4",
+        "id": "gh-50gvhmx7",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.1k",
@@ -269,7 +203,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-9xlbn1ez",
+        "id": "gh-5vgrrvrq",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.5k",
@@ -278,16 +212,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-f8zy0g6u",
+        "id": "gh-oa20rgto",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "123.8k",
+        "stars": "125.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ji04ktd2",
+        "id": "gh-0j7gs4fg",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.5k",
@@ -296,7 +230,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-vshokah8",
+        "id": "gh-rj98tzpa",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.7k",
@@ -305,10 +239,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-510f8ypf",
+        "id": "gh-2373ogs4",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "110.5k",
+        "stars": "110.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
