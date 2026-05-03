@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-02T07:49:20.944Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-05-03T08:04:53.703Z
+   Stories: 21 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-yua3dh12",
-    "topic": "Robotics",
-    "topicId": "robotics",
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "excerpt": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "id": "rss-i70kxen9",
+    "topic": "Multimodal AI",
+    "topicId": "multimodal",
+    "title": "The best AI dictation apps, tested and ranked",
+    "excerpt": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
     "source": "TechCrunch",
-    "time": "9h ago",
+    "time": "16h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+    "relevance": 83,
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
 },
 
     topics: [
@@ -45,97 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-mjpym6vo",
+                "id": "rss-ohapp8qd",
                 "title": "Where the goblins came from",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-h3au68el",
-                "title": "Cybersecurity in the Intelligence Age",
                 "source": "OpenAI",
                 "time": "3d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-00kbivot",
-                "title": "Building the compute infrastructure for the Intelligence Age",
+                "id": "rss-ck3203eq",
+                "title": "Cybersecurity in the Intelligence Age",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "4d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-qxasuc42",
+                "id": "rss-31jryd9y",
+                "title": "Building the compute infrastructure for the Intelligence Age",
+                "source": "OpenAI",
+                "time": "3d ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-clvuhy3k",
                 "title": "8 Gemini tips for organizing your space (and life)",
                 "source": "Google Blog",
                 "time": "Apr 24",
                 "relevance": 80
             },
             {
-                "id": "rss-zy2j16nl",
+                "id": "rss-dvusznyz",
                 "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
                 "source": "Google Blog",
                 "time": "Apr 23",
                 "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-bgbe9due",
-                "title": "A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 89
-            },
-            {
-                "id": "rss-h5vlsv4b",
-                "title": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-c57fsh91",
-                "title": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-qorgw4i8",
-                "title": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
-                "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 71
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-2gol984x",
-                "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-9ed5079t",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
             }
         ]
     },
@@ -146,17 +88,24 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-j0yserwt",
+                "id": "hn-47992772",
+                "title": "Open source does not imply open community",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-ccrxjhqp",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-47981669",
-                "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+                "id": "hn-47990789",
+                "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
                 "source": "Hacker News",
-                "time": "8h ago",
+                "time": "10h ago",
                 "relevance": 69
             }
         ]
@@ -165,7 +114,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-osrrpsue",
+        "id": "arxiv-behfu8vt",
         "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
         "authors": "Xin Zhou, Dingkang Liang, Xiwu Chen, Feiyang Tan, Dingyuan…",
         "journal": "arXiv preprint",
@@ -174,7 +123,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.28196v1"
     },
     {
-        "id": "arxiv-rbyqnb9d",
+        "id": "arxiv-y2wxm0kv",
         "title": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction",
         "authors": "Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi…",
         "journal": "arXiv preprint",
@@ -183,7 +132,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.28197v1"
     },
     {
-        "id": "arxiv-c1txkoxc",
+        "id": "arxiv-sddv9rad",
         "title": "Generalizable Sparse-View 3D Reconstruction from Unconstrained Images",
         "authors": "Vinayak Gupta, Chih-Hao Lin, Shenlong Wang, Anand Bhattad,…",
         "journal": "arXiv preprint",
@@ -192,7 +141,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.28193v1"
     },
     {
-        "id": "arxiv-3lrjzqwk",
+        "id": "arxiv-6sbabuqp",
         "title": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models",
         "authors": "Hao Chen, Jiaming Liu, Zhonghao Yan, Nuowei Han, Renrui…",
         "journal": "arXiv preprint",
@@ -201,7 +150,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.28192v1"
     },
     {
-        "id": "arxiv-ek076rf6",
+        "id": "arxiv-z13ks9nh",
         "title": "Representation Fréchet Loss for Visual Generation",
         "authors": "Jiawei Yang, Zhengyang Geng, Xuan Ju, Yonglong Tian, Yue…",
         "journal": "arXiv preprint",
@@ -210,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2604.28190v1"
     },
     {
-        "id": "arxiv-rzsegi2d",
+        "id": "arxiv-0diwbujy",
         "title": "Computing Equilibrium beyond Unilateral Deviation",
         "authors": "Mingyang Liu, Gabriele Farina, Asuman Ozdaglar",
         "journal": "arXiv preprint",
@@ -222,7 +171,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-o3z6uehm",
+        "id": "gh-gaybzvpl",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "183.9k",
@@ -231,7 +180,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-pwpl66xe",
+        "id": "gh-6nxthoa0",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.2k",
@@ -240,7 +189,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-tcp5hscv",
+        "id": "gh-blwph9tu",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.6k",
@@ -249,16 +198,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-jbp2ud91",
+        "id": "gh-br0pkqrn",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "128.7k",
+        "stars": "130.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-wbevc9sq",
+        "id": "gh-1jacfa1f",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.6k",
@@ -267,7 +216,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-jv45a3q6",
+        "id": "gh-zxwf9f8x",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.7k",
@@ -276,10 +225,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-rsvpjufk",
+        "id": "gh-jhumexp0",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "111.0k",
+        "stars": "111.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -288,44 +237,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "DeepMind"
-    },
-    {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "id": "ng-rss-clvuhy3k",
+        "title": "8 Gemini tips for organizing your space (and life)",
+        "desc": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "SpaceNews"
+        "source": "Google Blog"
     },
     {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "id": "ng-rss-uvgqecsa",
+        "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+        "desc": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is…",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "TechCrunch"
+    },
+    {
+        "id": "ng-hn-47960015",
+        "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+        "desc": "Click to read more about this development.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Reuters"
-    },
-    {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "source": "Hacker News"
     }
 ]
 };
