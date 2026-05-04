@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-03T08:04:53.703Z
-   Stories: 21 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-05-04T08:34:31.619Z
+   Stories: 22 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-i70kxen9",
-    "topic": "Multimodal AI",
-    "topicId": "multimodal",
-    "title": "The best AI dictation apps, tested and ranked",
-    "excerpt": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "source": "TechCrunch",
-    "time": "16h ago",
+    "id": "rss-d51m7oih",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Where the goblins came from",
+    "excerpt": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "source": "OpenAI",
+    "time": "4d ago",
     "readTime": "5 min read",
     "relevance": 83,
-    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
+    "url": "https://openai.com/index/where-the-goblins-came-from"
 },
 
     topics: [
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ohapp8qd",
+                "id": "rss-d51m7oih",
                 "title": "Where the goblins came from",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-ck3203eq",
-                "title": "Cybersecurity in the Intelligence Age",
                 "source": "OpenAI",
                 "time": "4d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-31jryd9y",
-                "title": "Building the compute infrastructure for the Intelligence Age",
+                "id": "rss-or0h1jpv",
+                "title": "Cybersecurity in the Intelligence Age",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "5d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-clvuhy3k",
+                "id": "rss-y6readqt",
+                "title": "Building the compute infrastructure for the Intelligence Age",
+                "source": "OpenAI",
+                "time": "4d ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-d5i20sj0",
                 "title": "8 Gemini tips for organizing your space (and life)",
                 "source": "Google Blog",
                 "time": "Apr 24",
                 "relevance": 80
             },
             {
-                "id": "rss-dvusznyz",
+                "id": "rss-g720lce4",
                 "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
                 "source": "Google Blog",
                 "time": "Apr 23",
@@ -82,30 +82,37 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "hn-47992772",
-                "title": "Open source does not imply open community",
-                "source": "Hacker News",
-                "time": "5h ago",
+                "id": "rss-xp6r7020",
+                "title": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
+                "source": "MarkTechPost",
+                "time": "10h ago",
                 "relevance": 75
             },
             {
-                "id": "rss-ccrxjhqp",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "id": "rss-mbqrr7f7",
+                "title": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 75
             },
             {
-                "id": "hn-47990789",
-                "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-                "source": "Hacker News",
-                "time": "10h ago",
+                "id": "rss-dbvoowgc",
+                "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 71
+            },
+            {
+                "id": "rss-jeevy5iq",
+                "title": "What is Tokenization Drift and How to Fix It?",
+                "source": "MarkTechPost",
+                "time": "1d ago",
                 "relevance": 69
             }
         ]
@@ -114,73 +121,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-behfu8vt",
-        "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
-        "authors": "Xin Zhou, Dingkang Liang, Xiwu Chen, Feiyang Tan, Dingyuan…",
+        "id": "arxiv-j66ieja0",
+        "title": "Posterior Augmented Flow Matching",
+        "authors": "George Stoica, Sayak Paul, Matthew Wallingford, Vivek…",
         "journal": "arXiv preprint",
-        "abstract": "Driving world models serve as a pivotal technology for autonomous driving by simulating environmental dynamics. However, existing approaches predominantly focus on future scene generation, often overlooking comprehensive 3D scene understanding. Conversely, while Large Language Models (LLMs) demonstrate impressive…",
+        "abstract": "Flow matching (FM) trains a time-dependent vector field that transports samples from a simple prior to a complex data distribution. However, for high-dimensional images, each training sample supervises only a single trajectory and intermediate point, yielding an extremely sparse and high-variance training signal. This…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.28196v1"
+        "url": "http://arxiv.org/abs/2605.00825v1"
     },
     {
-        "id": "arxiv-y2wxm0kv",
-        "title": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction",
-        "authors": "Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi…",
+        "id": "arxiv-ztm4usez",
+        "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+        "authors": "Jinpai Zhao, Nishant Panda, Yen Ting Lin, Eirik Valseth,…",
         "journal": "arXiv preprint",
-        "abstract": "Human-robot collaboration has been studied primarily in dyadic or sequential settings. However, real homes require multiadic collaboration, where multiple humans and robots share a workspace, acting concurrently on interleaved subtasks with tight spatial and temporal coupling. This regime remains underexplored because…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2604.28197v1"
-    },
-    {
-        "id": "arxiv-sddv9rad",
-        "title": "Generalizable Sparse-View 3D Reconstruction from Unconstrained Images",
-        "authors": "Vinayak Gupta, Chih-Hao Lin, Shenlong Wang, Anand Bhattad,…",
-        "journal": "arXiv preprint",
-        "abstract": "Reconstructing 3D scenes from sparse, unposed images remains challenging under real-world conditions with varying illumination and transient occlusions. Existing methods rely on scene-specific optimization using appearance embeddings or dynamic masks, which requires extensive per-scene training and fails under sparse…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.28193v1"
-    },
-    {
-        "id": "arxiv-6sbabuqp",
-        "title": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models",
-        "authors": "Hao Chen, Jiaming Liu, Zhonghao Yan, Nuowei Han, Renrui…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-Language-Action (VLA) models have increasingly incorporated reasoning mechanisms for complex robotic manipulation. However, existing approaches share a critical limitation: whether employing explicit linguistic reasoning that suffers from latency and discretization, or utilizing more expressive continuous…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2604.28192v1"
-    },
-    {
-        "id": "arxiv-z13ks9nh",
-        "title": "Representation Fréchet Loss for Visual Generation",
-        "authors": "Jiawei Yang, Zhengyang Geng, Xuan Ju, Yonglong Tian, Yue…",
-        "journal": "arXiv preprint",
-        "abstract": "We show that Fréchet Distance (FD), long considered impractical as a training objective, can in fact be effectively optimized in the representation space. Our idea is simple: decouple the population size for FD estimation (e.g., 50k) from the batch size for gradient computation (e.g., 1024). We term this approach…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2604.28190v1"
-    },
-    {
-        "id": "arxiv-0diwbujy",
-        "title": "Computing Equilibrium beyond Unilateral Deviation",
-        "authors": "Mingyang Liu, Gabriele Farina, Asuman Ozdaglar",
-        "journal": "arXiv preprint",
-        "abstract": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concepts that provide…",
+        "abstract": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way. Rather than learning a monolithic map, HyCOP learns a policy over short programs - which module to apply and for how…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2604.28186v1"
+        "url": "http://arxiv.org/abs/2605.00820v1"
+    },
+    {
+        "id": "arxiv-eqeoc2tz",
+        "title": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+        "authors": "Sailesh Panda, Pritam Kadasi, Abhishek Upperwal, Mayank…",
+        "journal": "arXiv preprint",
+        "abstract": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt. We study this question through a controlled diagnostic benchmark for procedural execution, where models are given a…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2605.00817v1"
+    },
+    {
+        "id": "arxiv-k5y4k3nb",
+        "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+        "authors": "Siyuan Huang, Xiaoye Qu, Yafu Li, Tong Zhu, Zefeng He,…",
+        "journal": "arXiv preprint",
+        "abstract": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual history expands the attention partition function, causing visual attention to decay inversely with generated sequence…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.00814v1"
+    },
+    {
+        "id": "arxiv-m4ucgp73",
+        "title": "Let ViT Speak: Generative Language-Image Pre-training",
+        "authors": "Yan Fang, Mengcheng Lan, Zilong Huang, Weixian Lei, Yunqing…",
+        "journal": "arXiv preprint",
+        "abstract": "In this paper, we present \\textbf{Gen}erative \\textbf{L}anguage-\\textbf{I}mage \\textbf{P}re-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (MLLMs). To better align vision encoders with the autoregressive nature of LLMs,…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.00809v1"
+    },
+    {
+        "id": "arxiv-vqu63xl2",
+        "title": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+        "authors": "Ziyang Huang, Yi Cao, Ali K. Shargh, Jing Luo, Ruidong Mei,…",
+        "journal": "arXiv preprint",
+        "abstract": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such success transfers to computational scientific workflows, where tasks require not only strong coding ability, but also the…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2605.00803v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-gaybzvpl",
+        "id": "gh-72zrsjia",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "183.9k",
+        "stars": "184.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-6nxthoa0",
+        "id": "gh-9m6jqpzn",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.2k",
@@ -189,25 +196,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-blwph9tu",
+        "id": "gh-m8z4e1j0",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "147.6k",
+        "stars": "147.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-br0pkqrn",
+        "id": "gh-a6scnop6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "130.2k",
+        "stars": "131.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-1jacfa1f",
+        "id": "gh-phxjfzoe",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.6k",
@@ -216,7 +223,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-zxwf9f8x",
+        "id": "gh-fwrqqsum",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.7k",
@@ -225,10 +232,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-jhumexp0",
+        "id": "gh-0dqr8sgc",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "111.1k",
+        "stars": "111.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -237,28 +244,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-clvuhy3k",
-        "title": "8 Gemini tips for organizing your space (and life)",
-        "desc": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Google Blog"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-uvgqecsa",
-        "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-        "desc": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is…",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
     },
     {
-        "id": "ng-hn-47960015",
-        "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-        "desc": "Click to read more about this development.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Hacker News"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
