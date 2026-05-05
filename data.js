@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-04T08:34:31.619Z
-   Stories: 22 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-05-05T08:15:31.813Z
+   Stories: 21 | Clusters: 3 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-d51m7oih",
+    "id": "rss-qgp4fyx3",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Where the goblins came from",
-    "excerpt": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-    "source": "OpenAI",
-    "time": "4d ago",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "excerpt": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "source": "TechCrunch",
+    "time": "13h ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://openai.com/index/where-the-goblins-came-from"
+    "relevance": 86,
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
 },
 
     topics: [
@@ -45,39 +45,68 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-d51m7oih",
-                "title": "Where the goblins came from",
+                "id": "rss-qgp4fyx3",
+                "title": "Image AI models now drive app growth, beating chatbot upgrades",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 86
+            },
+            {
+                "id": "rss-f8rqrg70",
+                "title": "How OpenAI delivers low-latency voice AI at scale",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "1d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-8p7gfh4s",
+                "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+                "source": "OpenAI",
+                "time": "11h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-7wb29prz",
+                "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+                "source": "Google Blog",
+                "time": "16h ago",
                 "relevance": 83
             },
             {
-                "id": "rss-or0h1jpv",
-                "title": "Cybersecurity in the Intelligence Age",
+                "id": "rss-4q884mm7",
+                "title": "Where the goblins came from",
                 "source": "OpenAI",
                 "time": "5d ago",
                 "relevance": 83
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-n6lrumfk",
+                "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+                "source": "TechCrunch",
+                "time": "4h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-y6readqt",
-                "title": "Building the compute infrastructure for the Intelligence Age",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 83
+                "id": "rss-bme8vw0b",
+                "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-d5i20sj0",
-                "title": "8 Gemini tips for organizing your space (and life)",
-                "source": "Google Blog",
-                "time": "Apr 24",
-                "relevance": 80
-            },
-            {
-                "id": "rss-g720lce4",
-                "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-                "source": "Google Blog",
-                "time": "Apr 23",
-                "relevance": 80
+                "id": "rss-9e9g6hgg",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     },
@@ -88,32 +117,25 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-xp6r7020",
-                "title": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
+                "id": "rss-e2eonlcp",
+                "title": "A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-tn2mnzxk",
+                "title": "Zyphra Introduces Tensor and Sequence Parallelism (TSP): A Hardware-Aware Training and Inference Strategy That Delivers 2.6x Throughput Over Matched TP+SP Baselines",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-jd448oxl",
+                "title": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization",
                 "source": "MarkTechPost",
                 "time": "10h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-mbqrr7f7",
-                "title": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-dbvoowgc",
-                "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
-            },
-            {
-                "id": "rss-jeevy5iq",
-                "title": "What is Tokenization Drift and How to Fix It?",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 69
+                "relevance": 72
             }
         ]
     }
@@ -121,64 +143,19 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-j66ieja0",
-        "title": "Posterior Augmented Flow Matching",
-        "authors": "George Stoica, Sayak Paul, Matthew Wallingford, Vivek…",
-        "journal": "arXiv preprint",
-        "abstract": "Flow matching (FM) trains a time-dependent vector field that transports samples from a simple prior to a complex data distribution. However, for high-dimensional images, each training sample supervises only a single trajectory and intermediate point, yielding an extremely sparse and high-variance training signal. This…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.00825v1"
-    },
-    {
-        "id": "arxiv-ztm4usez",
-        "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
-        "authors": "Jinpai Zhao, Nishant Panda, Yen Ting Lin, Eirik Valseth,…",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way. Rather than learning a monolithic map, HyCOP learns a policy over short programs - which module to apply and for how…",
+        "id": "p-fallback",
+        "title": "Latest AI Research Papers",
+        "authors": "Various Authors",
+        "journal": "arXiv",
+        "abstract": "Check back tomorrow for fresh research highlights.",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2605.00820v1"
-    },
-    {
-        "id": "arxiv-eqeoc2tz",
-        "title": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
-        "authors": "Sailesh Panda, Pritam Kadasi, Abhishek Upperwal, Mayank…",
-        "journal": "arXiv preprint",
-        "abstract": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt. We study this question through a controlled diagnostic benchmark for procedural execution, where models are given a…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.00817v1"
-    },
-    {
-        "id": "arxiv-k5y4k3nb",
-        "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
-        "authors": "Siyuan Huang, Xiaoye Qu, Yafu Li, Tong Zhu, Zefeng He,…",
-        "journal": "arXiv preprint",
-        "abstract": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual history expands the attention partition function, causing visual attention to decay inversely with generated sequence…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.00814v1"
-    },
-    {
-        "id": "arxiv-m4ucgp73",
-        "title": "Let ViT Speak: Generative Language-Image Pre-training",
-        "authors": "Yan Fang, Mengcheng Lan, Zilong Huang, Weixian Lei, Yunqing…",
-        "journal": "arXiv preprint",
-        "abstract": "In this paper, we present \\textbf{Gen}erative \\textbf{L}anguage-\\textbf{I}mage \\textbf{P}re-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (MLLMs). To better align vision encoders with the autoregressive nature of LLMs,…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.00809v1"
-    },
-    {
-        "id": "arxiv-vqu63xl2",
-        "title": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
-        "authors": "Ziyang Huang, Yi Cao, Ali K. Shargh, Jing Luo, Ruidong Mei,…",
-        "journal": "arXiv preprint",
-        "abstract": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such success transfers to computational scientific workflows, where tasks require not only strong coding ability, but also the…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2605.00803v1"
+        "url": "https://arxiv.org/list/cs.AI/recent"
     }
 ],
 
     repos: [
     {
-        "id": "gh-72zrsjia",
+        "id": "gh-m9sud7ii",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.0k",
@@ -187,16 +164,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-9m6jqpzn",
+        "id": "gh-gcld667b",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "160.2k",
+        "stars": "160.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-m8z4e1j0",
+        "id": "gh-xgli003l",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.7k",
@@ -205,16 +182,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-a6scnop6",
+        "id": "gh-l3k8hhkr",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "131.7k",
+        "stars": "133.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-phxjfzoe",
+        "id": "gh-wdkyhk78",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.6k",
@@ -223,7 +200,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-fwrqqsum",
+        "id": "gh-n25xfv92",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.7k",
@@ -232,10 +209,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-0dqr8sgc",
+        "id": "gh-a6eut15t",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "111.3k",
+        "stars": "111.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
