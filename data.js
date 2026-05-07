@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-05T08:15:31.813Z
-   Stories: 21 | Clusters: 3 | Papers: 0 | Repos: 7
+   Updated: 2026-05-07T08:38:57.806Z
+   Stories: 21 | Clusters: 5 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-qgp4fyx3",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "excerpt": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "id": "rss-rnkvoap5",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "excerpt": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
     "source": "TechCrunch",
-    "time": "13h ago",
+    "time": "3h ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-qgp4fyx3",
-                "title": "Image AI models now drive app growth, beating chatbot upgrades",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-f8rqrg70",
-                "title": "How OpenAI delivers low-latency voice AI at scale",
+                "id": "rss-9vb20h46",
+                "title": "How frontier enterprises are building an AI advantage",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-8p7gfh4s",
-                "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+                "id": "rss-c2rtr0ox",
+                "title": "Uber uses OpenAI to help people earn smarter and book faster",
                 "source": "OpenAI",
-                "time": "11h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-7wb29prz",
-                "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+                "id": "rss-7ffevfur",
+                "title": "Introducing ChatGPT Futures: Class of 2026",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-wixhz1l2",
+                "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-0ki70kis",
+                "title": "5 gardening tips you can try right in Search",
                 "source": "Google Blog",
                 "time": "16h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-4q884mm7",
-                "title": "Where the goblins came from",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 83
+                "relevance": 78
             }
         ]
     },
@@ -88,21 +88,14 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-n6lrumfk",
-                "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+                "id": "rss-rnkvoap5",
+                "title": "Five architects of the AI economy explain where the wheels are coming off",
                 "source": "TechCrunch",
-                "time": "4h ago",
-                "relevance": 85
+                "time": "3h ago",
+                "relevance": 88
             },
             {
-                "id": "rss-bme8vw0b",
-                "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-                "source": "TechCrunch",
-                "time": "10h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-9e9g6hgg",
+                "id": "rss-hwq1zl64",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
@@ -111,31 +104,68 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-e2eonlcp",
-                "title": "A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-tn2mnzxk",
-                "title": "Zyphra Introduces Tensor and Sequence Parallelism (TSP): A Hardware-Aware Training and Inference Strategy That Delivers 2.6x Throughput Over Matched TP+SP Baselines",
-                "source": "MarkTechPost",
-                "time": "8h ago",
+                "id": "hn-48046023",
+                "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+                "source": "Hacker News",
+                "time": "2h ago",
                 "relevance": 76
             },
             {
-                "id": "rss-jd448oxl",
-                "title": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization",
-                "source": "MarkTechPost",
-                "time": "10h ago",
+                "id": "hn-48037724",
+                "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-1u0141pl",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
                 "relevance": 72
+            },
+            {
+                "id": "rss-70tggcox",
+                "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48042434",
+                "title": "SQLite Is a Library of Congress Recommended Storage Format",
+                "source": "Hacker News",
+                "time": "10h ago",
+                "relevance": 71
+            },
+            {
+                "id": "hn-48012649",
+                "title": "Chevrolet Performance eCrate package (400v/200hp)",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 66
             }
         ]
     }
@@ -155,7 +185,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-m9sud7ii",
+        "id": "gh-48jbw8sz",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.0k",
@@ -164,7 +194,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-gcld667b",
+        "id": "gh-2ep3a9yy",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.3k",
@@ -173,46 +203,46 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-xgli003l",
+        "id": "gh-9s5g0a00",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "147.7k",
+        "stars": "147.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-l3k8hhkr",
+        "id": "gh-qsns969z",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "133.2k",
+        "stars": "136.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-wdkyhk78",
+        "id": "gh-2x7r6m30",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "99.6k",
+        "stars": "99.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-n25xfv92",
+        "id": "gh-6a5hvnfs",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "162.7k",
+        "stars": "162.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-a6eut15t",
+        "id": "gh-ouyxidbi",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "111.4k",
+        "stars": "111.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
