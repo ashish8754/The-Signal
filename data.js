@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-08T07:46:37.408Z
+   Updated: 2026-05-09T08:00:57.048Z
    Stories: 24 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ikqepozi",
+    "id": "rss-edkwewbu",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Parloa builds service agents customers want to talk to",
     "excerpt": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
     "source": "OpenAI",
-    "time": "20h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 89,
+    "relevance": 86,
     "url": "https://openai.com/index/parloa"
 },
 
@@ -45,61 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ikqepozi",
+                "id": "rss-edkwewbu",
                 "title": "Parloa builds service agents customers want to talk to",
                 "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 89
+                "time": "1d ago",
+                "relevance": 86
             },
             {
-                "id": "rss-lifarc97",
+                "id": "rss-abpirdl7",
                 "title": "Advancing voice intelligence with new models in the API",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 89
-            },
-            {
-                "id": "rss-xgz8caaq",
-                "title": "Testing ads in ChatGPT",
-                "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 87
+                "relevance": 86
             },
             {
-                "id": "rss-tgtzrvxj",
-                "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+                "id": "rss-33kgt45x",
+                "title": "Running Codex safely at OpenAI",
                 "source": "OpenAI",
-                "time": "18h ago",
+                "time": "19h ago",
                 "relevance": 84
             },
             {
-                "id": "rss-tacawane",
-                "title": "LightSeek Foundation Releases TokenSpeed, an Open-Source LLM Inference Engine Targeting TensorRT-LLM-Level Performance for Agentic Workloads",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-multimodal",
-        "name": "Multimodal AI",
-        "icon": "◑",
-        "color": "#b87333",
-        "stories": [
-            {
-                "id": "rss-i4we7p1l",
-                "title": "OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 90
+                "id": "rss-71s5cqoq",
+                "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-bpb30pqb",
-                "title": "OpenAI launches new voice intelligence features in its API",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 87
+                "id": "rss-61fy4pse",
+                "title": "See what happens when creative legends use AI to make ads for small businesses.",
+                "source": "Google Blog",
+                "time": "17h ago",
+                "relevance": 79
             }
         ]
     },
@@ -110,18 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-zmi4bljz",
-                "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
+                "id": "rss-08lblwki",
+                "title": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 81
+                "time": "4h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-w9i7jqd0",
-                "title": "Meta AI Releases NeuralBench: A Unified Open-Source Framework to Benchmark NeuroAI Models Across 36 EEG Tasks and 94 Datasets",
+                "id": "rss-30sjb3yf",
+                "title": "How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery",
                 "source": "MarkTechPost",
-                "time": "23h ago",
-                "relevance": 76
+                "time": "10h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-hroewlz9",
+                "title": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-b27a3cc0",
+                "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 68
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-v6teubiu",
+                "title": "The “people’s airline” and the enterprise AI gold rush",
+                "source": "TechCrunch",
+                "time": "16h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-wflv6dxe",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48064312",
+                "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 69
             }
         ]
     }
@@ -129,7 +150,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-danmpqd5",
+        "id": "arxiv-yw071zv4",
         "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
         "authors": "Omar El Khalifi, Thomas Rossi, Oscar Fossey, Thibault…",
         "journal": "arXiv preprint",
@@ -138,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06667v1"
     },
     {
-        "id": "arxiv-gjyh9ib1",
+        "id": "arxiv-j1em3xw0",
         "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
         "authors": "Minbin Huang, Han Shi, Chuanyang Zheng, Yimeng Wu, Guoxuan…",
         "journal": "arXiv preprint",
@@ -147,7 +168,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06665v1"
     },
     {
-        "id": "arxiv-z04jxexh",
+        "id": "arxiv-dumbo44i",
         "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
         "authors": "Borui Zhang, Bo Zhang, Bo Wang, Wenzhao Zheng, Yuhao Cheng,…",
         "journal": "arXiv preprint",
@@ -156,7 +177,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06664v1"
     },
     {
-        "id": "arxiv-h3ygycdl",
+        "id": "arxiv-wr4kdgsq",
         "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
         "authors": "Ryan Wang, Akshita Bhagia, Sewon Min",
         "journal": "arXiv preprint",
@@ -165,7 +186,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06663v1"
     },
     {
-        "id": "arxiv-94g1ne0u",
+        "id": "arxiv-qim88etp",
         "title": "Multi-Robot Coordination in V2X Environments",
         "authors": "John Pravin Arockiasamy, Alexey Vinel",
         "journal": "arXiv preprint",
@@ -174,7 +195,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06662v1"
     },
     {
-        "id": "arxiv-6vi66x8b",
+        "id": "arxiv-3itqugih",
         "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
         "authors": "Yuhang Lai, Jiazhan Feng, Yee Whye Teh, Ning Miao",
         "journal": "arXiv preprint",
@@ -186,7 +207,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-wgq47y09",
+        "id": "gh-aele4dnx",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.1k",
@@ -195,7 +216,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-ix4djfld",
+        "id": "gh-pn8fjlqt",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.4k",
@@ -204,34 +225,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-37lc1mso",
+        "id": "gh-rohqnc4w",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "147.8k",
+        "stars": "147.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-e3ymcqmw",
+        "id": "gh-st4b4w9w",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "138.2k",
+        "stars": "139.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-5obpqm2t",
+        "id": "gh-a05bwf23",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "99.7k",
+        "stars": "99.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-1l5mswl3",
+        "id": "gh-8azxlbms",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.8k",
@@ -240,10 +261,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-n3986csa",
+        "id": "gh-c596kxeg",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "111.9k",
+        "stars": "112.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
