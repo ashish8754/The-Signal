@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-09T08:00:57.048Z
-   Stories: 24 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-05-10T08:11:22.316Z
+   Stories: 18 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-edkwewbu",
+    "id": "rss-w3a7xsfa",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Parloa builds service agents customers want to talk to",
     "excerpt": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 86,
+    "relevance": 84,
     "url": "https://openai.com/index/parloa"
 },
 
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-edkwewbu",
+                "id": "rss-w3a7xsfa",
                 "title": "Parloa builds service agents customers want to talk to",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-abpirdl7",
-                "title": "Advancing voice intelligence with new models in the API",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-33kgt45x",
-                "title": "Running Codex safely at OpenAI",
-                "source": "OpenAI",
-                "time": "19h ago",
+                "time": "2d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-71s5cqoq",
-                "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+                "id": "rss-uorjnwu2",
+                "title": "Advancing voice intelligence with new models in the API",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-0kx5xt8i",
+                "title": "Running Codex safely at OpenAI",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-61fy4pse",
-                "title": "See what happens when creative legends use AI to make ads for small businesses.",
-                "source": "Google Blog",
-                "time": "17h ago",
-                "relevance": 79
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-08lblwki",
-                "title": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
-                "source": "MarkTechPost",
+                "id": "hn-48080702",
+                "title": "Gemini API File Search is now multimodal",
+                "source": "Hacker News",
                 "time": "4h ago",
-                "relevance": 82
+                "relevance": 81
             },
             {
-                "id": "rss-30sjb3yf",
-                "title": "How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-hroewlz9",
-                "title": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-b27a3cc0",
-                "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 68
+                "id": "rss-remrn4f1",
+                "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 79
             }
         ]
     },
@@ -124,25 +88,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-v6teubiu",
-                "title": "The “people’s airline” and the enterprise AI gold rush",
+                "id": "rss-v0shy9rl",
+                "title": "Nvidia has already committed $40B to equity AI deals this year",
                 "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 80
+                "time": "17h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-wflv6dxe",
+                "id": "rss-3gtk1abz",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
-            },
-            {
-                "id": "hn-48064312",
-                "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 69
             }
         ]
     }
@@ -150,7 +107,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-yw071zv4",
+        "id": "arxiv-qoy98atz",
         "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
         "authors": "Omar El Khalifi, Thomas Rossi, Oscar Fossey, Thibault…",
         "journal": "arXiv preprint",
@@ -159,7 +116,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06667v1"
     },
     {
-        "id": "arxiv-j1em3xw0",
+        "id": "arxiv-9593komp",
         "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
         "authors": "Minbin Huang, Han Shi, Chuanyang Zheng, Yimeng Wu, Guoxuan…",
         "journal": "arXiv preprint",
@@ -168,7 +125,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06665v1"
     },
     {
-        "id": "arxiv-dumbo44i",
+        "id": "arxiv-zvm9ec97",
         "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
         "authors": "Borui Zhang, Bo Zhang, Bo Wang, Wenzhao Zheng, Yuhao Cheng,…",
         "journal": "arXiv preprint",
@@ -177,7 +134,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06664v1"
     },
     {
-        "id": "arxiv-wr4kdgsq",
+        "id": "arxiv-zvnwpo00",
         "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
         "authors": "Ryan Wang, Akshita Bhagia, Sewon Min",
         "journal": "arXiv preprint",
@@ -186,7 +143,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06663v1"
     },
     {
-        "id": "arxiv-qim88etp",
+        "id": "arxiv-kf3m13hc",
         "title": "Multi-Robot Coordination in V2X Environments",
         "authors": "John Pravin Arockiasamy, Alexey Vinel",
         "journal": "arXiv preprint",
@@ -195,7 +152,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.06662v1"
     },
     {
-        "id": "arxiv-3itqugih",
+        "id": "arxiv-g5uxcbyr",
         "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
         "authors": "Yuhang Lai, Jiazhan Feng, Yee Whye Teh, Ning Miao",
         "journal": "arXiv preprint",
@@ -207,7 +164,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-aele4dnx",
+        "id": "gh-2c26nwhd",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.1k",
@@ -216,7 +173,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-pn8fjlqt",
+        "id": "gh-mtqdp7js",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.4k",
@@ -225,7 +182,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-rohqnc4w",
+        "id": "gh-qw0ds2b2",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "147.9k",
@@ -234,16 +191,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-st4b4w9w",
+        "id": "gh-16zd1m7o",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "139.8k",
+        "stars": "141.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-a05bwf23",
+        "id": "gh-tr46k5et",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.8k",
@@ -252,7 +209,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-8azxlbms",
+        "id": "gh-jvobshkj",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "162.8k",
@@ -261,10 +218,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-c596kxeg",
+        "id": "gh-hp8qwj3v",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "112.1k",
+        "stars": "112.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

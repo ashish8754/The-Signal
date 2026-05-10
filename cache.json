@@ -1,40 +1,220 @@
 {
   "stories": [
     {
-      "id": "rss-edkwewbu",
+      "id": "rss-w3a7xsfa",
       "title": "Parloa builds service agents customers want to talk to",
       "source": "OpenAI",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-05-07 11:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/parloa",
       "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "score": 85.88888888888889,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
+      "score": 83.88888888888889,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
     },
     {
-      "id": "rss-abpirdl7",
+      "id": "rss-uorjnwu2",
       "title": "Advancing voice intelligence with new models in the API",
       "source": "OpenAI",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-05-07 10:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "score": 85.88888888888889,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
+      "score": 83.88888888888889,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
     },
     {
-      "id": "rss-33kgt45x",
+      "id": "rss-v0shy9rl",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "source": "TechCrunch",
+      "time": "17h ago",
+      "rawDate": "2026-05-09 14:43:30",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "description": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "score": 83.45454545454545,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-0kx5xt8i",
       "title": "Running Codex safely at OpenAI",
       "source": "OpenAI",
-      "time": "19h ago",
+      "time": "1d ago",
       "rawDate": "2026-05-08 12:30:00",
       "topic": "llms",
       "url": "https://openai.com/index/running-codex-safely",
       "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "score": 84,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
+      "score": 81,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "hn-48080702",
+      "title": "Gemini API File Search is now multimodal",
+      "source": "Hacker News",
+      "time": "4h ago",
+      "rawDate": "2026-05-10T03:22:02.000Z",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "description": "",
+      "score": 80.57142857142857,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-lm59htgb",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "source": "TechCrunch",
+      "time": "6h ago",
+      "rawDate": "2026-05-10 02:00:00",
+      "topic": "multimodal",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "score": 79.53846153846153,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-remrn4f1",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-05-07 13:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "score": 79.44444444444444,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-haf5mv9w",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "source": "VentureBeat",
+      "time": "Jan 19",
+      "rawDate": "2026-01-19 14:00:00",
+      "topic": "llms",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
+      "score": 77.66666666666667,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-ugx9m7pv",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "source": "Google Blog",
+      "time": "1d ago",
+      "rawDate": "2026-05-08 15:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "description": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
+      "score": 76.42857142857143,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-wrzm5q64",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "source": "VentureBeat",
+      "time": "Jan 13",
+      "rawDate": "2026-01-13 13:00:00",
+      "topic": "llms",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
+      "score": 76,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-3gtk1abz",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "source": "VentureBeat",
+      "time": "Jan 22",
+      "rawDate": "2026-01-22 14:00:00",
+      "topic": "infra",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
+      "score": 74.63636363636364,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-aostpuv0",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-05-05 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "description": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "score": 74.17647058823529,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-oawczjvh",
+      "title": "5 gardening tips you can try right in Search",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-05-06 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "description": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+      "score": 73,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-ic6lhhi6",
+      "title": "The latest AI news we announced in April 2026",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-05-04 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "description": "Here are Google’s latest AI updates from April 2026",
+      "score": 73,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "rss-8ulhz3ms",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "source": "VentureBeat",
+      "time": "Jan 16",
+      "rawDate": "2026-01-16 14:01:00",
+      "topic": "opensource",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
+      "score": 72.42857142857143,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "hn-48076465",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-05-09T17:06:46.000Z",
+      "topic": "security",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "description": "",
+      "score": 68.66666666666667,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "hn-48071940",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-05-09T04:53:52.000Z",
+      "topic": "llms",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "description": "",
+      "score": 66.5,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
+    },
+    {
+      "id": "hn-48039249",
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-05-06T17:52:29.000Z",
+      "topic": "vision",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+      "description": "",
+      "score": 65.63636363636364,
+      "cachedAt": "2026-05-10T08:11:22.313Z"
     },
     {
       "id": "rss-08lblwki",
@@ -46,18 +226,6 @@
       "url": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
       "description": "If you have spent time using AI coding agents — GitHub Copilot, Claude Code, Gemini CLI — you have probably run into this situation: you describe what you want, the agent generates a block of code that looks correct, compiles, and then subtly misses the actual intent. This “vibe-coding” approach can work for quick prototypes […] The post Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents appeared first on MarkTechPost .",
       "score": 82.14285714285714,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-71s5cqoq",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-05-07 13:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "score": 81.44444444444444,
       "cachedAt": "2026-05-09T08:00:57.045Z"
     },
     {
@@ -97,18 +265,6 @@
       "cachedAt": "2026-05-09T08:00:57.045Z"
     },
     {
-      "id": "rss-61fy4pse",
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "source": "Google Blog",
-      "time": "17h ago",
-      "rawDate": "2026-05-08 15:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "description": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
-      "score": 79.42857142857143,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
       "id": "hn-48072720",
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
       "source": "Hacker News",
@@ -121,30 +277,6 @@
       "cachedAt": "2026-05-09T08:00:57.045Z"
     },
     {
-      "id": "rss-6qrz8j9l",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "source": "VentureBeat",
-      "time": "Jan 19",
-      "rawDate": "2026-01-19 14:00:00",
-      "topic": "llms",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the…",
-      "score": 77.66666666666667,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-5e249vp2",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "source": "VentureBeat",
-      "time": "Jan 13",
-      "rawDate": "2026-01-13 13:00:00",
-      "topic": "llms",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
-      "score": 76,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
       "id": "rss-30sjb3yf",
       "title": "How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery",
       "source": "MarkTechPost",
@@ -154,42 +286,6 @@
       "url": "https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/",
       "description": "In this tutorial, we perform an advanced single-cell RNA-seq analysis workflow using Scanpy on the PBMC-3k benchmark dataset. We start by loading the dataset, inspecting its structure, and applying quality control checks to evaluate gene counts, total counts, mitochondrial content, and ribosomal gene signals. We then filter low-quality cells and genes, detect potential doublets with […] The post How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation,…",
       "score": 74.70588235294117,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-wflv6dxe",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "source": "VentureBeat",
-      "time": "Jan 22",
-      "rawDate": "2026-01-22 14:00:00",
-      "topic": "infra",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant…",
-      "score": 74.63636363636364,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-6r6z5huj",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "source": "Hacker News",
-      "time": "3h ago",
-      "rawDate": "2026-05-09 04:53:52",
-      "topic": "llms",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "description": "Comments",
-      "score": 74.5,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-e72frj6t",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-05-05 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "description": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "score": 74.17647058823529,
       "cachedAt": "2026-05-09T08:00:57.045Z"
     },
     {
@@ -214,42 +310,6 @@
       "url": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
       "description": "OpenAI has shipped a Chrome extension for Codex, its AI coding agent, enabling it to complete browser-based tasks directly inside Google Chrome on macOS and Windows — including interacting with signed-in websites, using Chrome DevTools, and running multi-step workflows across browser tabs. The post OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions appeared first on MarkTechPost .",
       "score": 73,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-tnvy3qw2",
-      "title": "5 gardening tips you can try right in Search",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-05-06 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "description": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
-      "score": 73,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-tsh5y6em",
-      "title": "The latest AI news we announced in April 2026",
-      "source": "Google Blog",
-      "time": "4d ago",
-      "rawDate": "2026-05-04 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "description": "Here are Google’s latest AI updates from April 2026",
-      "score": 73,
-      "cachedAt": "2026-05-09T08:00:57.045Z"
-    },
-    {
-      "id": "rss-3koa1sgs",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "source": "VentureBeat",
-      "time": "Jan 16",
-      "rawDate": "2026-01-16 14:01:00",
-      "topic": "opensource",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin…",
-      "score": 72.42857142857143,
       "cachedAt": "2026-05-09T08:00:57.045Z"
     },
     {
@@ -947,102 +1007,6 @@
       "description": "",
       "score": 64,
       "cachedAt": "2026-05-04T08:34:31.617Z"
-    },
-    {
-      "id": "rss-k0myjjk2",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "source": "TechCrunch",
-      "time": "1d ago",
-      "rawDate": "2026-05-01 22:13:27",
-      "topic": "robotics",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "score": 81,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "rss-uvgqecsa",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "source": "TechCrunch",
-      "time": "1d ago",
-      "rawDate": "2026-05-01 23:06:50",
-      "topic": "space",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
-      "score": 79,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "hn-47993235",
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "source": "Hacker News",
-      "time": "3h ago",
-      "rawDate": "2026-05-03T04:05:28.000Z",
-      "topic": "llms",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "description": "",
-      "score": 77,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "hn-47992772",
-      "title": "Open source does not imply open community",
-      "source": "Hacker News",
-      "time": "5h ago",
-      "rawDate": "2026-05-03T02:36:09.000Z",
-      "topic": "opensource",
-      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-      "description": "",
-      "score": 74.85714285714286,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "hn-47990675",
-      "title": "The agent harness belongs outside the sandbox",
-      "source": "Hacker News",
-      "time": "10h ago",
-      "rawDate": "2026-05-02T21:21:27.000Z",
-      "topic": "agents",
-      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-      "description": "",
-      "score": 72.71428571428571,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "hn-47990789",
-      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-      "source": "Hacker News",
-      "time": "10h ago",
-      "rawDate": "2026-05-02T21:34:49.000Z",
-      "topic": "opensource",
-      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
-      "description": "",
-      "score": 69.22222222222223,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "hn-47972481",
-      "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-05-01T08:36:19.000Z",
-      "topic": "llms",
-      "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-      "description": "",
-      "score": 66,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
-    },
-    {
-      "id": "hn-47960015",
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-04-30T09:12:23.000Z",
-      "topic": "energy",
-      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "description": "",
-      "score": 63.81818181818182,
-      "cachedAt": "2026-05-03T08:04:53.701Z"
     }
   ]
 }
