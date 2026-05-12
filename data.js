@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-11T09:46:01.536Z
-   Stories: 24 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-05-12T08:44:32.029Z
+   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-c0ymj9r6",
+    "id": "rss-amhqj3yn",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "OpenAI Campus Network: Student club interest form",
     "excerpt": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
     "source": "OpenAI",
-    "time": "Just now",
+    "time": "22h ago",
     "readTime": "5 min read",
-    "relevance": 96,
+    "relevance": 86,
     "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
 },
 
@@ -45,68 +45,112 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-c0ymj9r6",
+                "id": "rss-amhqj3yn",
                 "title": "OpenAI Campus Network: Student club interest form",
                 "source": "OpenAI",
-                "time": "Just now",
-                "relevance": 96
+                "time": "22h ago",
+                "relevance": 86
             },
             {
-                "id": "rss-r188wygn",
+                "id": "rss-5ckj5xwv",
                 "title": "How enterprises are scaling AI",
                 "source": "OpenAI",
-                "time": "Just now",
-                "relevance": 94
+                "time": "22h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-t9jbyxv4",
-                "title": "The new AI-powered Google Finance is expanding to Europe.",
-                "source": "Google Blog",
-                "time": "3h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-da9g28pn",
-                "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-rld78e3e",
-                "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+                "id": "rss-1t0x4izx",
+                "title": "OpenAI launches DeployCo to help businesses build around intelligence",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 79
+                "time": "1d ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-alvpe4vk",
+                "title": "How ChatGPT adoption broadened in early 2026",
+                "source": "OpenAI",
+                "time": "17h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-drdekixo",
+                "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+                "source": "TechCrunch",
+                "time": "9h ago",
+                "relevance": 82
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-x0rnaphd",
-                "title": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs",
+                "id": "rss-226x7e47",
+                "title": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 83
+                "time": "Just now",
+                "relevance": 85
             },
             {
-                "id": "rss-b81satv7",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-ulrxnfgm",
+                "title": "How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-v3iqgaut",
+                "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 74
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-6cex4kq1",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "Jan 16",
+                "relevance": 72
             },
             {
-                "id": "rss-2eqcc9q0",
-                "title": "Hardware Attestation as Monopoly Enabler",
+                "id": "hn-48070676",
+                "title": "Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
                 "source": "Hacker News",
-                "time": "15h ago",
+                "time": "3d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "rss-yer224co",
+                "title": "Postmortem: TanStack NPM supply-chain compromise",
+                "source": "Hacker News",
+                "time": "11h ago",
                 "relevance": 71
+            },
+            {
+                "id": "hn-48099616",
+                "title": "Library for fast mapping of Java records to native memory",
+                "source": "Hacker News",
+                "time": "13h ago",
+                "relevance": 69
             }
         ]
     }
@@ -114,64 +158,64 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-3nhw47hf",
-        "title": "123D: Unifying Multi-Modal Autonomous Driving Data at Scale",
-        "authors": "Daniel Dauner, Valentin Charraut, Bastian Berle, Tianyu Li,…",
+        "id": "arxiv-egrwuv7o",
+        "title": "HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models",
+        "authors": "Qiuxuan Feng, Jiale Yu, Jiaming Liu, Yueru Jia, Zhuangzhe…",
         "journal": "arXiv preprint",
-        "abstract": "The pursuit of autonomous driving has produced one of the richest sensor data collections in all of robotics. However, its scale and diversity remain largely untapped. Each dataset adopts different 2D and 3D modalities, such as cameras, lidar, ego states, annotations, traffic lights, and HD maps, with different rates…",
+        "abstract": "World Action Models (WAMs) have emerged as a promising paradigm for robot control by modeling physical dynamics. Current WAMs generally follow two paradigms: the \"Imagine-then-Execute\" approach, which uses video prediction to infer actions via inverse dynamics, and the \"Joint Modeling\" approach, which jointly models…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2605.08084v1"
+        "url": "http://arxiv.org/abs/2605.10942v1"
     },
     {
-        "id": "arxiv-j6hsjj49",
-        "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
-        "authors": "Tong Zheng, Haolin Liu, Chengsong Huang, Huiwen Bao, Sheng…",
+        "id": "arxiv-jr6wgx0x",
+        "title": "ELF: Embedded Language Flows",
+        "authors": "Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li,…",
         "journal": "arXiv preprint",
-        "abstract": "Test-time scaling (TTS) has become an effective approach for improving large language model performance by allocating additional computation during inference. However, existing TTS strategies are largely hand-crafted: researchers manually design reasoning patterns and tune heuristics by intuition, leaving much of the…",
+        "abstract": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying them to language modeling. Unlike their image-domain counterparts, today's leading diffusion language models (DLMs)…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.08083v1"
+        "url": "http://arxiv.org/abs/2605.10938v1"
     },
     {
-        "id": "arxiv-0ornbjtx",
-        "title": "Normalizing Trajectory Models",
-        "authors": "Jiatao Gu, Tianrong Chen, Ying Shen, David Berthelot,…",
+        "id": "arxiv-ayivtgp3",
+        "title": "Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping",
+        "authors": "Haoyuan Sun, Jing Wang, Yuxin Song, Yu Lu, Bo Fang, Yifu…",
         "journal": "arXiv preprint",
-        "abstract": "Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice the likelihood…",
+        "abstract": "Recently, post-training methods based on reinforcement learning, with a particular focus on Group Relative Policy Optimization (GRPO), have emerged as the robust paradigm for further advancement of text-to-image (T2I) models. However, these methods are often prone to reward hacking, wherein models exploit biases in…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.08078v1"
+        "url": "http://arxiv.org/abs/2605.10937v1"
     },
     {
-        "id": "arxiv-556jezwb",
-        "title": "Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration",
-        "authors": "Shuhang Lin, Chuhao Zhou, Xiao Lin, Zihan Dong, Kuan Lu,…",
+        "id": "arxiv-p9unufir",
+        "title": "Personal Visual Context Learning in Large Multimodal Models",
+        "authors": "Zihui Xue, Ami Baid, Sangho Kim, Mi Luo, Kristen Grauman",
         "journal": "arXiv preprint",
-        "abstract": "Knowledge Graph Question Answering (KGQA) has shown promise for grounded and interpretable reasoning, yet existing approaches often fail to provide reliable coverage guarantees over retrieved answers. While Conformal Prediction (CP) offers a principled framework for producing prediction sets with statistical…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.08077v1"
+        "abstract": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal assistants hinges on visual personalization: the ability to reason over visual information unique to the wearer. We…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.10936v1"
     },
     {
-        "id": "arxiv-xx14dnow",
-        "title": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
-        "authors": "Maryam Maghsoudi, Shihab Shamma",
+        "id": "arxiv-78rrxrn9",
+        "title": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
+        "authors": "Yaman Kindap, Manfred Opper, Benjamin Dupuis, Umut…",
         "journal": "arXiv preprint",
-        "abstract": "Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labeled recordings during…",
+        "abstract": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide a natural mathematical framework for capturing jumps and heavy tails, Bayesian inference for Lévy-driven stochastic…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2605.08075v1"
+        "url": "http://arxiv.org/abs/2605.10934v1"
     },
     {
-        "id": "arxiv-8p9fvvzv",
-        "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
-        "authors": "Peyman Baghershahi, Fangxin Wang, Debmalya Mandal, Sourav…",
+        "id": "arxiv-ygbiwhz2",
+        "title": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices",
+        "authors": "Chenyang Song, Weilin Zhao, Xu Han, Chaojun Xiao, Yingfa…",
         "journal": "arXiv preprint",
-        "abstract": "Conformal prediction (CP) provides a distribution-free approach to uncertainty quantification with finite-sample guarantees. However, applying CP to graph neural networks (GNNs) remains challenging as the combinatorial nature of graphs often leads to insufficiently certain predictions and indiscriminative embeddings.…",
+        "abstract": "While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, which hinder efficient end-side deployment that simultaneously requires high performance, low computational cost, and…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2605.08074v1"
+        "url": "http://arxiv.org/abs/2605.10933v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-d8d388mn",
+        "id": "gh-fsybs79m",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.2k",
@@ -180,7 +224,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-1k0pyukx",
+        "id": "gh-zrbpkerx",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.5k",
@@ -189,7 +233,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-sjl5s1v0",
+        "id": "gh-cf5il10y",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.0k",
@@ -198,16 +242,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-y5gxlaw4",
+        "id": "gh-kx4pwv2m",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "143.5k",
+        "stars": "145.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-godcfuro",
+        "id": "gh-9nm7mlzf",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.8k",
@@ -216,19 +260,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-dxkhqlfu",
+        "id": "gh-8mkukfpg",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "162.8k",
+        "stars": "163.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-dhdtcv4i",
+        "id": "gh-qz2ee23h",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "112.4k",
+        "stars": "112.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
