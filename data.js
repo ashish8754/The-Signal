@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-12T08:44:32.029Z
-   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-05-13T08:48:27.689Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-amhqj3yn",
+    "id": "rss-gp9y44ci",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "excerpt": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "excerpt": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
     "source": "OpenAI",
-    "time": "22h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+    "relevance": 87,
+    "url": "https://openai.com/index/nvidia"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-amhqj3yn",
-                "title": "OpenAI Campus Network: Student club interest form",
-                "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-5ckj5xwv",
-                "title": "How enterprises are scaling AI",
-                "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-1t0x4izx",
-                "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+                "id": "rss-gp9y44ci",
+                "title": "How NVIDIA engineers and researchers build with Codex",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 84
+                "relevance": 87
             },
             {
-                "id": "rss-alvpe4vk",
-                "title": "How ChatGPT adoption broadened in early 2026",
+                "id": "rss-gy7g5lfy",
+                "title": "AutoScout24 scales engineering with AI-powered workflows",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-4gy8onhh",
+                "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 85
+            },
+            {
+                "id": "rss-xr4sj5hv",
+                "title": "What Parameter Golf taught us about AI-assisted research",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-5sagl3sh",
+                "title": "How finance teams use Codex",
                 "source": "OpenAI",
                 "time": "17h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-drdekixo",
-                "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 82
+                "relevance": 84
             }
         ]
     },
@@ -88,25 +88,18 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-226x7e47",
-                "title": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 85
-            },
-            {
-                "id": "rss-ulrxnfgm",
+                "id": "rss-hxfkh3ov",
                 "title": "How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics",
                 "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 77
+                "time": "1d ago",
+                "relevance": 74
             },
             {
-                "id": "rss-v3iqgaut",
-                "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
+                "id": "rss-k0ckqe2t",
+                "title": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
                 "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 74
+                "time": "1d ago",
+                "relevance": 72
             }
         ]
     },
@@ -117,39 +110,17 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-6cex4kq1",
+                "id": "rss-hcnb8rzu",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-48070676",
-                "title": "Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
+                "id": "hn-48109224",
+                "title": "Bambu Lab is abusing the open source social contract",
                 "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
-            }
-        ]
-    },
-    {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
-        "stories": [
-            {
-                "id": "rss-yer224co",
-                "title": "Postmortem: TanStack NPM supply-chain compromise",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 71
-            },
-            {
-                "id": "hn-48099616",
-                "title": "Library for fast mapping of Java records to native memory",
-                "source": "Hacker News",
-                "time": "13h ago",
+                "time": "17h ago",
                 "relevance": 69
             }
         ]
@@ -158,82 +129,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-egrwuv7o",
-        "title": "HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models",
-        "authors": "Qiuxuan Feng, Jiale Yu, Jiaming Liu, Yueru Jia, Zhuangzhe…",
+        "id": "arxiv-c8ah1nnj",
+        "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
+        "authors": "Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen,…",
         "journal": "arXiv preprint",
-        "abstract": "World Action Models (WAMs) have emerged as a promising paradigm for robot control by modeling physical dynamics. Current WAMs generally follow two paradigms: the \"Imagine-then-Execute\" approach, which uses video prediction to infer actions via inverse dynamics, and the \"Joint Modeling\" approach, which jointly models…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2605.10942v1"
-    },
-    {
-        "id": "arxiv-jr6wgx0x",
-        "title": "ELF: Embedded Language Flows",
-        "authors": "Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li,…",
-        "journal": "arXiv preprint",
-        "abstract": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying them to language modeling. Unlike their image-domain counterparts, today's leading diffusion language models (DLMs)…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.10938v1"
-    },
-    {
-        "id": "arxiv-ayivtgp3",
-        "title": "Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping",
-        "authors": "Haoyuan Sun, Jing Wang, Yuxin Song, Yu Lu, Bo Fang, Yifu…",
-        "journal": "arXiv preprint",
-        "abstract": "Recently, post-training methods based on reinforcement learning, with a particular focus on Group Relative Policy Optimization (GRPO), have emerged as the robust paradigm for further advancement of text-to-image (T2I) models. However, these methods are often prone to reward hacking, wherein models exploit biases in…",
+        "abstract": "Computer-use agents (CUAs) automate on-screen work, as illustrated by GPT-5.4 and Claude. Yet their reliability on complex, low-frequency interactions is still poor, limiting user trust. Our analysis of failure cases from advanced models suggests a long-tail pattern in GUI operations, where a relatively small fraction…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.10937v1"
+        "url": "http://arxiv.org/abs/2605.12501v1"
     },
     {
-        "id": "arxiv-p9unufir",
-        "title": "Personal Visual Context Learning in Large Multimodal Models",
-        "authors": "Zihui Xue, Ami Baid, Sangho Kim, Mi Luo, Kristen Grauman",
+        "id": "arxiv-zvh1g8qm",
+        "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+        "authors": "Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao…",
         "journal": "arXiv preprint",
-        "abstract": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal assistants hinges on visual personalization: the ability to reason over visual information unique to the wearer. We…",
+        "abstract": "Recent large vision-language models (VLMs) remain fundamentally constrained by a persistent dichotomy: understanding and generation are treated as distinct problems, leading to fragmented architectures, cascaded pipelines, and misaligned representation spaces. We argue that this divide is not merely an engineering…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.10936v1"
+        "url": "http://arxiv.org/abs/2605.12500v1"
     },
     {
-        "id": "arxiv-78rrxrn9",
-        "title": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
-        "authors": "Yaman Kindap, Manfred Opper, Benjamin Dupuis, Umut…",
+        "id": "arxiv-fkj7wjme",
+        "title": "EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera",
+        "authors": "Christen Millerdurai, Shaoxiang Wang, Yaxu Xie, Vladislav…",
         "journal": "arXiv preprint",
-        "abstract": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide a natural mathematical framework for capturing jumps and heavy tails, Bayesian inference for Lévy-driven stochastic…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2605.10934v1"
+        "abstract": "Reconstructing the absolute 3D pose and shape of the hands from the user's viewpoint using a single head-mounted camera is crucial for practical egocentric interaction in AR/VR, telepresence, and hand-centric manipulation tasks, where sensing must remain compact and unobtrusive. While monocular RGB methods have made…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.12498v1"
     },
     {
-        "id": "arxiv-ygbiwhz2",
-        "title": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices",
-        "authors": "Chenyang Song, Weilin Zhao, Xu Han, Chaojun Xiao, Yingfa…",
+        "id": "arxiv-ay0p4djh",
+        "title": "From Web to Pixels: Bringing Agentic Search into Visual Perception",
+        "authors": "Bokang Yang, Xinyi Sun, Kaituo Feng, Xingping Dong,…",
         "journal": "arXiv preprint",
-        "abstract": "While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, which hinder efficient end-side deployment that simultaneously requires high performance, low computational cost, and…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2605.10933v1"
+        "abstract": "Visual perception connects high-level semantic understanding to pixel-level perception, but most existing settings assume that the decisive evidence for identifying a target is already in the image or frozen model knowledge. We study a more practical yet harder open-world case where a visible object must first be…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.12497v1"
+    },
+    {
+        "id": "arxiv-qm9iuggu",
+        "title": "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives",
+        "authors": "Yihao Meng, Zichen Liu, Hao Ouyang, Qiuyu Wang, Ka Leong…",
+        "journal": "arXiv preprint",
+        "abstract": "Autoregressive video generation aims at real-time, open-ended synthesis. Yet, cinematic storytelling is not merely the endless extension of a single scene; it requires progressing through evolving events, viewpoint shifts, and discrete shot boundaries. Existing autoregressive models often struggle in this setting.…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.12496v1"
+    },
+    {
+        "id": "arxiv-jhvhugbu",
+        "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+        "authors": "Runhui Huang, Jie Wu, Rui Yang, Zhe Liu, Hengshuang Zhao",
+        "journal": "arXiv preprint",
+        "abstract": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.12495v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-fsybs79m",
+        "id": "gh-w68mzsam",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.2k",
+        "stars": "184.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-zrbpkerx",
+        "id": "gh-zvesm1on",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "160.5k",
+        "stars": "160.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-cf5il10y",
+        "id": "gh-jd68mka4",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.0k",
@@ -242,25 +213,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-kx4pwv2m",
+        "id": "gh-n6wcxcvq",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "145.8k",
+        "stars": "147.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-9nm7mlzf",
+        "id": "gh-p78a8x5c",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "99.8k",
+        "stars": "99.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-8mkukfpg",
+        "id": "gh-5vfj3qjk",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.0k",
@@ -269,10 +240,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-qz2ee23h",
+        "id": "gh-r9109n04",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "112.6k",
+        "stars": "112.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
