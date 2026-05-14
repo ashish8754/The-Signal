@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-13T08:48:27.689Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-05-14T08:41:48.412Z
+   Stories: 23 | Clusters: 2 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-gp9y44ci",
+    "id": "rss-117t0eqh",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "excerpt": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "excerpt": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/nvidia"
+    "relevance": 85,
+    "url": "https://openai.com/index/autoscout24"
 },
 
     topics: [
@@ -45,61 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-gp9y44ci",
-                "title": "How NVIDIA engineers and researchers build with Codex",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-gy7g5lfy",
+                "id": "rss-117t0eqh",
                 "title": "AutoScout24 scales engineering with AI-powered workflows",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-4gy8onhh",
-                "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
-                "source": "MarkTechPost",
-                "time": "Just now",
+                "time": "2d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-xr4sj5hv",
-                "title": "What Parameter Golf taught us about AI-assisted research",
+                "id": "rss-1dmj0srk",
+                "title": "Building a safe, effective sandbox to enable Codex on Windows",
+                "source": "OpenAI",
+                "time": "21h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-o61mv3q5",
+                "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
+                "source": "MarkTechPost",
+                "time": "2h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-rz3e5i8q",
+                "title": "Our response to the TanStack npm supply chain attack",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 85
+                "relevance": 81
             },
             {
-                "id": "rss-5sagl3sh",
+                "id": "rss-ssvlu4t2",
                 "title": "How finance teams use Codex",
                 "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 84
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-hxfkh3ov",
-                "title": "How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics",
-                "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-k0ckqe2t",
-                "title": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
+                "relevance": 81
             }
         ]
     },
@@ -110,18 +88,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-hcnb8rzu",
+                "id": "rss-vocavmmy",
+                "title": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-j9olbux9",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
-            },
-            {
-                "id": "hn-48109224",
-                "title": "Bambu Lab is abusing the open source social contract",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 69
             }
         ]
     }
@@ -129,64 +107,19 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-c8ah1nnj",
-        "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
-        "authors": "Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen,…",
-        "journal": "arXiv preprint",
-        "abstract": "Computer-use agents (CUAs) automate on-screen work, as illustrated by GPT-5.4 and Claude. Yet their reliability on complex, low-frequency interactions is still poor, limiting user trust. Our analysis of failure cases from advanced models suggests a long-tail pattern in GUI operations, where a relatively small fraction…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.12501v1"
-    },
-    {
-        "id": "arxiv-zvh1g8qm",
-        "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
-        "authors": "Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent large vision-language models (VLMs) remain fundamentally constrained by a persistent dichotomy: understanding and generation are treated as distinct problems, leading to fragmented architectures, cascaded pipelines, and misaligned representation spaces. We argue that this divide is not merely an engineering…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.12500v1"
-    },
-    {
-        "id": "arxiv-fkj7wjme",
-        "title": "EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera",
-        "authors": "Christen Millerdurai, Shaoxiang Wang, Yaxu Xie, Vladislav…",
-        "journal": "arXiv preprint",
-        "abstract": "Reconstructing the absolute 3D pose and shape of the hands from the user's viewpoint using a single head-mounted camera is crucial for practical egocentric interaction in AR/VR, telepresence, and hand-centric manipulation tasks, where sensing must remain compact and unobtrusive. While monocular RGB methods have made…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.12498v1"
-    },
-    {
-        "id": "arxiv-ay0p4djh",
-        "title": "From Web to Pixels: Bringing Agentic Search into Visual Perception",
-        "authors": "Bokang Yang, Xinyi Sun, Kaituo Feng, Xingping Dong,…",
-        "journal": "arXiv preprint",
-        "abstract": "Visual perception connects high-level semantic understanding to pixel-level perception, but most existing settings assume that the decisive evidence for identifying a target is already in the image or frozen model knowledge. We study a more practical yet harder open-world case where a visible object must first be…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.12497v1"
-    },
-    {
-        "id": "arxiv-qm9iuggu",
-        "title": "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives",
-        "authors": "Yihao Meng, Zichen Liu, Hao Ouyang, Qiuyu Wang, Ka Leong…",
-        "journal": "arXiv preprint",
-        "abstract": "Autoregressive video generation aims at real-time, open-ended synthesis. Yet, cinematic storytelling is not merely the endless extension of a single scene; it requires progressing through evolving events, viewpoint shifts, and discrete shot boundaries. Existing autoregressive models often struggle in this setting.…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.12496v1"
-    },
-    {
-        "id": "arxiv-jhvhugbu",
-        "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-        "authors": "Runhui Huang, Jie Wu, Rui Yang, Zhe Liu, Hengshuang Zhao",
-        "journal": "arXiv preprint",
-        "abstract": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.12495v1"
+        "id": "p-fallback",
+        "title": "Latest AI Research Papers",
+        "authors": "Various Authors",
+        "journal": "arXiv",
+        "abstract": "Check back tomorrow for fresh research highlights.",
+        "badge": "Research",
+        "url": "https://arxiv.org/list/cs.AI/recent"
     }
 ],
 
     repos: [
     {
-        "id": "gh-w68mzsam",
+        "id": "gh-llgakt73",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.3k",
@@ -195,7 +128,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-zvesm1on",
+        "id": "gh-u65oekij",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.6k",
@@ -204,25 +137,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-jd68mka4",
-        "name": "langflow-ai/langflow",
-        "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "148.0k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/langflow-ai/langflow"
-    },
-    {
-        "id": "gh-n6wcxcvq",
+        "id": "gh-lgytmx9m",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "147.6k",
+        "stars": "149.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-p78a8x5c",
+        "id": "gh-2kmbggsr",
+        "name": "langflow-ai/langflow",
+        "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+        "stars": "148.1k",
+        "lang": "Python",
+        "langColor": "#3572A5",
+        "url": "https://github.com/langflow-ai/langflow"
+    },
+    {
+        "id": "gh-rfq21i32",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "99.9k",
@@ -231,7 +164,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-5vfj3qjk",
+        "id": "gh-tw9bswpj",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.0k",
@@ -240,10 +173,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-r9109n04",
+        "id": "gh-qus73uly",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "112.7k",
+        "stars": "112.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
