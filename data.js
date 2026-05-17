@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-16T08:08:16.316Z
-   Stories: 20 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-05-17T08:24:54.839Z
+   Stories: 23 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-57c4ivz4",
+    "id": "rss-wn5rs10x",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
     "excerpt": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 87,
+    "relevance": 85,
     "url": "https://openai.com/index/databricks"
 },
 
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-57c4ivz4",
+                "id": "rss-wn5rs10x",
                 "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-x6gawznb",
+                "id": "rss-v6knjnl6",
+                "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-l9r1an7e",
+                "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-ww5pbx57",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
             },
             {
-                "id": "rss-gu1f4hej",
+                "id": "rss-tmjlposl",
                 "title": "The new AI-powered Google Finance is expanding to Europe.",
                 "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-yltzfi53",
-                "title": "How sales teams use Codex",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-yxvplvvs",
-                "title": "How business operations teams use Codex",
-                "source": "OpenAI",
-                "time": "1d ago",
+                "time": "6d ago",
                 "relevance": 77
             }
         ]
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-ofpfcf49",
-                "title": "NVIDIA Introduces SANA-WM: A 2.6B-Parameter Open-Source World Model That Generates Minute-Scale 720p Video on a Single GPU",
+                "id": "rss-wx92yo8x",
+                "title": "A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models",
                 "source": "MarkTechPost",
                 "time": "Just now",
-                "relevance": 86
+                "relevance": 85
             },
             {
-                "id": "rss-avy3l6hw",
-                "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
+                "id": "rss-0gl4yllm",
+                "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs",
                 "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 78
+                "time": "Just now",
+                "relevance": 84
             },
             {
-                "id": "rss-sycm9o9t",
-                "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
+                "id": "rss-0gzjrjtz",
+                "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
                 "source": "MarkTechPost",
-                "time": "23h ago",
-                "relevance": 77
+                "time": "14h ago",
+                "relevance": 72
             },
             {
-                "id": "rss-ymvnhp2m",
-                "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags",
+                "id": "rss-9d20f27d",
+                "title": "Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 73
+                "time": "10h ago",
+                "relevance": 70
             }
         ]
     }
@@ -121,7 +121,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-rd3mgbaj",
+        "id": "arxiv-jeexqkls",
         "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
         "authors": "Ruozhen He, Meng Wei, Ziyan Yang, Vicente Ordonez",
         "journal": "arXiv preprint",
@@ -130,7 +130,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.15199v1"
     },
     {
-        "id": "arxiv-eozt36nm",
+        "id": "arxiv-gomvigrr",
         "title": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
         "authors": "Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng",
         "journal": "arXiv preprint",
@@ -139,7 +139,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.15198v1"
     },
     {
-        "id": "arxiv-iigi0haz",
+        "id": "arxiv-b4wqyip8",
         "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
         "authors": "Xiang Fan, Yuheng Wang, Bohan Fang, Zhongzheng Ren, Ranjay…",
         "journal": "arXiv preprint",
@@ -148,7 +148,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.15196v1"
     },
     {
-        "id": "arxiv-w2325y3w",
+        "id": "arxiv-xg1vd26l",
         "title": "VGGT-$Ω$",
         "authors": "Jianyuan Wang, Minghao Chen, Shangzhan Zhang, Nikita…",
         "journal": "arXiv preprint",
@@ -157,7 +157,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.15195v1"
     },
     {
-        "id": "arxiv-hor86rit",
+        "id": "arxiv-7d70cyvu",
         "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
         "authors": "Tuna Han Salih Meral, Kaan Oktay, Hidir Yesiltepe, Adil…",
         "journal": "arXiv preprint",
@@ -166,7 +166,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.15193v1"
     },
     {
-        "id": "arxiv-n7r6oyh3",
+        "id": "arxiv-7qx73eyn",
         "title": "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO",
         "authors": "Yanzuo Lu, Ronglai Zuo, Jiankang Deng",
         "journal": "arXiv preprint",
@@ -178,52 +178,52 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-ujvlc0di",
+        "id": "gh-pdi9r2i6",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.3k",
+        "stars": "184.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-meomjkht",
+        "id": "gh-d4vtrcx0",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "160.6k",
+        "stars": "160.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-y4bcp2rs",
+        "id": "gh-l0g57wej",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "152.5k",
+        "stars": "153.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-r1xaxknc",
+        "id": "gh-jh9wixa9",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "148.2k",
+        "stars": "148.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-j1kanecp",
+        "id": "gh-ykce2qp8",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "99.9k",
+        "stars": "100.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-8wj5mhwg",
+        "id": "gh-0rackypz",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.1k",
@@ -232,10 +232,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-aimhmwnb",
+        "id": "gh-5yp1eb33",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "113.1k",
+        "stars": "113.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -244,28 +244,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-ugntrw9d",
-        "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-        "desc": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out…",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
+    },
+    {
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "TechCrunch"
+        "source": "SpaceNews"
     },
     {
-        "id": "ng-rss-avy3l6hw",
-        "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
-        "desc": "Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance.…",
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "MarkTechPost"
+        "source": "Reuters"
     },
     {
-        "id": "ng-hn-48156628",
-        "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-        "desc": "Click to read more about this development.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Hacker News"
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
