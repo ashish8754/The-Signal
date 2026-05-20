@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-19T09:51:44.410Z
-   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-05-20T09:39:53.497Z
+   Stories: 24 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-p5ie8t3a",
+    "id": "rss-f6ykykch",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "excerpt": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "title": "Introducing OpenAI for Singapore",
+    "excerpt": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
     "source": "OpenAI",
-    "time": "4d ago",
+    "time": "13h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/databricks"
+    "relevance": 90,
+    "url": "https://openai.com/index/introducing-openai-for-singapore"
 },
 
     topics: [
@@ -45,39 +45,68 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-p5ie8t3a",
-                "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+                "id": "rss-f6ykykch",
+                "title": "Introducing OpenAI for Singapore",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "13h ago",
+                "relevance": 90
             },
             {
-                "id": "rss-uod4gccb",
-                "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-                "source": "OpenAI",
-                "time": "23h ago",
+                "id": "rss-0rfbzjjq",
+                "title": "I/O 2026: Welcome to the agentic Gemini era",
+                "source": "Google Blog",
+                "time": "15h ago",
                 "relevance": 83
             },
             {
-                "id": "rss-coxbg5ij",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
+                "id": "rss-lqaa27x2",
+                "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-lzh3z970",
-                "title": "The new AI-powered Google Finance is expanding to Europe.",
+                "id": "rss-wwml85mb",
+                "title": "New ways to create and get things done in Google Workspace",
                 "source": "Google Blog",
-                "time": "May 11",
-                "relevance": 77
+                "time": "15h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-nwgrtt8o",
-                "title": "Stochastic Gradient Descent (SGD’s) Frequency Bias and How Adam Fixes It",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 77
+                "id": "rss-zsn58c1n",
+                "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 81
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-cyagz4y8",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48201316",
+                "title": "GitHub is investigating unauthorized access to their internal repositories",
+                "source": "Hacker News",
+                "time": "9h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-48172366",
+                "title": "Enabling Resizable Bar on RTX 3080 Vbios via GitHub",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 66
             }
         ]
     },
@@ -88,29 +117,15 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-ezulzkuk",
+                "id": "rss-x4ptyukz",
+                "title": "Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-7cptytz5",
                 "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
-                "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-gn6n54s3",
-                "title": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48185938",
-                "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-mzjyxo86",
-                "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 73
@@ -124,39 +139,17 @@ const NEWSLETTER_DATA = {
         "color": "#38bdf8",
         "stories": [
             {
-                "id": "hn-48189368",
-                "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+                "id": "hn-48203249",
+                "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
                 "source": "Hacker News",
                 "time": "4h ago",
-                "relevance": 77
+                "relevance": 75
             },
             {
-                "id": "hn-48182516",
-                "title": "Cursor Introduces Composer 2.5",
+                "id": "hn-48200569",
+                "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
                 "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-q6a4ur79",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
-            },
-            {
-                "id": "hn-48180204",
-                "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-                "source": "Hacker News",
-                "time": "19h ago",
+                "time": "11h ago",
                 "relevance": 69
             }
         ]
@@ -165,64 +158,19 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ymbms445",
-        "title": "Can These Views Be One Scene? Evaluating Multiview 3D Consistency when 3D Foundation Models Hallucinate",
-        "authors": "Soumava Paul, Prakhar Kaushik, Alan Yuille",
-        "journal": "arXiv preprint",
-        "abstract": "Multiview 3D evaluation assumes that the images being scored are observations of one static 3D scene. This assumption can fail in NVS and sparse-view reconstruction: inputs or generated outputs may contain artifacts, outlier frames, repeated views, or noise, yet still receive high 3D consistency scores. Existing…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.18754v1"
-    },
-    {
-        "id": "arxiv-8amwajfe",
-        "title": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
-        "authors": "Yuxiang Huang, Nuno M. T. Gonçalves, Federico Alvetreti,…",
-        "journal": "arXiv preprint",
-        "abstract": "Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention on the selected tokens. However, the top-k operation assumes the number of relevant tokens for any query is fixed and…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.18753v1"
-    },
-    {
-        "id": "arxiv-5qyqpdn6",
-        "title": "A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability",
-        "authors": "Ruitao Liu, Xinyang Tian, Shuo Chen, Tingrui Zhang, Guang…",
-        "journal": "arXiv preprint",
-        "abstract": "Pipeline parallelism is a key technique for scaling large-model training, but modern workloads exhibit runtime variability in computation and communication. Existing pipeline systems typically consume static, profiled, or adaptively generated schedules as pre-committed execution orders. When realized task readiness…",
+        "id": "p-fallback",
+        "title": "Latest AI Research Papers",
+        "authors": "Various Authors",
+        "journal": "arXiv",
+        "abstract": "Check back tomorrow for fresh research highlights.",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2605.18750v1"
-    },
-    {
-        "id": "arxiv-wpoc1dlk",
-        "title": "WavFlow: Audio Generation in Waveform Space",
-        "authors": "Feiyan Zhou, Luyuan Wang, Shoufa Chen, Zhe Wang, Zhiheng…",
-        "journal": "arXiv preprint",
-        "abstract": "Modern audio generation predominantly relies on latent-space compression, introducing additional complexity and potential information loss. In this work, we challenge this paradigm with WavFlow, a framework that generates high-fidelity audio directly in raw waveform space without intermediate representations. To…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2605.18749v1"
-    },
-    {
-        "id": "arxiv-1np7tp31",
-        "title": "Aurora: Unified Video Editing with a Tool-Using Agent",
-        "authors": "Yongsheng Yu, Ziyun Zeng, Zhiyuan Xiao, Zhenghong Zhou,…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent video editing models have converged on a unified conditioning design: a single diffusion transformer jointly consumes text, source video, and reference images, and one set of weights covers replacement, removal, style transfer, and reference-driven insertion. The design is flexible, but it assumes that the user…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.18748v1"
-    },
-    {
-        "id": "arxiv-xv1fx5e0",
-        "title": "Code as Agent Harness",
-        "authors": "Xuying Ning, Katherine Tieu, Dongqi Fu, Tianxin Wei, Zihao…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agentic systems, code is no longer only a target output. It increasingly serves as an operational substrate for agent…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.18747v1"
+        "url": "https://arxiv.org/list/cs.AI/recent"
     }
 ],
 
     repos: [
     {
-        "id": "gh-2uz5gaoi",
+        "id": "gh-7g80gr2y",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.4k",
@@ -231,7 +179,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-3x3c9jir",
+        "id": "gh-uppebvei",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.8k",
@@ -240,25 +188,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zv0fb81v",
+        "id": "gh-kqc9g1n6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "157.2k",
+        "stars": "158.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-rw29mhu6",
+        "id": "gh-swk8q10d",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "148.5k",
+        "stars": "148.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-1phsj2ec",
+        "id": "gh-172aexjq",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.0k",
@@ -267,19 +215,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ch2g4omj",
+        "id": "gh-ywlzo6de",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "163.1k",
+        "stars": "163.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-hqhqc3d3",
+        "id": "gh-9s9l9c44",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "113.5k",
+        "stars": "113.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
