@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-20T09:39:53.497Z
-   Stories: 24 | Clusters: 4 | Papers: 0 | Repos: 7
+   Updated: 2026-05-21T09:47:29.875Z
+   Stories: 20 | Clusters: 5 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-f6ykykch",
+    "id": "rss-40o96o1t",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing OpenAI for Singapore",
     "excerpt": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
     "source": "OpenAI",
-    "time": "13h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 90,
+    "relevance": 87,
     "url": "https://openai.com/index/introducing-openai-for-singapore"
 },
 
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-f6ykykch",
+                "id": "rss-40o96o1t",
                 "title": "Introducing OpenAI for Singapore",
                 "source": "OpenAI",
-                "time": "13h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-0rfbzjjq",
-                "title": "I/O 2026: Welcome to the agentic Gemini era",
+                "id": "rss-mkzsxnk3",
+                "title": "100 things we announced at I/O 2026",
                 "source": "Google Blog",
-                "time": "15h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-lqaa27x2",
-                "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-                "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-wwml85mb",
-                "title": "New ways to create and get things done in Google Workspace",
-                "source": "Google Blog",
-                "time": "15h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-zsn58c1n",
-                "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-                "source": "TechCrunch",
-                "time": "12h ago",
+                "time": "14h ago",
                 "relevance": 81
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-cyagz4y8",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
             },
             {
-                "id": "hn-48201316",
-                "title": "GitHub is investigating unauthorized access to their internal repositories",
-                "source": "Hacker News",
-                "time": "9h ago",
-                "relevance": 69
+                "id": "rss-j6jfjups",
+                "title": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B",
+                "source": "MarkTechPost",
+                "time": "23h ago",
+                "relevance": 80
             },
             {
-                "id": "hn-48172366",
-                "title": "Enabling Resizable Bar on RTX 3080 Vbios via GitHub",
+                "id": "rss-fm6r5j11",
+                "title": "How Ramp engineers accelerate code review with Codex",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
+            },
+            {
+                "id": "hn-48219682",
+                "title": "The famous O3 \"GeoGuessr\" prompt did not work",
                 "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 66
+                "time": "Just now",
+                "relevance": 80
             }
         ]
     },
@@ -117,40 +88,91 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-x4ptyukz",
-                "title": "Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support",
+                "id": "rss-togjyznq",
+                "title": "What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026",
                 "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 78
+                "time": "4h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-7cptytz5",
-                "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
+                "id": "rss-r6t8nqfn",
+                "title": "How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "15h ago",
                 "relevance": 73
+            },
+            {
+                "id": "rss-kak43hbv",
+                "title": "Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google’s TurboQuant Algorithm",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 71
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-48203249",
-                "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-                "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 75
+                "id": "rss-633s6lrx",
+                "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+                "source": "TechCrunch",
+                "time": "9h ago",
+                "relevance": 83
             },
             {
-                "id": "hn-48200569",
-                "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-                "source": "Hacker News",
+                "id": "rss-06kl9vi2",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-1gweq2yh",
+                "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+                "source": "TechCrunch",
                 "time": "11h ago",
-                "relevance": 69
+                "relevance": 82
+            },
+            {
+                "id": "rss-l08yxdu8",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "1d ago",
+                "relevance": 74
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-btz82ox1",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "rss-cwg0xgsb",
+                "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+                "source": "Hacker News",
+                "time": "20h ago",
+                "relevance": 71
             }
         ]
     }
@@ -170,7 +192,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-7g80gr2y",
+        "id": "gh-htpe5obh",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.4k",
@@ -179,7 +201,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-uppebvei",
+        "id": "gh-u2hi867v",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.8k",
@@ -188,16 +210,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-kqc9g1n6",
+        "id": "gh-vexgswm2",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "158.7k",
+        "stars": "160.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-swk8q10d",
+        "id": "gh-328s65zq",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.6k",
@@ -206,7 +228,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-172aexjq",
+        "id": "gh-3qu0gaq9",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.0k",
@@ -215,7 +237,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ywlzo6de",
+        "id": "gh-6ba4ng66",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.2k",
@@ -224,10 +246,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-9s9l9c44",
+        "id": "gh-rex0lgdc",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "113.7k",
+        "stars": "113.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
