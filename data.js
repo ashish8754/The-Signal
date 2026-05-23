@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-22T09:32:16.876Z
-   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-05-23T08:23:42.322Z
+   Stories: 25 | Clusters: 6 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ou9n2thw",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "excerpt": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "source": "OpenAI",
-    "time": "21h ago",
+    "id": "rss-uwu6579l",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+    "excerpt": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the…",
+    "source": "TechCrunch",
+    "time": "14h ago",
     "readTime": "5 min read",
     "relevance": 87,
-    "url": "https://openai.com/index/adventhealth"
+    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ou9n2thw",
+                "id": "rss-qjt84s3v",
                 "title": "AdventHealth advances whole-person care with OpenAI",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-txqej1m2",
-                "title": "Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 85
-            },
-            {
-                "id": "rss-6298rzkq",
-                "title": "100 things we announced at I/O 2026",
-                "source": "Google Blog",
                 "time": "1d ago",
-                "relevance": 78
+                "relevance": 84
             },
             {
-                "id": "rss-zrna21zj",
+                "id": "rss-mpru830u",
+                "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+                "source": "Google Blog",
+                "time": "14h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-4k4ngrbs",
+                "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-eff13jom",
+                "title": "How Virgin Atlantic ships faster with Codex",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-gaizlq8s",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
-                "relevance": 78
-            },
-            {
-                "id": "rss-agmju7v0",
-                "title": "How Ramp engineers accelerate code review with Codex",
-                "source": "OpenAI",
-                "time": "2d ago",
                 "relevance": 78
             }
         ]
@@ -88,69 +88,18 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-1nlhxize",
+                "id": "rss-756519af",
+                "title": "Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 88
+            },
+            {
+                "id": "rss-qjb7qe77",
                 "title": "Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-ku3mrn7x",
-                "title": "Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 76
-            },
-            {
-                "id": "hn-48227923",
-                "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-                "source": "Hacker News",
-                "time": "13h ago",
-                "relevance": 74
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-05c063ux",
-                "title": "Qwen Introduces Qwen3.7-Max: A Reasoning Agent Model With a 1M-Token Context Window",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-qyyw6xan",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "2d ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-3ctwudl5",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48184402",
-                "title": "Was my $48K GPU server worth it?",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
+                "time": "1d ago",
+                "relevance": 73
             }
         ]
     },
@@ -161,18 +110,84 @@ const NEWSLETTER_DATA = {
         "color": "#8b949e",
         "stories": [
             {
-                "id": "hn-48225040",
-                "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+                "id": "rss-uwu6579l",
+                "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 87
+            },
+            {
+                "id": "hn-48236770",
+                "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
                 "source": "Hacker News",
                 "time": "17h ago",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-bko4t6pz",
+                "title": "Qwen Introduces Qwen3.7-Max: A Reasoning Agent Model With a 1M-Token Context Window",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-5v7pkn4i",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "3d ago",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-upli16a5",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48239413",
+                "title": "Open source Kanban desktop app that runs parallel agents on every card",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48240679",
+                "title": "Staged publishing and new install-time controls for npm",
+                "source": "Hacker News",
+                "time": "12h ago",
                 "relevance": 70
             },
             {
-                "id": "rss-d0npx4k8",
-                "title": "The surprising story behind the first British person in space",
+                "id": "hn-48207043",
+                "title": "Sp.h is the standard library that C deserves",
                 "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
+                "time": "2d ago",
+                "relevance": 65
             }
         ]
     }
@@ -180,7 +195,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-74jo7ue3",
+        "id": "arxiv-29jcp5g2",
         "title": "Tokenisation via Convex Relaxations",
         "authors": "Jan Tempus, Philip Whittington, Craig W. Schmidt, Dennis…",
         "journal": "arXiv preprint",
@@ -189,7 +204,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.22821v1"
     },
     {
-        "id": "arxiv-e49wkdcn",
+        "id": "arxiv-nbutjlzx",
         "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
         "authors": "Jongseo Lee, Hyuntak Lee, Sunghun Kim, Sooa Kim, Jihoon…",
         "journal": "arXiv preprint",
@@ -198,7 +213,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.22823v1"
     },
     {
-        "id": "arxiv-k6x8j8ah",
+        "id": "arxiv-72hpaxsm",
         "title": "Integrable Elasticity via Neural Demand Potentials",
         "authors": "Carlos Heredia, Daniel Roncel",
         "journal": "arXiv preprint",
@@ -207,7 +222,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.22820v1"
     },
     {
-        "id": "arxiv-j8ak0su8",
+        "id": "arxiv-2q43x48h",
         "title": "Cambrian-P: Pose-Grounded Video Understanding",
         "authors": "Jihan Yang, Zifan Zhao, Xichen Pan, Shusheng Yang, Junyi…",
         "journal": "arXiv preprint",
@@ -216,7 +231,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.22819v1"
     },
     {
-        "id": "arxiv-3z8oln2b",
+        "id": "arxiv-66dt9tsq",
         "title": "MotiMotion: Motion-Controlled Video Generation with Visual Reasoning",
         "authors": "Lee Hsin-Ying, Hanwen Jiang, Yiqun Mei, Jing Shi,…",
         "journal": "arXiv preprint",
@@ -225,7 +240,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.22818v1"
     },
     {
-        "id": "arxiv-v5u0vgon",
+        "id": "arxiv-127gwc1l",
         "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
         "authors": "Ryan Bahlous-Boldi, Isha Puri, Idan Shenfeld, Akarsh Kumar,…",
         "journal": "arXiv preprint",
@@ -237,25 +252,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-gngwu01u",
+        "id": "gh-oys4yqio",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.4k",
+        "stars": "184.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-bgs0b8iq",
+        "id": "gh-70moqxyd",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "162.3k",
+        "stars": "163.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-g6mekplp",
+        "id": "gh-nzjfysld",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.7k",
@@ -264,7 +279,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-1f8ctdjn",
+        "id": "gh-6tsq0gl4",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.9k",
@@ -273,7 +288,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-3ay9d09v",
+        "id": "gh-ubw5b7xq",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.1k",
@@ -282,7 +297,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-g43yg7zn",
+        "id": "gh-0i7dsfav",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.2k",
@@ -291,10 +306,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-pawcnj42",
+        "id": "gh-1370noak",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "114.0k",
+        "stars": "114.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
