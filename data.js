@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-24T08:33:09.189Z
-   Stories: 17 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-05-25T10:13:48.456Z
+   Stories: 23 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-vxhy5v13",
+    "id": "rss-w5buvmh2",
     "topic": "Artificial Intelligence",
     "topicId": "space",
     "title": "Elon Musk has given up on solar power (on Earth)",
     "excerpt": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
     "source": "TechCrunch",
-    "time": "19h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 88,
+    "relevance": 85,
     "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/"
 },
 
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-fppb08ll",
+                "id": "rss-ofd5qh7y",
                 "title": "AdventHealth advances whole-person care with OpenAI",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-r4q1gpvn",
-                "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-                "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-dg13odyc",
+                "id": "rss-dntf4x21",
                 "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-p8fzjko1",
+                "id": "rss-h1oqpbfv",
                 "title": "How Virgin Atlantic ships faster with Codex",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-9u72n6qh",
+                "id": "rss-f9f7ird8",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
+            },
+            {
+                "id": "rss-x8mctbkm",
+                "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+                "source": "Google Blog",
+                "time": "2d ago",
+                "relevance": 77
             }
         ]
     },
@@ -88,32 +88,76 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-7hn3cemu",
-                "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
+                "id": "rss-w5xtklaj",
+                "title": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 84
+                "time": "11h ago",
+                "relevance": 79
             },
             {
-                "id": "rss-txmjifr0",
-                "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
+                "id": "rss-n0jgqphk",
+                "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
                 "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 78
+                "time": "2h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-k66uv1yb",
-                "title": "Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints",
+                "id": "rss-ms6ivoix",
+                "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "11h ago",
                 "relevance": 75
             },
             {
-                "id": "rss-ih3ivba4",
-                "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
+                "id": "rss-fbx2zmse",
+                "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4’s 33.5%",
                 "source": "MarkTechPost",
-                "time": "22h ago",
-                "relevance": 74
+                "time": "1d ago",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-w7shilh0",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48258684",
+                "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+                "source": "Hacker News",
+                "time": "17h ago",
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-luagee9a",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "5d ago",
+                "relevance": 72
+            },
+            {
+                "id": "rss-cmh32nom",
+                "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+                "source": "Hacker News",
+                "time": "21h ago",
+                "relevance": 69
             }
         ]
     }
@@ -121,64 +165,19 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ft2ynhc4",
-        "title": "Tokenisation via Convex Relaxations",
-        "authors": "Jan Tempus, Philip Whittington, Craig W. Schmidt, Dennis…",
-        "journal": "arXiv preprint",
-        "abstract": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear program and solve it using…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.22821v1"
-    },
-    {
-        "id": "arxiv-ajsulosv",
-        "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
-        "authors": "Jongseo Lee, Hyuntak Lee, Sunghun Kim, Sooa Kim, Jihoon…",
-        "journal": "arXiv preprint",
-        "abstract": "Video Large Language Models (Video-LLMs) have made rapid progress on temporal video understanding, yet many fail at a basic perceptual primitive: signed image-plane motion direction. On simple videos of a single object moving left, right, up, or down, most Video-LLMs perform near chance, with above-chance cases…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.22823v1"
-    },
-    {
-        "id": "arxiv-mns6z289",
-        "title": "Integrable Elasticity via Neural Demand Potentials",
-        "authors": "Carlos Heredia, Daniel Roncel",
-        "journal": "arXiv preprint",
-        "abstract": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of log-prices, allowing elasticities to be derived exactly from the learned demand surface. On the Dominick's beer…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2605.22820v1"
-    },
-    {
-        "id": "arxiv-etjytbmg",
-        "title": "Cambrian-P: Pose-Grounded Video Understanding",
-        "authors": "Jihan Yang, Zifan Zhao, Xichen Pan, Shusheng Yang, Junyi…",
-        "journal": "arXiv preprint",
-        "abstract": "Camera pose matters. The position and orientation of each viewpoint define a shared spatial coordinate frame that relates observations across video frames. Yet this signal is largely absent from multimodal LLMs (MLLMs) for video understanding, which process frames as isolated 2D snapshots, instead of the persistent…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.22819v1"
-    },
-    {
-        "id": "arxiv-uk7m824q",
-        "title": "MotiMotion: Motion-Controlled Video Generation with Visual Reasoning",
-        "authors": "Lee Hsin-Ying, Hanwen Jiang, Yiqun Mei, Jing Shi,…",
-        "journal": "arXiv preprint",
-        "abstract": "Current motion-controlled image-to-video generation models rigidly follow user-provided trajectories that are often sparse, imprecise, and causally incomplete. Such reliance often yields unnatural or implausible outcomes, especially by missing secondary causal consequences. To address this, we introduce MotiMotion, a…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.22818v1"
-    },
-    {
-        "id": "arxiv-xqxxl9tm",
-        "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-        "authors": "Ryan Bahlous-Boldi, Isha Puri, Idan Shenfeld, Akarsh Kumar,…",
-        "journal": "arXiv preprint",
-        "abstract": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward,…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2605.22817v1"
+        "id": "p-fallback",
+        "title": "Latest AI Research Papers",
+        "authors": "Various Authors",
+        "journal": "arXiv",
+        "abstract": "Check back tomorrow for fresh research highlights.",
+        "badge": "Research",
+        "url": "https://arxiv.org/list/cs.AI/recent"
     }
 ],
 
     repos: [
     {
-        "id": "gh-fqp9l9bc",
+        "id": "gh-oh8judvl",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.5k",
@@ -187,16 +186,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-30tntc08",
+        "id": "gh-dibdw8m0",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "164.8k",
+        "stars": "166.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-n48htfn9",
+        "id": "gh-5xaa56jf",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.7k",
@@ -205,7 +204,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-vo8h8xcs",
+        "id": "gh-ch5z68jt",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.9k",
@@ -214,16 +213,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-8tkahl7z",
+        "id": "gh-dvu08ejr",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "100.1k",
+        "stars": "100.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-n5f0xc5n",
+        "id": "gh-pz6cvjpx",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.3k",
@@ -232,10 +231,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-cejuadic",
+        "id": "gh-f2id52lc",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "114.2k",
+        "stars": "114.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -244,28 +243,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-vxhy5v13",
-        "title": "Elon Musk has given up on solar power (on Earth)",
-        "desc": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
-    },
-    {
-        "id": "ng-rss-r4q1gpvn",
-        "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-        "desc": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
         "tag": "Quantum",
         "tagClass": "quantum",
-        "source": "Google Blog"
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-txmjifr0",
-        "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
-        "desc": "Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which…",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "MarkTechPost"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
