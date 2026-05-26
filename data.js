@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-25T10:13:48.456Z
-   Stories: 23 | Clusters: 4 | Papers: 0 | Repos: 7
+   Updated: 2026-05-26T10:01:53.836Z
+   Stories: 19 | Clusters: 2 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-w5buvmh2",
-    "topic": "Artificial Intelligence",
-    "topicId": "space",
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "excerpt": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-    "source": "TechCrunch",
-    "time": "1d ago",
+    "id": "rss-lc39otnk",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "excerpt": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "source": "OpenAI",
+    "time": "4d ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/"
+    "relevance": 82,
+    "url": "https://openai.com/index/adventhealth"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ofd5qh7y",
+                "id": "rss-lc39otnk",
                 "title": "AdventHealth advances whole-person care with OpenAI",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-dntf4x21",
-                "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+                "id": "rss-0felwlmr",
+                "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "1d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-h1oqpbfv",
+                "id": "rss-66ud6571",
+                "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+                "source": "OpenAI",
+                "time": "4d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-0mxrgcp5",
                 "title": "How Virgin Atlantic ships faster with Codex",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-f9f7ird8",
+                "id": "rss-nh833tdr",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
-            },
-            {
-                "id": "rss-x8mctbkm",
-                "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-                "source": "Google Blog",
-                "time": "2d ago",
-                "relevance": 77
             }
         ]
     },
@@ -88,76 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-w5xtklaj",
-                "title": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-n0jgqphk",
-                "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
+                "id": "rss-fzvascww",
+                "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
                 "source": "MarkTechPost",
                 "time": "2h ago",
-                "relevance": 77
+                "relevance": 85
             },
             {
-                "id": "rss-ms6ivoix",
-                "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
+                "id": "rss-ppg55zpc",
+                "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
                 "source": "MarkTechPost",
-                "time": "11h ago",
+                "time": "23h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-hchnl3hj",
+                "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
+                "source": "MarkTechPost",
+                "time": "12h ago",
                 "relevance": 75
             },
             {
-                "id": "rss-fbx2zmse",
-                "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4’s 33.5%",
+                "id": "rss-radfx421",
+                "title": "Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-w7shilh0",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
+                "time": "13h ago",
                 "relevance": 75
-            },
-            {
-                "id": "hn-48258684",
-                "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 71
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-luagee9a",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "5d ago",
-                "relevance": 72
-            },
-            {
-                "id": "rss-cmh32nom",
-                "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-                "source": "Hacker News",
-                "time": "21h ago",
-                "relevance": 69
             }
         ]
     }
@@ -177,34 +133,34 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-oh8judvl",
+        "id": "gh-zt5s6cny",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.5k",
+        "stars": "184.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-dibdw8m0",
+        "id": "gh-c8x72g0l",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "166.4k",
+        "stars": "167.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-5xaa56jf",
+        "id": "gh-h5v94ckc",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "148.7k",
+        "stars": "148.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-ch5z68jt",
+        "id": "gh-1lnxx57r",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "160.9k",
@@ -213,7 +169,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-dvu08ejr",
+        "id": "gh-ml7ink19",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.2k",
@@ -222,7 +178,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-pz6cvjpx",
+        "id": "gh-0trf1f41",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.3k",
@@ -231,10 +187,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-f2id52lc",
+        "id": "gh-0x5vlqcy",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "114.4k",
+        "stars": "114.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
