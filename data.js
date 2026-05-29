@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-28T10:07:59.327Z
-   Stories: 20 | Clusters: 3 | Papers: 0 | Repos: 7
+   Updated: 2026-05-29T09:58:39.409Z
+   Stories: 24 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-o9vichgh",
+    "id": "rss-2hvodxjk",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
     "source": "OpenAI",
     "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://openai.com/index/warp"
+    "relevance": 87,
+    "url": "https://openai.com/index/openai-frontier-governance-framework"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-o9vichgh",
-                "title": "Warp’s big bet on building open source with GPT-5.5",
+                "id": "rss-2hvodxjk",
+                "title": "OpenAI’s Frontier Governance Framework",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-ytepzcnd",
+                "title": "MUFG aims to become AI-native with OpenAI",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 86
             },
             {
-                "id": "rss-ll7fbwes",
-                "title": "Building self-improving tax agents with Codex",
+                "id": "rss-xkesft4v",
+                "title": "How Endava builds an agentic organization with Codex",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
+                "time": "21h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-pi9kqvbk",
-                "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-                "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 80
+                "id": "rss-ro7eiiju",
+                "title": "Catch up on 12 major I/O 2026 moments",
+                "source": "Google Blog",
+                "time": "18h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-q3wj5hdq",
+                "id": "rss-v8exofw4",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
-            },
-            {
-                "id": "rss-lt3ktq68",
-                "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-                "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 77
             }
         ]
     },
@@ -88,54 +88,83 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-qbe4g63t",
-                "title": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
+                "id": "rss-agaf7emp",
+                "title": "Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 83
-            },
-            {
-                "id": "rss-t4fe03a8",
-                "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
-                "source": "MarkTechPost",
-                "time": "2h ago",
+                "time": "1h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-2qupjyf2",
-                "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+                "id": "rss-x4n833qz",
+                "title": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
                 "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-l7pf3w5g",
-                "title": "Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules",
-                "source": "MarkTechPost",
-                "time": "9h ago",
+                "time": "11h ago",
                 "relevance": 74
+            },
+            {
+                "id": "rss-iuyycy5t",
+                "title": "Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters",
+                "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-ql9rf2vz",
+                "title": "How to Design an End-to-End Ansible Automation Lab with Playbooks, Inventories, Roles, Vault, Dynamic Inventory, and Custom Modules",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 71
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-d8mkcuok",
-                "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+                "id": "rss-cgmk4ga3",
+                "title": "Asana acquires no-code agent-builder StackAI",
                 "source": "TechCrunch",
                 "time": "13h ago",
-                "relevance": 83
+                "relevance": 86
             },
             {
-                "id": "rss-6oy7e4lm",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-tyy6acz4",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48308376",
+                "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+                "source": "Hacker News",
+                "time": "20h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-ab28dm6f",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48315968",
+                "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 71
             }
         ]
     }
@@ -155,7 +184,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-kqtbdtco",
+        "id": "gh-jceq3ul1",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.6k",
@@ -164,25 +193,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-kfgcizea",
+        "id": "gh-sm15gize",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "170.9k",
+        "stars": "172.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-p2o8ln29",
+        "id": "gh-2jaubjp5",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "148.8k",
+        "stars": "148.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-15uwf3hu",
+        "id": "gh-oyuvrnd5",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.0k",
@@ -191,16 +220,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-cqd4kvov",
+        "id": "gh-8eoxruij",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "100.2k",
+        "stars": "100.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-qffj46x8",
+        "id": "gh-x9ivxp5v",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.3k",
@@ -209,10 +238,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-4g55hgag",
+        "id": "gh-xxgh9ovg",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "114.7k",
+        "stars": "114.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
