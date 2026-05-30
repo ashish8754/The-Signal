@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-29T09:58:39.409Z
-   Stories: 24 | Clusters: 4 | Papers: 0 | Repos: 7
+   Updated: 2026-05-30T08:32:02.900Z
+   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-2hvodxjk",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "OpenAI’s Frontier Governance Framework",
-    "excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-    "source": "OpenAI",
-    "time": "1d ago",
+    "id": "rss-1ywmokb8",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "excerpt": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "source": "TechCrunch",
+    "time": "15h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/openai-frontier-governance-framework"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-2hvodxjk",
-                "title": "OpenAI’s Frontier Governance Framework",
+                "id": "rss-on5o2nny",
+                "title": "Strengthening societal resilience with Rosalind Biodefense",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 87
             },
             {
-                "id": "rss-ytepzcnd",
-                "title": "MUFG aims to become AI-native with OpenAI",
+                "id": "rss-h1y2jc34",
+                "title": "How Braintrust turns customer requests into code with Codex",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
+                "time": "20h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-xkesft4v",
-                "title": "How Endava builds an agentic organization with Codex",
-                "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-ro7eiiju",
-                "title": "Catch up on 12 major I/O 2026 moments",
+                "id": "rss-bgcdtwj9",
+                "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
                 "source": "Google Blog",
-                "time": "18h ago",
-                "relevance": 81
+                "time": "15h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-v8exofw4",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
+                "id": "rss-na7opcxy",
+                "title": "Boston Children’s uses AI to unlock new diagnoses",
+                "source": "OpenAI",
+                "time": "20h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-thcz7iaa",
+                "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+                "source": "Google Blog",
+                "time": "13h ago",
                 "relevance": 78
             }
         ]
@@ -88,61 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-agaf7emp",
+                "id": "rss-zy09we7k",
+                "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-ueckpy6g",
+                "title": "Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-z77yi8rp",
                 "title": "Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 80
+                "time": "23h ago",
+                "relevance": 75
             },
             {
-                "id": "rss-x4n833qz",
-                "title": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
+                "id": "rss-uw5duvfs",
+                "title": "StepFun Releases Step 3.7 Flash: A 198B MoE Vision-Language Model for Coding Agents and Search Workflows",
                 "source": "MarkTechPost",
                 "time": "11h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-iuyycy5t",
-                "title": "Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-ql9rf2vz",
-                "title": "How to Design an End-to-End Ansible Automation Lab with Playbooks, Inventories, Roles, Vault, Dynamic Inventory, and Custom Modules",
-                "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 71
+                "relevance": 75
             }
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-cgmk4ga3",
-                "title": "Asana acquires no-code agent-builder StackAI",
+                "id": "rss-1ywmokb8",
+                "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
                 "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 86
+                "time": "15h ago",
+                "relevance": 88
             },
             {
-                "id": "rss-tyy6acz4",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "id": "rss-ygjanrsd",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
-            },
-            {
-                "id": "hn-48308376",
-                "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-                "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 69
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     },
@@ -153,18 +146,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-ab28dm6f",
+                "id": "hn-48333096",
+                "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-5nnjqrys",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
-            },
-            {
-                "id": "hn-48315968",
-                "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 71
             }
         ]
     }
@@ -172,19 +165,64 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "p-fallback",
-        "title": "Latest AI Research Papers",
-        "authors": "Various Authors",
-        "journal": "arXiv",
-        "abstract": "Check back tomorrow for fresh research highlights.",
-        "badge": "Research",
-        "url": "https://arxiv.org/list/cs.AI/recent"
+        "id": "arxiv-cql4laio",
+        "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+        "authors": "Nhat-Minh Nguyen",
+        "journal": "arXiv preprint",
+        "abstract": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2605.30353v1"
+    },
+    {
+        "id": "arxiv-jkk7kcmd",
+        "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
+        "authors": "Junyu Xie, Tengda Han, Weidi Xie, Andrew Zisserman",
+        "journal": "arXiv preprint",
+        "abstract": "Moving Object Segmentation (MOS) aims to discover, segment, and track objects that move independently of the camera. Current MOS methods, however, exhibit two fundamental limitations: they rely on pre-computed 2D auxiliary modalities such as optical flow or point trajectories that lack 3D geometric information, and…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.30352v1"
+    },
+    {
+        "id": "arxiv-ca9r6obh",
+        "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+        "authors": "Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral, Adil…",
+        "journal": "arXiv preprint",
+        "abstract": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their positions are encoded. The per-head KV layout itself, a dominant contributor to streaming memory and latency, has been…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.30351v1"
+    },
+    {
+        "id": "arxiv-dz0m0uk0",
+        "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+        "authors": "Jusuk Lee, Seungjae Lee, Jonghun Shin, Hoseong Jung, Sungha…",
+        "journal": "arXiv preprint",
+        "abstract": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recognition or vision-language alignment, leaving motion understanding to downstream policies. We introduce DynaFLIP, a…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2605.30350v1"
+    },
+    {
+        "id": "arxiv-rsyj4an6",
+        "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+        "authors": "Yaxin Luo, Jiacheng Cui, Xiaohan Zhao, Xinyi Shang,…",
+        "journal": "arXiv preprint",
+        "abstract": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making post-hoc auditing of data combination or provenance difficult. In this work, we formalize $\\textbf{Data Mixture…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2605.30348v1"
+    },
+    {
+        "id": "arxiv-fqelhkgc",
+        "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+        "authors": "Yusuf Dalva, Pinar Yanardag",
+        "journal": "arXiv preprint",
+        "abstract": "Autoregressive video diffusion models generate streaming video by producing frames sequentially, conditioning each chunk on previously generated content. These models are structurally anchored to the first frame: its key-value representation occupies a privileged position in the attention cache and serves as the…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.30349v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-jceq3ul1",
+        "id": "gh-pg45ionp",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.6k",
@@ -193,16 +231,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-sm15gize",
+        "id": "gh-mo80x1o3",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "172.2k",
+        "stars": "173.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-2jaubjp5",
+        "id": "gh-vgy6k0zf",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.9k",
@@ -211,16 +249,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-oyuvrnd5",
+        "id": "gh-juwdu4ez",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.0k",
+        "stars": "161.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-8eoxruij",
+        "id": "gh-zi31qyqt",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.3k",
@@ -229,7 +267,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-x9ivxp5v",
+        "id": "gh-jf7tgmq6",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.3k",
@@ -238,7 +276,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-xxgh9ovg",
+        "id": "gh-990v8fl9",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "stars": "114.9k",
