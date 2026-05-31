@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-30T08:32:02.900Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-05-31T08:50:19.009Z
+   Stories: 18 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-1ywmokb8",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-    "excerpt": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-    "source": "TechCrunch",
-    "time": "15h ago",
+    "id": "rss-ge87suc4",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "excerpt": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+    "source": "OpenAI",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
+    "relevance": 85,
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
 },
 
     topics: [
@@ -45,97 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-on5o2nny",
+                "id": "rss-ge87suc4",
                 "title": "Strengthening societal resilience with Rosalind Biodefense",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-h1y2jc34",
+                "id": "rss-o2fbqnbr",
                 "title": "How Braintrust turns customer requests into code with Codex",
                 "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-bgcdtwj9",
+                "id": "rss-hcg9j6xt",
+                "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+                "source": "TechCrunch",
+                "time": "17h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-we1127bf",
                 "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
                 "source": "Google Blog",
-                "time": "15h ago",
-                "relevance": 82
+                "time": "1d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-na7opcxy",
-                "title": "Boston Children’s uses AI to unlock new diagnoses",
-                "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-thcz7iaa",
-                "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-                "source": "Google Blog",
-                "time": "13h ago",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-zy09we7k",
-                "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-ueckpy6g",
-                "title": "Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-z77yi8rp",
-                "title": "Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication",
-                "source": "MarkTechPost",
-                "time": "23h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-uw5duvfs",
-                "title": "StepFun Releases Step 3.7 Flash: A 198B MoE Vision-Language Model for Coding Agents and Search Workflows",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-1ywmokb8",
-                "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 88
-            },
-            {
-                "id": "rss-ygjanrsd",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-s1ec8ii4",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "Jan 19",
+                "relevance": 78
             }
         ]
     },
@@ -146,18 +88,25 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "hn-48333096",
-                "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 74
+                "id": "rss-w8xjw41j",
+                "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+                "source": "TechCrunch",
+                "time": "16h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-5nnjqrys",
+                "id": "rss-mct2p4xn",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
+            },
+            {
+                "id": "hn-48340910",
+                "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 71
             }
         ]
     }
@@ -165,7 +114,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-cql4laio",
+        "id": "arxiv-tsiy3k8t",
         "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
         "authors": "Nhat-Minh Nguyen",
         "journal": "arXiv preprint",
@@ -174,7 +123,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.30353v1"
     },
     {
-        "id": "arxiv-jkk7kcmd",
+        "id": "arxiv-qxeqmo79",
         "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
         "authors": "Junyu Xie, Tengda Han, Weidi Xie, Andrew Zisserman",
         "journal": "arXiv preprint",
@@ -183,7 +132,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.30352v1"
     },
     {
-        "id": "arxiv-ca9r6obh",
+        "id": "arxiv-gvq458rt",
         "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
         "authors": "Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral, Adil…",
         "journal": "arXiv preprint",
@@ -192,7 +141,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.30351v1"
     },
     {
-        "id": "arxiv-dz0m0uk0",
+        "id": "arxiv-g2hvy352",
         "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
         "authors": "Jusuk Lee, Seungjae Lee, Jonghun Shin, Hoseong Jung, Sungha…",
         "journal": "arXiv preprint",
@@ -201,7 +150,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.30350v1"
     },
     {
-        "id": "arxiv-rsyj4an6",
+        "id": "arxiv-a37akbie",
         "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
         "authors": "Yaxin Luo, Jiacheng Cui, Xiaohan Zhao, Xinyi Shang,…",
         "journal": "arXiv preprint",
@@ -210,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2605.30348v1"
     },
     {
-        "id": "arxiv-fqelhkgc",
+        "id": "arxiv-coovn8sn",
         "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
         "authors": "Yusuf Dalva, Pinar Yanardag",
         "journal": "arXiv preprint",
@@ -222,25 +171,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-pg45ionp",
+        "id": "gh-dwcufrow",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.6k",
+        "stars": "184.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-mo80x1o3",
+        "id": "gh-h4cu0r5g",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "173.1k",
+        "stars": "174.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-vgy6k0zf",
+        "id": "gh-odgjquoc",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "148.9k",
@@ -249,7 +198,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-juwdu4ez",
+        "id": "gh-jhqs99u7",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.1k",
@@ -258,7 +207,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zi31qyqt",
+        "id": "gh-vi7l9ii2",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.3k",
@@ -267,7 +216,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-jf7tgmq6",
+        "id": "gh-jibiry2l",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.3k",
@@ -276,10 +225,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-990v8fl9",
+        "id": "gh-spgqkpgo",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "114.9k",
+        "stars": "115.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
