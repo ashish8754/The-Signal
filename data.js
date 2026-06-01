@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-05-31T08:50:19.009Z
-   Stories: 18 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-06-01T11:41:41.598Z
+   Stories: 16 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ge87suc4",
+    "id": "rss-w73mynpu",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Strengthening societal resilience with Rosalind Biodefense",
     "excerpt": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "3d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ge87suc4",
+                "id": "rss-w73mynpu",
                 "title": "Strengthening societal resilience with Rosalind Biodefense",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-o2fbqnbr",
+                "id": "rss-hcr6b1rl",
                 "title": "How Braintrust turns customer requests into code with Codex",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-hcg9j6xt",
-                "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-we1127bf",
-                "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-                "source": "Google Blog",
-                "time": "1d ago",
+                "time": "2d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-s1ec8ii4",
+                "id": "rss-v75qyd6d",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
+            },
+            {
+                "id": "rss-0qqm1b4b",
+                "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+                "source": "Google Blog",
+                "time": "2d ago",
+                "relevance": 77
+            },
+            {
+                "id": "hn-48354405",
+                "title": "Why are large language models so terrible at video games?",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 76
             }
         ]
     },
@@ -88,25 +88,40 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-w8xjw41j",
+                "id": "rss-g6slazys",
                 "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
                 "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 81
+                "time": "1d ago",
+                "relevance": 78
             },
             {
-                "id": "rss-mct2p4xn",
+                "id": "rss-d1simf2j",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-2owxcrc8",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             },
             {
-                "id": "hn-48340910",
-                "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+                "id": "hn-48322134",
+                "title": "Finding success in industry as a chip designer",
                 "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 71
+                "time": "2d ago",
+                "relevance": 67
             }
         ]
     }
@@ -114,64 +129,64 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-tsiy3k8t",
-        "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
-        "authors": "Nhat-Minh Nguyen",
+        "id": "arxiv-9msdtpuf",
+        "title": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
+        "authors": "Yuqing Wang, Zhijie Lin, Ceyuan Yang, Yang Zhao, Fei Xiao,…",
         "journal": "arXiv preprint",
-        "abstract": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2605.30353v1"
-    },
-    {
-        "id": "arxiv-qxeqmo79",
-        "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
-        "authors": "Junyu Xie, Tengda Han, Weidi Xie, Andrew Zisserman",
-        "journal": "arXiv preprint",
-        "abstract": "Moving Object Segmentation (MOS) aims to discover, segment, and track objects that move independently of the camera. Current MOS methods, however, exhibit two fundamental limitations: they rely on pre-computed 2D auxiliary modalities such as optical flow or point trajectories that lack 3D geometric information, and…",
+        "abstract": "Unified multimodal models (UMMs) aim to handle perception and generation in a single model. Yet existing UMMs still rely on a frozen, separately pretrained VAE for image generation, imposing a structural bottleneck. Naively removing it introduces a quality gap, as the model must learn both high-level structure and…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.30352v1"
+        "url": "http://arxiv.org/abs/2605.31604v1"
     },
     {
-        "id": "arxiv-gvq458rt",
-        "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
-        "authors": "Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral, Adil…",
+        "id": "arxiv-yc2iq1tl",
+        "title": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
+        "authors": "Jiazheng Xing, Hangjie Yuan, Lingling Cai, Xinyu Liu, Yujie…",
         "journal": "arXiv preprint",
-        "abstract": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their positions are encoded. The per-head KV layout itself, a dominant contributor to streaming memory and latency, has been…",
+        "abstract": "Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is computationally prohibitive, limiting achievable visual quality. We therefore propose Lumos-Nexus, a training-efficient…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.30351v1"
+        "url": "http://arxiv.org/abs/2605.31603v1"
     },
     {
-        "id": "arxiv-g2hvy352",
-        "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-        "authors": "Jusuk Lee, Seungjae Lee, Jonghun Shin, Hoseong Jung, Sungha…",
+        "id": "arxiv-miy779ae",
+        "title": "Linear Scaling Video VLMs for Long Video Understanding",
+        "authors": "Cristobal Eyzaguirre, Jiajun Wu, Juan Carlos Niebles",
         "journal": "arXiv preprint",
-        "abstract": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recognition or vision-language alignment, leaving motion understanding to downstream policies. We introduce DynaFLIP, a…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2605.30350v1"
-    },
-    {
-        "id": "arxiv-a37akbie",
-        "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-        "authors": "Yaxin Luo, Jiacheng Cui, Xiaohan Zhao, Xinyi Shang,…",
-        "journal": "arXiv preprint",
-        "abstract": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making post-hoc auditing of data combination or provenance difficult. In this work, we formalize $\\textbf{Data Mixture…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2605.30348v1"
-    },
-    {
-        "id": "arxiv-coovn8sn",
-        "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
-        "authors": "Yusuf Dalva, Pinar Yanardag",
-        "journal": "arXiv preprint",
-        "abstract": "Autoregressive video diffusion models generate streaming video by producing frames sequentially, conditioning each chunk on previously generated content. These models are structurally anchored to the first frame: its key-value representation occupies a privileged position in the attention cache and serves as the…",
+        "abstract": "Video vision-language models (VLMs) are increasingly used in long-horizon and streaming settings, yet most video encoders still rely on spatiotemporal self-attention, causing compute and latency to grow quadratically with the number of frames. Existing efficiency methods improve scalability but often lose accuracy…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2605.30349v1"
+        "url": "http://arxiv.org/abs/2605.31598v1"
+    },
+    {
+        "id": "arxiv-kbjva7sx",
+        "title": "SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models",
+        "authors": "Olaf Dünkel, Basavaraj Sunagad, Haoran Wang, David T.…",
+        "journal": "arXiv preprint",
+        "abstract": "Measuring structured object understanding in vision foundation models remains challenging due to inconsistent evaluation protocols and limited part-level supervision. Semantic correspondence (SC) evaluates this capability by testing whether object parts can be matched across instances and categories under large…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.31597v1"
+    },
+    {
+        "id": "arxiv-ixdnc083",
+        "title": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems",
+        "authors": "Alireza Kheirandish, Jihoon Hong, Sara Fridovich-Keil",
+        "journal": "arXiv preprint",
+        "abstract": "Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to OOD detection often require some knowledge of the shifted distribution, fail to detect subtle or localized distribution…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.31596v1"
+    },
+    {
+        "id": "arxiv-npxq67wm",
+        "title": "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction",
+        "authors": "Mungyeom Kim, Minkyeong Jeon, Honggyu An, Jaewoo Jung,…",
+        "journal": "arXiv preprint",
+        "abstract": "Dynamic scene reconstruction from monocular video remains a fundamental challenge in computer vision. Existing feed-forward methods predict 3D Gaussians pixel-wise for each frame, suffering from duplicated Gaussians and view-dependent biases that hinder effective learning of scene motion. We present C4G, a…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2605.31595v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-dwcufrow",
+        "id": "gh-sxmnma6r",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.7k",
@@ -180,25 +195,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-h4cu0r5g",
+        "id": "gh-f6ip89ih",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "174.1k",
+        "stars": "175.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-odgjquoc",
+        "id": "gh-p45uuty3",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "148.9k",
+        "stars": "149.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-jhqs99u7",
+        "id": "gh-kygj9vi2",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.1k",
@@ -207,7 +222,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-vi7l9ii2",
+        "id": "gh-j3ec44rg",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.3k",
@@ -216,19 +231,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-jibiry2l",
+        "id": "gh-rzl6sd1l",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "163.3k",
+        "stars": "163.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-spgqkpgo",
+        "id": "gh-2cdvt7zk",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "115.1k",
+        "stars": "115.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
