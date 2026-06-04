@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-03T11:04:50.200Z
-   Stories: 25 | Clusters: 4 | Papers: 0 | Repos: 7
+   Updated: 2026-06-04T10:00:02.747Z
+   Stories: 23 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-rhr47f23",
+    "id": "rss-oqvmn6no",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "excerpt": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
     "source": "OpenAI",
-    "time": "23h ago",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://openai.com/index/travelers"
+    "relevance": 97,
+    "url": "https://openai.com/index/endava-frontiers"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-rhr47f23",
-                "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+                "id": "rss-oqvmn6no",
+                "title": "How Endava is redesigning software delivery around AI agents",
                 "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 86
+                "time": "Just now",
+                "relevance": 97
             },
             {
-                "id": "rss-6iwi0njp",
-                "title": "Codex is becoming a productivity tool for everyone",
+                "id": "rss-1drby4h4",
+                "title": "Introducing new capabilities to GPT-Rosalind",
                 "source": "OpenAI",
-                "time": "1d ago",
+                "time": "20h ago",
+                "relevance": 90
+            },
+            {
+                "id": "rss-kkqoudka",
+                "title": "OpenAI public policy agenda",
+                "source": "OpenAI",
+                "time": "23h ago",
                 "relevance": 82
             },
             {
-                "id": "rss-6vjkrr41",
-                "title": "Codex for every role, tool, and workflow",
+                "id": "rss-zh3d18hb",
+                "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
+                "time": "21h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-cwcc9wds",
-                "title": "Advancing youth safety and opportunity through global leadership",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-kv4vzfyt",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
+                "id": "rss-xbu6p5hp",
+                "title": "5 ways Google Search can level up your thrift and vintage shopping",
+                "source": "Google Blog",
+                "time": "20h ago",
                 "relevance": 78
             }
         ]
@@ -88,32 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-pg47etrj",
-                "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
-                "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-x4n3e36g",
-                "title": "Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output",
+                "id": "rss-lid4x57u",
+                "title": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
                 "source": "MarkTechPost",
                 "time": "1h ago",
-                "relevance": 77
+                "relevance": 85
             },
             {
-                "id": "rss-0kk5s3zk",
-                "title": "TinyFish Launches BigSet: An Open-Source Multi-Agent System That Builds Structured Live Datasets from Plain-English Descriptions",
+                "id": "rss-putfczxx",
+                "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
                 "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 75
+                "time": "3h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-2qxlh1sn",
-                "title": "How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab",
+                "id": "rss-l7aly4gf",
+                "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
                 "source": "MarkTechPost",
-                "time": "10h ago",
+                "time": "15h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-7nk6tbzt",
+                "title": "How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers",
+                "source": "MarkTechPost",
+                "time": "14h ago",
                 "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48389681",
+                "title": "Ableton Extensions SDK",
+                "source": "Hacker News",
+                "time": "13h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-48386725",
+                "title": "Gooey: A GPU-accelerated UI framework for Zig",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 73
             }
         ]
     },
@@ -124,47 +146,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-i3dolaw2",
-                "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-                "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-4sv7ajwm",
+                "id": "rss-w4a9jguc",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-48378495",
-                "title": "Roku LT Operating System open source distribution",
+                "id": "rss-f4fxcr31",
+                "title": "They’re made out of weights",
                 "source": "Hacker News",
-                "time": "9h ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-jd6bvmna",
-                "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-ql57igph",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "10h ago",
+                "relevance": 71
             }
         ]
     }
@@ -184,7 +177,7 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-cvrxyvzz",
+        "id": "gh-71pe3m3j",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.7k",
@@ -193,16 +186,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-weoheaum",
+        "id": "gh-3ashee2w",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "178.2k",
+        "stars": "180.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-0ubcuuf0",
+        "id": "gh-566f55yr",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.2k",
@@ -211,16 +204,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-7qvr0kgd",
+        "id": "gh-vd66brva",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.2k",
+        "stars": "161.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-dcj235tw",
+        "id": "gh-tb9aj9aj",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.4k",
@@ -229,7 +222,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-gy7v6qtd",
+        "id": "gh-7j8kx80f",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.4k",
@@ -238,10 +231,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-kzoqqzff",
+        "id": "gh-7w2csspu",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "115.5k",
+        "stars": "115.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -250,28 +243,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-pg47etrj",
-        "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
-        "desc": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI. The post NVIDIA Releases Cosmos 3: A…",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "MarkTechPost"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-jd6bvmna",
-        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-        "desc": "Comments",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Hacker News"
-    },
-    {
-        "id": "ng-hn-48379669",
-        "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-        "desc": "Click to read more about this development.",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
         "tag": "Biotech",
         "tagClass": "biotech",
-        "source": "Hacker News"
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
