@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-04T10:00:02.747Z
-   Stories: 23 | Clusters: 4 | Papers: 0 | Repos: 7
+   Updated: 2026-06-05T09:57:01.285Z
+   Stories: 24 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-oqvmn6no",
+    "id": "rss-i0xnd1s5",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "excerpt": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "title": "Biodefense in the Intelligence Age",
+    "excerpt": "An action plan for AI-powered biological resilience",
     "source": "OpenAI",
-    "time": "Just now",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 97,
-    "url": "https://openai.com/index/endava-frontiers"
+    "relevance": 87,
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-oqvmn6no",
-                "title": "How Endava is redesigning software delivery around AI agents",
+                "id": "rss-i0xnd1s5",
+                "title": "Biodefense in the Intelligence Age",
                 "source": "OpenAI",
-                "time": "Just now",
-                "relevance": 97
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-1drby4h4",
+                "id": "rss-86ewt88a",
                 "title": "Introducing new capabilities to GPT-Rosalind",
                 "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-kkqoudka",
-                "title": "OpenAI public policy agenda",
-                "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-zh3d18hb",
-                "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+                "id": "rss-jmjutsqb",
+                "title": "How Endava is redesigning software delivery around AI agents",
                 "source": "OpenAI",
                 "time": "21h ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-00q7goeb",
+                "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+                "source": "TechCrunch",
+                "time": "11h ago",
                 "relevance": 82
             },
             {
-                "id": "rss-xbu6p5hp",
-                "title": "5 ways Google Search can level up your thrift and vintage shopping",
-                "source": "Google Blog",
-                "time": "20h ago",
-                "relevance": 78
+                "id": "rss-xtzpdd85",
+                "title": "Dreaming: Better memory for a more helpful ChatGPT",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
             }
         ]
     },
@@ -88,54 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-lid4x57u",
+                "id": "rss-ymup4133",
+                "title": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-2lot2g20",
                 "title": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-putfczxx",
+                "id": "rss-geaxkr0s",
                 "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-l7aly4gf",
-                "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
+                "id": "rss-hm92s8y0",
+                "title": "Building a Semantic Search Engine and Open-Status Classifier over the ResearchMath-14k Dataset",
                 "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-7nk6tbzt",
-                "title": "How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers",
-                "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 71
+                "time": "11h ago",
+                "relevance": 75
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-48389681",
-                "title": "Ableton Extensions SDK",
+                "id": "rss-x4mdhs8w",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48409306",
+                "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
                 "source": "Hacker News",
-                "time": "13h ago",
+                "time": "2h ago",
                 "relevance": 74
             },
             {
-                "id": "hn-48386725",
-                "title": "Gooey: A GPU-accelerated UI framework for Zig",
+                "id": "hn-48399974",
+                "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
                 "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 73
+                "time": "18h ago",
+                "relevance": 71
             }
         ]
     },
@@ -146,18 +153,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-w4a9jguc",
+                "id": "rss-abykhq77",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "rss-f4fxcr31",
-                "title": "They’re made out of weights",
+                "id": "hn-48369105",
+                "title": "Ohbin – uv wrapper for installing tools from GitHub",
                 "source": "Hacker News",
-                "time": "10h ago",
-                "relevance": 71
+                "time": "2d ago",
+                "relevance": 65
             }
         ]
     }
@@ -177,25 +184,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-71pe3m3j",
+        "id": "gh-hb8v6o5x",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.7k",
+        "stars": "184.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-3ashee2w",
+        "id": "gh-d8vdkb9p",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "180.0k",
+        "stars": "181.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-566f55yr",
+        "id": "gh-dagbnymk",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.2k",
@@ -204,7 +211,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-vd66brva",
+        "id": "gh-4qusyxos",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.3k",
@@ -213,28 +220,28 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-tb9aj9aj",
+        "id": "gh-0uhxvi1j",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "100.4k",
+        "stars": "100.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-7j8kx80f",
+        "id": "gh-vm9lzqvd",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "163.4k",
+        "stars": "163.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-7w2csspu",
+        "id": "gh-q70nibbb",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "115.7k",
+        "stars": "115.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
