@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-06T08:37:26.131Z
-   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-06-07T09:17:38.678Z
+   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-0ftud4v7",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "excerpt": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "source": "TechCrunch",
-    "time": "13h ago",
+    "id": "rss-7tjunlkv",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Biodefense in the Intelligence Age",
+    "excerpt": "An action plan for AI-powered biological resilience",
+    "source": "OpenAI",
+    "time": "3d ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+    "relevance": 85,
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-dzn0sbap",
+                "id": "rss-7tjunlkv",
                 "title": "Biodefense in the Intelligence Age",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-dk9nqw09",
+                "id": "rss-ld61zt9o",
                 "title": "Introducing new capabilities to GPT-Rosalind",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-9rlhat5a",
+                "id": "rss-8mkqp4jd",
+                "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-gh4oq3bl",
                 "title": "How Endava is redesigning software delivery around AI agents",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
+                "time": "2d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-074o84az",
-                "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-57584p4h",
-                "title": "Dreaming: Better memory for a more helpful ChatGPT",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
+                "id": "rss-urfjwdjj",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+                "source": "VentureBeat",
+                "time": "Jan 19",
+                "relevance": 78
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-cth5mc2f",
-                "title": "NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time",
+                "id": "rss-vgl39v55",
+                "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
                 "source": "MarkTechPost",
                 "time": "Just now",
+                "relevance": 87
+            },
+            {
+                "id": "rss-c5g39vet",
+                "title": "NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors",
+                "source": "MarkTechPost",
+                "time": "4h ago",
                 "relevance": 85
             },
             {
-                "id": "rss-dq5ki3br",
-                "title": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes",
+                "id": "rss-p8vbhsrc",
+                "title": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b",
                 "source": "MarkTechPost",
-                "time": "22h ago",
-                "relevance": 77
+                "time": "2h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-wxqp0fyf",
-                "title": "A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment",
+                "id": "rss-gmgbw48i",
+                "title": "Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal",
                 "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-dspptqya",
-                "title": "Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 70
+                "time": "11h ago",
+                "relevance": 74
             }
         ]
     },
@@ -124,62 +124,25 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-0ftud4v7",
-                "title": "Google will pay SpaceX $920M per month for compute",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-k30ou3o0",
+                "id": "rss-11mp4tcy",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-cboqg7fi",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
             },
             {
-                "id": "hn-48414367",
-                "title": "pg_durable: Microsoft open sources in-database durable execution",
+                "id": "hn-48424605",
+                "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
                 "source": "Hacker News",
-                "time": "16h ago",
+                "time": "20h ago",
                 "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-qgve1uip",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
             },
             {
-                "id": "hn-48398925",
-                "title": "My Agent Skill for Test-Driven Development",
+                "id": "hn-48417490",
+                "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
                 "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 67
+                "relevance": 68
             }
         ]
     }
@@ -187,7 +150,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-05wlipa6",
+        "id": "arxiv-hcv0scc8",
         "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
         "authors": "Marius Dragoi, Ioana Pintilie, Alexandra Dragomir, Antonio…",
         "journal": "arXiv preprint",
@@ -196,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.06494v1"
     },
     {
-        "id": "arxiv-gy6nsp1y",
+        "id": "arxiv-mvgmn54r",
         "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
         "authors": "Lizhi Yang, Junheng Li, Nehar Poddar, Yiling Hou, Gio Huh,…",
         "journal": "arXiv preprint",
@@ -205,7 +168,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.06493v1"
     },
     {
-        "id": "arxiv-65d6uat1",
+        "id": "arxiv-rfpm6qe9",
         "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
         "authors": "Liliana Hotsko, Yinxi Li, Yuntian Deng, Pengyu Nie",
         "journal": "arXiv preprint",
@@ -214,7 +177,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.06492v1"
     },
     {
-        "id": "arxiv-e1ynm936",
+        "id": "arxiv-63fcllzh",
         "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
         "authors": "Dong Jing, Jingchen Nie, Tianqi Zhang, Jiaqi Liu, Huaxiu…",
         "journal": "arXiv preprint",
@@ -223,7 +186,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.06491v1"
     },
     {
-        "id": "arxiv-ddr50f01",
+        "id": "arxiv-kkvp27j7",
         "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
         "authors": "Mingyang Liu, Asuman Ozdaglar, Tiancheng Yu, Kaiqing Zhang",
         "journal": "arXiv preprint",
@@ -232,7 +195,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.06486v1"
     },
     {
-        "id": "arxiv-o2liukvp",
+        "id": "arxiv-0qf7rpnq",
         "title": "PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding",
         "authors": "Shaohui Dai, Yansong Qu, You Shen, Shengchuan Zhang,…",
         "journal": "arXiv preprint",
@@ -244,7 +207,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-an3487lr",
+        "id": "gh-yey2oiz4",
+        "name": "NousResearch/hermes-agent",
+        "desc": "The agent that grows with you",
+        "stars": "185.1k",
+        "lang": "Python",
+        "langColor": "#3572A5",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "id": "gh-ae9a7gv2",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.8k",
@@ -253,16 +225,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-58g2y18j",
-        "name": "NousResearch/hermes-agent",
-        "desc": "The agent that grows with you",
-        "stars": "183.9k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-        "id": "gh-3w4nm99o",
+        "id": "gh-gmeth2ix",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.3k",
@@ -271,25 +234,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-fob3fun2",
+        "id": "gh-qdmglfwi",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.3k",
+        "stars": "161.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-eztxb6ef",
+        "id": "gh-ht5njcdi",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "100.5k",
+        "stars": "100.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-e6f2ywpq",
+        "id": "gh-g4i3hazl",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.5k",
@@ -298,10 +261,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-u5g272d1",
+        "id": "gh-to6kytpk",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "115.9k",
+        "stars": "116.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -310,15 +273,7 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-0ftud4v7",
-        "title": "Google will pay SpaceX $920M per month for compute",
-        "desc": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
-    },
-    {
-        "id": "ng-rss-dk9nqw09",
+        "id": "ng-rss-ld61zt9o",
         "title": "Introducing new capabilities to GPT-Rosalind",
         "desc": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
         "tag": "Biotech",
@@ -326,11 +281,19 @@ const NEWSLETTER_DATA = {
         "source": "OpenAI"
     },
     {
-        "id": "ng-rss-rk77l6l1",
-        "title": "S&amp;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-        "desc": "Comments",
+        "id": "ng-hn-48417490",
+        "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+        "desc": "Click to read more about this development.",
         "tag": "Space",
         "tagClass": "space",
+        "source": "Hacker News"
+    },
+    {
+        "id": "ng-hn-48393252",
+        "title": "Biohub releases a world model of protein biology",
+        "desc": "Click to read more about this development.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
         "source": "Hacker News"
     }
 ]
