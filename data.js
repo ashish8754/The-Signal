@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-07T09:17:38.678Z
+   Updated: 2026-06-08T11:01:47.623Z
    Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-7tjunlkv",
+    "id": "rss-g0a2s9ba",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Biodefense in the Intelligence Age",
     "excerpt": "An action plan for AI-powered biological resilience",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "4d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-7tjunlkv",
+                "id": "rss-g0a2s9ba",
                 "title": "Biodefense in the Intelligence Age",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-ld61zt9o",
+                "id": "rss-2ne2pcs8",
                 "title": "Introducing new capabilities to GPT-Rosalind",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-8mkqp4jd",
-                "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-gh4oq3bl",
+                "id": "rss-d26xtwf9",
                 "title": "How Endava is redesigning software delivery around AI agents",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-urfjwdjj",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
+                "id": "rss-7vubmy5c",
+                "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+                "source": "TechCrunch",
+                "time": "1d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-h6r2v8p0",
+                "title": "Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries",
+                "source": "MarkTechPost",
+                "time": "2h ago",
+                "relevance": 79
             }
         ]
     },
@@ -88,61 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-vgl39v55",
-                "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 87
-            },
-            {
-                "id": "rss-c5g39vet",
-                "title": "NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-p8vbhsrc",
-                "title": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b",
+                "id": "rss-x2qhxv3q",
+                "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
                 "source": "MarkTechPost",
                 "time": "2h ago",
-                "relevance": 82
+                "relevance": 79
             },
             {
-                "id": "rss-gmgbw48i",
-                "title": "Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal",
+                "id": "rss-hyqnjmry",
+                "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation",
                 "source": "MarkTechPost",
-                "time": "11h ago",
+                "time": "17h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-z7z3fn5j",
+                "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+                "source": "MarkTechPost",
+                "time": "1d ago",
                 "relevance": 74
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-11mp4tcy",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "hn-48442503",
+                "title": "The EU Open Source Strategy",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-j8j5cq4v",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48424605",
-                "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-                "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-48417490",
-                "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 68
+                "time": "Jan 16",
+                "relevance": 72
             }
         ]
     }
@@ -150,73 +136,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-hcv0scc8",
-        "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
-        "authors": "Marius Dragoi, Ioana Pintilie, Alexandra Dragomir, Antonio…",
+        "id": "arxiv-a0ue3ob4",
+        "title": "How reliable are LLMs when it comes to playing dice?",
+        "authors": "Luca Avena, Gianmarco Bet, Bernardo Busoni",
         "journal": "arXiv preprint",
-        "abstract": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the pre-trained weights as a fixed reference frame to learn a low-rank update applied to the singular value matrix. A soft…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.06494v1"
+        "abstract": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.07515v1"
     },
     {
-        "id": "arxiv-mvgmn54r",
-        "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
-        "authors": "Lizhi Yang, Junheng Li, Nehar Poddar, Yiling Hou, Gio Huh,…",
+        "id": "arxiv-duge362e",
+        "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
+        "authors": "Meixi Song, Dizhe Zhang, Hao Ren, Ruiyang Zhang, Bo Du,…",
         "journal": "arXiv preprint",
-        "abstract": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.06493v1"
-    },
-    {
-        "id": "arxiv-rfpm6qe9",
-        "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
-        "authors": "Liliana Hotsko, Yinxi Li, Yuntian Deng, Pengyu Nie",
-        "journal": "arXiv preprint",
-        "abstract": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysis) or through per-repository fine-tuning and LoRA -- costly at repository scale and brittle to evolving codebases. We…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2606.06492v1"
-    },
-    {
-        "id": "arxiv-63fcllzh",
-        "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
-        "authors": "Dong Jing, Jingchen Nie, Tianqi Zhang, Jiaqi Liu, Huaxiu…",
-        "journal": "arXiv preprint",
-        "abstract": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VLAs) only inherit a single fixed speed from training demonstrations. Prior efforts to accelerate VLAs through model…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.06491v1"
-    },
-    {
-        "id": "arxiv-kkvp27j7",
-        "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
-        "authors": "Mingyang Liu, Asuman Ozdaglar, Tiancheng Yu, Kaiqing Zhang",
-        "journal": "arXiv preprint",
-        "abstract": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learning is known to fail to capture such adaptivity. To account for players' counterfactual reasoning, we introduce {\\tt…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.06486v1"
-    },
-    {
-        "id": "arxiv-0qf7rpnq",
-        "title": "PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding",
-        "authors": "Shaohui Dai, Yansong Qu, You Shen, Shengchuan Zhang,…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent advances in 3D multimodal large language models (3D-MLLMs) have enabled unified solutions for 3D scene understanding tasks, including visual question answering, captioning, and referring segmentation. However, existing 3D-MLLMs remain largely object-centric, limiting their ability to model fine-grained part…",
+        "abstract": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective cameras to wide-field-of-view, fisheye and omnidirectional panoramic settings. To overcome the pinhole-specific assumptions…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.06485v1"
+        "url": "http://arxiv.org/abs/2606.07514v1"
+    },
+    {
+        "id": "arxiv-wxxfo1h7",
+        "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+        "authors": "Xintao Wang, Sirui Zheng, Hongqiu Wu, Weiyuan Li, Jen-tse…",
+        "journal": "arXiv preprint",
+        "abstract": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.07513v1"
+    },
+    {
+        "id": "arxiv-fuawtlvs",
+        "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+        "authors": "Cong Chen, Guo Gan, Kaixiang Ji, ChaoYang Zhang, Zhen Yang,…",
+        "journal": "arXiv preprint",
+        "abstract": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduce MemDreamer to decouple perception and reasoning, shifting long-video understanding into an agentic exploration…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.07512v1"
+    },
+    {
+        "id": "arxiv-vkik680p",
+        "title": "Streaming Video Generation with Streaming Force Control",
+        "authors": "Hanhui Wang, Yiming Xie, Haiwen Feng, Zhaoyang Lv, Shenlong…",
+        "journal": "arXiv preprint",
+        "abstract": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for different force types, assume fixed forces, or rely on non-causal processing, StreamForce is a causal and unified model…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.07508v1"
+    },
+    {
+        "id": "arxiv-rmz5unpc",
+        "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
+        "authors": "Tuba Girgin, Jose Castelblanco, Gabriel Rodriguez, Emre…",
+        "journal": "arXiv preprint",
+        "abstract": "The object manipulation capabilities of quadruped robots is an open research challenge. While previous studies have focused on low-level policy learning, task execution still relies on expert-designed high-level trajectories. Autonomous selection of both an affordable interaction point on the target object and an…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.07506v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-yey2oiz4",
+        "id": "gh-6sqvvuiy",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "185.1k",
+        "stars": "186.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ae9a7gv2",
+        "id": "gh-ax9kwi4s",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.8k",
@@ -225,16 +211,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-gmeth2ix",
+        "id": "gh-z10f8a41",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "149.3k",
+        "stars": "149.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-qdmglfwi",
+        "id": "gh-svfbcg4v",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.4k",
@@ -243,7 +229,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ht5njcdi",
+        "id": "gh-f4jruvze",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.6k",
@@ -252,7 +238,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-g4i3hazl",
+        "id": "gh-5onp9lat",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.5k",
@@ -261,10 +247,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-to6kytpk",
+        "id": "gh-3ldl6o8m",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "116.0k",
+        "stars": "116.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -273,28 +259,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-ld61zt9o",
-        "title": "Introducing new capabilities to GPT-Rosalind",
-        "desc": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "OpenAI"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-hn-48417490",
-        "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-        "desc": "Click to read more about this development.",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
+        "source": "SpaceNews"
     },
     {
-        "id": "ng-hn-48393252",
-        "title": "Biohub releases a world model of protein biology",
-        "desc": "Click to read more about this development.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "Hacker News"
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
