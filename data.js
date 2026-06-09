@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-08T11:01:47.623Z
-   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-06-09T09:51:20.101Z
+   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-g0a2s9ba",
+    "id": "rss-p281zh47",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Biodefense in the Intelligence Age",
-    "excerpt": "An action plan for AI-powered biological resilience",
+    "title": "Built to benefit everyone: our plan",
+    "excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
     "source": "OpenAI",
-    "time": "4d ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+    "relevance": 84,
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-g0a2s9ba",
-                "title": "Biodefense in the Intelligence Age",
+                "id": "rss-p281zh47",
+                "title": "Built to benefit everyone: our plan",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 84
             },
             {
-                "id": "rss-2ne2pcs8",
-                "title": "Introducing new capabilities to GPT-Rosalind",
+                "id": "rss-plit6rif",
+                "title": "Confidential submission of draft S-1 to the SEC",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "19h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-d26xtwf9",
+                "id": "rss-fopf1iws",
                 "title": "How Endava is redesigning software delivery around AI agents",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-7vubmy5c",
-                "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-                "source": "TechCrunch",
+                "id": "rss-5jzlk28a",
+                "title": "Introducing the OpenAI Economic Research Exchange",
+                "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-h6r2v8p0",
-                "title": "Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries",
-                "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 79
+                "id": "rss-xd4eu49c",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+                "source": "VentureBeat",
+                "time": "Jan 19",
+                "relevance": 78
             }
         ]
     },
@@ -88,25 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-x2qhxv3q",
-                "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
+                "id": "rss-zsyyfhyo",
+                "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 79
+                "time": "1h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-hyqnjmry",
-                "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation",
+                "id": "rss-3pus5c5p",
+                "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
                 "source": "MarkTechPost",
-                "time": "17h ago",
+                "time": "3h ago",
                 "relevance": 78
             },
             {
-                "id": "rss-z7z3fn5j",
-                "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+                "id": "rss-nsmhevkc",
+                "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs",
+                "source": "MarkTechPost",
+                "time": "17h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-hdem4p62",
+                "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 74
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48449665",
+                "title": "Apple Core AI Framework",
+                "source": "Hacker News",
+                "time": "15h ago",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48445554",
+                "title": "Show HN: Performative-UI – A react component library of design tropes",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-48433356",
+                "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 66
             }
         ]
     },
@@ -117,14 +153,14 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "hn-48442503",
-                "title": "The EU Open Source Strategy",
+                "id": "rss-iwhcfvbh",
+                "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
                 "source": "Hacker News",
-                "time": "3h ago",
-                "relevance": 76
+                "time": "2h ago",
+                "relevance": 74
             },
             {
-                "id": "rss-j8j5cq4v",
+                "id": "rss-l1yvx6zi",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
@@ -136,82 +172,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-a0ue3ob4",
-        "title": "How reliable are LLMs when it comes to playing dice?",
-        "authors": "Luca Avena, Gianmarco Bet, Bernardo Busoni",
+        "id": "arxiv-sb3wzdvc",
+        "title": "Latent Spatial Memory for Video World Models",
+        "authors": "Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang,…",
         "journal": "arXiv preprint",
-        "abstract": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2606.07515v1"
-    },
-    {
-        "id": "arxiv-duge362e",
-        "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
-        "authors": "Meixi Song, Dizhe Zhang, Hao Ren, Ruiyang Zhang, Bo Du,…",
-        "journal": "arXiv preprint",
-        "abstract": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective cameras to wide-field-of-view, fisheye and omnidirectional panoramic settings. To overcome the pinhole-specific assumptions…",
+        "abstract": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, requiring repeated rendering and VAE encoding, and inherently lossy, as the round trip through pixel space discards rich…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.07514v1"
+        "url": "http://arxiv.org/abs/2606.09828v1"
     },
     {
-        "id": "arxiv-wxxfo1h7",
-        "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-        "authors": "Xintao Wang, Sirui Zheng, Hongqiu Wu, Weiyuan Li, Jen-tse…",
+        "id": "arxiv-vq3o558k",
+        "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
+        "authors": "Hao Shi, Weiye Li, Bin Xie, Yulin Wang, Renping Zhou,…",
         "journal": "arXiv preprint",
-        "abstract": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2606.07513v1"
-    },
-    {
-        "id": "arxiv-fuawtlvs",
-        "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-        "authors": "Cong Chen, Guo Gan, Kaixiang Ji, ChaoYang Zhang, Zhen Yang,…",
-        "journal": "arXiv preprint",
-        "abstract": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduce MemDreamer to decouple perception and reasoning, shifting long-video understanding into an agentic exploration…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.07512v1"
-    },
-    {
-        "id": "arxiv-vkik680p",
-        "title": "Streaming Video Generation with Streaming Force Control",
-        "authors": "Hanhui Wang, Yiming Xie, Haiwen Feng, Zhaoyang Lv, Shenlong…",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for different force types, assume fixed forces, or rely on non-causal processing, StreamForce is a causal and unified model…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.07508v1"
-    },
-    {
-        "id": "arxiv-rmz5unpc",
-        "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
-        "authors": "Tuba Girgin, Jose Castelblanco, Gabriel Rodriguez, Emre…",
-        "journal": "arXiv preprint",
-        "abstract": "The object manipulation capabilities of quadruped robots is an open research challenge. While previous studies have focused on low-level policy learning, task execution still relies on expert-designed high-level trajectories. Autonomous selection of both an affordable interaction point on the target object and an…",
+        "abstract": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the current observation and therefore struggle with long-horizon, temporally dependent tasks. Cognitive science suggests…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.07506v1"
+        "url": "http://arxiv.org/abs/2606.09827v1"
+    },
+    {
+        "id": "arxiv-a2n6dghb",
+        "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+        "authors": "Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu…",
+        "journal": "arXiv preprint",
+        "abstract": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.09826v1"
+    },
+    {
+        "id": "arxiv-cofgrtvl",
+        "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+        "authors": "Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim, Pavel…",
+        "journal": "arXiv preprint",
+        "abstract": "Training reinforcement learning (RL) policies from scratch is   costly: it requires careful reward and environment design,   extensive tuning, and substantial computation.   Yet many control problems already have a functional but   suboptimal policy available as a baseline.   This paper proposes a method for embedding…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.09825v1"
+    },
+    {
+        "id": "arxiv-gny0fu6j",
+        "title": "Causally Evaluating the Learnability of Formal Language Tasks",
+        "authors": "Vésteinn Snæbjarnarson, Anej Svete, Josef Valvoda, Reda…",
+        "journal": "arXiv preprint",
+        "abstract": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for natural language is difficult: tasks are hard to delineate and can confound one another. To rigorously investigate the…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.09822v1"
+    },
+    {
+        "id": "arxiv-b9cy81ds",
+        "title": "Rethinking the Divergence Regularization in LLM RL",
+        "authors": "Jiarui Yao, Xiangxin Zhou, Penghui Qi, Wee Sun Lee, Liefeng…",
+        "journal": "arXiv preprint",
+        "abstract": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and GRPO approximate…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.09821v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-6sqvvuiy",
+        "id": "gh-mf4yd086",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "186.7k",
+        "stars": "188.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ax9kwi4s",
+        "id": "gh-ebkw66o6",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "184.8k",
+        "stars": "184.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-z10f8a41",
+        "id": "gh-j5mgxkrs",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.4k",
@@ -220,7 +256,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-svfbcg4v",
+        "id": "gh-1y01hx89",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.4k",
@@ -229,7 +265,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-f4jruvze",
+        "id": "gh-ghnqr946",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.6k",
@@ -238,19 +274,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-5onp9lat",
+        "id": "gh-5gcma96w",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "163.5k",
+        "stars": "163.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-3ldl6o8m",
+        "id": "gh-pc2fkqjt",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "116.2k",
+        "stars": "116.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
