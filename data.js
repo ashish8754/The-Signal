@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-09T09:51:20.101Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-06-10T10:06:45.174Z
+   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-p281zh47",
+    "id": "rss-qc9vymrd",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Built to benefit everyone: our plan",
-    "excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "title": "What Codex unlocks for Notion",
+    "excerpt": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
     "source": "OpenAI",
     "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+    "relevance": 85,
+    "url": "https://openai.com/index/notion"
 },
 
     topics: [
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-p281zh47",
-                "title": "Built to benefit everyone: our plan",
+                "id": "rss-qc9vymrd",
+                "title": "What Codex unlocks for Notion",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-tg7nalnh",
+                "title": "How engineers at Nextdoor use Codex to build without limits",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-iun3z39n",
+                "title": "Industrial policy for the Intelligence Age",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-plit6rif",
-                "title": "Confidential submission of draft S-1 to the SEC",
+                "id": "rss-dhudu97a",
+                "title": "From data to decisions: how LSEG is scaling trusted AI",
                 "source": "OpenAI",
-                "time": "19h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-fopf1iws",
-                "title": "How Endava is redesigning software delivery around AI agents",
-                "source": "OpenAI",
-                "time": "4d ago",
+                "time": "10h ago",
                 "relevance": 82
             },
             {
-                "id": "rss-5jzlk28a",
-                "title": "Introducing the OpenAI Economic Research Exchange",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-xd4eu49c",
+                "id": "rss-j1nrttq9",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
@@ -88,83 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-zsyyfhyo",
-                "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
+                "id": "rss-a17h920h",
+                "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-ercwm650",
+                "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
                 "source": "MarkTechPost",
                 "time": "1h ago",
-                "relevance": 81
+                "relevance": 79
             },
             {
-                "id": "rss-3pus5c5p",
-                "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-nsmhevkc",
-                "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs",
-                "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-hdem4p62",
-                "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
+                "id": "rss-12c3kb8a",
+                "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 71
+                "relevance": 73
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-48449665",
-                "title": "Apple Core AI Framework",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 72
-            },
-            {
-                "id": "hn-48445554",
-                "title": "Show HN: Performative-UI – A react component library of design tropes",
-                "source": "Hacker News",
-                "time": "19h ago",
-                "relevance": 69
-            },
-            {
-                "id": "hn-48433356",
-                "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-iwhcfvbh",
-                "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-l1yvx6zi",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "id": "rss-4c3ri9a9",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48468766",
+                "title": "RIP software hackathons. Long live the hardware hackathon",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 70
             }
         ]
     }
@@ -172,73 +136,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-sb3wzdvc",
-        "title": "Latent Spatial Memory for Video World Models",
-        "authors": "Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang,…",
+        "id": "arxiv-kysgpzk5",
+        "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+        "authors": "Ilay Kamai, Hugues Van Assel, Aviv Regev, Hagai B. Perets,…",
         "journal": "arXiv preprint",
-        "abstract": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, requiring repeated rendering and VAE encoding, and inherently lossy, as the round trip through pixel space discards rich…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.09828v1"
+        "abstract": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each fails, and when cross-modal training helps at all -- a gap that leaves practitioners, especially in scientific domains…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.11190v1"
     },
     {
-        "id": "arxiv-vq3o558k",
-        "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
-        "authors": "Hao Shi, Weiye Li, Bin Xie, Yulin Wang, Renping Zhou,…",
+        "id": "arxiv-kr059hvt",
+        "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+        "authors": "Tong Xie, Yuanhao Ban, Yunqi Hong, Sohyun An, Yihang Chen,…",
         "journal": "arXiv preprint",
-        "abstract": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the current observation and therefore struggle with long-horizon, temporally dependent tasks. Cognitive science suggests…",
+        "abstract": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.11189v1"
+    },
+    {
+        "id": "arxiv-vocq9nsv",
+        "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
+        "authors": "Junke Wang, Xiao Wang, Jiacheng Pan, Xuefeng Hu, Feng Li,…",
+        "journal": "arXiv preprint",
+        "abstract": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on three efforts: first, we train a discrete semantic visual tokenizer that maps images into compact token sequences. Our…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.11188v1"
+    },
+    {
+        "id": "arxiv-i9tsyenr",
+        "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+        "authors": "Gangwei Xu, Qihang Zhang, Jiaming Zhou, Xing Zhu, Yujun…",
+        "journal": "arXiv preprint",
+        "abstract": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, particularly at high frame rates, as the training supervision is confined to the current chunk without explicit signals…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.11187v1"
+    },
+    {
+        "id": "arxiv-1xiub53u",
+        "title": "AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference",
+        "authors": "Hangfeng Liang, Yutao Hu, Yanhan Hu, Xiaohan Wu, Wenqi…",
+        "journal": "arXiv preprint",
+        "abstract": "Low-light video enhancement (LLVE) remains a challenging task due to severe information degradation under low-illumination conditions. Recent multimodal approaches have significantly improved enhancement performance by incorporating auxiliary modalities, such as event streams and infrared images. However, these…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.11186v1"
+    },
+    {
+        "id": "arxiv-h0jar3b3",
+        "title": "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
+        "authors": "Yujie Zang, Yuhang Zheng, Xian Nie, Yupeng Zheng, Shuai…",
+        "journal": "arXiv preprint",
+        "abstract": "Contact-rich manipulation requires robots to continuously perceive and regulate evolving physical interactions under dynamic contact transitions or complex surface geometries. Recent imitation learning methods improve contact-aware control by incorporating tactile or force feedback, but they rarely model the…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.09827v1"
-    },
-    {
-        "id": "arxiv-a2n6dghb",
-        "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
-        "authors": "Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.09826v1"
-    },
-    {
-        "id": "arxiv-cofgrtvl",
-        "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
-        "authors": "Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim, Pavel…",
-        "journal": "arXiv preprint",
-        "abstract": "Training reinforcement learning (RL) policies from scratch is   costly: it requires careful reward and environment design,   extensive tuning, and substantial computation.   Yet many control problems already have a functional but   suboptimal policy available as a baseline.   This paper proposes a method for embedding…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.09825v1"
-    },
-    {
-        "id": "arxiv-gny0fu6j",
-        "title": "Causally Evaluating the Learnability of Formal Language Tasks",
-        "authors": "Vésteinn Snæbjarnarson, Anej Svete, Josef Valvoda, Reda…",
-        "journal": "arXiv preprint",
-        "abstract": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for natural language is difficult: tasks are hard to delineate and can confound one another. To rigorously investigate the…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2606.09822v1"
-    },
-    {
-        "id": "arxiv-b9cy81ds",
-        "title": "Rethinking the Divergence Regularization in LLM RL",
-        "authors": "Jiarui Yao, Xiangxin Zhou, Penghui Qi, Wee Sun Lee, Liefeng…",
-        "journal": "arXiv preprint",
-        "abstract": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and GRPO approximate…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.09821v1"
+        "url": "http://arxiv.org/abs/2606.11184v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-mf4yd086",
+        "id": "gh-x2ut8c9p",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "188.1k",
+        "stars": "189.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ebkw66o6",
+        "id": "gh-tnci80s4",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.9k",
@@ -247,25 +211,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-j5mgxkrs",
+        "id": "gh-yft27zaf",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "149.4k",
+        "stars": "149.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-1y01hx89",
+        "id": "gh-613v5tzt",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.4k",
+        "stars": "161.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ghnqr946",
+        "id": "gh-6wgsz760",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.6k",
@@ -274,7 +238,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-5gcma96w",
+        "id": "gh-pb0jdyg7",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.6k",
@@ -283,10 +247,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-pc2fkqjt",
+        "id": "gh-znrqtngm",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "116.3k",
+        "stars": "116.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
