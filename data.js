@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-10T10:06:45.174Z
-   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-06-11T10:41:12.817Z
+   Stories: 21 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-qc9vymrd",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "What Codex unlocks for Notion",
-    "excerpt": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-    "source": "OpenAI",
-    "time": "1d ago",
+    "id": "rss-95xjatii",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "excerpt": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "source": "TechCrunch",
+    "time": "12h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/notion"
+    "relevance": 83,
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
 },
 
     topics: [
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-qc9vymrd",
-                "title": "What Codex unlocks for Notion",
+                "id": "rss-50gy4sqs",
+                "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-tg7nalnh",
-                "title": "How engineers at Nextdoor use Codex to build without limits",
-                "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-iun3z39n",
-                "title": "Industrial policy for the Intelligence Age",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-dhudu97a",
-                "title": "From data to decisions: how LSEG is scaling trusted AI",
-                "source": "OpenAI",
-                "time": "10h ago",
+                "time": "14h ago",
                 "relevance": 82
             },
             {
-                "id": "rss-j1nrttq9",
+                "id": "rss-3b117od9",
+                "title": "PRC-linked influence operations are targeting AI debates in the US",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-m1t3oeig",
+                "title": "How an astrophysicist uses Codex to help simulate black holes",
+                "source": "OpenAI",
+                "time": "10h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-2xt2nmwv",
+                "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+                "source": "OpenAI",
+                "time": "10h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-f22fxc5d",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
@@ -88,25 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-a17h920h",
-                "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+                "id": "rss-sjxupl33",
+                "title": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow",
                 "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 84
+                "time": "Just now",
+                "relevance": 82
             },
             {
-                "id": "rss-ercwm650",
-                "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
+                "id": "rss-h9elnl8t",
+                "title": "Meet ‘North Mini Code’: Cohere’s 30B Open-Weight Mixture-of-Experts Model With 3B Active Parameters for Agentic Coding",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 79
+                "time": "2h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-12c3kb8a",
-                "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
+                "id": "rss-y4ug3a34",
+                "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "12h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-avyx3vuk",
+                "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
+                "source": "MarkTechPost",
+                "time": "15h ago",
                 "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-f8sa1bsu",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48461635",
+                "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 70
+            },
+            {
+                "id": "rss-xvfqf8ej",
+                "title": "AI agent runs amok in Fedora and elsewhere",
+                "source": "Hacker News",
+                "time": "10h ago",
+                "relevance": 70
             }
         ]
     },
@@ -117,18 +153,40 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-4c3ri9a9",
+                "id": "rss-vbpenfak",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
             },
             {
-                "id": "hn-48468766",
-                "title": "RIP software hackathons. Long live the hardware hackathon",
+                "id": "hn-48458895",
+                "title": "Linux latency measurements and compositor tuning",
                 "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 70
+                "time": "2d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-2vw1duw7",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48477400",
+                "title": "Apache Burr: Build reliable AI agents and applications",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 72
             }
         ]
     }
@@ -136,73 +194,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-kysgpzk5",
-        "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
-        "authors": "Ilay Kamai, Hugues Van Assel, Aviv Regev, Hagai B. Perets,…",
+        "id": "arxiv-2ss6q6mv",
+        "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+        "authors": "Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu",
         "journal": "arXiv preprint",
-        "abstract": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each fails, and when cross-modal training helps at all -- a gap that leaves practitioners, especially in scientific domains…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.11190v1"
-    },
-    {
-        "id": "arxiv-kr059hvt",
-        "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
-        "authors": "Tong Xie, Yuanhao Ban, Yunqi Hong, Sohyun An, Yihang Chen,…",
-        "journal": "arXiv preprint",
-        "abstract": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.11189v1"
-    },
-    {
-        "id": "arxiv-vocq9nsv",
-        "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
-        "authors": "Junke Wang, Xiao Wang, Jiacheng Pan, Xuefeng Hu, Feng Li,…",
-        "journal": "arXiv preprint",
-        "abstract": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on three efforts: first, we train a discrete semantic visual tokenizer that maps images into compact token sequences. Our…",
+        "abstract": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token reduction methods largely follow a rank-and-remove paradigm: they score visual tokens, keep a compact subset, and…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.11188v1"
+        "url": "http://arxiv.org/abs/2606.12412v1"
     },
     {
-        "id": "arxiv-i9tsyenr",
-        "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
-        "authors": "Gangwei Xu, Qihang Zhang, Jiaming Zhou, Xing Zhu, Yujun…",
+        "id": "arxiv-d3o3ablk",
+        "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
+        "authors": "Yeongseo Jung, Jaehyeok Kim, Eunseo Jung, Jiachuan Wang,…",
         "journal": "arXiv preprint",
-        "abstract": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, particularly at high frame rates, as the training supervision is confined to the current chunk without explicit signals…",
+        "abstract": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summarization degrades fidelity, while existing context compressors lack cross-turn memory sharing or revision, causing…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.12411v1"
+    },
+    {
+        "id": "arxiv-lu5ai09r",
+        "title": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
+        "authors": "Kian R. Weihrauch, Thomas A. Buckley, William Lotter, Arjun…",
+        "journal": "arXiv preprint",
+        "abstract": "General-purpose large language models (LLMs) are routinely used as baselines when evaluating specialized pathology models on whole-slide images (WSIs). Because WSIs exceed contemporary model context limits, LLM baselines routinely use small, high-magnification patches processed independently via majority voting,…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.11187v1"
+        "url": "http://arxiv.org/abs/2606.12407v1"
     },
     {
-        "id": "arxiv-1xiub53u",
-        "title": "AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference",
-        "authors": "Hangfeng Liang, Yutao Hu, Yanhan Hu, Xiaohan Wu, Wenqi…",
+        "id": "arxiv-v4wgoav8",
+        "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+        "authors": "Steven Oh, Jason Jingzhou Liu, Tony Tao, Philip Han,…",
         "journal": "arXiv preprint",
-        "abstract": "Low-light video enhancement (LLVE) remains a challenging task due to severe information degradation under low-illumination conditions. Recent multimodal approaches have significantly improved enhancement performance by incorporating auxiliary modalities, such as event streams and infrared images. However, these…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.11186v1"
-    },
-    {
-        "id": "arxiv-h0jar3b3",
-        "title": "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
-        "authors": "Yujie Zang, Yuhang Zheng, Xian Nie, Yupeng Zheng, Shuai…",
-        "journal": "arXiv preprint",
-        "abstract": "Contact-rich manipulation requires robots to continuously perceive and regulate evolving physical interactions under dynamic contact transitions or complex surface geometries. Recent imitation learning methods improve contact-aware control by incorporating tactile or force feedback, but they rarely model the…",
+        "abstract": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.11184v1"
+        "url": "http://arxiv.org/abs/2606.12406v1"
+    },
+    {
+        "id": "arxiv-2cl33x9x",
+        "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
+        "authors": "Zefu Lin, Rongxu Cui, Junjia Xu, Xiaojuan Jin, Wenling Li,…",
+        "journal": "arXiv preprint",
+        "abstract": "Vision-Language-Action (VLA) models inherit semantic grounding from large-scale pretraining and perform competently across in-distribution manipulation tasks. This grounding, however, is built on static image-text pairs, whereas manipulation is a continuous, contact-rich process whose dynamics this pretraining cannot…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.12403v1"
+    },
+    {
+        "id": "arxiv-l59l8i3j",
+        "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+        "authors": "Jadelynn Dao, Milan Ganai, Yasmina Abukhadra, Ajay Sridhar,…",
+        "journal": "arXiv preprint",
+        "abstract": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe that doing so increases latency, token usage, and FLOPs while yielding uneven, often diminishing gains in downstream…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.12402v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-x2ut8c9p",
+        "id": "gh-hpdew3r9",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "189.4k",
+        "stars": "190.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-tnci80s4",
+        "id": "gh-dwjggf9q",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.9k",
@@ -211,7 +269,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-yft27zaf",
+        "id": "gh-cz9a6anm",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.5k",
@@ -220,7 +278,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-613v5tzt",
+        "id": "gh-pqhprzor",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.5k",
@@ -229,7 +287,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-6wgsz760",
+        "id": "gh-3ddsmk74",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.6k",
@@ -238,7 +296,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-pb0jdyg7",
+        "id": "gh-tj01b1xe",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.6k",
@@ -247,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-znrqtngm",
+        "id": "gh-y6xuqpoj",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "116.4k",
+        "stars": "116.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
