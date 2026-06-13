@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-12T10:18:17.373Z
-   Stories: 27 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-06-13T09:20:38.953Z
+   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-vw0qgug0",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "source": "OpenAI",
-    "time": "1d ago",
+    "id": "rss-0zh23eet",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "excerpt": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "source": "TechCrunch",
+    "time": "10h ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://openai.com/index/bbva"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-rztvxoyd",
-                "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
-                "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 85
+                "id": "rss-1zzwj9f5",
+                "title": "New OpenAI Academy courses for the next era of work",
+                "source": "OpenAI",
+                "time": "23h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-vw0qgug0",
+                "id": "rss-6wkm5fzk",
                 "title": "BBVA puts AI at the core of banking with OpenAI",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 83
+                "time": "2d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-xozdkzpz",
+                "id": "rss-4nnf9ohk",
                 "title": "How Preply combines AI and human tutors to personalize learning",
                 "source": "OpenAI",
-                "time": "10h ago",
-                "relevance": 82
+                "time": "1d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-frnuuldj",
-                "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-                "source": "Google Blog",
-                "time": "14h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-kkk3r298",
+                "id": "rss-3tshw6xd",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
+            },
+            {
+                "id": "rss-bhapud0b",
+                "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 77
             }
         ]
     },
@@ -88,24 +88,53 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-uwdzbw2d",
+                "id": "rss-jq0gh4ch",
+                "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-sm5jebc7",
+                "title": "A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-189fk7qi",
                 "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 83
+                "time": "23h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "hn-48514124",
+                "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-ukm3jwrj",
-                "title": "A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Medical CT Volumes",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 80
+                "id": "rss-3h9l9g21",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
             },
             {
-                "id": "rss-t1wrlle4",
-                "title": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow",
-                "source": "MarkTechPost",
-                "time": "1d ago",
+                "id": "hn-48507020",
+                "title": "How to setup a local coding agent on macOS",
+                "source": "Hacker News",
+                "time": "15h ago",
                 "relevance": 69
             }
         ]
@@ -117,40 +146,18 @@ const NEWSLETTER_DATA = {
         "color": "#8b949e",
         "stories": [
             {
-                "id": "rss-37zx54w2",
-                "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+                "id": "rss-0zh23eet",
+                "title": "SpaceX IPO: Live updates on everything you need to know",
                 "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 82
+                "time": "10h ago",
+                "relevance": 88
             },
             {
-                "id": "hn-48501012",
-                "title": "Report on an Unidentified Space Station",
+                "id": "hn-48506545",
+                "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
                 "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 79
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-luvq6uks",
-                "title": "AI agent bankrupted their operator while trying to scan DN42",
-                "source": "Hacker News",
-                "time": "5h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-nv4ccxjg",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
+                "time": "16h ago",
+                "relevance": 73
             }
         ]
     },
@@ -161,18 +168,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-tr464az9",
+                "id": "rss-owuf3t09",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-48490826",
-                "title": "MiMo Code is now released and open-source",
+                "id": "hn-48511908",
+                "title": "Open source AI must win",
                 "source": "Hacker News",
-                "time": "19h ago",
-                "relevance": 70
+                "time": "7h ago",
+                "relevance": 71
             }
         ]
     }
@@ -180,7 +187,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-98y3x8nj",
+        "id": "arxiv-sp5nnfsj",
         "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
         "authors": "Jundong Xu, Qingchuan Li, Jiaying Wu, Yihuai Lan, Shuyue…",
         "journal": "arXiv preprint",
@@ -189,7 +196,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.13681v1"
     },
     {
-        "id": "arxiv-eqhla369",
+        "id": "arxiv-ac4e80n5",
         "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
         "authors": "Zilin Xiao, Qi Ma, Chun-cheng Jason Chen, Xintao Chen,…",
         "journal": "arXiv preprint",
@@ -198,7 +205,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.13680v1"
     },
     {
-        "id": "arxiv-7fpg4z1k",
+        "id": "arxiv-w7s5d0kn",
         "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
         "authors": "Dian Zheng, Harry Lee, Manyuan Zhang, Kaituo Feng, Zoey…",
         "journal": "arXiv preprint",
@@ -207,7 +214,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.13679v1"
     },
     {
-        "id": "arxiv-ndqcdn0x",
+        "id": "arxiv-qdq8nw6t",
         "title": "Mana: Dexterous Manipulation of Articulated Tools",
         "authors": "Zhao-Heng Yin, Guanya Shi, Pieter Abbeel, C. Karen Liu",
         "journal": "arXiv preprint",
@@ -216,7 +223,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.13677v1"
     },
     {
-        "id": "arxiv-hwogxkne",
+        "id": "arxiv-i3f0d96l",
         "title": "Improving Robotic Generalist Policies via Flow Reversal Steering",
         "authors": "Andy Tang, William Chen, Andrew Wagenmaker, Chelsea Finn,…",
         "journal": "arXiv preprint",
@@ -225,7 +232,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.13675v1"
     },
     {
-        "id": "arxiv-npr5g1i2",
+        "id": "arxiv-kczid0cq",
         "title": "Modality Forcing for Scalable Spatial Generation",
         "authors": "Bardienus Pieter Duisterhof, Deva Ramanan, Jeffrey…",
         "journal": "arXiv preprint",
@@ -237,16 +244,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-auebz68g",
+        "id": "gh-lu4huqu6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "191.5k",
+        "stars": "192.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-bbs306w2",
+        "id": "gh-60s0uuyx",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "184.9k",
@@ -255,7 +262,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-qsgob6lv",
+        "id": "gh-vdx6xbib",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.6k",
@@ -264,16 +271,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-8tj8pn2x",
+        "id": "gh-c1tzo63x",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.5k",
+        "stars": "161.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-7prm5v6g",
+        "id": "gh-tn3do4uh",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.7k",
@@ -282,19 +289,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-5x5s0ckh",
+        "id": "gh-t95nwc84",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "163.6k",
+        "stars": "163.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-adx1tzrw",
+        "id": "gh-01zewgnt",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "116.7k",
+        "stars": "116.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -303,7 +310,15 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-rztvxoyd",
+        "id": "ng-rss-0zh23eet",
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "desc": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who…",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "TechCrunch"
+    },
+    {
+        "id": "ng-rss-bhapud0b",
         "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
         "desc": "Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone,…",
         "tag": "Space",
@@ -311,19 +326,27 @@ const NEWSLETTER_DATA = {
         "source": "MarkTechPost"
     },
     {
-        "id": "ng-rss-37zx54w2",
-        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-        "desc": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
-    },
-    {
-        "id": "ng-hn-48501012",
-        "title": "Report on an Unidentified Space Station",
+        "id": "ng-hn-48506545",
+        "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
         "desc": "Click to read more about this development.",
         "tag": "Space",
         "tagClass": "space",
+        "source": "Hacker News"
+    },
+    {
+        "id": "ng-hn-48505231",
+        "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+        "desc": "Click to read more about this development.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "Hacker News"
+    },
+    {
+        "id": "ng-hn-48495928",
+        "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+        "desc": "Click to read more about this development.",
+        "tag": "Energy",
+        "tagClass": "energy",
         "source": "Hacker News"
     }
 ]
