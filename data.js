@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-15T12:21:11.000Z
-   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-06-16T11:17:03.407Z
+   Stories: 20 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-en4jz52n",
+    "id": "rss-nswc1x9k",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing the OpenAI Partner Network",
     "excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
     "source": "OpenAI",
-    "time": "19h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 88,
+    "relevance": 85,
     "url": "https://openai.com/index/introducing-openai-partner-network"
 },
 
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-en4jz52n",
+                "id": "rss-nswc1x9k",
                 "title": "Introducing the OpenAI Partner Network",
                 "source": "OpenAI",
-                "time": "19h ago",
-                "relevance": 88
+                "time": "1d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-wd6h6eue",
+                "id": "rss-c57phex7",
+                "title": "OpenAI to acquire Ona",
+                "source": "OpenAI",
+                "time": "5d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-bx1k480p",
                 "title": "New OpenAI Academy courses for the next era of work",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-t2iaj9lg",
-                "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
-                "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 79
+                "id": "rss-eyjfb5k6",
+                "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+                "source": "Google Blog",
+                "time": "20h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-ft2pa580",
+                "id": "rss-2x4h7a3s",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
-            },
-            {
-                "id": "rss-ww4k5hv2",
-                "title": "How Preply combines AI and human tutors to personalize learning",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 77
             }
         ]
     },
@@ -88,75 +88,31 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-q9enus4e",
-                "title": "Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
+                "id": "rss-nw9mmq4x",
+                "title": "How to Build a Parsing Pipeline with Docling Parse for Layout-Aware Document Intelligence",
                 "source": "MarkTechPost",
                 "time": "3h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-9ky3baxo",
+                "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
+                "source": "MarkTechPost",
+                "time": "2h ago",
                 "relevance": 79
             },
             {
-                "id": "rss-kjyae0jp",
-                "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+                "id": "rss-4ktch43k",
+                "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 78
+                "time": "12h ago",
+                "relevance": 74
             },
             {
-                "id": "rss-nl8sk6u3",
-                "title": "A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics",
+                "id": "rss-rn3c7s7x",
+                "title": "Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
                 "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48520596",
-                "title": "Why does paper fold so well?",
-                "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 67
-            }
-        ]
-    },
-    {
-        "id": "topic-security",
-        "name": "AI Safety & Security",
-        "icon": "◊",
-        "color": "#ef4444",
-        "stories": [
-            {
-                "id": "rss-8yrjtp79",
-                "title": "Anthropic's Safety Superpower",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 82
-            },
-            {
-                "id": "hn-48537165",
-                "title": "Curl will not accept vulnerability reports during July 2026",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-wykn2dle",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48527145",
-                "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-                "source": "Hacker News",
-                "time": "22h ago",
                 "relevance": 71
             }
         ]
@@ -165,73 +121,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-4o7qlf61",
-        "title": "Gaze Heads: How VLMs Look at What They Describe",
-        "authors": "Rohit Gandikota, David Bau",
+        "id": "arxiv-qnsoetq2",
+        "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
+        "authors": "Nick Jiang, Isaac Kauvar, Jack Lindsey",
         "journal": "arXiv preprint",
-        "abstract": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the model is currently…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.14703v1"
+        "abstract": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-context reinforcement learning data, we construct a \"value\" axis for Qwen3-8B. We find that activations along this axis…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.17056v1"
     },
     {
-        "id": "arxiv-q3kany2e",
-        "title": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
-        "authors": "Xinyue Cai, Chaoyou Fu, Yi-Fan Zhang, Ran He, Caifeng Shan",
+        "id": "arxiv-ble9e1sk",
+        "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+        "authors": "Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao,…",
         "journal": "arXiv preprint",
-        "abstract": "Current automated pipelines for audio-visual Question Answering (QA) generally adopt a ``video-caption-QA'' paradigm. However, these methods typically segment videos into short clips and generate separate descriptions for audio and visual modalities. This decoupled processing severs inherent associations between…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.14702v1"
+        "abstract": "The ability to react dynamically to tactile signals has long been considered crucial to agile human-level dexterity. Yet contemporary learning-based Vision-Language-Action (VLA) models for robotic manipulation generally either overlook the tactile modality or are limited to encoders with static cues, due in part to…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.17055v1"
     },
     {
-        "id": "arxiv-aje8c539",
-        "title": "RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers",
-        "authors": "Timing Yang, Predrag Neskovic, Jansen Seheult, Wenchao Han,…",
+        "id": "arxiv-wf997xgf",
+        "title": "Human Universal Grasping",
+        "authors": "Kevin Yuanbo Wu, Tianxing Zhou, Isaac Tu, Billy Yan, Irmak…",
         "journal": "arXiv preprint",
-        "abstract": "When humans see a bird, they recognize far more than just \"bird\" -- they see a head, wings, and talons, a structured assembly of reusable parts that can be identified across every bird they have ever seen. We ask whether a self-supervised visual model can discover the same compositional structure on its own. To this…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.14701v1"
+        "abstract": "Humans can grasp objects effortlessly, whereas multi-fingered robots are far from this level of generality. We argue that the most natural source of robot grasping data is from humans, who pick up thousands of objects every day. We present HUG, a flow-matching model that generates diverse human grasps for any…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.17054v1"
     },
     {
-        "id": "arxiv-5p9ptjlw",
-        "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-        "authors": "Xichen Pan, Aashu Singh, Satya Narayan Shukla, Xiangjun…",
+        "id": "arxiv-l0d382ql",
+        "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+        "authors": "Peiyang Xu, Bangzheng Li, Sijia Liu, Karthik R. Narasimhan,…",
         "journal": "arXiv preprint",
-        "abstract": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emergence of representation autoencoders (RAEs) shifts the generation target toward semantically structured visual…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.14700v1"
+        "abstract": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle detail in an image. We propose ContextRL, a context-aware reinforcement learning (RL) method that improves long-horizon…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.17053v1"
     },
     {
-        "id": "arxiv-np2bwo69",
-        "title": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
-        "authors": "Ruining Li, Yuxin Yao, Matt Zhou, Chuanxia Zheng, Christian…",
+        "id": "arxiv-1wvb617u",
+        "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+        "authors": "Yi-Ruei Liu, Jie-Ying Lee, Zheng-Hui Huang, Yu-Lun Liu,…",
         "journal": "arXiv preprint",
-        "abstract": "Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization remains limited by the scarcity of annotated data for this task. To address this gap, we introduce…",
+        "abstract": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and control lighting physics, but suffer from reconstruction and rendering artifacts. While generative models produce realistic…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.14699v1"
+        "url": "http://arxiv.org/abs/2606.17049v1"
     },
     {
-        "id": "arxiv-ms5oh2yj",
-        "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
-        "authors": "Sicheng Yang, Hangjie Yuan, Wenjun Zhang, Jinwang Wang,…",
+        "id": "arxiv-ujzt57ph",
+        "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+        "authors": "Abbas Mammadov, Ozgur Kara, Kaan Oktay, Iskander Azangulov,…",
         "journal": "arXiv preprint",
-        "abstract": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.14697v1"
+        "abstract": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Existing methods…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.17048v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-c9froa40",
+        "id": "gh-7ti2yfa9",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "194.1k",
+        "stars": "194.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-zce83ofy",
+        "id": "gh-pkphjpop",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.0k",
@@ -240,7 +196,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-ijruesdj",
+        "id": "gh-i27widkj",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.7k",
@@ -249,7 +205,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-rdzzuajz",
+        "id": "gh-hma9zc43",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.6k",
@@ -258,7 +214,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ccjh0kpa",
+        "id": "gh-d9qmniq4",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.8k",
@@ -267,7 +223,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-5wk81zis",
+        "id": "gh-c4vs3fyu",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.7k",
@@ -276,10 +232,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-cku3r5i1",
+        "id": "gh-ji3ez2iz",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "117.1k",
+        "stars": "117.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
