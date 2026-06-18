@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-17T11:02:24.123Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-06-18T10:24:42.711Z
+   Stories: 26 | Clusters: 6 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-b0lqmlqy",
-    "topic": "Artificial Intelligence",
-    "topicId": "space",
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "excerpt": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "source": "TechCrunch",
-    "time": "14h ago",
+    "id": "rss-8ag7w840",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Introducing LifeSciBench",
+    "excerpt": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "source": "OpenAI",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/"
+    "relevance": 87,
+    "url": "https://openai.com/index/introducing-life-sci-bench"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ijiebd4f",
-                "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-41qjbzlr",
-                "title": "Introducing the OpenAI Partner Network",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-wq0pdpz3",
-                "title": "Predicting model behavior before release by simulating deployment",
+                "id": "rss-8ag7w840",
+                "title": "Introducing LifeSciBench",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 82
+                "relevance": 87
             },
             {
-                "id": "rss-eatm8tdb",
-                "title": "New OpenAI Academy courses for the next era of work",
+                "id": "rss-ytyv8aqa",
+                "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-yl8b6ud9",
+                "title": "Introducing the OpenAI Partner Network",
                 "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 79
+                "time": "3d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-jtzljkd4",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
+                "id": "rss-dydb2d8z",
+                "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-wlq5i3nq",
+                "title": "How to turn off AI in your Google Docs",
+                "source": "TechCrunch",
+                "time": "9h ago",
+                "relevance": 80
             }
         ]
     },
@@ -88,61 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-cnqqvnwz",
+                "id": "rss-zth69d2x",
+                "title": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-5a09238q",
                 "title": "MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 81
+                "time": "1d ago",
+                "relevance": 73
             },
             {
-                "id": "rss-wgxjqj2r",
-                "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
-                "source": "MarkTechPost",
-                "time": "18h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-62pqa577",
-                "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-                "source": "TechCrunch",
-                "time": "18h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-fud4lxl1",
+                "id": "rss-w6lllwjr",
                 "title": "OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
                 "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 79
+                "time": "1d ago",
+                "relevance": 71
             },
             {
-                "id": "rss-yqnm3btg",
+                "id": "rss-xaiwyd2k",
                 "title": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
                 "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 74
-            }
-        ]
-    },
-    {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "rss-b0lqmlqy",
-                "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 83
-            },
-            {
-                "id": "hn-48553224",
-                "title": "SpaceX to buy Cursor for $60B",
-                "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 74
+                "relevance": 71
             }
         ]
     },
@@ -153,18 +124,91 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-pq1abn5v",
-                "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-                "source": "Hacker News",
-                "time": "1h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-d8t6l7a9",
+                "id": "rss-9ji2xyem",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
+            },
+            {
+                "id": "hn-48580686",
+                "title": "SteamOS Linux 3.8 released as stable",
+                "source": "Hacker News",
+                "time": "6h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-48571081",
+                "title": "Lore – Open source version control system designed for scalability",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "rss-66tnp1nf",
+                "title": "Roelof Botha joins SpaceX’s board of directors",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 87
+            },
+            {
+                "id": "hn-48572553",
+                "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-vision",
+        "name": "Computer Vision & Media",
+        "icon": "◐",
+        "color": "#e8b84a",
+        "stories": [
+            {
+                "id": "rss-usdeq40c",
+                "title": "DeepSeek Introduces Vision",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-refypgck",
+                "title": "Midjourney Medical",
+                "source": "Hacker News",
+                "time": "8h ago",
+                "relevance": 77
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-5uaqjz69",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48579913",
+                "title": "AI Compute Extensions (ACE) Specification",
+                "source": "Hacker News",
+                "time": "7h ago",
+                "relevance": 71
             }
         ]
     }
@@ -172,73 +216,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-kbcb2fdh",
-        "title": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
-        "authors": "Nils Morbitzer, Jonathan Evers, Artem Savkin, Thomas…",
+        "id": "arxiv-rk2mhg11",
+        "title": "Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning",
+        "authors": "Jisoo Kim, Sangwon Baik, Taeksoo Kim, Sungjoo Kim, Junyoung…",
         "journal": "arXiv preprint",
-        "abstract": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion and environmental dynamics within the image plane, they exhibit physical inconsistencies, such as morphing or vanishing…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.18250v1"
-    },
-    {
-        "id": "arxiv-rdkv57ta",
-        "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
-        "authors": "Wujian Peng, Lingchen Meng, Yuxuan Cai, Xianwei Zhuang,…",
-        "journal": "arXiv preprint",
-        "abstract": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits the representation space and hinders truly unified modeling. We propose UniAR, a unified autoregressive framework where…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.18249v1"
-    },
-    {
-        "id": "arxiv-1iq99npu",
-        "title": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
-        "authors": "Mingtong Zhang, Dhruv Shah",
-        "journal": "arXiv preprint",
-        "abstract": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a generator-verifier framework for generalist robot policies for inference-time policy steering and self-improvement. We use…",
+        "abstract": "We present a zero-shot framework for long-horizon dexterous manipulation that grounds language instructions into executable 3D task plans from calibrated multi-view RGB images. Rather than training an end-to-end policy, our system uses a vision-language model (VLM) to produce reference-frame task grounding and…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.18247v1"
+        "url": "http://arxiv.org/abs/2606.19340v1"
     },
     {
-        "id": "arxiv-txhim59h",
-        "title": "Variable-Width Transformers",
-        "authors": "Zhaofeng Wu, Oliver Sieberling, Shawn Tan, Rameswar Panda,…",
+        "id": "arxiv-h6lsal24",
+        "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+        "authors": "Zhenghao Xing, Ruiyang Xu, Yuxuan Wang, Jinzheng He, Ziyang…",
         "journal": "arXiv preprint",
-        "abstract": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocating a fixed parameter and computation budget evenly despite different layers potentially playing distinct computational…",
+        "abstract": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their context cost still…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.19341v1"
+    },
+    {
+        "id": "arxiv-ze8cmsc2",
+        "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+        "authors": "Shengyuan Ding, Xilin Wei, Xinyu Fang, Haodong Duan, Dahua…",
+        "journal": "arXiv preprint",
+        "abstract": "Deploying multimodal foundation models as closed-loop policies increasingly requires conditioning actions on observations that are no longer visible. However, existing benchmarks either expose the full state, conflate hidden-state reconstruction with other agent skills, or test recall only after an episode has ended.…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.19338v1"
+    },
+    {
+        "id": "arxiv-n6k7qbyk",
+        "title": "Learning User Simulators with Turing Rewards",
+        "authors": "Yingshan Susan Wang, Cedegao E. Zhang, Linlu Qiu, Zexue He,…",
+        "journal": "arXiv preprint",
+        "abstract": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a large language model (LLM) to match a single ground truth response, either by…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2606.18246v1"
+        "url": "http://arxiv.org/abs/2606.19336v1"
     },
     {
-        "id": "arxiv-9t4l3j4i",
-        "title": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
-        "authors": "Jiye Lee, Yonghun Choi, Jungdam Won",
+        "id": "arxiv-hl2wma5a",
+        "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+        "authors": "Denis Peskoff, Joe Barrow, Christopher Vu, Diag Davenport",
         "journal": "arXiv preprint",
-        "abstract": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collaborative multi-human object interaction (MHOI) scenarios requires high-quality data acquisition as a foundational step;…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.18243v1"
+        "abstract": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.19334v1"
     },
     {
-        "id": "arxiv-78unmczm",
-        "title": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
-        "authors": "Dongyue Lu, Rong Li, Ao Liang, Lingdong Kong, Wei Yin, Lai…",
+        "id": "arxiv-5808m1i9",
+        "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+        "authors": "Bhawna Paliwal, Haritheja Etukuru, William Liang, Pieter…",
         "journal": "arXiv preprint",
-        "abstract": "Event cameras sense the world through asynchronous brightness changes with microsecond latency and high dynamic range, offering motion fidelity far beyond frame-based sensors and capturing temporal structure that conventional exposures often miss. These properties make events a powerful complement to RGB in autonomous…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.18242v1"
+        "abstract": "How can we scalably generate data for robotic manipulation, especially on human-like platforms such as dexterous multi-fingered hands? Learning from human videos has recently emerged as a likely answer to this question. However, difficulties in estimating hand-object interaction and crossing the human-to-robot…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.19333v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-6qi050jv",
+        "id": "gh-hd0s1f69",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "195.8k",
+        "stars": "196.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-d4zfmihg",
+        "id": "gh-k7atvox5",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.0k",
@@ -247,7 +291,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-t24lwh1g",
+        "id": "gh-fkg7ch16",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.8k",
@@ -256,7 +300,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-hbgs4bpc",
+        "id": "gh-tohkvmzp",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.7k",
@@ -265,16 +309,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-dak1i4lk",
+        "id": "gh-9zeeqph1",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "100.8k",
+        "stars": "100.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-tys79y6k",
+        "id": "gh-ld2eyvnp",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.8k",
@@ -283,10 +327,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-kyh7v6nj",
+        "id": "gh-je4c4r2v",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "117.3k",
+        "stars": "117.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
