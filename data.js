@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-20T09:20:26.388Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-06-21T09:53:47.697Z
+   Stories: 22 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-cowqglsu",
+    "id": "rss-1cx6q7f3",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Improving health intelligence in ChatGPT",
     "excerpt": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 87,
+    "relevance": 85,
     "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
 },
 
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-cowqglsu",
+                "id": "rss-1cx6q7f3",
                 "title": "Improving health intelligence in ChatGPT",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-suoxjxb0",
+                "id": "rss-ud3v7ilu",
                 "title": "New usage analytics and updated spend controls for enterprises",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
+                "time": "2d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-2efjn7to",
+                "id": "rss-5djrws7z",
                 "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-l8sswh2m",
+                "id": "rss-u9dwzc5c",
                 "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-0un4bwn3",
+                "id": "rss-zzwccdmd",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-j8zrklc4",
-                "title": "Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks",
+                "id": "rss-cpi1zihu",
+                "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "time": "3h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-bz6xi3ck",
-                "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
+                "id": "rss-tvs1x372",
+                "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 76
+                "time": "12h ago",
+                "relevance": 72
             },
             {
-                "id": "rss-wpc074kf",
+                "id": "rss-isrpwte4",
                 "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
                 "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 75
+                "time": "1d ago",
+                "relevance": 72
             },
             {
-                "id": "rss-uin7srmh",
-                "title": "Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual Search Across 11 Languages",
+                "id": "rss-3e0jo4v1",
+                "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
                 "source": "MarkTechPost",
-                "time": "22h ago",
-                "relevance": 71
+                "time": "1d ago",
+                "relevance": 69
             }
         ]
     },
@@ -124,18 +124,62 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-ntokw4cx",
+                "id": "rss-ti7xtpl2",
+                "title": "In the Weights is your new AI-centric vanity search",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-kjkbuq91",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-biotech",
+        "name": "biotech",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "hn-48615569",
+                "title": "Your brain was never designed for this much bad news",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 74
             },
             {
-                "id": "hn-48546890",
-                "title": "Ten years of ClickHouse in open source",
+                "id": "hn-48613555",
+                "title": "Slow breathing modulates brain function and risk behavior",
                 "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 65
+                "time": "11h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48613755",
+                "title": "Renting a sewing machine from the library",
+                "source": "Hacker News",
+                "time": "10h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-48612943",
+                "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 69
             }
         ]
     }
@@ -143,7 +187,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-820qp89y",
+        "id": "arxiv-jgj9ul5o",
         "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
         "authors": "Siang-Ling Zhang, Huai-Hsun Cheng, Tsung-Ju Yang, Yu-Lun Liu",
         "journal": "arXiv preprint",
@@ -152,7 +196,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.20563v1"
     },
     {
-        "id": "arxiv-0w4ckj55",
+        "id": "arxiv-06yd6bw5",
         "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
         "authors": "Sizhe Yang, Juncheng Mu, Tianming Wei, Chenhao Lu, Xiaofan…",
         "journal": "arXiv preprint",
@@ -161,7 +205,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.20562v1"
     },
     {
-        "id": "arxiv-p7xhnnl2",
+        "id": "arxiv-dki11eww",
         "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
         "authors": "Arkaprava Sinha, Dominick Reilly, Siddharth Krishnan, Hieu…",
         "journal": "arXiv preprint",
@@ -170,7 +214,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.20561v1"
     },
     {
-        "id": "arxiv-jihr3qra",
+        "id": "arxiv-4scikt11",
         "title": "How Transparent is DiffusionGemma?",
         "authors": "Joshua Engels, Callum McDougall, Bilal Chughtai, Janos…",
         "journal": "arXiv preprint",
@@ -179,7 +223,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.20560v1"
     },
     {
-        "id": "arxiv-4oxkr3y5",
+        "id": "arxiv-i671epr5",
         "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
         "authors": "Wenhao Chi, Arkaprava Sinha, Dominick Reilly, Hieu Le,…",
         "journal": "arXiv preprint",
@@ -188,7 +232,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.20559v1"
     },
     {
-        "id": "arxiv-hkjlkr36",
+        "id": "arxiv-dlbjluc0",
         "title": "Optimal Deterministic Multicalibration and Omniprediction",
         "authors": "Georgy Noarov, Aaron Roth",
         "journal": "arXiv preprint",
@@ -200,16 +244,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-sa8rsfqq",
+        "id": "gh-i8tb5q3g",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "197.9k",
+        "stars": "198.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-5p455t6b",
+        "id": "gh-ojlw222z",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.0k",
@@ -218,7 +262,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-vuabiced",
+        "id": "gh-r6ooyj6y",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "149.9k",
@@ -227,16 +271,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-g2pji1fi",
+        "id": "gh-14oiy254",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.7k",
+        "stars": "161.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ktwkrdm9",
+        "id": "gh-2nczd295",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "100.9k",
@@ -245,7 +289,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-job6udex",
+        "id": "gh-peo5xqmy",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.8k",
@@ -254,10 +298,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-u7zswqvo",
+        "id": "gh-i6118r0x",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "117.6k",
+        "stars": "117.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
