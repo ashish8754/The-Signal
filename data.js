@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-22T12:09:33.863Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-06-23T09:45:40.946Z
+   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-xy4oktgg",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "excerpt": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "source": "OpenAI",
-    "time": "13h ago",
+    "id": "rss-144kf2q1",
+    "topic": "AI Agents & Autonomy",
+    "topicId": "agents",
+    "title": "The AI world is getting ‘loopy’",
+    "excerpt": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+    "source": "TechCrunch",
+    "time": "12h ago",
     "readTime": "5 min read",
     "relevance": 85,
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
 },
 
     topics: [
@@ -45,39 +45,75 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-xy4oktgg",
-                "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+                "id": "rss-op9rfw8u",
+                "title": "How Omio is building the future of conversational travel",
                 "source": "OpenAI",
-                "time": "13h ago",
-                "relevance": 85
+                "time": "9h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-jduqh8pe",
-                "title": "Improving health intelligence in ChatGPT",
+                "id": "rss-s6vpu526",
+                "title": "Daybreak: Tools for securing every organization in the world",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "23h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-funx73pr",
-                "title": "New usage analytics and updated spend controls for enterprises",
+                "id": "rss-lbek36j6",
+                "title": "Codex-maxxing for long-running work",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 79
+                "time": "1d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-6nng9tdz",
-                "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+                "id": "rss-m7d2g3eo",
+                "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 79
+                "time": "23h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-o3gkvpe5",
+                "id": "rss-fnpc43b1",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-rfvygs2x",
+                "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-144kf2q1",
+                "title": "The AI world is getting ‘loopy’",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-mikt443z",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48639240",
+                "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+                "source": "Hacker News",
+                "time": "7h ago",
+                "relevance": 69
             }
         ]
     },
@@ -88,32 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-51vmwmj9",
+                "id": "rss-hro35622",
+                "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads",
+                "source": "MarkTechPost",
+                "time": "2h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-k2v8h5m4",
+                "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
+                "source": "MarkTechPost",
+                "time": "15h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-9p6bluou",
                 "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
                 "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-rt9jqj77",
-                "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
-                "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 72
+                "relevance": 68
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-f52vm2op",
+                "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-6ge2mwmt",
-                "title": "How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 71
-            },
-            {
-                "id": "rss-tyi5bswx",
-                "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 69
+                "id": "rss-emcgonp3",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     },
@@ -124,17 +175,17 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-pm0gny9j",
+                "id": "rss-5vjje0ma",
+                "title": "OpenAI launches new initiative to help find and patch open source bugs",
+                "source": "TechCrunch",
+                "time": "9h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-jopwghm3",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
-                "relevance": 72
-            },
-            {
-                "id": "rss-cfkv5zba",
-                "title": "In the Weights is your new AI-centric vanity search",
-                "source": "TechCrunch",
-                "time": "1d ago",
                 "relevance": 72
             }
         ]
@@ -143,73 +194,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-eqlw6e0l",
-        "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-        "authors": "Siang-Ling Zhang, Huai-Hsun Cheng, Tsung-Ju Yang, Yu-Lun Liu",
+        "id": "arxiv-xqny0hc5",
+        "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+        "authors": "Mingi Choi, Gunhee Kim, Jisoo Kim, Taeksoo Kim, Taeyun Ha,…",
         "journal": "arXiv preprint",
-        "abstract": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow and can produce oversaturated colors. In contrast, naive stitching approaches fail to produce geometrically coherent…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.20563v1"
-    },
-    {
-        "id": "arxiv-aihfjbm5",
-        "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
-        "authors": "Sizhe Yang, Juncheng Mu, Tianming Wei, Chenhao Lu, Xiaofan…",
-        "journal": "arXiv preprint",
-        "abstract": "Robust robotic manipulation in the real world requires not only an understanding of the current observation, but also memory and dynamics modeling. World action models (WAMs) possess these capabilities by jointly modeling visual foresight and actions conditioned on both current and historical observations, making them…",
+        "abstract": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.20562v1"
+        "url": "http://arxiv.org/abs/2606.23689v1"
     },
     {
-        "id": "arxiv-nr4ko6xr",
-        "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
-        "authors": "Arkaprava Sinha, Dominick Reilly, Siddharth Krishnan, Hieu…",
+        "id": "arxiv-5mp8tu4f",
+        "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+        "authors": "Yehonathan Litman, Xiaoxuan Ma, Manan Shah, Nicolas…",
         "journal": "arXiv preprint",
-        "abstract": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-language models (VLMs), incurring prohibitive computational cost, or rely on sparse caption-based reasoning, which often…",
+        "abstract": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either learn to directly predict 4D representations from visual input or initialize a 3D representation that is subsequently…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.20561v1"
+        "url": "http://arxiv.org/abs/2606.23688v1"
     },
     {
-        "id": "arxiv-gd5p3udq",
-        "title": "How Transparent is DiffusionGemma?",
-        "authors": "Joshua Engels, Callum McDougall, Bilal Chughtai, Janos…",
+        "id": "arxiv-9jfb3ilu",
+        "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+        "authors": "Manas Mehta, Fangcong Yin, Greg Durrett",
         "journal": "arXiv preprint",
-        "abstract": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.20560v1"
+        "abstract": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.23687v1"
     },
     {
-        "id": "arxiv-c8tpvjm7",
-        "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
-        "authors": "Wenhao Chi, Arkaprava Sinha, Dominick Reilly, Hieu Le,…",
+        "id": "arxiv-z3kvq3pq",
+        "title": "LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models",
+        "authors": "Rongxu Cui, Zongzheng Zhang, Jingrui Pang, Haohan Chi,…",
         "journal": "arXiv preprint",
-        "abstract": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints,…",
+        "abstract": "Despite the impressive manipulation capabilities of Vision-Language-Action (VLA) models, their operational safety under strict constraints remains largely unverified. To address this, we introduce a parametric safety benchmark to procedurally generate safety-critical scenarios with comprehensive stochasticity. To…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.23686v1"
+    },
+    {
+        "id": "arxiv-z0yvuhi0",
+        "title": "LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation",
+        "authors": "Jiaming Liu, Yinxi Wang, Chenyang Gu, Siyuan Qian, Xiangju…",
+        "journal": "arXiv preprint",
+        "abstract": "Human-hand demonstrations provide a direct and scalable source of physical interaction data for robot learning. While manual retargeting is indispensable for establishing kinematic action correspondence across different morphologies, robust transfer requires going beyond geometry to address the underlying alignment of…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.23685v1"
+    },
+    {
+        "id": "arxiv-uc8ept6k",
+        "title": "Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping",
+        "authors": "Rishubh Parihar, Ayush Raina, R. Venkatesh Babu, Or…",
+        "journal": "arXiv preprint",
+        "abstract": "Reference-based diffusion models enable highly controllable image generation by leveraging elements from input images to guide prompt-driven synthesis. However, these models are computationally expensive in runtime, and their cost scales severely with the number of input references. While the efficiency of diffusion…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.20559v1"
-    },
-    {
-        "id": "arxiv-nqvii65z",
-        "title": "Optimal Deterministic Multicalibration and Omniprediction",
-        "authors": "Georgy Noarov, Aaron Roth",
-        "journal": "arXiv preprint",
-        "abstract": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each $g \\in G$. It is a useful property for many downstream applications and is a basic desideratum of trustworthy machine…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.20557v1"
+        "url": "http://arxiv.org/abs/2606.23682v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-bkvoi19b",
+        "id": "gh-cdd6njat",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "199.5k",
+        "stars": "200.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-swk726ii",
+        "id": "gh-21sz9grf",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.1k",
@@ -218,16 +269,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-7hzfkrlq",
+        "id": "gh-mx4ct8wx",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "149.9k",
+        "stars": "150.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-k0hb8n1r",
+        "id": "gh-6wm8nxzd",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.8k",
@@ -236,7 +287,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-tbqeh9g6",
+        "id": "gh-lxm27epr",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.0k",
@@ -245,7 +296,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-nsnnldf6",
+        "id": "gh-p7mlq48s",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.8k",
@@ -254,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-n6mfyrkj",
+        "id": "gh-ampti7vu",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "117.9k",
+        "stars": "118.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
