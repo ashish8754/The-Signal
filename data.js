@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-24T09:35:28.555Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-06-25T09:27:09.452Z
+   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-dle24qlw",
+    "id": "rss-bi0u4xit",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Helping build shared standards for advanced AI",
-    "excerpt": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "title": "How agents are transforming work",
+    "excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
     "source": "OpenAI",
-    "time": "20h ago",
+    "time": "7h ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+    "relevance": 88,
+    "url": "https://openai.com/index/how-agents-are-transforming-work"
 },
 
     topics: [
@@ -45,39 +45,68 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-dle24qlw",
+                "id": "rss-bi0u4xit",
+                "title": "How agents are transforming work",
+                "source": "OpenAI",
+                "time": "7h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-7xh61n71",
+                "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-221xiyre",
                 "title": "Helping build shared standards for advanced AI",
                 "source": "OpenAI",
-                "time": "20h ago",
+                "time": "1d ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-d1rjr2mo",
+                "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-r5bi76dz",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+                "source": "VentureBeat",
+                "time": "Jan 19",
+                "relevance": 78
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-u0ke9cpa",
+                "title": "Europe is pushing back on Washington’s chip war",
+                "source": "TechCrunch",
+                "time": "9h ago",
                 "relevance": 86
             },
             {
-                "id": "rss-bdpd16ha",
-                "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-                "source": "OpenAI",
-                "time": "16h ago",
-                "relevance": 82
+                "id": "rss-er07ew0y",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             },
             {
-                "id": "rss-jxdvd0gi",
-                "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
-                "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-6kv4dh7u",
-                "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-                "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-fykcvqa6",
-                "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 80
+                "id": "rss-383g11du",
+                "title": "OpenAI unveils its first custom chip, built by Broadcom",
+                "source": "Hacker News",
+                "time": "15h ago",
+                "relevance": 71
             }
         ]
     },
@@ -88,62 +117,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-vqwazco1",
-                "title": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
+                "id": "rss-66n3xykn",
+                "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 85
+                "time": "3h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-jwqqzpfz",
+                "id": "rss-hpxsjih3",
+                "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-51dx1385",
                 "title": "Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 84
-            }
-        ]
-    },
-    {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
-        "stories": [
-            {
-                "id": "hn-48648779",
-                "title": "Swift Package Index joins Apple",
-                "source": "Hacker News",
-                "time": "15h ago",
+                "time": "1d ago",
                 "relevance": 71
-            },
-            {
-                "id": "hn-48654465",
-                "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 68
             }
         ]
     },
     {
-        "id": "topic-security",
-        "name": "AI Safety & Security",
-        "icon": "◊",
-        "color": "#ef4444",
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-gy6ylzbc",
-                "title": "Vulnerability reports are not special anymore",
-                "source": "Hacker News",
-                "time": "9h ago",
-                "relevance": 70
+                "id": "rss-f3hadevk",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
             },
             {
-                "id": "hn-48585852",
-                "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+                "id": "hn-48636753",
+                "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
                 "source": "Hacker News",
-                "time": "5d ago",
-                "relevance": 66
+                "time": "2d ago",
+                "relevance": 65
             }
         ]
     }
@@ -151,91 +165,91 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-yspekwmk",
-        "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
-        "authors": "Xingjian Leng, Jaskirat Singh, Zhanhao Liang, Ethan Smith,…",
+        "id": "arxiv-j7o610w8",
+        "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+        "authors": "Dong Jing, Tianqi Zhang, Jiaqi Liu, Jinman Zhao, Zelong…",
         "journal": "arXiv preprint",
-        "abstract": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e.,…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.24888v1"
-    },
-    {
-        "id": "arxiv-6yhvdc7p",
-        "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-        "authors": "Maggie Wang, Lars Osterberg, Stephen Tian, Ola Shorinwa,…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the…",
+        "abstract": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result,…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.24884v1"
+        "url": "http://arxiv.org/abs/2606.26095v1"
     },
     {
-        "id": "arxiv-jg89lsbi",
-        "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
-        "authors": "Qi Chen, Wenxuan Li, Pedro R. A. S. Bassi, Xinze Zhou,…",
+        "id": "arxiv-0h9yfhr1",
+        "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+        "authors": "Babak Rahmani, Sebastian Dziadzio, Joschka Strüber, Sergio…",
         "journal": "arXiv preprint",
-        "abstract": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors,…",
+        "abstract": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment,…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.26094v1"
+    },
+    {
+        "id": "arxiv-mqk4y09z",
+        "title": "ForceBand: Learning Forceful Manipulation with sEMG",
+        "authors": "Botao He, Zhi Wang, Linna Kuang, Ishaan Ghosh, Jitendra…",
+        "journal": "arXiv preprint",
+        "abstract": "Human demonstrations are a scalable data source for learning robot manipulation policies. However, common sources of human demonstration data, such as motion-capture trajectories and internet videos, capture mostly motion and appearance while missing the contact forces that are critical for force-sensitive…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.26093v1"
+    },
+    {
+        "id": "arxiv-0whelzhu",
+        "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+        "authors": "Hao Sun, Hao Yan, Mengting Chen, Quanjian Song, Yu Li, Juan…",
+        "journal": "arXiv preprint",
+        "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive dependency on source camera trajectories, failing to accommodate the requisite interactive freedom for omnidirectional…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.24883v1"
+        "url": "http://arxiv.org/abs/2606.26092v1"
     },
     {
-        "id": "arxiv-kzi066wx",
-        "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-        "authors": "Guglielmo Beretta, Tommaso Cesari, Roberto Colomboni,…",
+        "id": "arxiv-1d2cnmqr",
+        "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+        "authors": "Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville",
         "journal": "arXiv preprint",
-        "abstract": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2606.24879v1"
+        "abstract": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e.,…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2606.26091v1"
     },
     {
-        "id": "arxiv-lspfbwul",
-        "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
-        "authors": "Orest Kupyn, Goutam Bhat, Philipp Henzler, Fabian Manhardt,…",
+        "id": "arxiv-qwgudhy9",
+        "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+        "authors": "JoungBin Lee, Jaewoo Jung, Jongmin Lee, Tongmin Kim,…",
         "journal": "arXiv preprint",
-        "abstract": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward…",
+        "abstract": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing methods based on explicit 3D representations are limited by the accuracy of off-the-shelf reconstruction modules, which…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.24876v1"
-    },
-    {
-        "id": "arxiv-142jkvtr",
-        "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-        "authors": "Haorui Ji, Weizhe Liu, Hongdong Li, Hengkai Guo",
-        "journal": "arXiv preprint",
-        "abstract": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.24874v1"
+        "url": "http://arxiv.org/abs/2606.26087v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-e6upisoj",
+        "id": "gh-3b3il2us",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "201.4k",
+        "stars": "202.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-emt729yh",
+        "id": "gh-ewjg723w",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "185.1k",
+        "stars": "185.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-whodj8sa",
+        "id": "gh-5ro0vm6v",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "150.0k",
+        "stars": "150.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-an58lwfg",
+        "id": "gh-josv3gp4",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.9k",
@@ -244,16 +258,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-1l4yg8gt",
+        "id": "gh-f9kvakn1",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.0k",
+        "stars": "101.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-xor2g8e0",
+        "id": "gh-khfu0wl7",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.9k",
@@ -262,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-n18xe2ih",
+        "id": "gh-zfsdgfuj",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "118.2k",
+        "stars": "118.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
