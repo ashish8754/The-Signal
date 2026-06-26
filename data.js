@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-25T09:27:09.452Z
-   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-06-26T09:32:05.422Z
+   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-bi0u4xit",
+    "id": "rss-wh0wupfe",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "How agents are transforming work",
     "excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
     "source": "OpenAI",
-    "time": "7h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 88,
+    "relevance": 85,
     "url": "https://openai.com/index/how-agents-are-transforming-work"
 },
 
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-bi0u4xit",
+                "id": "rss-wh0wupfe",
                 "title": "How agents are transforming work",
                 "source": "OpenAI",
-                "time": "7h ago",
-                "relevance": 88
+                "time": "1d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-7xh61n71",
+                "id": "rss-m1nt01c6",
                 "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-221xiyre",
+                "id": "rss-9d6aitn4",
+                "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-vja16tx8",
                 "title": "Helping build shared standards for advanced AI",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 83
+                "time": "2d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-d1rjr2mo",
-                "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-r5bi76dz",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-u0ke9cpa",
-                "title": "Europe is pushing back on Washington’s chip war",
+                "id": "rss-awnso3ub",
+                "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
                 "source": "TechCrunch",
                 "time": "9h ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-er07ew0y",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "rss-383g11du",
-                "title": "OpenAI unveils its first custom chip, built by Broadcom",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 71
+                "relevance": 80
             }
         ]
     },
@@ -117,25 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-66n3xykn",
-                "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
+                "id": "rss-ugd8ctux",
+                "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 81
+                "time": "Just now",
+                "relevance": 83
             },
             {
-                "id": "rss-hpxsjih3",
+                "id": "rss-wuj9u8uv",
                 "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
                 "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 80
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-51dx1385",
-                "title": "Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md",
+                "id": "rss-ukma85q2",
+                "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
+                "source": "MarkTechPost",
+                "time": "16h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-adq7y1mw",
+                "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 71
+                "relevance": 73
             }
         ]
     },
@@ -146,18 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-f3hadevk",
+                "id": "hn-48682737",
+                "title": "We All Depend on Open Source. We Will Defend It Together",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-3w4kmhgf",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-48636753",
-                "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+                "id": "hn-48675435",
+                "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
                 "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
+                "time": "17h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-yni3oych",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48674967",
+                "title": "IBM debuts sub-1 nanometer chip technology",
+                "source": "Hacker News",
+                "time": "17h ago",
+                "relevance": 74
             }
         ]
     }
@@ -165,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-j7o610w8",
-        "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
-        "authors": "Dong Jing, Tianqi Zhang, Jiaqi Liu, Jinman Zhao, Zelong…",
+        "id": "arxiv-qxvht1nr",
+        "title": "DanceOPD: On-Policy Generative Field Distillation",
+        "authors": "Wei Zhou, Xiongwei Zhu, Zelin Xu, Bo Dong, Lixue Gong,…",
         "journal": "arXiv preprint",
-        "abstract": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result,…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.26095v1"
-    },
-    {
-        "id": "arxiv-0h9yfhr1",
-        "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
-        "authors": "Babak Rahmani, Sebastian Dziadzio, Joschka Strüber, Sergio…",
-        "journal": "arXiv preprint",
-        "abstract": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment,…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.26094v1"
-    },
-    {
-        "id": "arxiv-mqk4y09z",
-        "title": "ForceBand: Learning Forceful Manipulation with sEMG",
-        "authors": "Botao He, Zhi Wang, Linna Kuang, Ishaan Ghosh, Jitendra…",
-        "journal": "arXiv preprint",
-        "abstract": "Human demonstrations are a scalable data source for learning robot manipulation policies. However, common sources of human demonstration data, such as motion-capture trajectories and internet videos, capture mostly motion and appearance while missing the contact forces that are critical for force-sensitive…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.26093v1"
-    },
-    {
-        "id": "arxiv-0whelzhu",
-        "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
-        "authors": "Hao Sun, Hao Yan, Mengting Chen, Quanjian Song, Yu Li, Juan…",
-        "journal": "arXiv preprint",
-        "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive dependency on source camera trajectories, failing to accommodate the requisite interactive freedom for omnidirectional…",
+        "abstract": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and local editing…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.26092v1"
+        "url": "http://arxiv.org/abs/2606.27377v1"
     },
     {
-        "id": "arxiv-1d2cnmqr",
-        "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
-        "authors": "Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville",
+        "id": "arxiv-13f06m0g",
+        "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
+        "authors": "Ritesh Thawkar, Shravan Venkatraman, Omkar Thawakar,…",
         "journal": "arXiv preprint",
-        "abstract": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e.,…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.26091v1"
-    },
-    {
-        "id": "arxiv-qwgudhy9",
-        "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
-        "authors": "JoungBin Lee, Jaewoo Jung, Jongmin Lee, Tongmin Kim,…",
-        "journal": "arXiv preprint",
-        "abstract": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing methods based on explicit 3D representations are limited by the accuracy of off-the-shelf reconstruction modules, which…",
+        "abstract": "Most unified large multimodal models (LMMs) that support both visual understanding and image generation still rely on curated post-training supervision, such as human annotations, preference labels, or external reward models. We ask whether a unified LMM can improve both abilities autonomously using only unlabeled…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.26087v1"
+        "url": "http://arxiv.org/abs/2606.27376v1"
+    },
+    {
+        "id": "arxiv-3to2k857",
+        "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+        "authors": "Arthur Allshire, Himanshu Gaurav Singh, Ritvik Singh, Adam…",
+        "journal": "arXiv preprint",
+        "abstract": "We introduce ABC, a fully open-source stack for manipulation with behavior cloning. At its core is ABC-130K: the largest open-source teleoperation dataset to date, featuring 3,500 hours of data spanning over 130K episodes across 195 diverse tasks. Furthermore, we open-source our accessible hardware setup, training…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.27375v1"
+    },
+    {
+        "id": "arxiv-5ro77aiw",
+        "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
+        "authors": "Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le,…",
+        "journal": "arXiv preprint",
+        "abstract": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a continual imitation learning framework that synthesizes pseudo-replay trajectories, enabling a robot policy to…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2606.27374v1"
+    },
+    {
+        "id": "arxiv-sa6rpky5",
+        "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
+        "authors": "Shravan Venkatraman, Ritesh Thawkar, Omkar Thawakar, Rao…",
+        "journal": "arXiv preprint",
+        "abstract": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, multi-role self-play and self-consistency reward schemes in existing self-evolving LMMs optimize answer agreement without ensuring the decoder attends to visual…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.27373v1"
+    },
+    {
+        "id": "arxiv-xdqcez6d",
+        "title": "DnA: Denoising Attention for Visual Tasks",
+        "authors": "Ron Campos, Subhajit Maity, Xin Li, Srijan Das, Aritra Dutta",
+        "journal": "arXiv preprint",
+        "abstract": "The softmax activation in multihead attention (MHA) is the de facto standard for attention-based models in visual perception tasks. However, standard softmax can produce noisy attention patterns that dilute relevant features and degrade its performance. In this paper, we propose Denoising Attention or DnA, in which,…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.27372v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-3b3il2us",
+        "id": "gh-42edn1xw",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "202.5k",
+        "stars": "203.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ewjg723w",
+        "id": "gh-a8xp11ng",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.2k",
@@ -240,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-5ro0vm6v",
+        "id": "gh-egevcbjd",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "150.1k",
@@ -249,7 +256,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-josv3gp4",
+        "id": "gh-ak6fzwsd",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "161.9k",
@@ -258,16 +265,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-f9kvakn1",
+        "id": "gh-kc5xrvi6",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.1k",
+        "stars": "101.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-khfu0wl7",
+        "id": "gh-nspbygyw",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.9k",
@@ -276,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-zfsdgfuj",
+        "id": "gh-5bkgn5fl",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "118.3k",
+        "stars": "118.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
