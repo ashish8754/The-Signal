@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-26T09:32:05.422Z
-   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-06-27T08:39:34.829Z
+   Stories: 26 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-wh0wupfe",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "How agents are transforming work",
-    "excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "source": "OpenAI",
-    "time": "1d ago",
+    "id": "rss-o4uvsbl5",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "excerpt": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier…",
+    "source": "TechCrunch",
+    "time": "14h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/how-agents-are-transforming-work"
+    "relevance": 87,
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-wh0wupfe",
-                "title": "How agents are transforming work",
+                "id": "rss-j12nfagk",
+                "title": "Previewing GPT-5.6 Sol: a next-generation model",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 85
+                "time": "22h ago",
+                "relevance": 87
             },
             {
-                "id": "rss-m1nt01c6",
+                "id": "rss-qdnwg4hi",
                 "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-9d6aitn4",
-                "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-vja16tx8",
-                "title": "Helping build shared standards for advanced AI",
+                "id": "rss-93bcj2qm",
+                "title": "How agents are transforming work",
                 "source": "OpenAI",
                 "time": "2d ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-w77qyeha",
+                "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+                "source": "TechCrunch",
+                "time": "14h ago",
                 "relevance": 81
             },
             {
-                "id": "rss-awnso3ub",
-                "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 80
+                "id": "rss-uo3fihb3",
+                "title": "Helping build shared standards for advanced AI",
+                "source": "OpenAI",
+                "time": "3d ago",
+                "relevance": 81
             }
         ]
     },
@@ -88,61 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-ugd8ctux",
-                "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
+                "id": "rss-dfe4eiuv",
+                "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 83
-            },
-            {
-                "id": "rss-wuj9u8uv",
-                "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-ukma85q2",
-                "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
-                "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-adq7y1mw",
-                "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "hn-48682737",
-                "title": "We All Depend on Open Source. We Will Defend It Together",
-                "source": "Hacker News",
-                "time": "3h ago",
+                "time": "13h ago",
                 "relevance": 74
             },
             {
-                "id": "rss-3w4kmhgf",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "id": "rss-iusz5ler",
+                "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 73
             },
             {
-                "id": "hn-48675435",
-                "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 69
+                "id": "rss-hfm0hhha",
+                "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
+                "source": "MarkTechPost",
+                "time": "23h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-xrcaiczn",
+                "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
+                "source": "MarkTechPost",
+                "time": "2d ago",
+                "relevance": 71
             }
         ]
     },
@@ -153,18 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-yni3oych",
+                "id": "rss-o4uvsbl5",
+                "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-2kn24q7t",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
             },
             {
-                "id": "hn-48674967",
-                "title": "IBM debuts sub-1 nanometer chip technology",
+                "id": "hn-48668747",
+                "title": "Linux on Older Hardware: The Complete Revival Guide",
                 "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 74
+                "time": "2d ago",
+                "relevance": 67
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-bv18a4zi",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48692058",
+                "title": "The gap between open weights LLMs and closed source LLMs",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 71
             }
         ]
     }
@@ -172,7 +172,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-qxvht1nr",
+        "id": "arxiv-83jrzaoq",
         "title": "DanceOPD: On-Policy Generative Field Distillation",
         "authors": "Wei Zhou, Xiongwei Zhu, Zelin Xu, Bo Dong, Lixue Gong,…",
         "journal": "arXiv preprint",
@@ -181,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.27377v1"
     },
     {
-        "id": "arxiv-13f06m0g",
+        "id": "arxiv-q46qizn9",
         "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
         "authors": "Ritesh Thawkar, Shravan Venkatraman, Omkar Thawakar,…",
         "journal": "arXiv preprint",
@@ -190,7 +190,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.27376v1"
     },
     {
-        "id": "arxiv-3to2k857",
+        "id": "arxiv-c5yuramw",
         "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
         "authors": "Arthur Allshire, Himanshu Gaurav Singh, Ritvik Singh, Adam…",
         "journal": "arXiv preprint",
@@ -199,7 +199,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.27375v1"
     },
     {
-        "id": "arxiv-5ro77aiw",
+        "id": "arxiv-qw6d9vdn",
         "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
         "authors": "Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le,…",
         "journal": "arXiv preprint",
@@ -208,7 +208,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.27374v1"
     },
     {
-        "id": "arxiv-sa6rpky5",
+        "id": "arxiv-so4xqbdx",
         "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
         "authors": "Shravan Venkatraman, Ritesh Thawkar, Omkar Thawakar, Rao…",
         "journal": "arXiv preprint",
@@ -217,7 +217,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2606.27373v1"
     },
     {
-        "id": "arxiv-xdqcez6d",
+        "id": "arxiv-j46hblok",
         "title": "DnA: Denoising Attention for Visual Tasks",
         "authors": "Ron Campos, Subhajit Maity, Xin Li, Srijan Das, Aritra Dutta",
         "journal": "arXiv preprint",
@@ -229,16 +229,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-42edn1xw",
+        "id": "gh-k0b5fgtd",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "203.4k",
+        "stars": "204.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-a8xp11ng",
+        "id": "gh-n91t8o4c",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.2k",
@@ -247,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-egevcbjd",
+        "id": "gh-eqw9nkwd",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "150.1k",
@@ -256,25 +256,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-ak6fzwsd",
+        "id": "gh-30z2hign",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "161.9k",
+        "stars": "162.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-kc5xrvi6",
+        "id": "gh-7y0cq0ly",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.0k",
+        "stars": "101.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-nspbygyw",
+        "id": "gh-r649q8gx",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.9k",
@@ -283,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-5bkgn5fl",
+        "id": "gh-azalcti1",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "118.4k",
+        "stars": "118.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
