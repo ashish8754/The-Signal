@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-28T08:56:32.509Z
-   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-06-29T11:05:51.594Z
+   Stories: 20 | Clusters: 6 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-pyyy94p9",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "excerpt": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "source": "OpenAI",
-    "time": "4d ago",
+    "id": "rss-lqjkws7w",
+    "topic": "Computer Vision",
+    "topicId": "vision",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "excerpt": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "source": "TechCrunch",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+    "relevance": 82,
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-pyyy94p9",
-                "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-j5ssoo4f",
-                "title": "Previewing GPT-5.6 Sol: a next-generation model",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-u5pnpgvd",
-                "title": "How agents are transforming work",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-8jma4at4",
-                "title": "Helping build shared standards for advanced AI",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-8wq0kafa",
+                "id": "rss-uetyp7tc",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-myzhsqmw",
-                "title": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 84
             },
             {
-                "id": "rss-eva8y9ik",
-                "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 77
+                "id": "rss-aueaeznf",
+                "title": "Our latest Google Finance upgrades, including a new app",
+                "source": "Google Blog",
+                "time": "3d ago",
+                "relevance": 75
             },
             {
-                "id": "rss-ftctznek",
-                "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
+                "id": "rss-qqz7qtyu",
+                "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+                "source": "Google Blog",
+                "time": "Jun 17",
+                "relevance": 73
             },
             {
-                "id": "rss-lns4qc6p",
-                "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
-                "source": "MarkTechPost",
-                "time": "2d ago",
-                "relevance": 68
+                "id": "rss-6c7uyt1k",
+                "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+                "source": "Google Blog",
+                "time": "Jun 15",
+                "relevance": 73
+            },
+            {
+                "id": "rss-kpymslcy",
+                "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+                "source": "Google Blog",
+                "time": "Jun 11",
+                "relevance": 73
             }
         ]
     },
@@ -124,40 +88,40 @@ const NEWSLETTER_DATA = {
         "color": "#e8b84a",
         "stories": [
             {
-                "id": "rss-e7p1xmol",
+                "id": "rss-lqjkws7w",
                 "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
                 "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-ms1hw4wz",
+                "id": "rss-3kifsjn7",
                 "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
                 "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 81
+                "time": "1d ago",
+                "relevance": 78
             }
         ]
     },
     {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-hpiwtc06",
-                "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+                "id": "rss-qdwfuut1",
+                "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
                 "source": "TechCrunch",
                 "time": "20h ago",
                 "relevance": 81
             },
             {
-                "id": "hn-48686032",
-                "title": "Space Shuttle Endeavour's 20-story vertical display",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
+                "id": "rss-7azl6hvy",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     },
@@ -168,18 +132,62 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-9oz01vyw",
+                "id": "rss-cryrvtjp",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-48698617",
-                "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+                "id": "rss-4ylgzcw5",
+                "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
                 "source": "Hacker News",
-                "time": "18h ago",
+                "time": "9h ago",
+                "relevance": 68
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-5ozbbebv",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "rss-i50ztjbh",
+                "title": "Herdr: Agent multiplexer that lives in your terminal",
+                "source": "Hacker News",
+                "time": "6h ago",
                 "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48707763",
+                "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+                "source": "Hacker News",
+                "time": "20h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-48670314",
+                "title": "We found a bug in the hyper HTTP library",
+                "source": "Hacker News",
+                "time": "4d ago",
+                "relevance": 65
             }
         ]
     }
@@ -187,73 +195,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-eq2ceuhs",
-        "title": "DanceOPD: On-Policy Generative Field Distillation",
-        "authors": "Wei Zhou, Xiongwei Zhu, Zelin Xu, Bo Dong, Lixue Gong,…",
+        "id": "arxiv-2s7m70ff",
+        "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+        "authors": "Dihong Huang, Zhenyu Wei, Zhuxiu Xu, Yunchao Yao, Sikai Li,…",
         "journal": "arXiv preprint",
-        "abstract": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and local editing…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.27377v1"
-    },
-    {
-        "id": "arxiv-felhzdnc",
-        "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
-        "authors": "Ritesh Thawkar, Shravan Venkatraman, Omkar Thawakar,…",
-        "journal": "arXiv preprint",
-        "abstract": "Most unified large multimodal models (LMMs) that support both visual understanding and image generation still rely on curated post-training supervision, such as human annotations, preference labels, or external reward models. We ask whether a unified LMM can improve both abilities autonomously using only unlabeled…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.27376v1"
-    },
-    {
-        "id": "arxiv-rz6h6cof",
-        "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
-        "authors": "Arthur Allshire, Himanshu Gaurav Singh, Ritvik Singh, Adam…",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce ABC, a fully open-source stack for manipulation with behavior cloning. At its core is ABC-130K: the largest open-source teleoperation dataset to date, featuring 3,500 hours of data spanning over 130K episodes across 195 diverse tasks. Furthermore, we open-source our accessible hardware setup, training…",
+        "abstract": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive interference…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.27375v1"
+        "url": "http://arxiv.org/abs/2606.28323v1"
     },
     {
-        "id": "arxiv-dln9w0or",
-        "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
-        "authors": "Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le,…",
+        "id": "arxiv-ns92msqe",
+        "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
+        "authors": "Yana Wei, Hongbo Peng, Yanlin Lai, Liang Zhao, Kangheng…",
         "journal": "arXiv preprint",
-        "abstract": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a continual imitation learning framework that synthesizes pseudo-replay trajectories, enabling a robot policy to…",
+        "abstract": "We introduce PerceptionRubrics, a rubric-based evaluation framework that addresses the gap between saturated benchmark scores and real-world brittleness. Shifting evaluation from holistic semantic matching to rigorous atomic auditing, PerceptionRubrics pairs 1,038 information-dense images with over 12,000…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.28322v1"
+    },
+    {
+        "id": "arxiv-o2e4n742",
+        "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
+        "authors": "Jia-Chen Zhao, Beiqi Chen, Xinyang Chen, Guangcong Wang,…",
+        "journal": "arXiv preprint",
+        "abstract": "We present StructSplat, a feed-forward and generalizable 3D Gaussian reconstruction framework that operates directly on uncalibrated images without requiring camera parameters. Existing methods either rely on per-scene optimization or assume known camera poses, and often entangle geometry and appearance within a…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.28321v1"
+    },
+    {
+        "id": "arxiv-7efs3ppy",
+        "title": "WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation",
+        "authors": "Justin Yu, Andrew Goldberg, Kavish Kondap, Karim El-Refai,…",
+        "journal": "arXiv preprint",
+        "abstract": "Scaling imitation learning requires large datasets, yet human teleoperation inevitably produces mixed-quality demonstrations containing hesitations and recoveries. Prior frame-level progress reward models supervise on absolute temporal progress proxies that suffer from label noise, or require costly human annotations…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.27374v1"
+        "url": "http://arxiv.org/abs/2606.28320v1"
     },
     {
-        "id": "arxiv-jy3vig1v",
-        "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
-        "authors": "Shravan Venkatraman, Ritesh Thawkar, Omkar Thawakar, Rao…",
+        "id": "arxiv-7myunt49",
+        "title": "Surprises in Proper Positive-Only Learning",
+        "authors": "Shai Ben-David, Farnam Mansouri, Anay Mehrotra, Manolis…",
         "journal": "arXiv preprint",
-        "abstract": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, multi-role self-play and self-consistency reward schemes in existing self-evolving LMMs optimize answer agreement without ensuring the decoder attends to visual…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.27373v1"
+        "abstract": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original distribution (which places mass on both positive and negative regions). This model dates back to…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2606.28309v1"
     },
     {
-        "id": "arxiv-ykj1drnl",
-        "title": "DnA: Denoising Attention for Visual Tasks",
-        "authors": "Ron Campos, Subhajit Maity, Xin Li, Srijan Das, Aritra Dutta",
+        "id": "arxiv-d7gnvdxx",
+        "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+        "authors": "Luis Leal",
         "journal": "arXiv preprint",
-        "abstract": "The softmax activation in multihead attention (MHA) is the de facto standard for attention-based models in visual perception tasks. However, standard softmax can produce noisy attention patterns that dilute relevant features and degrade its performance. In this paper, we propose Denoising Attention or DnA, in which,…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.27372v1"
+        "abstract": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instead select different…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2606.28308v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-vyih62lm",
+        "id": "gh-0tjlgztj",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "204.5k",
+        "stars": "205.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-jhe0gfdq",
+        "id": "gh-2bo85wi2",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.2k",
@@ -262,16 +270,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-m55w0kno",
+        "id": "gh-utuxh26u",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "150.1k",
+        "stars": "150.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-b15f5myt",
+        "id": "gh-4w9wukd2",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.0k",
@@ -280,16 +288,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-3d5ynxyj",
+        "id": "gh-0y0bwtkg",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.1k",
+        "stars": "101.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-h668111j",
+        "id": "gh-kbpjauyq",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.9k",
@@ -298,10 +306,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-l2vc20vx",
+        "id": "gh-sn1tzmeq",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "118.6k",
+        "stars": "118.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
