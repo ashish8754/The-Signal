@@ -1,6 +1,90 @@
 {
   "stories": [
     {
+      "id": "rss-jz5i27p6",
+      "title": "Claude Sonnet 5",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-06-30 17:59:52",
+      "topic": "llms",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "description": "Comments",
+      "score": 73.66666666666667,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
+      "id": "rss-edyvfauz",
+      "title": "ArXiv's Next Chapter",
+      "source": "Hacker News",
+      "time": "7h ago",
+      "rawDate": "2026-07-01 02:51:36",
+      "topic": "research",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "description": "Comments",
+      "score": 73.66666666666667,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
+      "id": "rss-cqbkm1co",
+      "title": "Claude Code is steganographically marking requests",
+      "source": "Hacker News",
+      "time": "18h ago",
+      "rawDate": "2026-06-30 15:44:24",
+      "topic": "llms",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "description": "Comments",
+      "score": 70.33333333333333,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
+      "id": "hn-48739466",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "source": "Hacker News",
+      "time": "12h ago",
+      "rawDate": "2026-06-30T21:29:13.000Z",
+      "topic": "biotech",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "description": "",
+      "score": 68.66666666666667,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
+      "id": "hn-48665958",
+      "title": "Long Island's decommissioned nuclear power plant",
+      "source": "Hacker News",
+      "time": "6d ago",
+      "rawDate": "2026-06-24T21:41:29.000Z",
+      "topic": "energy",
+      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
+      "description": "",
+      "score": 68.66666666666667,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
+      "id": "hn-48740771",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "source": "Hacker News",
+      "time": "9h ago",
+      "rawDate": "2026-06-30T23:55:12.000Z",
+      "topic": "llms",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "description": "",
+      "score": 68.42857142857143,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
+      "id": "hn-48704289",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-06-28T04:17:44.000Z",
+      "topic": "infra",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "description": "",
+      "score": 63.81818181818182,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
+    },
+    {
       "id": "rss-uqtrgejb",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "source": "Google Blog",
@@ -9,8 +93,8 @@
       "topic": "llms",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "description": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-      "score": 84.66666666666667,
-      "cachedAt": "2026-06-30T09:41:55.811Z"
+      "score": 59,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
     },
     {
       "id": "rss-qslc4hd8",
@@ -21,8 +105,8 @@
       "topic": "llms",
       "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
       "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "score": 83.45454545454545,
-      "cachedAt": "2026-06-30T09:41:55.811Z"
+      "score": 58,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
     },
     {
       "id": "rss-61i57j4r",
@@ -33,8 +117,8 @@
       "topic": "llms",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "score": 83,
-      "cachedAt": "2026-06-30T09:41:55.811Z"
+      "score": 58,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
     },
     {
       "id": "rss-npcrp03n",
@@ -45,8 +129,8 @@
       "topic": "llms",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "score": 81.66666666666667,
-      "cachedAt": "2026-06-30T09:41:55.811Z"
+      "score": 57,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
     },
     {
       "id": "rss-tk0gzocv",
@@ -57,8 +141,8 @@
       "topic": "llms",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "score": 81,
-      "cachedAt": "2026-06-30T09:41:55.811Z"
+      "score": 56,
+      "cachedAt": "2026-07-01T09:53:15.344Z"
     },
     {
       "id": "rss-jrfhk027",
@@ -983,294 +1067,6 @@
       "description": "",
       "score": 63.333333333333336,
       "cachedAt": "2026-06-25T09:27:09.449Z"
-    },
-    {
-      "id": "rss-vqwazco1",
-      "title": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
-      "source": "MarkTechPost",
-      "time": "2h ago",
-      "rawDate": "2026-06-24 07:21:10",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
-      "description": "UC San Diego's DFlash replaces autoregressive drafting with a lightweight block diffusion model for speculative decoding. It drafts whole token blocks in a single forward pass and conditions on target hidden features through KV injection. The paper reports up to 6.08x lossless speedup on Qwen3-8B, while NVIDIA reports up to 15x throughput on Blackwell at fixed interactivity. DFlash ships 20 checkpoints and supports SGLang, vLLM, and TensorRT-LLM. The post DFlash Speculative Decoding Drafts…",
-      "score": 85,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "rss-6kv4dh7u",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "source": "TechCrunch",
-      "time": "16h ago",
-      "rawDate": "2026-06-23 17:00:00",
-      "topic": "llms",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-      "score": 81.07692307692308,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "rss-fykcvqa6",
-      "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
-      "source": "MarkTechPost",
-      "time": "9h ago",
-      "rawDate": "2026-06-23 23:43:43",
-      "topic": "llms",
-      "url": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
-      "description": "Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint. The post Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search…",
-      "score": 80,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "rss-8nrmj2xl",
-      "title": "How Omio is building the future of conversational travel",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-06-23 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/omio",
-      "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "rss-3tjyrcu4",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-06-22 10:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "hn-48654274",
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "source": "Hacker News",
-      "time": "7h ago",
-      "rawDate": "2026-06-24T02:12:31.000Z",
-      "topic": "vision",
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-      "description": "",
-      "score": 74.5,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "hn-48648779",
-      "title": "Swift Package Index joins Apple",
-      "source": "Hacker News",
-      "time": "15h ago",
-      "rawDate": "2026-06-23T18:00:58.000Z",
-      "topic": "devtools",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "description": "",
-      "score": 71,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "rss-gy6ylzbc",
-      "title": "Vulnerability reports are not special anymore",
-      "source": "Hacker News",
-      "time": "9h ago",
-      "rawDate": "2026-06-23 23:42:46",
-      "topic": "security",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "description": "Comments",
-      "score": 70.33333333333333,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "hn-48654465",
-      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "source": "Hacker News",
-      "time": "6h ago",
-      "rawDate": "2026-06-24T02:38:47.000Z",
-      "topic": "devtools",
-      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "description": "",
-      "score": 68.42857142857143,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "hn-48585852",
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "source": "Hacker News",
-      "time": "5d ago",
-      "rawDate": "2026-06-18T14:23:38.000Z",
-      "topic": "security",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "description": "",
-      "score": 66,
-      "cachedAt": "2026-06-24T09:35:28.552Z"
-    },
-    {
-      "id": "rss-hro35622",
-      "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads",
-      "source": "MarkTechPost",
-      "time": "2h ago",
-      "rawDate": "2026-06-23 07:20:44",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/",
-      "description": "Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous reinforcement learning on trillion-parameter Mixture-of-Experts models. It trained GLM-5 on SWE tasks at up to 131k sequence length, with sub-5-minute step times and 256 rollouts, on 28 H200 nodes. This breakdown covers the inference and training optimizations behind those numbers — FP8 inference, Wide Expert Parallelism, prefill/decode disaggregation, router replay, and 3-D parallelism (FSDP, EP, CP). The post…",
-      "score": 85,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-rfvygs2x",
-      "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
-      "source": "MarkTechPost",
-      "time": "3h ago",
-      "rawDate": "2026-06-23 06:35:05",
-      "topic": "agents",
-      "url": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
-      "description": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable. The post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning…",
-      "score": 85,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-144kf2q1",
-      "title": "The AI world is getting ‘loopy’",
-      "source": "TechCrunch",
-      "time": "12h ago",
-      "rawDate": "2026-06-22 20:53:11",
-      "topic": "agents",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "score": 84.66666666666667,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-f52vm2op",
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "source": "TechCrunch",
-      "time": "13h ago",
-      "rawDate": "2026-06-22 20:13:58",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-      "score": 84.66666666666667,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-lbek36j6",
-      "title": "Codex-maxxing for long-running work",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-06-22 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "score": 82,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-m7d2g3eo",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "source": "OpenAI",
-      "time": "23h ago",
-      "rawDate": "2026-06-22 10:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/patch-the-planet",
-      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "score": 81.81818181818181,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-5vjje0ma",
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "source": "TechCrunch",
-      "time": "9h ago",
-      "rawDate": "2026-06-23 00:11:31",
-      "topic": "opensource",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "description": "OpenAI is using AI to help the open source community better protect itself.",
-      "score": 81.33333333333333,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-k2v8h5m4",
-      "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
-      "source": "MarkTechPost",
-      "time": "15h ago",
-      "rawDate": "2026-06-22 18:42:59",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-      "description": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks. The post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs appeared first on MarkTechPost .",
-      "score": 76.66666666666667,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "hn-48639063",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "source": "Hacker News",
-      "time": "8h ago",
-      "rawDate": "2026-06-23T01:36:08.000Z",
-      "topic": "llms",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "description": "",
-      "score": 72,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "hn-48639434",
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "source": "Hacker News",
-      "time": "7h ago",
-      "rawDate": "2026-06-23T02:28:00.000Z",
-      "topic": "vision",
-      "url": "https://arxiv.org/abs/2606.03748",
-      "description": "",
-      "score": 69.85714285714286,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "hn-48634585",
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "source": "Hacker News",
-      "time": "14h ago",
-      "rawDate": "2026-06-22T19:06:48.000Z",
-      "topic": "energy",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "description": "",
-      "score": 68.66666666666667,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "hn-48639240",
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "source": "Hacker News",
-      "time": "7h ago",
-      "rawDate": "2026-06-23T02:01:25.000Z",
-      "topic": "agents",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "description": "",
-      "score": 68.53846153846153,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "rss-9p6bluou",
-      "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-06-22 07:13:49",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-      "description": "The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X. The post MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode appeared first on MarkTechPost .",
-      "score": 68,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
-    },
-    {
-      "id": "hn-48586767",
-      "title": "Package Managers need global hooks",
-      "source": "Hacker News",
-      "time": "4d ago",
-      "rawDate": "2026-06-18T15:20:31.000Z",
-      "topic": "devtools",
-      "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
-      "description": "",
-      "score": 66,
-      "cachedAt": "2026-06-23T09:45:40.943Z"
     }
   ]
 }

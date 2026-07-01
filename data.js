@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-06-30T09:41:55.814Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-01T09:53:15.347Z
+   Stories: 12 | Clusters: 1 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-uqtrgejb",
+    "id": "rss-jz5i27p6",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "excerpt": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-    "source": "Google Blog",
-    "time": "3h ago",
+    "title": "Claude Sonnet 5",
+    "excerpt": "A major development in large language models that could reshape how we interact with AI systems.",
+    "source": "Hacker News",
+    "time": "15h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
+    "relevance": 74,
+    "url": "https://www.anthropic.com/news/claude-sonnet-5"
 },
 
     topics: [
@@ -45,119 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
+                "id": "rss-jz5i27p6",
+                "title": "Claude Sonnet 5",
+                "source": "Hacker News",
+                "time": "15h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-cqbkm1co",
+                "title": "Claude Code is steganographically marking requests",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-48740771",
+                "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+                "source": "Hacker News",
+                "time": "9h ago",
+                "relevance": 68
+            },
+            {
                 "id": "rss-uqtrgejb",
                 "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
                 "source": "Google Blog",
                 "time": "3h ago",
-                "relevance": 85
+                "relevance": 65
             },
             {
                 "id": "rss-qslc4hd8",
                 "title": "Gemini’s personalized AI image generation is now free for US users",
                 "source": "TechCrunch",
                 "time": "13h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-61i57j4r",
-                "title": "How agents are transforming work",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-npcrp03n",
-                "title": "Previewing GPT-5.6 Sol: a next-generation model",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-tk0gzocv",
-                "title": "Mapping Europe’s AI Workforce Opportunity",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-jrfhk027",
-                "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery",
-                "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-ppxie4bs",
-                "title": "Top 6 No-Code Tools for AI Engineers/Developers",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-6o5eq8ih",
-                "title": "Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy",
-                "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-krb3u2qg",
-                "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 74
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "hn-48728729",
-                "title": "Popping the GPU Bubble",
-                "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-vw8yq93s",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-vnl8b8yx",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
-            },
-            {
-                "id": "rss-tnyi4m18",
-                "title": "Open Source Low Tech",
-                "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 67
+                "relevance": 65
             }
         ]
     }
@@ -165,73 +85,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-b9a9a6i4",
-        "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
-        "authors": "Yen-Jen Wang, Jiaman Li, Sirui Chen, Takara E. Truong, Pei…",
+        "id": "arxiv-mvgq6gdx",
+        "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
+        "authors": "Kartik Narayan, Vishal M. Patel",
         "journal": "arXiv preprint",
-        "abstract": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.30645v1"
-    },
-    {
-        "id": "arxiv-4wz91zm5",
-        "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
-        "authors": "Shun Lei, Huaicheng Zhang, Dapeng Wu, Yaoxun Xu, Lishi Zuo,…",
-        "journal": "arXiv preprint",
-        "abstract": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details,…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2606.30642v1"
-    },
-    {
-        "id": "arxiv-7mfn7ail",
-        "title": "Self-Evolving World Models for LLM Agent Planning",
-        "authors": "Xuan Zhang, Wenxuan Zhang, See-Kiong Ng, Yang Deng",
-        "journal": "arXiv preprint",
-        "abstract": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2606.30639v1"
-    },
-    {
-        "id": "arxiv-w7bxeznu",
-        "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
-        "authors": "Jameel Hassan, Yasiru Ranasinghe, Vishal Patel",
-        "journal": "arXiv preprint",
-        "abstract": "3D Gaussian Splatting (3DGS) has emerged at the forefront of 3D scene reconstruction. Extending 3DGS with language-driven, open-vocabulary understanding has gained significant attention for real-world applications such as embodied AI. Recent methods achieve this by learning an instance feature attribute and assigning…",
+        "abstract": "Low-resolution face recognition (LR-FR) remains a challenging task due to poor feature extraction and aggregation, as probe images often contain limited identity information resulting from extreme degradations such as blur, occlusion, and low contrast. Additionally, the domain gap between high-resolution (HR) gallery…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2606.30638v1"
+        "url": "http://arxiv.org/abs/2606.32040v1"
     },
     {
-        "id": "arxiv-lwte3bnh",
-        "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
-        "authors": "Philip Zmushko, Egor Petrov, Nursultan Abdullaev, Mikhail…",
+        "id": "arxiv-16ilwcy2",
+        "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+        "authors": "Bin Lin, Zheyuan Liu, Chenguo Lin, Sixiang Chen, Yunyang…",
         "journal": "arXiv preprint",
-        "abstract": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among…",
+        "abstract": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous latents. This decoupling leaves the tokenizer unaware of what the generator finds easy to model. We present GEAR…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.32039v1"
+    },
+    {
+        "id": "arxiv-l1ycz164",
+        "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+        "authors": "Zifan Carl Guo, Laura Ruis, Jacob Andreas, Belinda Z. Li",
+        "journal": "arXiv preprint",
+        "abstract": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision.…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2606.32038v1"
+    },
+    {
+        "id": "arxiv-qwwxx1g5",
+        "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
+        "authors": "Yujie Guo, Yudong Jin, Lingteng Qiu, Zehong Shen, Zhen Xu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Producing 3D human representations from input views on the fly is essential for immersive live streaming systems, where representation compactness is as critical as high fidelity given limited computational power and transmission bandwidth. Although recent feed-forward reconstruction methods achieve impressive quality…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.32036v1"
+    },
+    {
+        "id": "arxiv-bbg69xpv",
+        "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+        "authors": "Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda…",
+        "journal": "arXiv preprint",
+        "abstract": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2606.30634v1"
+        "url": "http://arxiv.org/abs/2606.32034v1"
     },
     {
-        "id": "arxiv-8niae4z7",
-        "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
-        "authors": "Yuhong Deng, Yuyao Liu, David Hsu",
+        "id": "arxiv-tv1vhana",
+        "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
+        "authors": "Or Hirschorn, Aaron Olender, Eli Alshan, Ianir Ideses, Lior…",
         "journal": "arXiv preprint",
-        "abstract": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2606.30632v1"
+        "abstract": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Existing methods either rely on costly fine-tuning on scarce panoramic data that limits generalization, or leverage…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2606.32033v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-63e8luif",
+        "id": "gh-eq0miy1v",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "206.1k",
+        "stars": "206.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-zwprzcwo",
+        "id": "gh-ji5r7jib",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.2k",
@@ -240,34 +160,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-yoi9lt1i",
+        "id": "gh-3asctrwe",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "150.2k",
+        "stars": "150.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-256bexvn",
+        "id": "gh-23j5x7wm",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "162.0k",
+        "stars": "162.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-j3tpb8pq",
+        "id": "gh-idf24v88",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.2k",
+        "stars": "101.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-jbmd0dgw",
+        "id": "gh-eqwa06rn",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "163.9k",
@@ -276,10 +196,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-w7ybbjfk",
+        "id": "gh-en82cytf",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "118.9k",
+        "stars": "119.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
