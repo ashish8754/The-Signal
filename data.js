@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-02T09:16:54.879Z
-   Stories: 25 | Clusters: 6 | Papers: 6 | Repos: 7
+   Updated: 2026-07-03T09:22:33.429Z
+   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-20mbk1yi",
+    "id": "rss-n4pqyjz1",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing GeneBench-Pro",
     "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "3d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/introducing-genebench-pro"
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-20mbk1yi",
+                "id": "rss-n4pqyjz1",
                 "title": "Introducing GeneBench-Pro",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-fm9u8ljz",
+                "id": "rss-5shb1ry6",
                 "title": "Core dump epidemiology: fixing an 18-year-old bug",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-uym32ch2",
+                "id": "rss-0lpj0cu4",
                 "title": "Inside Genebench-Pro",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-hlfe3yek",
-                "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-                "source": "Google Blog",
-                "time": "17h ago",
+                "id": "rss-enf6qfj2",
+                "title": "How ChatGPT adoption has expanded",
+                "source": "OpenAI",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-upjgjhgw",
-                "title": "How ChatGPT adoption has expanded",
-                "source": "OpenAI",
-                "time": "2d ago",
+                "id": "hn-48772443",
+                "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+                "source": "Hacker News",
+                "time": "Just now",
                 "relevance": 79
             }
         ]
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-gi3fchw8",
-                "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+                "id": "rss-v6asgczk",
+                "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 82
+                "time": "3h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-m8d7fyul",
-                "title": "Using Lift to Turn Research PDFs into Structured JSON with Controlled, Schema-Guided Field-Level Evaluation",
+                "id": "rss-x6drqk88",
+                "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-h4eww4lz",
+                "title": "RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-k4287d5x",
+                "title": "Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
                 "source": "MarkTechPost",
                 "time": "12h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-r82pfqm7",
-                "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
-                "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48755928",
-                "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 71
+                "relevance": 73
             }
         ]
     },
@@ -124,47 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-48753524",
-                "title": "Chip Off The Old Block",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-o2m9fjw6",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48724127",
-                "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 67
-            }
-        ]
-    },
-    {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "rss-09gmhas3",
-                "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+                "id": "rss-w7s1xlp0",
+                "title": "Anthropic is discussing a new custom chip with Samsung",
                 "source": "TechCrunch",
                 "time": "14h ago",
                 "relevance": 82
             },
             {
-                "id": "rss-i5q6uh0r",
-                "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 81
+                "id": "rss-0vm8ez5w",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     },
@@ -175,40 +146,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-jfysce62",
-                "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-                "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-gchevx2n",
+                "id": "rss-euszjyj5",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-robotics",
-        "name": "Robotics & Embodiment",
-        "icon": "◈",
-        "color": "#a855f7",
-        "stories": [
-            {
-                "id": "hn-48750989",
-                "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 70
             },
             {
-                "id": "hn-48755005",
-                "title": "Oomwoo, an open-source robot vacuum you build yourself",
+                "id": "hn-48667568",
+                "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
                 "source": "Hacker News",
-                "time": "8h ago",
-                "relevance": 70
+                "time": "Jun 25",
+                "relevance": 65
             }
         ]
     }
@@ -216,73 +165,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-bi8z6c4a",
-        "title": "Measuring the Gap Between Human and LLM Research Ideas",
-        "authors": "Ziyu Chen, Yilun Zhao, Arman Cohan",
+        "id": "arxiv-ymzqt9zs",
+        "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+        "authors": "Hanlin Wang, Hao Ouyang, Qiuyu Wang, Wen Wang, Qingyan Bai,…",
         "journal": "arXiv preprint",
-        "abstract": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.01233v1"
-    },
-    {
-        "id": "arxiv-e4l1t5e1",
-        "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
-        "authors": "Zijian Zhang, Rizhen Hu, Athanasios Glentis, Dawei Li,…",
-        "journal": "arXiv preprint",
-        "abstract": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every layer contributes…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.01232v1"
-    },
-    {
-        "id": "arxiv-x0fnjkc1",
-        "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
-        "authors": "Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang, Ping-Chun Hsieh,…",
-        "journal": "arXiv preprint",
-        "abstract": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about task progress,…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.01225v1"
-    },
-    {
-        "id": "arxiv-dznpliw1",
-        "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-        "authors": "Shengguang Wu, Hao Zhu, Yuhui Zhang, Xiaohan Wang, Serena…",
-        "journal": "arXiv preprint",
-        "abstract": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class memory actions…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.01224v1"
-    },
-    {
-        "id": "arxiv-jo838fa7",
-        "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
-        "authors": "Ben Slivinski, Michael Saldivar",
-        "journal": "arXiv preprint",
-        "abstract": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to the same coherence issues as any LLM. We present Theoria, a…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.01223v1"
-    },
-    {
-        "id": "arxiv-82f7okyt",
-        "title": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
-        "authors": "Yue Han, Chong Li, Zhening Liu, Cong Huang, Fang Deng, Yong…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent 3D generative models can synthesize high-quality geometry but often struggle to reproduce intricate textures from reference images, largely due to the scarcity of large-scale 3D training data with rich surface appearance. In contrast, visual generative models are trained on datasets several orders of magnitude…",
+        "abstract": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain motion, our framework…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.01222v1"
+        "url": "http://arxiv.org/abs/2607.02517v1"
+    },
+    {
+        "id": "arxiv-dfvbjoci",
+        "title": "Alignment Is All You Need For X-to-4D Generation",
+        "authors": "Qiaowei Miao, Kehan Li, Yawei Luo, Yi Yang",
+        "journal": "arXiv preprint",
+        "abstract": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existing methods. This…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.02516v1"
+    },
+    {
+        "id": "arxiv-t6axc6xn",
+        "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+        "authors": "Haofei Xu, Rundi Wu, Philipp Henzler, Nikolai Kalischek,…",
+        "journal": "arXiv preprint",
+        "abstract": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulations are…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.02515v1"
+    },
+    {
+        "id": "arxiv-m0n31ajq",
+        "title": "Distributed Attacks in Persistent-State AI Control",
+        "authors": "Josh Hills, Ida Caspary, Asa Cooper Stickland",
+        "journal": "arXiv preprint",
+        "abstract": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR with the best natural…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2607.02514v1"
+    },
+    {
+        "id": "arxiv-yt2ms46e",
+        "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+        "authors": "Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius…",
+        "journal": "arXiv preprint",
+        "abstract": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm that targets specific…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2607.02513v1"
+    },
+    {
+        "id": "arxiv-ik7kbnhp",
+        "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+        "authors": "Wentao Zhang, Liliana Hotsko, Woojeong Kim, Pengyu Nie,…",
+        "journal": "arXiv preprint",
+        "abstract": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2607.02512v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-vhtjc76y",
+        "id": "gh-i5r8t1ap",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "207.6k",
+        "stars": "208.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-sc7fx76x",
+        "id": "gh-moj3vgpl",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.3k",
@@ -291,46 +240,46 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-yqpq250y",
+        "id": "gh-160jg1vg",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "150.4k",
+        "stars": "151.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-f9r1438r",
+        "id": "gh-265mz21c",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "162.1k",
+        "stars": "162.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-s3rfski2",
+        "id": "gh-1l6s7bzb",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.0k",
+        "stars": "101.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-771dd1nq",
+        "id": "gh-ixww9w1z",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "163.9k",
+        "stars": "164.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-a8wmdydd",
+        "id": "gh-5rwrfq6q",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "119.1k",
+        "stars": "119.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -339,28 +288,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-20mbk1yi",
-        "title": "Introducing GeneBench-Pro",
-        "desc": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
+    },
+    {
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
         "tag": "Biotech",
         "tagClass": "biotech",
-        "source": "OpenAI"
+        "source": "DeepMind"
     },
     {
-        "id": "ng-rss-09gmhas3",
-        "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-        "desc": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "TechCrunch"
+        "source": "SpaceNews"
     },
     {
-        "id": "ng-rss-67im7md2",
-        "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
-        "desc": "NVIDIA has released Nemotron-Labs-TwoTower, a diffusion language model built on a pretrained autoregressive backbone. It ships as open weights under the NVIDIA Nemotron Open Model…",
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "MarkTechPost"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
