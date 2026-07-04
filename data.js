@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-03T09:22:33.429Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-04T08:40:54.446Z
+   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-n4pqyjz1",
+    "id": "rss-y7snnk0x",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing GeneBench-Pro",
     "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "4d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/introducing-genebench-pro"
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-n4pqyjz1",
+                "id": "rss-y7snnk0x",
                 "title": "Introducing GeneBench-Pro",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-5shb1ry6",
+                "id": "rss-7lz2vagl",
                 "title": "Core dump epidemiology: fixing an 18-year-old bug",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-0lpj0cu4",
-                "title": "Inside Genebench-Pro",
-                "source": "OpenAI",
-                "time": "3d ago",
+                "id": "rss-5k3oawxm",
+                "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
+                "source": "MarkTechPost",
+                "time": "10h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-enf6qfj2",
+                "id": "rss-72oscd9i",
+                "title": "Inside Genebench-Pro",
+                "source": "OpenAI",
+                "time": "4d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-9emxtl8y",
                 "title": "How ChatGPT adoption has expanded",
                 "source": "OpenAI",
                 "time": "3d ago",
-                "relevance": 79
-            },
-            {
-                "id": "hn-48772443",
-                "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-                "source": "Hacker News",
-                "time": "Just now",
                 "relevance": 79
             }
         ]
@@ -88,54 +88,25 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-v6asgczk",
-                "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-x6drqk88",
-                "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-h4eww4lz",
-                "title": "RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab",
+                "id": "rss-k63moxr9",
+                "title": "Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Validation, and Ledger Generation",
                 "source": "MarkTechPost",
                 "time": "11h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-k4287d5x",
-                "title": "Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-                "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-w7s1xlp0",
-                "title": "Anthropic is discussing a new custom chip with Samsung",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-0vm8ez5w",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
                 "relevance": 75
+            },
+            {
+                "id": "rss-dvl0tb20",
+                "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-znjstb8c",
+                "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 72
             }
         ]
     },
@@ -146,18 +117,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-euszjyj5",
+                "id": "rss-sr4rfgkj",
+                "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-28g00e9z",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
-            },
-            {
-                "id": "hn-48667568",
-                "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-                "source": "Hacker News",
-                "time": "Jun 25",
-                "relevance": 65
             }
         ]
     }
@@ -165,7 +136,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ymzqt9zs",
+        "id": "arxiv-zpgjq8xa",
         "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
         "authors": "Hanlin Wang, Hao Ouyang, Qiuyu Wang, Wen Wang, Qingyan Bai,…",
         "journal": "arXiv preprint",
@@ -174,7 +145,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02517v1"
     },
     {
-        "id": "arxiv-dfvbjoci",
+        "id": "arxiv-ohkxjioa",
         "title": "Alignment Is All You Need For X-to-4D Generation",
         "authors": "Qiaowei Miao, Kehan Li, Yawei Luo, Yi Yang",
         "journal": "arXiv preprint",
@@ -183,7 +154,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02516v1"
     },
     {
-        "id": "arxiv-t6axc6xn",
+        "id": "arxiv-c37pyxft",
         "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
         "authors": "Haofei Xu, Rundi Wu, Philipp Henzler, Nikolai Kalischek,…",
         "journal": "arXiv preprint",
@@ -192,7 +163,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02515v1"
     },
     {
-        "id": "arxiv-m0n31ajq",
+        "id": "arxiv-h7kpco1c",
         "title": "Distributed Attacks in Persistent-State AI Control",
         "authors": "Josh Hills, Ida Caspary, Asa Cooper Stickland",
         "journal": "arXiv preprint",
@@ -201,7 +172,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02514v1"
     },
     {
-        "id": "arxiv-yt2ms46e",
+        "id": "arxiv-rcbbzixa",
         "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
         "authors": "Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius…",
         "journal": "arXiv preprint",
@@ -210,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02513v1"
     },
     {
-        "id": "arxiv-ik7kbnhp",
+        "id": "arxiv-r6ir0yak",
         "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
         "authors": "Wentao Zhang, Liliana Hotsko, Woojeong Kim, Pengyu Nie,…",
         "journal": "arXiv preprint",
@@ -222,16 +193,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-i5r8t1ap",
+        "id": "gh-jq46yjl7",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "208.3k",
+        "stars": "208.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-moj3vgpl",
+        "id": "gh-vhsznymy",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.3k",
@@ -240,16 +211,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-160jg1vg",
+        "id": "gh-g5p5dgzf",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "151.0k",
+        "stars": "151.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-265mz21c",
+        "id": "gh-c5ijphft",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.2k",
@@ -258,16 +229,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-1l6s7bzb",
+        "id": "gh-8kusvsca",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.3k",
+        "stars": "101.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ixww9w1z",
+        "id": "gh-46ycch18",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.0k",
@@ -276,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-5rwrfq6q",
+        "id": "gh-bpez33ru",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "stars": "119.3k",
