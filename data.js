@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-05T08:56:14.032Z
-   Stories: 25 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-07-06T10:42:22.094Z
+   Stories: 20 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-xtjujk3r",
+    "id": "rss-d176gye4",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing GeneBench-Pro",
     "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
     "source": "OpenAI",
-    "time": "5d ago",
+    "time": "6d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/introducing-genebench-pro"
@@ -45,75 +45,83 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-xtjujk3r",
+                "id": "rss-d176gye4",
                 "title": "Introducing GeneBench-Pro",
                 "source": "OpenAI",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-hijfmaow",
-                "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-p9gpgyge",
+                "id": "rss-pcjaqjuz",
                 "title": "Core dump epidemiology: fixing an 18-year-old bug",
                 "source": "OpenAI",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-b6g4ksk5",
-                "title": "Alibaba reportedly bans employees from using Claude Code",
-                "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-643jubog",
+                "id": "rss-mob2c0j4",
                 "title": "Inside Genebench-Pro",
                 "source": "OpenAI",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 80
+            },
+            {
+                "id": "rss-ukz9d795",
+                "title": "How ChatGPT adoption has expanded",
+                "source": "OpenAI",
+                "time": "6d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-blsugfrm",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+                "source": "VentureBeat",
+                "time": "Jan 19",
+                "relevance": 78
             }
         ]
     },
     {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
+        "id": "topic-vision",
+        "name": "Computer Vision & Media",
+        "icon": "◐",
+        "color": "#e8b84a",
         "stories": [
             {
-                "id": "rss-gwo6mbum",
-                "title": "Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-n96p4ovf",
-                "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-                "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-iiz80jxj",
-                "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-                "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-jfd4db4n",
-                "title": "NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion",
-                "source": "MarkTechPost",
-                "time": "16h ago",
+                "id": "rss-e8r2yiy7",
+                "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+                "source": "TechCrunch",
+                "time": "1d ago",
                 "relevance": 77
+            },
+            {
+                "id": "hn-48774720",
+                "title": "Behind the scenes with the Midjourney scanner [video]",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 67
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-qy78qwny",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-48757900",
+                "title": "The Age of Personalized Hardware Is Coming",
+                "source": "Hacker News",
+                "time": "4d ago",
+                "relevance": 65
             }
         ]
     },
@@ -124,18 +132,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-48790912",
-                "title": "The Log Is the Agent",
-                "source": "Hacker News",
-                "time": "5h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-wzzmz179",
+                "id": "rss-buhjbuy5",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
+            },
+            {
+                "id": "hn-48767058",
+                "title": "Zuckerberg says AI agent development going slower than expected",
+                "source": "Hacker News",
+                "time": "3d ago",
+                "relevance": 65
             }
         ]
     }
@@ -143,7 +151,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-fp4sccle",
+        "id": "arxiv-k6kv9d0l",
         "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
         "authors": "Hanlin Wang, Hao Ouyang, Qiuyu Wang, Wen Wang, Qingyan Bai,…",
         "journal": "arXiv preprint",
@@ -152,7 +160,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02517v1"
     },
     {
-        "id": "arxiv-1ssmc5jp",
+        "id": "arxiv-wxzwvf2k",
         "title": "Alignment Is All You Need For X-to-4D Generation",
         "authors": "Qiaowei Miao, Kehan Li, Yawei Luo, Yi Yang",
         "journal": "arXiv preprint",
@@ -161,7 +169,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02516v1"
     },
     {
-        "id": "arxiv-r93df3rm",
+        "id": "arxiv-t9m9n9ja",
         "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
         "authors": "Haofei Xu, Rundi Wu, Philipp Henzler, Nikolai Kalischek,…",
         "journal": "arXiv preprint",
@@ -170,7 +178,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02515v1"
     },
     {
-        "id": "arxiv-luoodyuf",
+        "id": "arxiv-xpdadspi",
         "title": "Distributed Attacks in Persistent-State AI Control",
         "authors": "Josh Hills, Ida Caspary, Asa Cooper Stickland",
         "journal": "arXiv preprint",
@@ -179,7 +187,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02514v1"
     },
     {
-        "id": "arxiv-2chyz0qq",
+        "id": "arxiv-a3543x1z",
         "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
         "authors": "Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius…",
         "journal": "arXiv preprint",
@@ -188,7 +196,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.02513v1"
     },
     {
-        "id": "arxiv-8gxt2y1y",
+        "id": "arxiv-8ix3ck01",
         "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
         "authors": "Wentao Zhang, Liliana Hotsko, Woojeong Kim, Pengyu Nie,…",
         "journal": "arXiv preprint",
@@ -200,16 +208,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-wubqe5ps",
+        "id": "gh-9jxmnm7u",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "209.4k",
+        "stars": "210.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-rzz97fqq",
+        "id": "gh-6x7q1awy",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.4k",
@@ -218,7 +226,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-yjd212fp",
+        "id": "gh-r72uoyxq",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "151.2k",
@@ -227,7 +235,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-xn59jfyo",
+        "id": "gh-ao1ewis7",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.3k",
@@ -236,7 +244,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-xpkdamel",
+        "id": "gh-fcnoezo4",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.5k",
@@ -245,7 +253,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-kul2v9ia",
+        "id": "gh-rzucrp8l",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.0k",
@@ -254,10 +262,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-8bkfqji4",
+        "id": "gh-1doxyrd2",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "119.4k",
+        "stars": "119.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -266,36 +274,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-xtjujk3r",
-        "title": "Introducing GeneBench-Pro",
-        "desc": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "OpenAI"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-iiz80jxj",
-        "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-        "desc": "Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags…",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
         "tag": "Biotech",
         "tagClass": "biotech",
-        "source": "MarkTechPost"
+        "source": "DeepMind"
     },
     {
-        "id": "ng-hn-48787042",
-        "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-        "desc": "Click to read more about this development.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
+        "source": "SpaceNews"
     },
     {
-        "id": "ng-hn-48778198",
-        "title": "A Summer of Solar Cooking (2023)",
-        "desc": "Click to read more about this development.",
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Hacker News"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
