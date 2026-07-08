@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-07T09:46:49.849Z
-   Stories: 20 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-08T08:32:59.997Z
+   Stories: 27 | Clusters: 5 | Papers: 6 | Repos: 6
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-id8tgq3c",
-    "topic": "AI Agents & Autonomy",
-    "topicId": "agents",
-    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-    "excerpt": "Forterra has deployed more than 100",
+    "id": "rss-l6mpxn4v",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "excerpt": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
     "source": "TechCrunch",
     "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+    "relevance": 96,
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/"
 },
 
     topics: [
@@ -45,38 +45,67 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ay3iq5lz",
-                "title": "Introducing GeneBench-Pro",
-                "source": "OpenAI",
-                "time": "Jun 30",
-                "relevance": 85
+                "id": "rss-l6mpxn4v",
+                "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+                "source": "TechCrunch",
+                "time": "Just now",
+                "relevance": 96
             },
             {
-                "id": "rss-recf03gw",
+                "id": "rss-4bvldlub",
+                "title": "MUFG aims to become AI-native with OpenAI",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 86
+            },
+            {
+                "id": "rss-8rkw9hca",
+                "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+                "source": "Google Blog",
+                "time": "23h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-ztrq3qj6",
                 "title": "Core dump epidemiology: fixing an 18-year-old bug",
                 "source": "OpenAI",
                 "time": "Jun 30",
                 "relevance": 81
             },
             {
-                "id": "rss-rquvpt0r",
-                "title": "Inside Genebench-Pro",
+                "id": "rss-bq386h8g",
+                "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
                 "source": "OpenAI",
-                "time": "Jun 30",
-                "relevance": 80
-            },
-            {
-                "id": "rss-vdph4ppc",
-                "title": "How ChatGPT adoption has expanded",
-                "source": "OpenAI",
-                "time": "Jun 30",
+                "time": "1d ago",
                 "relevance": 79
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-mffwfkgb",
+                "title": "NVIDIA’s Cosmos-Framework Tutorial: Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers",
+                "source": "MarkTechPost",
+                "time": "1h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-jnwnnkp2",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
+                "id": "rss-era98nm8",
+                "title": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-xebpw764",
+                "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone",
+                "source": "MarkTechPost",
+                "time": "7h ago",
                 "relevance": 78
             }
         ]
@@ -88,24 +117,46 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-id8tgq3c",
-                "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-                "source": "TechCrunch",
-                "time": "Just now",
-                "relevance": 85
+                "id": "rss-yl2m23gj",
+                "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 76
             },
             {
-                "id": "rss-0b86hnif",
-                "title": "The ‘first’ AI-run ransomware attack still needed a human",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-y950f54e",
+                "id": "rss-x7phev97",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48789625",
+                "title": "Automate Excel with Python: From manual grind to one-click workflow",
+                "source": "Hacker News",
+                "time": "3d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-3yl5mx4a",
+                "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-7gborxz3",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
                 "relevance": 72
             }
         ]
@@ -117,40 +168,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-3asvqag1",
+                "id": "rss-c6uv9kq1",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
             },
             {
-                "id": "rss-lm49paci",
-                "title": "OpenWrt One – Open Hardware Router",
+                "id": "hn-48793805",
+                "title": "Home made GPU escalated quickly [video]",
                 "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "hn-48811373",
-                "title": "OpenSSH 10.4/10.4p1 Released",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-axuw2s03",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "time": "2d ago",
+                "relevance": 69
             }
         ]
     }
@@ -158,82 +187,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-bu1vmslz",
-        "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-        "authors": "Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Shijian…",
+        "id": "arxiv-mp15726r",
+        "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+        "authors": "Tianjiao Yu, Xinzhuo Li, Yifan Shen, Onkar Susladkar,…",
         "journal": "arXiv preprint",
-        "abstract": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided,…",
+        "abstract": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural cues and fine…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.05396v1"
+        "url": "http://arxiv.org/abs/2607.06565v1"
     },
     {
-        "id": "arxiv-58og2hpi",
-        "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-        "authors": "Shiyuan Feng, Huan-ang Gao, Haohan Chi, Hanlin Wu, Zhilong…",
+        "id": "arxiv-eb3campq",
+        "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+        "authors": "Jiaming Liu, Qingpo Wuwu, Nuowei Han, Hao Chen, Zhuoyang…",
         "journal": "arXiv preprint",
-        "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.05394v1"
-    },
-    {
-        "id": "arxiv-v8trj0n2",
-        "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-        "authors": "Raphaël Bonnet-Guerrini, Bruno Sanchez, Dominique Fouchez,…",
-        "journal": "arXiv preprint",
-        "abstract": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained without…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2607.05393v1"
-    },
-    {
-        "id": "arxiv-4bkuzsts",
-        "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-        "authors": "Paul Engstler, Iro Laina, Christian Rupprecht, Andrea…",
-        "journal": "arXiv preprint",
-        "abstract": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.05392v1"
-    },
-    {
-        "id": "arxiv-9xsown96",
-        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-        "authors": "Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu, Yixing…",
-        "journal": "arXiv preprint",
-        "abstract": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.05391v1"
-    },
-    {
-        "id": "arxiv-2uqvnayi",
-        "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-        "authors": "Hongyu Li, Wanjia Fu, Xiaoyan Cong, Zekun Li, Binghao…",
-        "journal": "arXiv preprint",
-        "abstract": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensional state spaces and complex material properties. While current world models approach this through two distinct…",
+        "abstract": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geometric understanding and spatial reasoning. While some VLA approaches attempt to incorporate 3D information, they are…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.05390v1"
+        "url": "http://arxiv.org/abs/2607.06564v1"
+    },
+    {
+        "id": "arxiv-pu7ce8wh",
+        "title": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
+        "authors": "Shiqi Liu, Narsimlu Kemsaram, Prateek Mittal, Pengyuan Wei,…",
+        "journal": "arXiv preprint",
+        "abstract": "Traditional data physicalization is often static and disconnected from real environments, limiting its ability to convey embodied spatial dynamics and engage users. To address this limitation, we present AcoustoBots, a mobile acoustophoretic data-physicalization platform in which TurtleBot3 robots carry upward-facing…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.06563v1"
+    },
+    {
+        "id": "arxiv-so9vbota",
+        "title": "Vision as Unified Multimodal Generation",
+        "authors": "Xiaoyang Han, Jianhua Li, Kewang Deng, Zukai Chen, Xuanke…",
+        "journal": "arXiv preprint",
+        "abstract": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task-specific architectures. Under this formulation, SenseNova-Vision uses natural-language instructions and optional…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.06560v1"
+    },
+    {
+        "id": "arxiv-d7ru2sf9",
+        "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+        "authors": "Haoyu Zhao, Xingyue Zhao, Siteng Huang, Xin Li, Deli Zhao,…",
+        "journal": "arXiv preprint",
+        "abstract": "Robotic manipulation in the open world requires not only recognizing what a scene looks like, but also anticipating how its 3D structure moves under interaction. We argue that synchronized RGB, depth, and optical flow, namely RGB-DF, provide a physically grounded representation that captures the underlying 4D dynamics…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.06559v1"
+    },
+    {
+        "id": "arxiv-t3amj3fc",
+        "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+        "authors": "Haoyu Zhao, Xingyue Zhao, Hangyu Li, Biao Gong, Kehan Li,…",
+        "journal": "arXiv preprint",
+        "abstract": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware and workspaces. We introduce digital teleoperation, a paradigm that decouples data collection from physical…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.06558v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-be53pvoi",
+        "id": "gh-newexlcy",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "210.6k",
+        "stars": "211.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-qg6pms2g",
-        "name": "Significant-Gravitas/AutoGPT",
-        "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "185.4k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT"
-    },
-    {
-        "id": "gh-ohsvlvp8",
+        "id": "gh-cov2ndm3",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "151.3k",
@@ -242,25 +262,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-h59mymqs",
-        "name": "huggingface/transformers",
-        "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "162.3k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/huggingface/transformers"
-    },
-    {
-        "id": "gh-jz8esljk",
-        "name": "pytorch/pytorch",
-        "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.5k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/pytorch/pytorch"
-    },
-    {
-        "id": "gh-t1jtk0ey",
+        "id": "gh-k8z9zhr7",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.0k",
@@ -269,13 +271,31 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-q8tg9gqx",
+        "id": "gh-ss3izi8n",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "119.7k",
+        "stars": "119.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+        "id": "gh-oclqwmgo",
+        "name": "qdrant/qdrant",
+        "desc": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also…",
+        "stars": "33.0k",
+        "lang": "Rust",
+        "langColor": "#dea584",
+        "url": "https://github.com/qdrant/qdrant"
+    },
+    {
+        "id": "gh-7vti5gbc",
+        "name": "tracel-ai/burn",
+        "desc": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency…",
+        "stars": "15.5k",
+        "lang": "Rust",
+        "langColor": "#dea584",
+        "url": "https://github.com/tracel-ai/burn"
     }
 ],
 
