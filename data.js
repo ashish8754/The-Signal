@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-11T08:00:00.068Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-12T08:21:29.652Z
+   Stories: 21 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-23qu854b",
+    "id": "rss-5abgmvj9",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 85,
+    "relevance": 83,
     "url": "https://openai.com/index/gpt-5-6"
 },
 
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-23qu854b",
+                "id": "rss-5abgmvj9",
                 "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 85
+                "time": "2d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-i96n27lj",
+                "id": "rss-mhhewh0a",
                 "title": "How Deutsche Telekom is rewiring telecommunications with AI",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 82
+                "time": "2d ago",
+                "relevance": 80
             },
             {
-                "id": "rss-11zcf65v",
+                "id": "rss-k4y6hegb",
                 "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
+                "time": "2d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-xaa4ca09",
+                "id": "rss-uy4ng3d6",
                 "title": "ChatGPT is now a partner for your most ambitious work",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
+                "time": "2d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-sap19zh3",
+                "id": "rss-c0q6asu3",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 78
             }
         ]
@@ -88,47 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-q1acfvze",
+                "id": "rss-jvi63lyv",
+                "title": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-4gybznig",
                 "title": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 89
+                "time": "1d ago",
+                "relevance": 76
             },
             {
-                "id": "rss-xp8dtywu",
+                "id": "rss-mxllwzsh",
                 "title": "How to Build a T4-Friendly Autonomous Data Science Agent with DeepAnalyze-8B, Sandboxed Code Execution, and Iterative Analysis",
                 "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 75
             },
             {
-                "id": "rss-9r7bnai0",
+                "id": "rss-6807du7i",
                 "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-u6bjuuai",
-                "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-l4uj0r47",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "time": "1d ago",
+                "relevance": 70
             }
         ]
     },
@@ -139,18 +124,69 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-a1u36gi4",
-                "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-10ym4eip",
+                "id": "rss-dj5kmamd",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
+            },
+            {
+                "id": "hn-48873836",
+                "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-48872874",
+                "title": "We scaled PgBouncer to 4x throughput",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-cltmzy35",
+                "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+                "source": "TechCrunch",
+                "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-1nru4tz7",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-5zciz9qn",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-48823981",
+                "title": "An agent in 100 lines of Lisp",
+                "source": "Hacker News",
+                "time": "4d ago",
+                "relevance": 65
             }
         ]
     }
@@ -158,7 +194,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-qnw2jjj4",
+        "id": "arxiv-265l75m0",
         "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
         "authors": "Jiangwei Ren, Xingyu Jiang, Zijie Song, Wei Xu, Hongkai…",
         "journal": "arXiv preprint",
@@ -167,7 +203,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.08772v1"
     },
     {
-        "id": "arxiv-z9lkcewz",
+        "id": "arxiv-cs2difzq",
         "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
         "authors": "Fabio Tosi, Luca Bartolomei, Matteo Poggi, Stefano Mattoccia",
         "journal": "arXiv preprint",
@@ -176,7 +212,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.08771v1"
     },
     {
-        "id": "arxiv-4ikapdhu",
+        "id": "arxiv-l1uwqenl",
         "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
         "authors": "Cheng-De Fan, Chun-Wei Tuan Mu, Chen-Wei Chang, Chin-Yang…",
         "journal": "arXiv preprint",
@@ -185,7 +221,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.08770v1"
     },
     {
-        "id": "arxiv-uwhbcgln",
+        "id": "arxiv-v7iyaziq",
         "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
         "authors": "Weijian Chen, Weibo Yao, Yuhang Zhang, Xiaolin Tang, Guo…",
         "journal": "arXiv preprint",
@@ -194,7 +230,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.08769v1"
     },
     {
-        "id": "arxiv-0mynkbjy",
+        "id": "arxiv-hwtjzuyw",
         "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
         "authors": "Zhekai Chen, Chengqi Duan, Kaiyue Sun, Bohao Li, Yuqing…",
         "journal": "arXiv preprint",
@@ -203,7 +239,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.08768v1"
     },
     {
-        "id": "arxiv-mcfiie8a",
+        "id": "arxiv-mln6j0bc",
         "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
         "authors": "Hongyu Liu, Chun Wang, Feng Gao, Xuanhua He, Yue Ma, Ziyu…",
         "journal": "arXiv preprint",
@@ -215,16 +251,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-dicowk2v",
+        "id": "gh-jb09pev5",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "212.9k",
+        "stars": "213.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-x0ct7prs",
+        "id": "gh-b52o6pml",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.5k",
@@ -233,16 +269,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-59geok0m",
+        "id": "gh-3z3giqhw",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "151.6k",
+        "stars": "151.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-gjlgczby",
+        "id": "gh-k2oce8pr",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.5k",
@@ -251,16 +287,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-lmox6z2k",
+        "id": "gh-u4mb2mnu",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.7k",
+        "stars": "101.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-j2x76ejq",
+        "id": "gh-7sx1wvfr",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.2k",
@@ -269,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-8bx1fe22",
+        "id": "gh-vvc3waoy",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "120.3k",
+        "stars": "120.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
