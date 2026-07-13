@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-12T08:21:29.652Z
-   Stories: 21 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-07-13T09:32:02.170Z
+   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-5abgmvj9",
+    "id": "rss-wlsck5az",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "3d ago",
     "readTime": "5 min read",
     "relevance": 83,
     "url": "https://openai.com/index/gpt-5-6"
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-5abgmvj9",
+                "id": "rss-wlsck5az",
                 "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-mhhewh0a",
+                "id": "rss-bwxra05l",
                 "title": "How Deutsche Telekom is rewiring telecommunications with AI",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-k4y6hegb",
+                "id": "rss-p5khx9fk",
                 "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-uy4ng3d6",
+                "id": "rss-1owk3fmy",
                 "title": "ChatGPT is now a partner for your most ambitious work",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-c0q6asu3",
+                "id": "rss-0riw18it",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
-                "time": "4d ago",
+                "time": "6d ago",
                 "relevance": 78
             }
         ]
@@ -88,61 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-jvi63lyv",
-                "title": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
+                "id": "rss-fsjjgzd9",
+                "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
                 "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 79
+                "time": "Just now",
+                "relevance": 83
             },
             {
-                "id": "rss-4gybznig",
-                "title": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+                "id": "rss-6g2qtwgt",
+                "title": "Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 76
+                "time": "1h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-mxllwzsh",
-                "title": "How to Build a T4-Friendly Autonomous Data Science Agent with DeepAnalyze-8B, Sandboxed Code Execution, and Iterative Analysis",
+                "id": "rss-fyv84qfm",
+                "title": "Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-6807du7i",
-                "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-dj5kmamd",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-48873836",
-                "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-                "source": "Hacker News",
-                "time": "14h ago",
+                "time": "13h ago",
                 "relevance": 74
             },
             {
-                "id": "hn-48872874",
-                "title": "We scaled PgBouncer to 4x throughput",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 70
+                "id": "rss-gb9lgfvs",
+                "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 72
             }
         ]
     },
@@ -153,40 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-cltmzy35",
+                "id": "rss-edwutjem",
                 "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
                 "source": "TechCrunch",
-                "time": "1d ago",
-                "relevance": 81
+                "time": "2d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-1nru4tz7",
+                "id": "rss-mj6nlykk",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-5zciz9qn",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
-            },
-            {
-                "id": "hn-48823981",
-                "title": "An agent in 100 lines of Lisp",
-                "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 65
             }
         ]
     }
@@ -194,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-265l75m0",
-        "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
-        "authors": "Jiangwei Ren, Xingyu Jiang, Zijie Song, Wei Xu, Hongkai…",
+        "id": "arxiv-88kiuavd",
+        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+        "authors": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri",
         "journal": "arXiv preprint",
-        "abstract": "Estimating 3D geometry in underwater environments presents unique challenges due to light attenuation, scattering, and the absence of large-scale, high-quality 3D annotations. Pioneering methods rely on massive dense annotations that are impractical in underwater settings. In this paper, we propose Wat3R, a…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.08772v1"
+        "abstract": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communications). We…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2607.09662v1"
     },
     {
-        "id": "arxiv-cs2difzq",
-        "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
-        "authors": "Fabio Tosi, Luca Bartolomei, Matteo Poggi, Stefano Mattoccia",
+        "id": "arxiv-rttp71es",
+        "title": "PanoWorld: Real-World Panoramic Generation",
+        "authors": "Haoyuan Li, Dizhe Zhang, Yuemei Zhou, Xiangkai Zhang,…",
         "journal": "arXiv preprint",
-        "abstract": "Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded and mobile platforms. Lightweight alternatives exist, but have been developed almost exclusively within single-domain,…",
+        "abstract": "In this work, we aim to address the challenge of long-range memory in panoramic world models by exploiting the rotation-equivariant property of omnidirectional representations, where rotation can be treated as an implicit geometric transformation.Building on this insight, we propose PanoWorld, which simplifies camera…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.08771v1"
+        "url": "http://arxiv.org/abs/2607.09661v1"
     },
     {
-        "id": "arxiv-l1uwqenl",
-        "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
-        "authors": "Cheng-De Fan, Chun-Wei Tuan Mu, Chen-Wei Chang, Chin-Yang…",
+        "id": "arxiv-w4qcnd99",
+        "title": "Scalable Visual Pretraining for Language Intelligence",
+        "authors": "Yiming Zhang, Zhonghan Zhao, Wenwei Zhang, Haiteng Zhao,…",
         "journal": "arXiv preprint",
-        "abstract": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose LongE2V, a novel approach that leverages pre-trained video diffusion priors to jointly handle event-based video…",
+        "abstract": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or completely…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.08770v1"
+        "url": "http://arxiv.org/abs/2607.09657v1"
     },
     {
-        "id": "arxiv-v7iyaziq",
-        "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
-        "authors": "Weijian Chen, Weibo Yao, Yuhang Zhang, Xiaolin Tang, Guo…",
+        "id": "arxiv-phhsudmr",
+        "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+        "authors": "Lulin Liu, Nuo Chen, Yan Wang, Bangya Liu, Wenyan Cong,…",
         "journal": "arXiv preprint",
-        "abstract": "Scaling 3D Gaussian Splatting (3DGS) to large outdoor scenes is costly in both data acquisition and computation. Adopting panoramic images with equirectangular projection (ERP) can reduce capture effort via their full $360^{\\circ}$ field of view, yet the resulting omnipresent visibility invalidates existing…",
+        "abstract": "Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events remain underutilized when collected from heterogeneous sources. Specifically, diverse but valuable in-the-wild…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.08769v1"
+        "url": "http://arxiv.org/abs/2607.09655v1"
     },
     {
-        "id": "arxiv-hwtjzuyw",
-        "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-        "authors": "Zhekai Chen, Chengqi Duan, Kaiyue Sun, Bohao Li, Yuqing…",
+        "id": "arxiv-ez4pb48u",
+        "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+        "authors": "Shravan Murlidaran, Miguel P. Eckstein",
         "journal": "arXiv preprint",
-        "abstract": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.08768v1"
+        "abstract": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focused on understanding…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.09654v1"
     },
     {
-        "id": "arxiv-mln6j0bc",
-        "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
-        "authors": "Hongyu Liu, Chun Wang, Feng Gao, Xuanhua He, Yue Ma, Ziyu…",
+        "id": "arxiv-yp5iyex5",
+        "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+        "authors": "Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj, Maanak…",
         "journal": "arXiv preprint",
-        "abstract": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout.…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.08766v1"
+        "abstract": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise in penetration…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2607.09653v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-jb09pev5",
+        "id": "gh-l1kk9219",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "213.4k",
+        "stars": "214.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-b52o6pml",
+        "id": "gh-00sxyrh3",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.5k",
@@ -269,25 +218,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-3z3giqhw",
+        "id": "gh-7tgbqq7l",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "151.7k",
+        "stars": "151.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-k2oce8pr",
+        "id": "gh-mgm995ey",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "162.5k",
+        "stars": "162.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-u4mb2mnu",
+        "id": "gh-x1l0at6p",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.8k",
@@ -296,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-7sx1wvfr",
+        "id": "gh-qyjbtill",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.2k",
@@ -305,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-vvc3waoy",
+        "id": "gh-nmsetjic",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "120.4k",
+        "stars": "120.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
