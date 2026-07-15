@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-14T08:10:21.053Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-15T08:17:22.945Z
+   Stories: 25 | Clusters: 6 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-8gz6gtwf",
+    "id": "rss-qipf9xr2",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Getting started with ChatGPT",
-    "excerpt": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "title": "How to manage AI investments in the agentic era",
+    "excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
     "source": "OpenAI",
-    "time": "4d ago",
+    "time": "22h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/academy/getting-started"
+    "relevance": 87,
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-8gz6gtwf",
-                "title": "Getting started with ChatGPT",
+                "id": "rss-qipf9xr2",
+                "title": "How to manage AI investments in the agentic era",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "22h ago",
+                "relevance": 87
             },
             {
-                "id": "rss-e8dmq82i",
+                "id": "rss-1jctbwdn",
+                "title": "Celebrating 25 years of visual search innovation",
+                "source": "Google Blog",
+                "time": "16h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-zh7clnim",
                 "title": "How Deutsche Telekom is rewiring telecommunications with AI",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-gxtp2va3",
-                "title": "GPT-5.5 Bio Bug Bounty",
+                "id": "rss-edfwnvit",
+                "title": "How data science teams use ChatGPT Work",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-68ibv2j5",
-                "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-fd96sx50",
+                "id": "rss-u5eaq81q",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
-                "time": "6d ago",
+                "time": "Jul 7",
                 "relevance": 78
             }
         ]
@@ -88,60 +88,60 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-06q1cnda",
-                "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+                "id": "rss-4q60rxoi",
+                "title": "PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones",
                 "source": "MarkTechPost",
-                "time": "7h ago",
+                "time": "9h ago",
                 "relevance": 75
             },
             {
-                "id": "rss-5ghcny28",
-                "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity",
+                "id": "rss-xxkl44eq",
+                "title": "Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder",
                 "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 73
+                "time": "1d ago",
+                "relevance": 74
             },
             {
-                "id": "rss-gqcsxzea",
-                "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
-                "source": "MarkTechPost",
-                "time": "23h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-dysezc5q",
-                "title": "Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations",
+                "id": "rss-3n4v1h6s",
+                "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 72
+            },
+            {
+                "id": "rss-02625g5w",
+                "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 70
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-te2l5m98",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-cowlzt1d",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "Jan 16",
+                "relevance": 72
             },
             {
-                "id": "hn-48896600",
-                "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+                "id": "hn-48913190",
+                "title": "Microsoft has released software updates to plug at least 570 security holes",
                 "source": "Hacker News",
-                "time": "13h ago",
-                "relevance": 71
+                "time": "10h ago",
+                "relevance": 69
             },
             {
-                "id": "hn-48845999",
-                "title": "Writing a bindless GPU abstraction layer",
+                "id": "hn-48872401",
+                "title": "The largest available Minecraft world, totalling 15 TB",
                 "source": "Hacker News",
-                "time": "4d ago",
+                "time": "3d ago",
                 "relevance": 65
             }
         ]
@@ -153,18 +153,69 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-8wtbu0p7",
-                "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-                "source": "TechCrunch",
-                "time": "8h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-zdq6y0l8",
+                "id": "rss-iuu3cwfs",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
+            },
+            {
+                "id": "hn-48908950",
+                "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-48883305",
+                "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-ay791nqe",
+                "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+                "source": "TechCrunch",
+                "time": "9h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-juvqilwm",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-48913050",
+                "title": "Dependabot version updates introduce default package cooldown",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-48910676",
+                "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 69
             }
         ]
     }
@@ -172,82 +223,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-0il954f5",
-        "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-        "authors": "Runhui Huang, Qihui Zhang, Zhe Liu, Yu Gao, Jie Wu,…",
+        "id": "arxiv-w5928327",
+        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+        "authors": "Junjie Yin, Xinyu Feng",
         "journal": "arXiv preprint",
-        "abstract": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the MLLM to judge a generated image or answer decomposed verification questions, SpectraReward measures how well the…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.11886v1"
+        "abstract": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2607.13034v1"
     },
     {
-        "id": "arxiv-zxoykx00",
-        "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-        "authors": "Daniel Garibi, Ronen Kamenetsky, Hadar Averbuch-Elor,…",
+        "id": "arxiv-6s0uylxh",
+        "title": "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
+        "authors": "Yu Fang, Wanxi Dong, Jiaqi Liu, Yue Yang, Mingxiao Huo, Yao…",
         "journal": "arXiv preprint",
-        "abstract": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, however, often lack the precision required for fine-grained facial edits. We…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.11885v1"
-    },
-    {
-        "id": "arxiv-8d8qovqj",
-        "title": "Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation",
-        "authors": "Dian Wang, Jisang Park, Xiaomeng Xu, Han Zhang, Shuran…",
-        "journal": "arXiv preprint",
-        "abstract": "Robotic manipulation is inherently multi-frame: local actions may be simple in an end-effector frame, while transport, upright-object handling, and whole-body coordination are better represented in a base-aligned frame. However, modern diffusion-based visuomotor policies typically commit to a single predefined action…",
+        "abstract": "Reinforcement learning holds great promise for improving robot policies beyond the limits of imitation learning. However, its practical adoption remains bottlenecked by the lack of reliable vision-language reward models that provide dense and informative feedback. Two key challenges remain: acquiring diverse failure…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.11884v1"
+        "url": "http://arxiv.org/abs/2607.13033v1"
     },
     {
-        "id": "arxiv-epln9nfa",
-        "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
-        "authors": "Shikai Qiu, Marc Finzi, Yujia Zheng, Kun Zhang, Andrew…",
+        "id": "arxiv-hbnoyeyv",
+        "title": "The Seriality Gap in Video Diffusion Models",
+        "authors": "Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu, Yutong Bai",
         "journal": "arXiv preprint",
-        "abstract": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this…",
+        "abstract": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard bidirectional video diffusion degrades as the causal chain lengthens, even when provided more denoising steps.…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.11883v1"
+        "url": "http://arxiv.org/abs/2607.13031v1"
     },
     {
-        "id": "arxiv-zesjqdzx",
-        "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-        "authors": "Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu, Jordan…",
+        "id": "arxiv-t3mau8c0",
+        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+        "authors": "Zhouchonghao Wu, Akshay Rangesh, Weixin Li, Wei-Jer Chang,…",
         "journal": "arXiv preprint",
-        "abstract": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse…",
+        "abstract": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the safety-critical long tail that logged data rarely contains. We present TerraZero, a procedural driving…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2607.13028v1"
+    },
+    {
+        "id": "arxiv-164sj9ps",
+        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+        "authors": "Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li",
+        "journal": "arXiv preprint",
+        "abstract": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.11881v1"
+        "url": "http://arxiv.org/abs/2607.13027v1"
     },
     {
-        "id": "arxiv-p553p44o",
-        "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
-        "authors": "Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet, Thomas…",
+        "id": "arxiv-reex2n3w",
+        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+        "authors": "Gianluca Galletti, Gerald Gutenbrunner, William Hornsby,…",
         "journal": "arXiv preprint",
-        "abstract": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.11875v1"
+        "abstract": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of primary interest, direct numerical simulations must resolve the full transient dynamics before reaching it, incurring…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2607.13022v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-3osfd863",
+        "id": "gh-xpzoydlk",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "214.5k",
+        "stars": "215.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ol2zyf84",
+        "id": "gh-jufpu553",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "185.5k",
+        "stars": "185.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-8tmpzy5a",
+        "id": "gh-ciu0fyc0",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "151.9k",
@@ -256,7 +307,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-u04haw8s",
+        "id": "gh-zlxcuzes",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.6k",
@@ -265,7 +316,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-z5wif4yu",
+        "id": "gh-eobaes8w",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.8k",
@@ -274,7 +325,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-wdqajdk8",
+        "id": "gh-52s241sw",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.2k",
@@ -283,10 +334,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-m15lofpm",
+        "id": "gh-t072fl5f",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "120.7k",
+        "stars": "120.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
