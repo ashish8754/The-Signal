@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-15T08:17:22.945Z
-   Stories: 25 | Clusters: 6 | Papers: 6 | Repos: 7
+   Updated: 2026-07-16T08:17:53.613Z
+   Stories: 24 | Clusters: 6 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-qipf9xr2",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "How to manage AI investments in the agentic era",
-    "excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "id": "rss-hhr9f6zp",
+    "topic": "AI Safety",
+    "topicId": "security",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "excerpt": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
     "source": "OpenAI",
     "time": "22h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+    "relevance": 90,
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-qipf9xr2",
+                "id": "rss-17j5h6p0",
                 "title": "How to manage AI investments in the agentic era",
                 "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-1jctbwdn",
-                "title": "Celebrating 25 years of visual search innovation",
-                "source": "Google Blog",
-                "time": "16h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-zh7clnim",
-                "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-edfwnvit",
-                "title": "How data science teams use ChatGPT Work",
-                "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 80
+                "relevance": 84
             },
             {
-                "id": "rss-u5eaq81q",
+                "id": "rss-b3ak2xcs",
+                "title": "The US is advancing AI safety through state and federal action",
+                "source": "OpenAI",
+                "time": "20h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-xc1ugw84",
+                "title": "How sales teams use ChatGPT Work",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-2bv3ei32",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
                 "time": "Jul 7",
                 "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-4q60rxoi",
-                "title": "PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 75
             },
             {
-                "id": "rss-xxkl44eq",
-                "title": "Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder",
-                "source": "MarkTechPost",
+                "id": "rss-exrgxyvx",
+                "title": "Celebrating 25 years of visual search innovation",
+                "source": "Google Blog",
                 "time": "1d ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-3n4v1h6s",
-                "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
-            },
-            {
-                "id": "rss-02625g5w",
-                "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 70
+                "relevance": 78
             }
         ]
     },
@@ -124,25 +88,90 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-cowlzt1d",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "id": "rss-2yk1s2su",
+                "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 83
             },
             {
-                "id": "hn-48913190",
-                "title": "Microsoft has released software updates to plug at least 570 security holes",
+                "id": "rss-8sjodsdt",
+                "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 80
+            },
+            {
+                "id": "hn-48926590",
+                "title": "Grok Build is open source",
                 "source": "Hacker News",
-                "time": "10h ago",
+                "time": "11h ago",
+                "relevance": 71
+            },
+            {
+                "id": "hn-48915393",
+                "title": "High-Bandwidth Flash offers efficient storage for model weights",
+                "source": "Hacker News",
+                "time": "1d ago",
                 "relevance": 69
             },
             {
-                "id": "hn-48872401",
-                "title": "The largest available Minecraft world, totalling 15 TB",
+                "id": "hn-48927095",
+                "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
                 "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
+                "time": "11h ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-9b3xi2d5",
+                "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI",
+                "source": "MarkTechPost",
+                "time": "1h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-dzcylmaq",
+                "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-fmnzpdxy",
+                "title": "Building a Gin Config Controlled PyTorch Pipeline with Configurable MLP Variants, Cosine Scheduling, and Runtime Parameter Overrides",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "rss-9d83aszt",
+                "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 86
+            },
+            {
+                "id": "hn-48922706",
+                "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 74
             }
         ]
     },
@@ -153,25 +182,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-iuu3cwfs",
+                "id": "rss-fjwku5nx",
+                "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+                "source": "VentureBeat",
+                "time": "9h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-7nv1dbuw",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
-            },
-            {
-                "id": "hn-48908950",
-                "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-48883305",
-                "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
             }
         ]
     },
@@ -182,40 +204,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-ay791nqe",
-                "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-juvqilwm",
+                "id": "rss-1xms1tpc",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
-        "stories": [
-            {
-                "id": "hn-48913050",
-                "title": "Dependabot version updates introduce default package cooldown",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 70
             },
             {
-                "id": "hn-48910676",
-                "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+                "id": "hn-48922434",
+                "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
                 "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 69
+                "time": "16h ago",
+                "relevance": 70
             }
         ]
     }
@@ -223,73 +223,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-w5928327",
-        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
-        "authors": "Junjie Yin, Xinyu Feng",
+        "id": "arxiv-pirdfct9",
+        "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+        "authors": "Zhihao Xie, Junfeng Wu, Xinting Hu, Junchao Huang, Li Jiang",
         "journal": "arXiv preprint",
-        "abstract": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.13034v1"
+        "abstract": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs)…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.14088v1"
     },
     {
-        "id": "arxiv-6s0uylxh",
-        "title": "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
-        "authors": "Yu Fang, Wanxi Dong, Jiaqi Liu, Yue Yang, Mingxiao Huo, Yao…",
+        "id": "arxiv-6e849n7c",
+        "title": "Leveraging unlabelled data for generalizable neural population decoding",
+        "authors": "Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo, Matthew…",
         "journal": "arXiv preprint",
-        "abstract": "Reinforcement learning holds great promise for improving robot policies beyond the limits of imitation learning. However, its practical adoption remains bottlenecked by the lack of reliable vision-language reward models that provide dense and informative feedback. Two key challenges remain: acquiring diverse failure…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.13033v1"
-    },
-    {
-        "id": "arxiv-hbnoyeyv",
-        "title": "The Seriality Gap in Video Diffusion Models",
-        "authors": "Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu, Yutong Bai",
-        "journal": "arXiv preprint",
-        "abstract": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard bidirectional video diffusion degrades as the causal chain lengthens, even when provided more denoising steps.…",
+        "abstract": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. However, current…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.13031v1"
+        "url": "http://arxiv.org/abs/2607.14086v1"
     },
     {
-        "id": "arxiv-t3mau8c0",
-        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
-        "authors": "Zhouchonghao Wu, Akshay Rangesh, Weixin Li, Wei-Jer Chang,…",
+        "id": "arxiv-e7uql7eg",
+        "title": "Linear Independent Component Analysis via Optimal Transport",
+        "authors": "Ashutosh Jha, Michel Besserve, Simon Buchholz",
         "journal": "arXiv preprint",
-        "abstract": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the safety-critical long tail that logged data rarely contains. We present TerraZero, a procedural driving…",
+        "abstract": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measured by negentropy, which is linked to independence by information theory. Because exact negentropy optimization is…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.13028v1"
+        "url": "http://arxiv.org/abs/2607.14081v1"
     },
     {
-        "id": "arxiv-164sj9ps",
-        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-        "authors": "Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li",
+        "id": "arxiv-wzr6i3c7",
+        "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+        "authors": "Zhen Li, Zian Meng, Shuwei Shi, Mingliang Zhai, Jiaming…",
         "journal": "arXiv preprint",
-        "abstract": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.13027v1"
+        "abstract": "Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.14076v1"
     },
     {
-        "id": "arxiv-reex2n3w",
-        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
-        "authors": "Gianluca Galletti, Gerald Gutenbrunner, William Hornsby,…",
+        "id": "arxiv-6ek4ca2s",
+        "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+        "authors": "Mustafa Chasmai, Vincent Dumoulin, Jenny Hamer",
         "journal": "arXiv preprint",
-        "abstract": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of primary interest, direct numerical simulations must resolve the full transient dynamics before reaching it, incurring…",
+        "abstract": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce SotA species detection models when trained on this large-scale data -- however, there remains unutilized potential in…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2607.14072v1"
+    },
+    {
+        "id": "arxiv-y0h036zd",
+        "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+        "authors": "Jeremy Guntoro, Alexander Dack, Dylan Danno, Michaela…",
+        "journal": "arXiv preprint",
+        "abstract": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly accessible in these representations by training minimal linear and attention probes on frozen Evo 2 layer-26 activations,…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2607.13022v1"
+        "url": "http://arxiv.org/abs/2607.14070v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-xpzoydlk",
+        "id": "gh-nj7vsimn",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "215.1k",
+        "stars": "215.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-jufpu553",
+        "id": "gh-67g6zaza",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.6k",
@@ -298,7 +298,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-ciu0fyc0",
+        "id": "gh-o0e804tb",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "151.9k",
@@ -307,7 +307,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-zlxcuzes",
+        "id": "gh-v74u0t6r",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.6k",
@@ -316,7 +316,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-eobaes8w",
+        "id": "gh-o7c5fhmf",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.8k",
@@ -325,19 +325,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-52s241sw",
+        "id": "gh-kf2vgnsu",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.2k",
+        "stars": "164.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-t072fl5f",
+        "id": "gh-ye1yuuxi",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "120.8k",
+        "stars": "120.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
