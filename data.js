@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-18T07:55:28.656Z
-   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-07-19T08:22:51.734Z
+   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-x18ikyit",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "excerpt": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "source": "OpenAI",
-    "time": "2d ago",
+    "id": "rss-pz6f638r",
+    "topic": "Open Source AI",
+    "topicId": "opensource",
+    "title": "Kimi: Threat or menace?",
+    "excerpt": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "source": "TechCrunch",
+    "time": "13h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://openai.com/index/cars24"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-x18ikyit",
+                "id": "rss-zt8mz9jo",
                 "title": "How Cars24 scales conversations and builds faster with OpenAI",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-qqsjd9i8",
+                "id": "rss-so5oyj07",
                 "title": "A scorecard for the AI age",
-                "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-divvjaru",
-                "title": "Why teens deserve access to safe AI",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-r0cb8301",
-                "title": "Create, edit and star in videos with two Google Vids updates",
-                "source": "Google Blog",
-                "time": "1d ago",
+                "id": "rss-1zjk33hn",
+                "title": "The US is advancing AI safety through state and federal action",
+                "source": "OpenAI",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-t7m0fa9i",
-                "title": "The US is advancing AI safety through state and federal action",
+                "id": "rss-xgrlyfcv",
+                "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+                "source": "Google Blog",
+                "time": "Jul 7",
+                "relevance": 78
+            },
+            {
+                "id": "rss-hc51lgqb",
+                "title": "Why teens deserve access to safe AI",
                 "source": "OpenAI",
                 "time": "2d ago",
-                "relevance": 79
+                "relevance": 78
             }
         ]
     },
@@ -88,39 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-3avcl4fb",
-                "title": "Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation",
+                "id": "rss-5lnkg6di",
+                "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
                 "source": "MarkTechPost",
-                "time": "1h ago",
+                "time": "2h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-j4n8umfx",
+                "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial",
+                "source": "MarkTechPost",
+                "time": "7h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-u0p3ezvj",
-                "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
+                "id": "rss-h27fotsc",
+                "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
                 "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 78
+                "time": "13h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-p9gre750",
-                "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+                "id": "rss-mhf5ym1k",
+                "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-eaiq5wye",
-                "title": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 72
-            },
-            {
-                "id": "hn-48947717",
-                "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 69
+                "time": "6h ago",
+                "relevance": 76
             }
         ]
     },
@@ -131,69 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-4qq4zut2",
+                "id": "rss-nu12kbci",
                 "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
                 "source": "TechCrunch",
-                "time": "8h ago",
-                "relevance": 82
+                "time": "1d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-2l8gpr0n",
+                "id": "rss-oxlfcyvb",
                 "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
                 "source": "VentureBeat",
-                "time": "1d ago",
-                "relevance": 76
+                "time": "2d ago",
+                "relevance": 74
             },
             {
-                "id": "rss-372gfg7b",
+                "id": "rss-tl91jcr0",
                 "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
                 "source": "VentureBeat",
-                "time": "1d ago",
-                "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-a9rwbpr5",
-                "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-                "source": "VentureBeat",
-                "time": "1d ago",
-                "relevance": 78
-            },
-            {
-                "id": "hn-48917755",
-                "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-                "source": "Hacker News",
                 "time": "2d ago",
-                "relevance": 65
+                "relevance": 73
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
         "stories": [
             {
-                "id": "hn-48954175",
-                "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 69
+                "id": "rss-pz6f638r",
+                "title": "Kimi: Threat or menace?",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 88
             },
             {
-                "id": "hn-48942603",
-                "title": "In-toto: A framework to secure the integrity of software supply chains",
+                "id": "hn-48962838",
+                "title": "Classic Amiga titles, free to download",
                 "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
+                "time": "10h ago",
+                "relevance": 70
             }
         ]
     }
@@ -201,7 +172,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-gq8xf1cl",
+        "id": "arxiv-8si1yi94",
         "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
         "authors": "Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou,…",
         "journal": "arXiv preprint",
@@ -210,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.15278v1"
     },
     {
-        "id": "arxiv-f43k3wqs",
+        "id": "arxiv-z0izo6gd",
         "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
         "authors": "Patrik Wolf, Thomas Kleine Buening, Andreas Krause,…",
         "journal": "arXiv preprint",
@@ -219,7 +190,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.15277v1"
     },
     {
-        "id": "arxiv-60q6ftj9",
+        "id": "arxiv-3ynba69x",
         "title": "RoboTTT: Context Scaling for Robot Policies",
         "authors": "Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng, Fengyuan Hu,…",
         "journal": "arXiv preprint",
@@ -228,7 +199,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.15275v1"
     },
     {
-        "id": "arxiv-cjvcj59v",
+        "id": "arxiv-yj38vgfd",
         "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
         "authors": "Yushi Huang, Xiangxin Zhou, Jun Zhang, Liefeng Bo, Tianyu…",
         "journal": "arXiv preprint",
@@ -237,7 +208,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.15273v1"
     },
     {
-        "id": "arxiv-ms4fymwd",
+        "id": "arxiv-fx15jb6p",
         "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
         "authors": "Yasheng Sun, Zezi Zeng, Yifan Yang, Chong Luo, Wenyi Wang,…",
         "journal": "arXiv preprint",
@@ -246,7 +217,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.15272v1"
     },
     {
-        "id": "arxiv-huye4r8z",
+        "id": "arxiv-7384taqm",
         "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
         "authors": "Baback Elmieh, Lynn Tsai, Zeman Li, Srinivas Kaza,…",
         "journal": "arXiv preprint",
@@ -258,16 +229,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-z13vend0",
+        "id": "gh-zn4owck0",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "216.6k",
+        "stars": "217.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ypnj7r4h",
+        "id": "gh-cukjnhlr",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.6k",
@@ -276,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-c308kixq",
+        "id": "gh-vzm62op9",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.0k",
@@ -285,7 +256,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-4ika15e1",
+        "id": "gh-rnzwhstq",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.7k",
@@ -294,16 +265,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zpbeouw4",
+        "id": "gh-mmspbg4m",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.7k",
+        "stars": "101.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-4wrhza5j",
+        "id": "gh-d3fq5nzx",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.2k",
@@ -312,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-h09bvyng",
+        "id": "gh-rsjj5yg2",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "121.2k",
+        "stars": "121.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -324,44 +295,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-4qq4zut2",
-        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-        "desc": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "TechCrunch"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-3avcl4fb",
-        "title": "Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation",
-        "desc": "Backpropagation relies on weight transport, which biological circuits likely cannot implement. Sakana AI's Error Diffusion sidesteps that constraint, training dual-stream…",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "MarkTechPost"
-    },
-    {
-        "id": "ng-rss-u0p3ezvj",
-        "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
-        "desc": "Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary…",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "MarkTechPost"
-    },
-    {
-        "id": "ng-hn-48953406",
-        "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-        "desc": "Click to read more about this development.",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
         "tag": "Biotech",
         "tagClass": "biotech",
-        "source": "Hacker News"
+        "source": "DeepMind"
     },
     {
-        "id": "ng-hn-48941315",
-        "title": "Battery packs: Let's talk about crates, baby",
-        "desc": "Click to read more about this development.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Hacker News"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
