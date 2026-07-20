@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-19T08:22:51.734Z
+   Updated: 2026-07-20T09:18:38.710Z
    Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-pz6f638r",
-    "topic": "Open Source AI",
-    "topicId": "opensource",
-    "title": "Kimi: Threat or menace?",
-    "excerpt": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-    "source": "TechCrunch",
-    "time": "13h ago",
+    "id": "rss-g7fjb8q3",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "excerpt": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "source": "OpenAI",
+    "time": "4d ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+    "relevance": 84,
+    "url": "https://openai.com/index/cars24"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-zt8mz9jo",
+                "id": "rss-g7fjb8q3",
                 "title": "How Cars24 scales conversations and builds faster with OpenAI",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-so5oyj07",
-                "title": "A scorecard for the AI age",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-1zjk33hn",
+                "id": "rss-jvyq445n",
                 "title": "The US is advancing AI safety through state and federal action",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-xgrlyfcv",
+                "id": "rss-4wetm1xy",
+                "title": "A scorecard for the AI age",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-93bsg9ln",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
                 "time": "Jul 7",
                 "relevance": 78
             },
             {
-                "id": "rss-hc51lgqb",
+                "id": "rss-5w6j0dnx",
                 "title": "Why teens deserve access to safe AI",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             }
         ]
@@ -88,32 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-5lnkg6di",
-                "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
+                "id": "rss-nfag2emo",
+                "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 84
+                "time": "11h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-j4n8umfx",
-                "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial",
+                "id": "rss-88ipjhvk",
+                "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared",
                 "source": "MarkTechPost",
                 "time": "7h ago",
-                "relevance": 80
+                "relevance": 78
             },
             {
-                "id": "rss-h27fotsc",
-                "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
+                "id": "rss-ltu6h50c",
+                "title": "Feyn AI Releases SQRL, a Text-to-SQL Model Family That Inspects the Database Before Writing a Query",
                 "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-cl6x119m",
+                "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-hpwjl6qz",
+                "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+                "source": "TechCrunch",
                 "time": "13h ago",
-                "relevance": 80
+                "relevance": 81
             },
             {
-                "id": "rss-mhf5ym1k",
-                "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost",
-                "source": "MarkTechPost",
-                "time": "6h ago",
+                "id": "rss-law7nvad",
+                "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+                "source": "VentureBeat",
+                "time": "3d ago",
                 "relevance": 76
+            },
+            {
+                "id": "hn-48966713",
+                "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+                "source": "Hacker News",
+                "time": "22h ago",
+                "relevance": 69
             }
         ]
     },
@@ -124,47 +153,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-nu12kbci",
-                "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-                "source": "TechCrunch",
-                "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-oxlfcyvb",
+                "id": "rss-xi1zw2r5",
                 "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
                 "source": "VentureBeat",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 74
             },
             {
-                "id": "rss-tl91jcr0",
+                "id": "rss-egwce1mn",
                 "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
                 "source": "VentureBeat",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-pz6f638r",
-                "title": "Kimi: Threat or menace?",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 88
-            },
-            {
-                "id": "hn-48962838",
-                "title": "Classic Amiga titles, free to download",
-                "source": "Hacker News",
-                "time": "10h ago",
-                "relevance": 70
             }
         ]
     }
@@ -172,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-8si1yi94",
-        "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
-        "authors": "Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou,…",
+        "id": "arxiv-dfjcnkc9",
+        "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+        "authors": "Like Liu, Zhengzheng Xu, Haitao He, Hongzhe Li, Shuchang…",
         "journal": "arXiv preprint",
-        "abstract": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both…",
+        "abstract": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benchmarks have begun to evaluate MLLMs in aerial scenarios, but they typically focus on scene understanding, event…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.15278v1"
+        "url": "http://arxiv.org/abs/2607.16193v1"
     },
     {
-        "id": "arxiv-z0izo6gd",
-        "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-        "authors": "Patrik Wolf, Thomas Kleine Buening, Andreas Krause,…",
+        "id": "arxiv-q42no3q0",
+        "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+        "authors": "Homanga Bharadhwaj, Yash Jangir",
         "journal": "arXiv preprint",
-        "abstract": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.15277v1"
+        "abstract": "Humans can infer how objects are likely to move from passive observation: a cup may be lifted, a drawer may slide, and a lid may rotate shut. Such predictions expose the physical consequences of interaction needed to act in the real world. We study how to learn this anticipation from ordinary monocular videos of…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.16192v1"
     },
     {
-        "id": "arxiv-3ynba69x",
-        "title": "RoboTTT: Context Scaling for Robot Policies",
-        "authors": "Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng, Fengyuan Hu,…",
+        "id": "arxiv-c5a9j2od",
+        "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+        "authors": "Hao Liu, Chenghuan Huang, Ye Huang, Zhiying Wen, Hao Liu,…",
         "journal": "arXiv preprint",
-        "abstract": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference…",
+        "abstract": "Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-$p$ routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.16190v1"
+    },
+    {
+        "id": "arxiv-6g05ofxp",
+        "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
+        "authors": "Ce Zhang, Ziyang Wang, Yulu Pan, Oluwatumininu Oguntola,…",
+        "journal": "arXiv preprint",
+        "abstract": "Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods frame this task as multi-turn exploration with a single crop_video(start, end) action, which supports coarse-to-fine…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.16189v1"
+    },
+    {
+        "id": "arxiv-c0bfrmwx",
+        "title": "Handroid: Bridging Dexterous Hand and Humanoid",
+        "authors": "Ruogu Li, Chenyang Ma, Sikai Li, Zhenyu Wei, Yunchao Yao,…",
+        "journal": "arXiv preprint",
+        "abstract": "Dexterous hands and humanoid robots are typically developed as distinct embodiments: the former enable contact-rich manipulation at the object scale, whereas the latter provide mobility and whole-body interaction in human-centered environments. We introduce \\textbf{Handroid}, a desktop-scale dual-embodiment robot that…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.15275v1"
+        "url": "http://arxiv.org/abs/2607.16187v1"
     },
     {
-        "id": "arxiv-yj38vgfd",
-        "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-        "authors": "Yushi Huang, Xiangxin Zhou, Jun Zhang, Liefeng Bo, Tianyu…",
+        "id": "arxiv-pfounemj",
+        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+        "authors": "Yuchen Yang, Yifan Zhao, Anisha Dasgupta, Sasa Misailovic",
         "journal": "arXiv preprint",
-        "abstract": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular,…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.15273v1"
-    },
-    {
-        "id": "arxiv-fx15jb6p",
-        "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
-        "authors": "Yasheng Sun, Zezi Zeng, Yifan Yang, Chong Luo, Wenyi Wang,…",
-        "journal": "arXiv preprint",
-        "abstract": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts. Automating this editing workflow under a natural-language instruction, however, is challenging, because a…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.15272v1"
-    },
-    {
-        "id": "arxiv-7384taqm",
-        "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-        "authors": "Baback Elmieh, Lynn Tsai, Zeman Li, Srinivas Kaza,…",
-        "journal": "arXiv preprint",
-        "abstract": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating under strict real-time constraints. While Test-Time Training (TTT) offers a powerful memory mechanism, standard models…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.15271v1"
+        "abstract": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight, a novel…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2607.16184v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-zn4owck0",
+        "id": "gh-bslwum8i",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "217.0k",
+        "stars": "217.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-cukjnhlr",
+        "id": "gh-abzw392n",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.6k",
@@ -247,25 +247,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-vzm62op9",
+        "id": "gh-09psz8co",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "152.0k",
+        "stars": "152.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-rnzwhstq",
+        "id": "gh-o9w00ami",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "162.7k",
+        "stars": "162.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-mmspbg4m",
+        "id": "gh-zhjtp1fc",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.8k",
@@ -274,7 +274,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-d3fq5nzx",
+        "id": "gh-v8clltas",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.2k",
@@ -283,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-rsjj5yg2",
+        "id": "gh-2lai064h",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "121.4k",
+        "stars": "121.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
