@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-20T09:18:38.710Z
-   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-21T08:32:56.191Z
+   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-g7fjb8q3",
+    "id": "rss-ttkmrfn0",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "excerpt": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
     "source": "OpenAI",
-    "time": "4d ago",
+    "time": "22h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://openai.com/index/cars24"
+    "relevance": 89,
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-g7fjb8q3",
+                "id": "rss-ttkmrfn0",
+                "title": "Safety and alignment in an era of long-horizon models",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 89
+            },
+            {
+                "id": "rss-fqcfoht9",
                 "title": "How Cars24 scales conversations and builds faster with OpenAI",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-jvyq445n",
-                "title": "The US is advancing AI safety through state and federal action",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 79
+                "id": "rss-e9ib4zoa",
+                "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-4wetm1xy",
+                "id": "rss-fi48nodx",
                 "title": "A scorecard for the AI age",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-93bsg9ln",
+                "id": "rss-k2kvfhr7",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
                 "time": "Jul 7",
-                "relevance": 78
-            },
-            {
-                "id": "rss-5w6j0dnx",
-                "title": "Why teens deserve access to safe AI",
-                "source": "OpenAI",
-                "time": "3d ago",
                 "relevance": 78
             }
         ]
@@ -88,60 +88,38 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-nfag2emo",
-                "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch",
+                "id": "rss-opwav76e",
+                "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 88
+            },
+            {
+                "id": "rss-xpfzdf2b",
+                "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
                 "source": "MarkTechPost",
                 "time": "11h ago",
-                "relevance": 78
+                "relevance": 77
             },
             {
-                "id": "rss-88ipjhvk",
+                "id": "rss-izykpqnh",
                 "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared",
                 "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 75
             },
             {
-                "id": "rss-ltu6h50c",
-                "title": "Feyn AI Releases SQRL, a Text-to-SQL Model Family That Inspects the Database Before Writing a Query",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-cl6x119m",
+                "id": "rss-noidipz6",
                 "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
                 "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-hpwjl6qz",
-                "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 81
+                "time": "1d ago",
+                "relevance": 70
             },
             {
-                "id": "rss-law7nvad",
-                "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-                "source": "VentureBeat",
-                "time": "3d ago",
-                "relevance": 76
-            },
-            {
-                "id": "hn-48966713",
-                "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+                "id": "hn-48981206",
+                "title": "How we measured AI writing across arXiv, and where the measurement breaks",
                 "source": "Hacker News",
-                "time": "22h ago",
+                "time": "15h ago",
                 "relevance": 69
             }
         ]
@@ -153,17 +131,24 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-xi1zw2r5",
+                "id": "rss-hfrzq9gq",
                 "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
                 "source": "VentureBeat",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 74
             },
             {
-                "id": "rss-egwce1mn",
+                "id": "rss-q2zzu8u3",
                 "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
                 "source": "VentureBeat",
-                "time": "3d ago",
+                "time": "4d ago",
+                "relevance": 73
+            },
+            {
+                "id": "hn-48982535",
+                "title": "Agent swarms and the new model economics",
+                "source": "Hacker News",
+                "time": "14h ago",
                 "relevance": 73
             }
         ]
@@ -172,73 +157,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-dfjcnkc9",
-        "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
-        "authors": "Like Liu, Zhengzheng Xu, Haitao He, Hongzhe Li, Shuchang…",
+        "id": "arxiv-v8su1o7o",
+        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+        "authors": "Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann, Jun-Yan Zhu,…",
         "journal": "arXiv preprint",
-        "abstract": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benchmarks have begun to evaluate MLLMs in aerial scenarios, but they typically focus on scene understanding, event…",
+        "abstract": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this gap, we introduce a…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.16193v1"
+        "url": "http://arxiv.org/abs/2607.18237v1"
     },
     {
-        "id": "arxiv-q42no3q0",
-        "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
-        "authors": "Homanga Bharadhwaj, Yash Jangir",
+        "id": "arxiv-7qebw3nx",
+        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+        "authors": "Gaoyue Zhou, Zichen Jeff Cui, Ada Langford, Bowen Tan, Yann…",
         "journal": "arXiv preprint",
-        "abstract": "Humans can infer how objects are likely to move from passive observation: a cup may be lifted, a drawer may slide, and a lid may rotate shut. Such predictions expose the physical consequences of interaction needed to act in the real world. We study how to learn this anticipation from ordinary monocular videos of…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.16192v1"
-    },
-    {
-        "id": "arxiv-c5a9j2od",
-        "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
-        "authors": "Hao Liu, Chenghuan Huang, Ye Huang, Zhiying Wen, Hao Liu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-$p$ routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.16190v1"
-    },
-    {
-        "id": "arxiv-6g05ofxp",
-        "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
-        "authors": "Ce Zhang, Ziyang Wang, Yulu Pan, Oluwatumininu Oguntola,…",
-        "journal": "arXiv preprint",
-        "abstract": "Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods frame this task as multi-turn exploration with a single crop_video(start, end) action, which supports coarse-to-fine…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.16189v1"
-    },
-    {
-        "id": "arxiv-c0bfrmwx",
-        "title": "Handroid: Bridging Dexterous Hand and Humanoid",
-        "authors": "Ruogu Li, Chenyang Ma, Sikai Li, Zhenyu Wei, Yunchao Yao,…",
-        "journal": "arXiv preprint",
-        "abstract": "Dexterous hands and humanoid robots are typically developed as distinct embodiments: the former enable contact-rich manipulation at the object scale, whereas the latter provide mobility and whole-body interaction in human-centered environments. We introduce \\textbf{Handroid}, a desktop-scale dual-embodiment robot that…",
+        "abstract": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial detail and the benefits…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.16187v1"
+        "url": "http://arxiv.org/abs/2607.18236v1"
     },
     {
-        "id": "arxiv-pfounemj",
-        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-        "authors": "Yuchen Yang, Yifan Zhao, Anisha Dasgupta, Sasa Misailovic",
+        "id": "arxiv-gyxb4b30",
+        "title": "Automated Discovery Has No Universally Superior Harness",
+        "authors": "Akshat Gupta, Jermaine Lei, Alexander Lu, Gopala…",
         "journal": "arXiv preprint",
-        "abstract": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight, a novel…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.16184v1"
+        "abstract": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery runs are expensive…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2607.18235v1"
+    },
+    {
+        "id": "arxiv-j7dm5uj1",
+        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+        "authors": "Kevin Du, Clara Kümpel, Michelle Wastl, Alex Warstadt",
+        "journal": "arXiv preprint",
+        "abstract": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presuppositions,…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2607.18232v1"
+    },
+    {
+        "id": "arxiv-8r6dnxks",
+        "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation",
+        "authors": "Ruicheng Li, Qixiu Li, Ruichun Ma, Yu Deng, Lin Luo,…",
+        "journal": "arXiv preprint",
+        "abstract": "Vision-language-action (VLA) models have achieved impressive generalization in robotic manipulation, and recent memory-augmented VLAs have relaxed the Markovian assumption by conditioning on past images or language summaries. Vision-based memory approaches address this by conditioning on sampled past image frames, but…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.18231v1"
+    },
+    {
+        "id": "arxiv-qod5eh47",
+        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+        "authors": "Yi Tang, Xinyi Shang, Jiacheng Cui, Sondos Mahmoud Bsharat,…",
+        "journal": "arXiv preprint",
+        "abstract": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.18230v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-bslwum8i",
+        "id": "gh-8i79llrc",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "217.5k",
+        "stars": "218.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-abzw392n",
+        "id": "gh-0h2c92ob",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.6k",
@@ -247,7 +232,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-09psz8co",
+        "id": "gh-cdh7btl6",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.1k",
@@ -256,7 +241,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-o9w00ami",
+        "id": "gh-kqlwjuzk",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.8k",
@@ -265,7 +250,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zhjtp1fc",
+        "id": "gh-5a0ydj8q",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.8k",
@@ -274,19 +259,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-v8clltas",
+        "id": "gh-kxazcqyy",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.2k",
+        "stars": "164.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-2lai064h",
+        "id": "gh-oyzoa4ht",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "121.5k",
+        "stars": "121.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
