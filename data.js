@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-21T08:32:56.191Z
+   Updated: 2026-07-22T08:32:43.611Z
    Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ttkmrfn0",
+    "id": "rss-bgum7zap",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Safety and alignment in an era of long-horizon models",
     "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
     "source": "OpenAI",
-    "time": "22h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 89,
+    "relevance": 86,
     "url": "https://openai.com/index/safety-alignment-long-horizon-models"
 },
 
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ttkmrfn0",
+                "id": "rss-bgum7zap",
                 "title": "Safety and alignment in an era of long-horizon models",
                 "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 89
+                "time": "1d ago",
+                "relevance": 86
             },
             {
-                "id": "rss-fqcfoht9",
-                "title": "How Cars24 scales conversations and builds faster with OpenAI",
+                "id": "rss-qg6idkt2",
+                "title": "Introducing the ChatGPT for small business program",
                 "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 84
+                "time": "15h ago",
+                "relevance": 86
             },
             {
-                "id": "rss-e9ib4zoa",
-                "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-fi48nodx",
-                "title": "A scorecard for the AI age",
+                "id": "rss-64hwdj19",
+                "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-k2kvfhr7",
+                "id": "rss-t6uzaitf",
                 "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
                 "source": "Google Blog",
                 "time": "Jul 7",
                 "relevance": 78
+            },
+            {
+                "id": "rss-r72h782j",
+                "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 77
             }
         ]
     },
@@ -88,39 +88,25 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-opwav76e",
-                "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
+                "id": "rss-2vmxa58v",
+                "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 88
+                "time": "2h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-xpfzdf2b",
-                "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
+                "id": "rss-rjeasmoe",
+                "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 77
+                "time": "16h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-izykpqnh",
-                "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared",
+                "id": "rss-1ip8x89m",
+                "title": "Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-noidipz6",
-                "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-48981206",
-                "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 69
+                "time": "8h ago",
+                "relevance": 79
             }
         ]
     },
@@ -131,24 +117,24 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-hfrzq9gq",
+                "id": "rss-sp5f5wr7",
                 "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
                 "source": "VentureBeat",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 74
             },
             {
-                "id": "rss-q2zzu8u3",
-                "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-                "source": "VentureBeat",
-                "time": "4d ago",
+                "id": "hn-49002358",
+                "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+                "source": "Hacker News",
+                "time": "2h ago",
                 "relevance": 73
             },
             {
-                "id": "hn-48982535",
-                "title": "Agent swarms and the new model economics",
-                "source": "Hacker News",
-                "time": "14h ago",
+                "id": "rss-13xp1pmx",
+                "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+                "source": "VentureBeat",
+                "time": "5d ago",
                 "relevance": 73
             }
         ]
@@ -157,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-v8su1o7o",
-        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-        "authors": "Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann, Jun-Yan Zhu,…",
+        "id": "arxiv-ga0onzey",
+        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+        "authors": "Lizhe Fang, Weizhou Shen, Tianyi Tang, Yisen Wang",
         "journal": "arXiv preprint",
-        "abstract": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this gap, we introduce a…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.18237v1"
-    },
-    {
-        "id": "arxiv-7qebw3nx",
-        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-        "authors": "Gaoyue Zhou, Zichen Jeff Cui, Ada Langford, Bowen Tan, Yann…",
-        "journal": "arXiv preprint",
-        "abstract": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial detail and the benefits…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.18236v1"
-    },
-    {
-        "id": "arxiv-gyxb4b30",
-        "title": "Automated Discovery Has No Universally Superior Harness",
-        "authors": "Akshat Gupta, Jermaine Lei, Alexander Lu, Gopala…",
-        "journal": "arXiv preprint",
-        "abstract": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery runs are expensive…",
+        "abstract": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.18235v1"
+        "url": "http://arxiv.org/abs/2607.19345v1"
     },
     {
-        "id": "arxiv-j7dm5uj1",
-        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-        "authors": "Kevin Du, Clara Kümpel, Michelle Wastl, Alex Warstadt",
+        "id": "arxiv-srcqk6dv",
+        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+        "authors": "Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch, Srinath…",
         "journal": "arXiv preprint",
-        "abstract": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presuppositions,…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.18232v1"
-    },
-    {
-        "id": "arxiv-8r6dnxks",
-        "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation",
-        "authors": "Ruicheng Li, Qixiu Li, Ruichun Ma, Yu Deng, Lin Luo,…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-language-action (VLA) models have achieved impressive generalization in robotic manipulation, and recent memory-augmented VLAs have relaxed the Markovian assumption by conditioning on past images or language summaries. Vision-based memory approaches address this by conditioning on sampled past image frames, but…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.18231v1"
-    },
-    {
-        "id": "arxiv-qod5eh47",
-        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
-        "authors": "Yi Tang, Xinyi Shang, Jiacheng Cui, Sondos Mahmoud Bsharat,…",
-        "journal": "arXiv preprint",
-        "abstract": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering…",
+        "abstract": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.18230v1"
+        "url": "http://arxiv.org/abs/2607.19344v1"
+    },
+    {
+        "id": "arxiv-4s2g1gme",
+        "title": "Masked Visual Actions for Unified World Modeling",
+        "authors": "Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey,…",
+        "journal": "arXiv preprint",
+        "abstract": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.19343v1"
+    },
+    {
+        "id": "arxiv-cbh7zoap",
+        "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
+        "authors": "Yuan Wang, Yongchao Du, Mengting Chen, Jinsong Lan, Xuetao…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus on explicit commonsense reasoning, shallow causal understanding, and direct knowledge recall, failing at…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.19341v1"
+    },
+    {
+        "id": "arxiv-1dgfzpr2",
+        "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+        "authors": "Yu Chen, Caorui Li, Ziyu Xiong, Yidong Wang, Mingqi Gao,…",
+        "journal": "arXiv preprint",
+        "abstract": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.19339v1"
+    },
+    {
+        "id": "arxiv-hwwdw6og",
+        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+        "authors": "Qijia He, Jiayi Cheng, Chenqian Le, Rui Wang, Xunmei Liu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger and more expensive…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2607.19338v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-8i79llrc",
+        "id": "gh-csh4q1p6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "218.0k",
+        "stars": "218.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-0h2c92ob",
+        "id": "gh-ha0a2u1j",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.6k",
@@ -232,16 +218,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-cdh7btl6",
+        "id": "gh-kkq043dd",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "152.1k",
+        "stars": "152.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-kqlwjuzk",
+        "id": "gh-m1lbi6up",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "162.8k",
@@ -250,7 +236,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-5a0ydj8q",
+        "id": "gh-zcbgz5a9",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "101.8k",
@@ -259,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-kxazcqyy",
+        "id": "gh-ayjecb0h",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.3k",
@@ -268,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-oyzoa4ht",
+        "id": "gh-3s9u4nbx",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "121.6k",
+        "stars": "121.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
