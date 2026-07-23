@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-22T08:32:43.611Z
-   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-07-23T08:33:59.425Z
+   Stories: 20 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-bgum7zap",
+    "id": "rss-gyhlvmko",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Safety and alignment in an era of long-horizon models",
-    "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "title": "Introducing OpenAI Presence",
+    "excerpt": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
     "source": "OpenAI",
     "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+    "relevance": 87,
+    "url": "https://openai.com/index/introducing-openai-presence"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-bgum7zap",
-                "title": "Safety and alignment in an era of long-horizon models",
+                "id": "rss-gyhlvmko",
+                "title": "Introducing OpenAI Presence",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 86
+                "relevance": 87
             },
             {
-                "id": "rss-qg6idkt2",
-                "title": "Introducing the ChatGPT for small business program",
+                "id": "rss-g72dht6s",
+                "title": "How news organizations are using AI to advance their vital missions",
                 "source": "OpenAI",
-                "time": "15h ago",
-                "relevance": 86
+                "time": "19h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-64hwdj19",
-                "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+                "id": "rss-i200o6mf",
+                "title": "Advancing the next era of national science",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 79
+                "time": "20h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-t6uzaitf",
-                "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+                "id": "rss-b79dq3rk",
+                "title": "Building AI infrastructure with the Effingham County community",
+                "source": "OpenAI",
+                "time": "19h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-bp9u45wq",
+                "title": "3 Google updates from Galaxy Unpacked 2026",
                 "source": "Google Blog",
-                "time": "Jul 7",
+                "time": "19h ago",
                 "relevance": 78
-            },
-            {
-                "id": "rss-r72h782j",
-                "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 77
             }
         ]
     },
@@ -88,25 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-2vmxa58v",
-                "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
+                "id": "rss-v34z7q8t",
+                "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 83
+                "time": "Just now",
+                "relevance": 86
             },
             {
-                "id": "rss-rjeasmoe",
-                "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
+                "id": "rss-ax454pyz",
+                "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
                 "source": "MarkTechPost",
-                "time": "16h ago",
+                "time": "2h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-06h2epte",
+                "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU",
+                "source": "MarkTechPost",
+                "time": "23h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-1ip8x89m",
-                "title": "Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual",
+                "id": "rss-yphxpgc0",
+                "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
                 "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 78
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-nn45t1lt",
+                "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+                "source": "TechCrunch",
                 "time": "8h ago",
-                "relevance": 79
+                "relevance": 80
+            },
+            {
+                "id": "rss-5qu89mwd",
+                "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+                "source": "VentureBeat",
+                "time": "6d ago",
+                "relevance": 76
+            },
+            {
+                "id": "hn-48917135",
+                "title": "Nobody knows what a used GPU cluster is worth",
+                "source": "Hacker News",
+                "time": "Jul 15",
+                "relevance": 65
             }
         ]
     },
@@ -117,24 +153,17 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-sp5f5wr7",
+                "id": "rss-2tj707t0",
                 "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
                 "source": "VentureBeat",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 74
             },
             {
-                "id": "hn-49002358",
-                "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-13xp1pmx",
+                "id": "rss-llazluof",
                 "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
                 "source": "VentureBeat",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 73
             }
         ]
@@ -143,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ga0onzey",
-        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
-        "authors": "Lizhe Fang, Weizhou Shen, Tianyi Tang, Yisen Wang",
+        "id": "arxiv-85xtw1ww",
+        "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+        "authors": "Cho In, Jeonghwan Cho, Mijin Yoo, Gim Hee Lee, Seon Joo Kim",
         "journal": "arXiv preprint",
-        "abstract": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy…",
+        "abstract": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.20417v1"
+    },
+    {
+        "id": "arxiv-5w5dlpux",
+        "title": "Lipschitzian SLLNs for random functions",
+        "authors": "Lai Tian, Johannes O. Royset",
+        "journal": "arXiv preprint",
+        "abstract": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompassing functions jointly definable in o-minimal structures but extending substantially beyond this class. Applications…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2607.20411v1"
+    },
+    {
+        "id": "arxiv-ixomr4yw",
+        "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+        "authors": "Nethmi Muthugala,  Supryadi, Surangika Ranathunga, Nisansa…",
+        "journal": "arXiv preprint",
+        "abstract": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka that have their unique cultural dynamics. Existing benchmarks overlook Sri Lankan-contextualized values in its…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.19345v1"
+        "url": "http://arxiv.org/abs/2607.20410v1"
     },
     {
-        "id": "arxiv-srcqk6dv",
-        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
-        "authors": "Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch, Srinath…",
-        "journal": "arXiv preprint",
-        "abstract": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.19344v1"
-    },
-    {
-        "id": "arxiv-4s2g1gme",
-        "title": "Masked Visual Actions for Unified World Modeling",
-        "authors": "Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey,…",
-        "journal": "arXiv preprint",
-        "abstract": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.19343v1"
-    },
-    {
-        "id": "arxiv-cbh7zoap",
-        "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
-        "authors": "Yuan Wang, Yongchao Du, Mengting Chen, Jinsong Lan, Xuetao…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus on explicit commonsense reasoning, shallow causal understanding, and direct knowledge recall, failing at…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.19341v1"
-    },
-    {
-        "id": "arxiv-1dgfzpr2",
-        "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
-        "authors": "Yu Chen, Caorui Li, Ziyu Xiong, Yidong Wang, Mingqi Gao,…",
-        "journal": "arXiv preprint",
-        "abstract": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.19339v1"
-    },
-    {
-        "id": "arxiv-hwwdw6og",
-        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
-        "authors": "Qijia He, Jiayi Cheng, Chenqian Le, Rui Wang, Xunmei Liu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger and more expensive…",
+        "id": "arxiv-375oh37k",
+        "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+        "authors": "Wael AbdAlmageed",
+        "journal": "Proceedings of Machine Learning Research vol 284:1-2, 2026 20th Conference on Neurosymbolic Learning and Reasoning",
+        "abstract": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplied by a Knowledge Graph (KG), or rule definitions. Classical neuro-symbolic pipelines have a discrete…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.19338v1"
+        "url": "http://arxiv.org/abs/2607.20402v1"
+    },
+    {
+        "id": "arxiv-konjhfho",
+        "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+        "authors": "Nicolas Kosanovic, Jordan Dowdy, Jean Chagas Vaz",
+        "journal": "2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), pp. 1233-1240 (2025)",
+        "abstract": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilizes Virtual Reality for upper-body teleoperation and Reinforcement Learning for lower-body balance and locomotion…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.20399v1"
+    },
+    {
+        "id": "arxiv-7795whiw",
+        "title": "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot",
+        "authors": "Sebastian Lorca Godoy, Ciera McFarland, Michael Val,…",
+        "journal": "arXiv preprint",
+        "abstract": "Soft robot exteroception is increasingly being explored for a variety of field applications. In this work, we present a sound-based system for localizing disaster victims in confined and unstructured environments, based on a distributed acoustic sensing architecture embedded along the body of a soft everting vine…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.20392v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-csh4q1p6",
+        "id": "gh-fx9hmn0d",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "218.6k",
+        "stars": "219.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ha0a2u1j",
+        "id": "gh-fgukhh9s",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.6k",
@@ -218,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-kkq043dd",
+        "id": "gh-stgrs0pu",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.2k",
@@ -227,37 +256,37 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-m1lbi6up",
+        "id": "gh-nrbd3v1u",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "162.8k",
+        "stars": "162.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zcbgz5a9",
+        "id": "gh-tcec3wkw",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "101.8k",
+        "stars": "101.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ayjecb0h",
+        "id": "gh-z6wt6jw4",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.3k",
+        "stars": "164.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-3s9u4nbx",
+        "id": "gh-aqymww1t",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "121.8k",
+        "stars": "121.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
