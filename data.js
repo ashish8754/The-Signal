@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-25T08:09:29.566Z
-   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-07-26T08:29:56.928Z
+   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-uzzzd9ap",
+    "id": "rss-40u1ws2g",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Launching Health in ChatGPT",
     "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "3d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/health-in-chatgpt"
@@ -45,61 +45,104 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-uzzzd9ap",
+                "id": "rss-40u1ws2g",
                 "title": "Launching Health in ChatGPT",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-x0d3b3gf",
+                "id": "rss-qk9muxs0",
                 "title": "How news organizations are using AI to advance their vital missions",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-3m6327k6",
+                "id": "rss-lh0col3o",
                 "title": "Advancing the next era of national science",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-7k9vandi",
+                "id": "rss-te0jcx7w",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
             },
             {
-                "id": "rss-08snodsm",
+                "id": "rss-whl1thvp",
                 "title": "Building AI infrastructure with the Effingham County community",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             }
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-gflfjiye",
-                "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 83
+                "id": "rss-qw65tds3",
+                "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-zm7a2nio",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
+                "id": "rss-89us6g0r",
+                "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-qeyohych",
+                "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-o4nfyr6b",
+                "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "rss-sllrkewz",
+                "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+                "source": "TechCrunch",
+                "time": "19h ago",
+                "relevance": 81
+            },
+            {
+                "id": "hn-49051947",
+                "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+                "source": "Hacker News",
+                "time": "10h ago",
+                "relevance": 71
+            },
+            {
+                "id": "hn-49050735",
+                "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 69
             }
         ]
     },
@@ -110,18 +153,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-b355ckvu",
+                "id": "rss-yyxuv8ah",
                 "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
                 "time": "Jan 22",
                 "relevance": 75
             },
             {
-                "id": "hn-49035303",
-                "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+                "id": "hn-49052912",
+                "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
                 "source": "Hacker News",
-                "time": "18h ago",
-                "relevance": 72
+                "time": "8h ago",
+                "relevance": 69
             }
         ]
     }
@@ -129,7 +172,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-w68yb6wq",
+        "id": "arxiv-whwg9vtf",
         "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
         "authors": "Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Ran Xu,…",
         "journal": "arXiv preprint",
@@ -138,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.21595v1"
     },
     {
-        "id": "arxiv-uwc794mr",
+        "id": "arxiv-9mkga25n",
         "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
         "authors": "Sicheng Mo, Yuheng Li, Ziyang Leng, Krishna Kumar Singh,…",
         "journal": "arXiv preprint",
@@ -147,7 +190,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.21594v1"
     },
     {
-        "id": "arxiv-syl0kamx",
+        "id": "arxiv-17mvbf7a",
         "title": "Unified Video Dense Prediction from Disjoint Data",
         "authors": "Yihong Sun, Seoung Wug Oh, Jiahui Huang, Bharath Hariharan,…",
         "journal": "arXiv preprint",
@@ -156,7 +199,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.21592v1"
     },
     {
-        "id": "arxiv-zvp7aoz3",
+        "id": "arxiv-uqt3kjfq",
         "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
         "authors": "Rogerio Guimaraes, Pietro Perona",
         "journal": "arXiv preprint",
@@ -165,7 +208,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.21591v1"
     },
     {
-        "id": "arxiv-xr23u5q0",
+        "id": "arxiv-7lkqo7ad",
         "title": "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
         "authors": "Mengfei Zhao, Dihong Huang, Yikai Tang, Peihao Li, Mingxuan…",
         "journal": "arXiv preprint",
@@ -174,7 +217,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.21588v1"
     },
     {
-        "id": "arxiv-yhebdqjo",
+        "id": "arxiv-pe5pbj1t",
         "title": "Expanding Flow Maps",
         "authors": "Sophia Tang, Pranam Chatterjee",
         "journal": "arXiv preprint",
@@ -186,16 +229,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-3ujoqekp",
+        "id": "gh-v9mku0gi",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "220.2k",
+        "stars": "220.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-o5m33k3z",
+        "id": "gh-ax30m1vy",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.7k",
@@ -204,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-8rnefvlb",
+        "id": "gh-d6mkxqpl",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.4k",
@@ -213,7 +256,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-bjljn3qm",
+        "id": "gh-q0qf6l45",
+        "name": "huggingface/transformers",
+        "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
+        "stars": "163.0k",
+        "lang": "Python",
+        "langColor": "#3572A5",
+        "url": "https://github.com/huggingface/transformers"
+    },
+    {
+        "id": "gh-m5g3jnk0",
+        "name": "pytorch/pytorch",
+        "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "stars": "102.0k",
+        "lang": "Python",
+        "langColor": "#3572A5",
+        "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "id": "gh-8t0umf5t",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.3k",
@@ -222,31 +283,13 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-ml530wg3",
+        "id": "gh-rsvah8y9",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "122.2k",
+        "stars": "122.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
-    },
-    {
-        "id": "gh-ur1rfpdc",
-        "name": "qdrant/qdrant",
-        "desc": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also…",
-        "stars": "33.6k",
-        "lang": "Rust",
-        "langColor": "#dea584",
-        "url": "https://github.com/qdrant/qdrant"
-    },
-    {
-        "id": "gh-crruw1na",
-        "name": "tracel-ai/burn",
-        "desc": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency…",
-        "stars": "15.6k",
-        "lang": "Rust",
-        "langColor": "#dea584",
-        "url": "https://github.com/tracel-ai/burn"
     }
 ],
 
