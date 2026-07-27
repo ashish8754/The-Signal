@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-26T08:29:56.928Z
-   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-27T09:56:21.616Z
+   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-40u1ws2g",
+    "id": "rss-jfbyig7u",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Launching Health in ChatGPT",
     "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "4d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/health-in-chatgpt"
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-40u1ws2g",
+                "id": "rss-jfbyig7u",
                 "title": "Launching Health in ChatGPT",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-qk9muxs0",
+                "id": "rss-3l57ace0",
                 "title": "How news organizations are using AI to advance their vital missions",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-lh0col3o",
+                "id": "rss-yooe7mzo",
                 "title": "Advancing the next era of national science",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-te0jcx7w",
+                "id": "rss-dryrm2ir",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
                 "relevance": 78
             },
             {
-                "id": "rss-whl1thvp",
+                "id": "rss-0hfs2x5g",
                 "title": "Building AI infrastructure with the Effingham County community",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 78
             }
         ]
@@ -88,82 +88,97 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-qw65tds3",
-                "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+                "id": "rss-11vmocpq",
+                "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction",
                 "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 77
+                "time": "16h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-89us6g0r",
-                "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-qeyohych",
-                "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
-                "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-o4nfyr6b",
-                "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+                "id": "rss-5hl05eoc",
+                "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "rss-sllrkewz",
-                "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-                "source": "TechCrunch",
-                "time": "19h ago",
-                "relevance": 81
+                "relevance": 72
             },
             {
-                "id": "hn-49051947",
-                "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-                "source": "Hacker News",
-                "time": "10h ago",
+                "id": "rss-k5i9kmng",
+                "title": "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments",
+                "source": "MarkTechPost",
+                "time": "23h ago",
                 "relevance": 71
             },
             {
-                "id": "hn-49050735",
-                "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 69
+                "id": "rss-3nyaf1rd",
+                "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 70
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-yyxuv8ah",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "id": "rss-bk3q4z6f",
+                "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+                "source": "TechCrunch",
+                "time": "17h ago",
+                "relevance": 83
             },
             {
-                "id": "hn-49052912",
-                "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+                "id": "rss-qnpb14ez",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-xte148i1",
+                "title": "Kimi-K3 Releases on HuggingFace 7/27",
                 "source": "Hacker News",
-                "time": "8h ago",
+                "time": "3h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-x6rkb1g5",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-49057398",
+                "title": "Go Analysis Framework: modular static analysis by go team",
+                "source": "Hacker News",
+                "time": "21h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-49057241",
+                "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+                "source": "Hacker News",
+                "time": "21h ago",
                 "relevance": 69
             }
         ]
@@ -172,73 +187,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-whwg9vtf",
-        "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-        "authors": "Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Ran Xu,…",
+        "id": "arxiv-re71cg5j",
+        "title": "Robot-Factored World Models via Robot Rendering",
+        "authors": "Byungjun Kim, Taeksoo Kim, Hyunsoo Cha, Hanbyul Joo",
         "journal": "arXiv preprint",
-        "abstract": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.21595v1"
-    },
-    {
-        "id": "arxiv-9mkga25n",
-        "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-        "authors": "Sicheng Mo, Yuheng Li, Ziyang Leng, Krishna Kumar Singh,…",
-        "journal": "arXiv preprint",
-        "abstract": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.21594v1"
-    },
-    {
-        "id": "arxiv-17mvbf7a",
-        "title": "Unified Video Dense Prediction from Disjoint Data",
-        "authors": "Yihong Sun, Seoung Wug Oh, Jiahui Huang, Bharath Hariharan,…",
-        "journal": "arXiv preprint",
-        "abstract": "Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets. Current unified systems circumvent this by restricting training to fully co-annotated data, or by incurring the large…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.21592v1"
-    },
-    {
-        "id": "arxiv-uqt3kjfq",
-        "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
-        "authors": "Rogerio Guimaraes, Pietro Perona",
-        "journal": "arXiv preprint",
-        "abstract": "Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quality is highly sensitive to the initial noise seed, many approaches spend extra compute on seed search or resampling…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.21591v1"
-    },
-    {
-        "id": "arxiv-7lkqo7ad",
-        "title": "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
-        "authors": "Mengfei Zhao, Dihong Huang, Yikai Tang, Peihao Li, Mingxuan…",
-        "journal": "arXiv preprint",
-        "abstract": "Learning effective robot manipulation policies requires diverse, high-quality demonstrations, yet existing data pipelines are often difficult to scale because they rely on specialized hardware, centralized operators, or fixed task suites. We present AXIS, a growable community-driven data engine and benchmark for…",
+        "abstract": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: they are first realized into robot motion by the robot body and controller, and the scene then responds through contact…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.21588v1"
+        "url": "http://arxiv.org/abs/2607.22535v1"
     },
     {
-        "id": "arxiv-pe5pbj1t",
-        "title": "Expanding Flow Maps",
-        "authors": "Sophia Tang, Pranam Chatterjee",
+        "id": "arxiv-l7eeqdb4",
+        "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+        "authors": "Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo, Yuqi Wu, Jie…",
         "journal": "arXiv preprint",
-        "abstract": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Flows (EFlows), which define flows between…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.21585v1"
+        "abstract": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.22534v1"
+    },
+    {
+        "id": "arxiv-7l636bjv",
+        "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+        "authors": "Kaixiong Gong, Xin Cai, Bin Lin, Hao Wang, Yunlong Lin,…",
+        "journal": "arXiv preprint",
+        "abstract": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continuous pipelines often rely on two disparate representations -- semantic features (e.g., ViT) for understanding and…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.22531v1"
+    },
+    {
+        "id": "arxiv-dq6sis30",
+        "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+        "authors": "Yunao Huang, Shiyu Sang, Haotao Lu, Suting Ni, Shijie Wu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Contact-rich robot manipulation requires physical interaction cues that are often invisible to cameras, making tactile sensing essential for robust control. However, scaling visuo-tactile robot learning remains difficult because real tactile interaction data are expensive to collect, hardware-dependent, and limited in…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2607.22530v1"
+    },
+    {
+        "id": "arxiv-81ygxa19",
+        "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+        "authors": "Siyuan Huang, Pengyu Cheng, Haotian Liu, Tao Chen, Yihao…",
+        "journal": "arXiv preprint",
+        "abstract": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability: environment-bound methods obtain precise feedback but confine learning to narrow domains, while…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2607.22529v1"
+    },
+    {
+        "id": "arxiv-9qid69is",
+        "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
+        "authors": "Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque",
+        "journal": "In: L. Barolli (ed.), Advanced Information Networking and Applications (AINA 2025), Lecture Notes on Data Engineering and Communications Technologies, vol. 250, pp. 148-157, Springer, Cham (2025)",
+        "abstract": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building trust in AI-driven solutions is essential. Trust, in turn, is closely linked to the explainability of…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2607.22525v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-v9mku0gi",
+        "id": "gh-zaqwe5hs",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "220.6k",
+        "stars": "221.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ax30m1vy",
+        "id": "gh-0tj0ibms",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.7k",
@@ -247,16 +262,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-d6mkxqpl",
+        "id": "gh-mebjhxca",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "152.4k",
+        "stars": "152.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-q0qf6l45",
+        "id": "gh-t7eej09e",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.0k",
@@ -265,7 +280,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-m5g3jnk0",
+        "id": "gh-wjnol7co",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.0k",
@@ -274,7 +289,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-8t0umf5t",
+        "id": "gh-esldrbx7",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.3k",
@@ -283,10 +298,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-rsvah8y9",
+        "id": "gh-tqf6qljz",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "122.3k",
+        "stars": "122.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
