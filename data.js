@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-27T09:56:21.616Z
-   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-07-28T08:37:41.233Z
+   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-jfbyig7u",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Launching Health in ChatGPT",
-    "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "source": "OpenAI",
-    "time": "4d ago",
+    "id": "rss-5d32y9ei",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "excerpt": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "source": "TechCrunch",
+    "time": "4h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/health-in-chatgpt"
+    "relevance": 87,
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-jfbyig7u",
+                "id": "rss-t9am8qfr",
+                "title": "Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 90
+            },
+            {
+                "id": "rss-hh2378q6",
                 "title": "Launching Health in ChatGPT",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-3l57ace0",
+                "id": "rss-fa91eyod",
+                "title": "How AI is expanding what people do at work",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-5pnjq2qv",
+                "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-s1x49thy",
                 "title": "How news organizations are using AI to advance their vital missions",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 79
-            },
-            {
-                "id": "rss-yooe7mzo",
-                "title": "Advancing the next era of national science",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-dryrm2ir",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
-            },
-            {
-                "id": "rss-0hfs2x5g",
-                "title": "Building AI infrastructure with the Effingham County community",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 78
             }
         ]
     },
@@ -88,97 +88,46 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-11vmocpq",
-                "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction",
+                "id": "rss-pwszs4bm",
+                "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+                "source": "MarkTechPost",
+                "time": "Just now",
+                "relevance": 87
+            },
+            {
+                "id": "rss-dt32gm9u",
+                "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
                 "source": "MarkTechPost",
                 "time": "16h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-5hl05eoc",
-                "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
-            },
-            {
-                "id": "rss-k5i9kmng",
-                "title": "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments",
-                "source": "MarkTechPost",
-                "time": "23h ago",
-                "relevance": 71
-            },
-            {
-                "id": "rss-3nyaf1rd",
-                "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-bk3q4z6f",
-                "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-qnpb14ez",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-xte148i1",
-                "title": "Kimi-K3 Releases on HuggingFace 7/27",
-                "source": "Hacker News",
-                "time": "3h ago",
                 "relevance": 76
             },
             {
-                "id": "rss-x6rkb1g5",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "id": "rss-yxwqu1y2",
+                "title": "Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 75
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
         "stories": [
             {
-                "id": "hn-49057398",
-                "title": "Go Analysis Framework: modular static analysis by go team",
-                "source": "Hacker News",
-                "time": "21h ago",
-                "relevance": 69
+                "id": "rss-5d32y9ei",
+                "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+                "source": "TechCrunch",
+                "time": "4h ago",
+                "relevance": 87
             },
             {
-                "id": "hn-49057241",
-                "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+                "id": "hn-49074817",
+                "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
                 "source": "Hacker News",
-                "time": "21h ago",
+                "time": "12h ago",
                 "relevance": 69
             }
         ]
@@ -187,73 +136,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-re71cg5j",
-        "title": "Robot-Factored World Models via Robot Rendering",
-        "authors": "Byungjun Kim, Taeksoo Kim, Hyunsoo Cha, Hanbyul Joo",
+        "id": "arxiv-vq2chxnl",
+        "title": "Data Pyramid for Embodied Manipulation",
+        "authors": "Yifan Ye, Yankai Fu, Yaoxu Lv, Bohan Hou, Jun Cen, Lingdong…",
         "journal": "arXiv preprint",
-        "abstract": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: they are first realized into robot motion by the robot body and controller, and the scene then responds through contact…",
+        "abstract": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.22535v1"
+        "url": "http://arxiv.org/abs/2607.24744v1"
     },
     {
-        "id": "arxiv-l7eeqdb4",
-        "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
-        "authors": "Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo, Yuqi Wu, Jie…",
+        "id": "arxiv-mo43weyd",
+        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "authors": "Hangjie Yuan, Yichen Qian, Zhiwei Tang, Xianzhe Xu, Lirong…",
         "journal": "arXiv preprint",
-        "abstract": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise…",
+        "abstract": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists'…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.22534v1"
+        "url": "http://arxiv.org/abs/2607.24743v1"
     },
     {
-        "id": "arxiv-7l636bjv",
-        "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
-        "authors": "Kaixiong Gong, Xin Cai, Bin Lin, Hao Wang, Yunlong Lin,…",
+        "id": "arxiv-nzp6vl5t",
+        "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+        "authors": "Xinyang Wen",
         "journal": "arXiv preprint",
-        "abstract": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continuous pipelines often rely on two disparate representations -- semantic features (e.g., ViT) for understanding and…",
+        "abstract": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that batches future…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2607.24741v1"
+    },
+    {
+        "id": "arxiv-j5fwvo59",
+        "title": "Learning Distributions from Multiple Data Providers",
+        "authors": "Jon Kleinberg, Amin Saberi, Xizhi Tan, Grigoris Velegkas",
+        "journal": "arXiv preprint",
+        "abstract": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distribution $p$ on a finite domain $[n]$. The learner is given a fixed family of queryable sets $\\mathscr{S} \\subseteq…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2607.24732v1"
+    },
+    {
+        "id": "arxiv-flqts0x3",
+        "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+        "authors": "Bingnan Li, Haozhe Wang, Haozhong Xiong, Fangtai Wu,…",
+        "journal": "arXiv preprint",
+        "abstract": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.22531v1"
+        "url": "http://arxiv.org/abs/2607.24731v1"
     },
     {
-        "id": "arxiv-dq6sis30",
-        "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
-        "authors": "Yunao Huang, Shiyu Sang, Haotao Lu, Suting Ni, Shijie Wu,…",
+        "id": "arxiv-8ctjah3y",
+        "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+        "authors": "Krithi Shailya, Ananya Lakshmi Ravi, Venkatanathan K. V.,…",
         "journal": "arXiv preprint",
-        "abstract": "Contact-rich robot manipulation requires physical interaction cues that are often invisible to cameras, making tactile sensing essential for robust control. However, scaling visuo-tactile robot learning remains difficult because real tactile interaction data are expensive to collect, hardware-dependent, and limited in…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.22530v1"
-    },
-    {
-        "id": "arxiv-81ygxa19",
-        "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
-        "authors": "Siyuan Huang, Pengyu Cheng, Haotian Liu, Tao Chen, Yihao…",
-        "journal": "arXiv preprint",
-        "abstract": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability: environment-bound methods obtain precise feedback but confine learning to narrow domains, while…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.22529v1"
-    },
-    {
-        "id": "arxiv-9qid69is",
-        "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
-        "authors": "Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque",
-        "journal": "In: L. Barolli (ed.), Advanced Information Networking and Applications (AINA 2025), Lecture Notes on Data Engineering and Communications Technologies, vol. 250, pp. 148-157, Springer, Cham (2025)",
-        "abstract": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building trust in AI-driven solutions is essential. Trust, in turn, is closely linked to the explainability of…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.22525v1"
+        "abstract": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2607.24730v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-zaqwe5hs",
+        "id": "gh-z7hhf9sk",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "221.2k",
+        "stars": "221.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-0tj0ibms",
+        "id": "gh-kalqzvx9",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.7k",
@@ -262,7 +211,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-mebjhxca",
+        "id": "gh-bs8nxgr3",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.5k",
@@ -271,16 +220,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-t7eej09e",
+        "id": "gh-q2hgko01",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "163.0k",
+        "stars": "163.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-wjnol7co",
+        "id": "gh-tdl0cfsh",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.0k",
@@ -289,7 +238,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-esldrbx7",
+        "id": "gh-2160mqpp",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.3k",
@@ -298,10 +247,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-tqf6qljz",
+        "id": "gh-c35jdvrm",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "122.4k",
+        "stars": "122.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
