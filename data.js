@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-07-30T08:30:27.441Z
-   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-07-31T08:52:45.858Z
+   Stories: 20 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-w0tyqbyr",
+    "id": "rss-kx2z8ada",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "excerpt": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "title": "Advancing responsible AI across Europe",
+    "excerpt": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
     "source": "OpenAI",
-    "time": "17h ago",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 89,
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+    "relevance": 94,
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
 },
 
     topics: [
@@ -45,90 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-w0tyqbyr",
-                "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+                "id": "rss-kx2z8ada",
+                "title": "Advancing responsible AI across Europe",
                 "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 89
+                "time": "Just now",
+                "relevance": 94
             },
             {
-                "id": "rss-x6wwxru5",
-                "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+                "id": "rss-r7pikolg",
+                "title": "Advancing the price-performance frontier with GPT-5.6",
                 "source": "OpenAI",
-                "time": "1d ago",
+                "time": "22h ago",
                 "relevance": 87
             },
             {
-                "id": "rss-rq3fgsdu",
-                "title": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-                "source": "MarkTechPost",
-                "time": "Just now",
+                "id": "rss-azf1f236",
+                "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+                "source": "OpenAI",
+                "time": "1d ago",
                 "relevance": 86
             },
             {
-                "id": "rss-g5f4272p",
-                "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-                "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-2egxb3eu",
-                "title": "Scientific computing in the age of agentic AI",
+                "id": "rss-kbgrk3iv",
+                "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 82
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-mz6p7199",
-                "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 83
+                "relevance": 84
             },
             {
-                "id": "rss-80cdowlf",
-                "title": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
-                "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-o63r3dkz",
-                "title": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU",
-                "source": "MarkTechPost",
-                "time": "22h ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-511qamr2",
-                "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-                "source": "TechCrunch",
-                "time": "10h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-eep44axy",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "id": "rss-2tqkjtai",
+                "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+                "source": "Google Blog",
+                "time": "2d ago",
+                "relevance": 80
             }
         ]
     },
@@ -139,18 +88,62 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-ugkn28y4",
+                "id": "rss-6xvk2low",
+                "title": "Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-5nby2kd2",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-atyrc7sd",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             },
             {
-                "id": "hn-49089500",
-                "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+                "id": "hn-49096170",
+                "title": "The mean means nothing: data visualization to debug a latency problem",
                 "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 67
+                "relevance": 68
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-xxurrb7o",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "rss-ae0qpb6d",
+                "title": "Stacked PRs are now live on GitHub",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 70
             }
         ]
     }
@@ -158,73 +151,28 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-mvlc6mdg",
-        "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with &lt;1 GB VRAM",
-        "authors": "Hengyi Xie, Chenfei Yao, Xianjin Wu, Xuanyang Xi, Yiping…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although effective, this design incurs substantial computation and memory overhead at every…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.27205v1"
-    },
-    {
-        "id": "arxiv-payp7yvc",
-        "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-        "authors": "Perry Dong, Ron Polonsky, Dorsa Sadigh, Chelsea Fin",
-        "journal": "arXiv preprint",
-        "abstract": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained policy, should the Q-function be pretrained on offline data too? Conventional wisdom suggests it should, but recent…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.27203v1"
-    },
-    {
-        "id": "arxiv-h4lgksse",
-        "title": "Mental World Modeling",
-        "authors": "Hao Fei, Yiran Zhao",
-        "journal": "arXiv preprint",
-        "abstract": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden mental state (what a person believes, wants, intends, feels, and considers socially permissible), so a…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.27201v1"
-    },
-    {
-        "id": "arxiv-c08vr2ca",
-        "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
-        "authors": "Shady E. Ahmed, Panos Stinis",
-        "journal": "arXiv preprint",
-        "abstract": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning nonlinear input-output relationships by replacing complex global surrogate models with a finite library of…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2607.27196v1"
-    },
-    {
-        "id": "arxiv-8s331nq6",
-        "title": "VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion",
-        "authors": "Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys",
-        "journal": "arXiv preprint",
-        "abstract": "Accurately recovering the camera's calibration and metric poses for any unconstrained video would unlock large-scale training data for navigation and scene understanding. The dominant approaches to this problem are severely limited: Simultaneous Localization and Mapping (SLAM) is sensitive to initialization and…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.27194v1"
-    },
-    {
-        "id": "arxiv-gowh6fxh",
-        "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-        "authors": "Peter Kirgis, Sayash Kapoor, Andrew Schwartz, Stephan…",
-        "journal": "arXiv preprint",
-        "abstract": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind peer review, which is…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.27191v1"
+        "id": "p-fallback",
+        "title": "Latest AI Research Papers",
+        "authors": "Various Authors",
+        "journal": "arXiv",
+        "abstract": "Check back tomorrow for fresh research highlights.",
+        "badge": "Research",
+        "url": "https://arxiv.org/list/cs.AI/recent"
     }
 ],
 
     repos: [
     {
-        "id": "gh-lm4n82fb",
+        "id": "gh-3y06yvwk",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "222.5k",
+        "stars": "223.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-41xz1285",
+        "id": "gh-193nn8hp",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.7k",
@@ -233,16 +181,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-lypgd5gu",
+        "id": "gh-w13tpyqg",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "152.6k",
+        "stars": "152.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-xcutj4uc",
+        "id": "gh-g2nrkapg",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.2k",
@@ -251,7 +199,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-yrhq8w0k",
+        "id": "gh-p2g7d4ya",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.1k",
@@ -260,7 +208,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-4kk0dqmw",
+        "id": "gh-mh6fvhky",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.3k",
@@ -269,10 +217,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-4qkqxfax",
+        "id": "gh-xwvcjxxt",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "122.8k",
+        "stars": "123.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
