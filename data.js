@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-01T08:24:06.699Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-02T08:27:10.190Z
+   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-utff3tew",
+    "id": "rss-9i0x7fyd",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Building abundant intelligence",
     "excerpt": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
     "source": "OpenAI",
-    "time": "17h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 90,
+    "relevance": 87,
     "url": "https://openai.com/index/building-abundant-intelligence"
 },
 
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-utff3tew",
+                "id": "rss-9i0x7fyd",
                 "title": "Building abundant intelligence",
                 "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-u71dyr53",
+                "id": "rss-0q8myr9q",
                 "title": "Ten advances in mathematics and theoretical computer science",
                 "source": "OpenAI",
-                "time": "8h ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-2a7n75iu",
+                "id": "rss-1t2lwrow",
                 "title": "Advancing responsible AI across Europe",
-                "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-ra1ihjgx",
-                "title": "Univé builds an AI-ready workforce",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-rzqrsyha",
-                "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-                "source": "Google Blog",
-                "time": "3d ago",
+                "id": "rss-2ux40s4j",
+                "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+                "source": "MarkTechPost",
+                "time": "13h ago",
                 "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-xdrlhi1h",
-                "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 82
             },
             {
-                "id": "rss-eqd1kldd",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
-            },
-            {
-                "id": "hn-49126604",
-                "title": "qm – Multiplayer agent harness for work",
-                "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-49124358",
-                "title": "Is AI reasoning right for the wrong reasons?",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 70
+                "id": "rss-6yq0udjb",
+                "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 80
             }
         ]
     },
@@ -124,54 +88,40 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-93jcwnz0",
-                "title": "LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export",
+                "id": "rss-w0f2bgg5",
+                "title": "End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, Anomaly Detection, and Scalable Colab Deployment",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 80
+                "time": "2h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-yh4dtq17",
-                "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+                "id": "rss-8lnmnib0",
+                "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
                 "source": "MarkTechPost",
-                "time": "21h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-igdwaprw",
-                "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 74
+                "time": "22h ago",
+                "relevance": 79
             }
         ]
     },
     {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-1pmgaqf2",
-                "title": "India is starting to pay for apps, not just download them",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-ffonp1wi",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "id": "rss-59gkthba",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
                 "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "time": "Jan 22",
+                "relevance": 75
             },
             {
-                "id": "hn-49083599",
-                "title": "Twenty-five years ago it was cryptography, today it's model weights",
+                "id": "hn-49140487",
+                "title": "Four Time Scales for Technology Development and Deployment",
                 "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
+                "time": "5h ago",
+                "relevance": 70
             }
         ]
     }
@@ -179,7 +129,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-bsls0ma5",
+        "id": "arxiv-jh9e2uyv",
         "title": "Learning to Trace Seiberg Dualities",
         "authors": "Jonathan J. Heckman, Shani Meynet, Alessandro Mininno, Gary…",
         "journal": "arXiv preprint",
@@ -188,7 +138,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.28628v1"
     },
     {
-        "id": "arxiv-2mf41nhk",
+        "id": "arxiv-8s5rmjsd",
         "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
         "authors": "Yao Xiao, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao,…",
         "journal": "arXiv preprint",
@@ -197,7 +147,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.28627v1"
     },
     {
-        "id": "arxiv-p6lizma3",
+        "id": "arxiv-tj66qyn3",
         "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
         "authors": "Yukang Cao, Haozhe Xie, Beichen Wen, Runmao Yao, Yinghao…",
         "journal": "arXiv preprint",
@@ -206,7 +156,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.28625v1"
     },
     {
-        "id": "arxiv-fwk8hrc4",
+        "id": "arxiv-m6dgali1",
         "title": "PhiZero: A World Model Built Around Physical Language",
         "authors": "Shuyao Shang, Yuqi Wang, Ruopeng Gao, Xu Chen, Tieniu Tan,…",
         "journal": "arXiv preprint",
@@ -215,7 +165,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.28624v1"
     },
     {
-        "id": "arxiv-jgk4om7v",
+        "id": "arxiv-rizq9rzv",
         "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
         "authors": "Lizhi Yang, Junheng Li, Aaron D. Ames",
         "journal": "arXiv preprint",
@@ -224,7 +174,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2607.28623v1"
     },
     {
-        "id": "arxiv-70ish5yg",
+        "id": "arxiv-lqbk3ev4",
         "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
         "authors": "Bing Yan, Gregory Wolfe, Stefano Martiniani, Kyunghyun Cho",
         "journal": "arXiv preprint",
@@ -236,25 +186,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-yxl6ufqf",
+        "id": "gh-fz4xjihg",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "223.6k",
+        "stars": "224.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ej0v6i9d",
+        "id": "gh-us890sjl",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "185.7k",
+        "stars": "185.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-k7jvxajy",
+        "id": "gh-neyb622g",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.7k",
@@ -263,7 +213,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-er5wl2ka",
+        "id": "gh-uz2vpwas",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.2k",
@@ -272,7 +222,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-jfb4a9kr",
+        "id": "gh-z32bykx8",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.1k",
@@ -281,7 +231,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-hgj0ntpg",
+        "id": "gh-lctx5u1m",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.3k",
@@ -290,10 +240,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-ph35saap",
+        "id": "gh-e7sq49v6",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "123.1k",
+        "stars": "123.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
