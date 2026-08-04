@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-03T09:50:15.253Z
-   Stories: 19 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-08-04T08:40:22.296Z
+   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-pcjfxlp7",
+    "id": "rss-8vqxoud4",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Building abundant intelligence",
-    "excerpt": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "excerpt": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/building-abundant-intelligence"
+    "relevance": 86,
+    "url": "https://openai.com/index/circles"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-pcjfxlp7",
-                "title": "Building abundant intelligence",
+                "id": "rss-8vqxoud4",
+                "title": "Circles powers telco personalization with OpenAI technology",
                 "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 86
             },
             {
-                "id": "rss-lkloe4lq",
+                "id": "rss-zfx89dlq",
+                "title": "How we built a realtime system for responsive voice AI in six months",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-9r09egtc",
+                "title": "Apple is getting this wrong",
+                "source": "OpenAI",
+                "time": "10h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-j8xaiz9p",
                 "title": "Ten advances in mathematics and theoretical computer science",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-3tc49y2m",
+                "id": "rss-rst8rljx",
                 "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
                 "source": "Google Blog",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 80
-            },
-            {
-                "id": "rss-29mwolrl",
-                "title": "Advancing responsible AI across Europe",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-9zc88fc5",
-                "title": "Univé builds an AI-ready workforce",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 79
             }
         ]
     },
@@ -88,32 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-k3yv5fit",
-                "title": "Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths",
+                "id": "rss-01d2zu7m",
+                "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 83
+                "time": "Just now",
+                "relevance": 85
             },
             {
-                "id": "rss-zq4iy46e",
-                "title": "Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One in the Qwen Family to Date",
+                "id": "rss-rthfmbzq",
+                "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
                 "source": "MarkTechPost",
-                "time": "1h ago",
+                "time": "4h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-cvm6xki7",
+                "title": "Evaluating Multimodal Vision Models with Moonshot PerceptionBench Using Robust Data Loading and Automated Judging",
+                "source": "MarkTechPost",
+                "time": "10h ago",
                 "relevance": 80
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-vdvzt7f2",
+                "title": "Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-rjezmhig",
-                "title": "A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN",
-                "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 76
+                "id": "rss-circtkrx",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
             },
             {
-                "id": "rss-hfab4piw",
-                "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 74
+                "id": "hn-49156111",
+                "title": "Devtools must be open source",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 71
             }
         ]
     }
@@ -121,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-fi172qek",
-        "title": "Diagnosing Compositional Generalization in Sequential Robot Tasks",
-        "authors": "Yixiao Wang, Cheng-En Wu, Lingfeng Sun, Pengcheng Wang,…",
+        "id": "arxiv-inyf0q9c",
+        "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+        "authors": "Yuxue Yang, Shuyao Shang, Jiahe Wang, Zitong Zhou, Liang…",
         "journal": "arXiv preprint",
-        "abstract": "Sequential robot manipulation requires policies to execute novel combinations of familiar instruction components. However, collecting demonstrations for all possible instruction tuples is combinatorially expensive, while sparsely covered datasets often fail under out-of-distribution recombination. This paper studies…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2607.29687v1"
-    },
-    {
-        "id": "arxiv-383jmk9b",
-        "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
-        "authors": "Muyao Niu, Mingze Ma, Yifan Zhan, Qingtian Zhu, Zhihang…",
-        "journal": "arXiv preprint",
-        "abstract": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on carefully curated training data pairs, with limited robustness under different scenarios. This paper offers a new…",
+        "abstract": "Controllable video generation models are increasingly being developed as world models. Accordingly, evaluating them in this role extends beyond the apparent appearance of generated videos to the inherent reactivity of the worlds they depict: the ability to infer from the scene state how the world should react and to…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.29684v1"
+        "url": "http://arxiv.org/abs/2608.02603v1"
     },
     {
-        "id": "arxiv-bgca5vp3",
-        "title": "Scaling Properties of Text Conditioning in Visual Generation",
-        "authors": "Zilong Chen, Chaorui Deng, Kunchang Li, Hongyi Yuan, Haoqi…",
+        "id": "arxiv-n6ucl2ii",
+        "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+        "authors": "Jiajun Liang, Yucheng Liao, Yukang Cao, Jiazhe Wei, Ken Li,…",
         "journal": "arXiv preprint",
-        "abstract": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-language prompts. Surprisingly, we find that the converged diffusion loss scales with the amount of structured language…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2607.29679v1"
-    },
-    {
-        "id": "arxiv-o6ga5dru",
-        "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-        "authors": "Zhenyu Zhang, Zhichao Cao",
-        "journal": "arXiv preprint",
-        "abstract": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous…",
+        "abstract": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint generation and decoding, or…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2607.29678v1"
+        "url": "http://arxiv.org/abs/2608.02602v1"
     },
     {
-        "id": "arxiv-d6wqx3um",
-        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-        "authors": "Boyang Zhang, Adrian Lyjak, Eli Stewart, Zhaoqi Li, Simon…",
+        "id": "arxiv-d1xo7qsd",
+        "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+        "authors": "Junjie Yin, Buxin She, Xinyu Feng,  Fangxing,  Li",
         "journal": "arXiv preprint",
-        "abstract": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2607.29677v1"
-    },
-    {
-        "id": "arxiv-g5ozkz1v",
-        "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-        "authors": "Arkajyoti Bhattacharjee, Arnab Auddy",
-        "journal": "arXiv preprint",
-        "abstract": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness, curvature, and…",
+        "abstract": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2607.29675v1"
+        "url": "http://arxiv.org/abs/2608.02599v1"
+    },
+    {
+        "id": "arxiv-27lixzd0",
+        "title": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
+        "authors": "Chao Ji, Shiyu Xuan, Zechao Li",
+        "journal": "arXiv preprint",
+        "abstract": "Aerial-ground person re-identification is a challenging task due to cross-platform viewpoint variations, which cause severe occlusion and geometric deformation. Existing methods attempt to learn view-invariant representations exclusively within the 2D image space, where drastic viewpoint variations cause the learned…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.02598v1"
+    },
+    {
+        "id": "arxiv-gy4igzki",
+        "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+        "authors": "Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko",
+        "journal": "arXiv preprint",
+        "abstract": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capabilities require a mixture of both problem-solving skills and domain-specific…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.02595v1"
+    },
+    {
+        "id": "arxiv-vnhty76t",
+        "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
+        "authors": "Zhipeng Liu, Haochen Wang, Zhaoxiang Zhang",
+        "journal": "arXiv preprint",
+        "abstract": "Captions serve as a primary supervision signal for both multimodal understanding and text-to-image generation. However, previous evaluations treat the caption quality as a single scalar objective, which conflates two distinct properties: (1) how much visual information a caption covers and (2) how reliably the image…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.02589v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-dkdjsej4",
+        "id": "gh-zilcm4so",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "224.6k",
+        "stars": "225.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-w45bvoqb",
+        "id": "gh-heuqfh31",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.8k",
@@ -196,7 +218,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-gjizyxuo",
+        "id": "gh-xu2gd7is",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.8k",
@@ -205,7 +227,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-zco4htl5",
+        "id": "gh-gwfjuew6",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.3k",
@@ -214,7 +236,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-r624pwar",
+        "id": "gh-b4hqd82m",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.2k",
@@ -223,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-a7lm0rvt",
+        "id": "gh-iewpc0z4",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.4k",
@@ -232,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-c5imwn8o",
+        "id": "gh-jwv23x8t",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "123.3k",
+        "stars": "123.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
