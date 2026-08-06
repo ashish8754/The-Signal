@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-05T08:39:18.573Z
-   Stories: 27 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-06T08:39:55.838Z
+   Stories: 26 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,62 +25,19 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-6suwjv5t",
-    "topic": "Multimodal AI",
-    "topicId": "multimodal",
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "excerpt": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "id": "rss-8cndq030",
+    "topic": "AI Agents & Autonomy",
+    "topicId": "agents",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "excerpt": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
     "source": "TechCrunch",
-    "time": "13h ago",
+    "time": "11h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+    "relevance": 82,
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
 },
 
     topics: [
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-jjdgqe7f",
-                "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-                "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 90
-            },
-            {
-                "id": "rss-xrhposzp",
-                "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-n8jrs69n",
-                "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-jmal6mm8",
-                "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks",
-                "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 75
-            },
-            {
-                "id": "hn-49170915",
-                "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 69
-            }
-        ]
-    },
     {
         "id": "topic-llms",
         "name": "Large Language Models",
@@ -88,39 +45,111 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-4ajapid8",
-                "title": "Third-party cyber evaluations involving OpenAI models",
-                "source": "OpenAI",
-                "time": "13h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-j1a4dbov",
-                "title": "Inside our 353,000-person vibe coding course",
-                "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-mta06lh6",
+                "id": "rss-lky7eing",
                 "title": "How we built a realtime system for responsive voice AI in six months",
                 "source": "OpenAI",
+                "time": "3d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-0xa2sema",
+                "title": "Third-party cyber evaluations involving OpenAI models",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-pszr60rc",
+                "title": "Inside our 353,000-person vibe coding course",
+                "source": "Google Blog",
                 "time": "2d ago",
-                "relevance": 81
+                "relevance": 80
             },
             {
-                "id": "hn-49178608",
-                "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-                "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-ml21q6h9",
+                "id": "rss-nfl1oukz",
                 "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
                 "source": "Google Blog",
                 "time": "Jul 28",
                 "relevance": 80
+            },
+            {
+                "id": "rss-xm2k1xue",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+                "source": "VentureBeat",
+                "time": "Jan 19",
+                "relevance": 78
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-fupom2su",
+                "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-txxp6jix",
+                "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-ab3qf4mu",
+                "title": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
+                "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-7it5jd72",
+                "title": "Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 73
+            },
+            {
+                "id": "hn-49126716",
+                "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+                "source": "Hacker News",
+                "time": "5d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-8cndq030",
+                "title": "Meta launches Muse Code, an AI agent for large code bases",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-14zy1bji",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-49189075",
+                "title": "Prime Agent: A self-improving RLM agent",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 70
             }
         ]
     },
@@ -131,47 +160,40 @@ const NEWSLETTER_DATA = {
         "color": "#8b949e",
         "stories": [
             {
-                "id": "rss-llfyan1v",
-                "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+                "id": "rss-an5y3jtl",
+                "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
                 "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 81
+                "time": "13h ago",
+                "relevance": 79
             },
             {
-                "id": "hn-49174900",
-                "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+                "id": "hn-49185389",
+                "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
                 "source": "Hacker News",
-                "time": "11h ago",
+                "time": "15h ago",
                 "relevance": 70
-            },
-            {
-                "id": "hn-49170165",
-                "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 69
             }
         ]
     },
     {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-49175924",
-                "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+                "id": "hn-49189234",
+                "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
                 "source": "Hacker News",
-                "time": "10h ago",
-                "relevance": 69
+                "time": "11h ago",
+                "relevance": 76
             },
             {
-                "id": "hn-49145037",
-                "title": "Video2NAND – Abusing video codecs for great computational power",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 66
+                "id": "rss-o7wblhk8",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     }
@@ -179,73 +201,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-5g18hdo6",
-        "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
-        "authors": "Yang Yang, Qinyu Zhao, Mouxiang Chen, Xiaohui Li, Lixin Gu,…",
+        "id": "arxiv-f4enkt8g",
+        "title": "CoCo-IR: Contextual Composed Image Retrieval",
+        "authors": "Shengcao Cao, Tanmaya Shekhar Dabral, Zhongli Ding, Madhuri…",
         "journal": "arXiv preprint",
-        "abstract": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision…",
+        "abstract": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this limitation, we introduce Contextual Composed Image Retrieval (CoCo-IR), a novel task that enables users to…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.04010v1"
+        "url": "http://arxiv.org/abs/2608.05149v1"
     },
     {
-        "id": "arxiv-n5fhdyfz",
-        "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
-        "authors": "Zhenran Wang, Zhonghan Bian, Jinsong Li, Zhangyang Qi",
+        "id": "arxiv-tpq3d9qr",
+        "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+        "authors": "Damien Sileo, Valentin Lacombe, Dimitri Kachler",
         "journal": "arXiv preprint",
-        "abstract": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social events unfold, has barely been measured.…",
+        "abstract": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games,…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.04009v1"
+        "url": "http://arxiv.org/abs/2608.05148v1"
     },
     {
-        "id": "arxiv-xvz7d6gq",
-        "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
-        "authors": "Zhenran Wang, Zhonghan Bian, Jinsong Li, Zhangyang Qi",
+        "id": "arxiv-pcdqgpiv",
+        "title": "Objects as Audio-Visual Modal Sound Fields",
+        "authors": "Zisen Shao, Zihao Wei, Derong Jin, Ruohan Gao",
         "journal": "arXiv preprint",
-        "abstract": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend itself against memorisation. We report the opposite design. Over the 39 days of the 2026 FIFA World Cup, six frontier LLMs…",
+        "abstract": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material, stiffness, and structural properties that complement vision, yet existing impact sound modeling approaches either rely…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.05145v1"
+    },
+    {
+        "id": "arxiv-m35z41k8",
+        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+        "authors": "Boxiu Li, Zimo Wen, Yijia Fan, Junxiang Lei, Sufeng Guo,…",
+        "journal": "arXiv preprint",
+        "abstract": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.05144v1"
+    },
+    {
+        "id": "arxiv-mrxumxhu",
+        "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+        "authors": "Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych",
+        "journal": "arXiv preprint",
+        "abstract": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resources and often…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.05141v1"
+    },
+    {
+        "id": "arxiv-n64szu3z",
+        "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+        "authors": "Yinghui He, Ling Yang, Jiarui Liu, Yongjin Yang, Lechen…",
+        "journal": "arXiv preprint",
+        "abstract": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.04008v1"
-    },
-    {
-        "id": "arxiv-h1nf84yi",
-        "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-        "authors": "Changle Qu, Sunhao Dai, Hengyi Cai, Yuqi Zhou, Xinran Chen,…",
-        "journal": "arXiv preprint",
-        "abstract": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.04007v1"
-    },
-    {
-        "id": "arxiv-7nivahcz",
-        "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-        "authors": "Shuhan Xue, Zixin Ding, Yichen Shen, Yinjie Wang, Zhenfei…",
-        "journal": "arXiv preprint",
-        "abstract": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, and learned skills across sessions. Yet whether retained experience actually…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.04003v1"
-    },
-    {
-        "id": "arxiv-3wxyhiy7",
-        "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-        "authors": "Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh,…",
-        "journal": "arXiv preprint",
-        "abstract": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting or verification, or…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.04001v1"
+        "url": "http://arxiv.org/abs/2608.05139v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-rxydezk7",
+        "id": "gh-jmresyvx",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "225.7k",
+        "stars": "226.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-yfcbtbqc",
+        "id": "gh-vqsy13u2",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "185.8k",
@@ -254,7 +276,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-d9e43o9x",
+        "id": "gh-5ghjo607",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.9k",
@@ -263,7 +285,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-e6cdqu1d",
+        "id": "gh-swysthjl",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.4k",
@@ -272,7 +294,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-vnsffn6l",
+        "id": "gh-9tqrtai6",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.2k",
@@ -281,7 +303,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-kok6d2lu",
+        "id": "gh-qqc1bavk",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.4k",
@@ -290,10 +312,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-zvzeu7ub",
+        "id": "gh-8h4zdvlo",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "123.7k",
+        "stars": "124.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -302,28 +324,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-jjdgqe7f",
-        "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-        "desc": "NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 — a permissive license covering fine-tuning, derivatives and…",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
+    },
+    {
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "MarkTechPost"
+        "source": "Reuters"
     },
     {
-        "id": "ng-rss-llfyan1v",
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-        "desc": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
-    },
-    {
-        "id": "ng-hn-49170165",
-        "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-        "desc": "Click to read more about this development.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Hacker News"
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
