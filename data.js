@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-06T08:39:55.838Z
-   Stories: 26 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-08-07T07:19:20.602Z
+   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-8cndq030",
-    "topic": "AI Agents & Autonomy",
-    "topicId": "agents",
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "excerpt": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-    "source": "TechCrunch",
-    "time": "11h ago",
+    "id": "rss-n7ejo31g",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "excerpt": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "source": "OpenAI",
+    "time": "21h ago",
     "readTime": "5 min read",
-    "relevance": 82,
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+    "relevance": 83,
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-lky7eing",
-                "title": "How we built a realtime system for responsive voice AI in six months",
+                "id": "rss-n7ejo31g",
+                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 81
+                "time": "21h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-0xa2sema",
-                "title": "Third-party cyber evaluations involving OpenAI models",
+                "id": "rss-yzqcby78",
+                "title": "From asking to doing: How the world is putting ChatGPT to work",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-pszr60rc",
+                "id": "rss-l7w752xe",
                 "title": "Inside our 353,000-person vibe coding course",
                 "source": "Google Blog",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-nfl1oukz",
+                "id": "rss-mc5z5ft3",
                 "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
                 "source": "Google Blog",
                 "time": "Jul 28",
                 "relevance": 80
             },
             {
-                "id": "rss-xm2k1xue",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
+                "id": "rss-wf8n5kdx",
+                "title": "Working with the American Psychological Association on youth mental health and AI",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
             }
         ]
     },
@@ -88,39 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-fupom2su",
-                "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+                "id": "rss-b97d2rvy",
+                "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "time": "1h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-txxp6jix",
-                "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
+                "id": "rss-3u96t3k4",
+                "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
                 "source": "MarkTechPost",
-                "time": "12h ago",
+                "time": "3h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-c7jrurp4",
+                "title": "Adaptive Experimentation with Meta’s Ax: A Practical Coding Guide",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-k16ycbzh",
+                "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+                "source": "MarkTechPost",
+                "time": "11h ago",
                 "relevance": 74
-            },
-            {
-                "id": "rss-ab3qf4mu",
-                "title": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-7it5jd72",
-                "title": "Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-                "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 73
-            },
-            {
-                "id": "hn-49126716",
-                "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-                "source": "Hacker News",
-                "time": "5d ago",
-                "relevance": 65
             }
         ]
     },
@@ -131,69 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-8cndq030",
-                "title": "Meta launches Muse Code, an AI agent for large code bases",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-14zy1bji",
+                "id": "rss-3c1oehgl",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
             },
             {
-                "id": "hn-49189075",
-                "title": "Prime Agent: A self-improving RLM agent",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "rss-an5y3jtl",
-                "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 79
-            },
-            {
-                "id": "hn-49185389",
-                "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+                "id": "hn-49198583",
+                "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
                 "source": "Hacker News",
                 "time": "15h ago",
                 "relevance": 70
+            },
+            {
+                "id": "hn-49195468",
+                "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 68
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
         "stories": [
             {
-                "id": "hn-49189234",
-                "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 76
+                "id": "rss-v88kc2nc",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
             },
             {
-                "id": "rss-o7wblhk8",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "id": "hn-49198302",
+                "title": "GitHub Actions and Pages are experiencing degraded availability",
+                "source": "Hacker News",
+                "time": "15h ago",
+                "relevance": 70
             }
         ]
     }
@@ -201,82 +172,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-f4enkt8g",
-        "title": "CoCo-IR: Contextual Composed Image Retrieval",
-        "authors": "Shengcao Cao, Tanmaya Shekhar Dabral, Zhongli Ding, Madhuri…",
+        "id": "arxiv-2si12ee3",
+        "title": "Learning When to Trust via Selective Context Preference Optimization",
+        "authors": "Xian Sun, Wei Chow, Yingshuo Wang, Junhao Liu, Wei Gao,…",
         "journal": "arXiv preprint",
-        "abstract": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this limitation, we introduce Contextual Composed Image Retrieval (CoCo-IR), a novel task that enables users to…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.05149v1"
-    },
-    {
-        "id": "arxiv-tpq3d9qr",
-        "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
-        "authors": "Damien Sileo, Valentin Lacombe, Dimitri Kachler",
-        "journal": "arXiv preprint",
-        "abstract": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games,…",
+        "abstract": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.05148v1"
+        "url": "http://arxiv.org/abs/2608.06377v1"
     },
     {
-        "id": "arxiv-pcdqgpiv",
-        "title": "Objects as Audio-Visual Modal Sound Fields",
-        "authors": "Zisen Shao, Zihao Wei, Derong Jin, Ruohan Gao",
+        "id": "arxiv-21ft0u3e",
+        "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+        "authors": "Zhe Li, Zhenzhe Zhang, Yangyang Wei, Wenjie Zhang, Xichen…",
         "journal": "arXiv preprint",
-        "abstract": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material, stiffness, and structural properties that complement vision, yet existing impact sound modeling approaches either rely…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.05145v1"
+        "abstract": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing humanoid policies typically decompose locomotion and manipulation, while recent world-action models remain either…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.06375v1"
     },
     {
-        "id": "arxiv-m35z41k8",
-        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
-        "authors": "Boxiu Li, Zimo Wen, Yijia Fan, Junxiang Lei, Sufeng Guo,…",
+        "id": "arxiv-2rmdfivb",
+        "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+        "authors": "Junfeng Li, Junjie He, Zhide Zhong, Yangyang Zheng, Pingyue…",
         "journal": "arXiv preprint",
-        "abstract": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.05144v1"
+        "abstract": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. First, they underuse dynamics priors shared across diverse visual and interaction…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.06374v1"
     },
     {
-        "id": "arxiv-mrxumxhu",
-        "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-        "authors": "Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych",
+        "id": "arxiv-dz4p4zx3",
+        "title": "The Bitter Lesson of Tool Calling",
+        "authors": "Ishan Patel, Sahil Sen, Elias Lumer, Vamse Kumar Subbiah",
         "journal": "arXiv preprint",
-        "abstract": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resources and often…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.05141v1"
-    },
-    {
-        "id": "arxiv-n64szu3z",
-        "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
-        "authors": "Yinghui He, Ling Yang, Jiarui Liu, Yongjin Yang, Lechen…",
-        "journal": "arXiv preprint",
-        "abstract": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills…",
+        "abstract": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally. However, a systematic evaluation of tools as code on an established benchmark across…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.05139v1"
+        "url": "http://arxiv.org/abs/2608.06370v1"
+    },
+    {
+        "id": "arxiv-ccdpztlw",
+        "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+        "authors": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi, Daniel…",
+        "journal": "arXiv preprint",
+        "abstract": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data with…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.06366v1"
+    },
+    {
+        "id": "arxiv-144cooym",
+        "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+        "authors": "George Grispos, Sajda Qureshi",
+        "journal": "arXiv preprint",
+        "abstract": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applications affects…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.06364v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-jmresyvx",
+        "id": "gh-qymekn5l",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "226.3k",
+        "stars": "226.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-vqsy13u2",
+        "id": "gh-58vkt5kk",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "185.8k",
+        "stars": "186.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-5ghjo607",
+        "id": "gh-s702pzjz",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.9k",
@@ -285,7 +256,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-swysthjl",
+        "id": "gh-hsb79xta",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.4k",
@@ -294,16 +265,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-9tqrtai6",
+        "id": "gh-ncvfqo7m",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "102.2k",
+        "stars": "102.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-qqc1bavk",
+        "id": "gh-vicurks6",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.4k",
@@ -312,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-8h4zdvlo",
+        "id": "gh-c33p0mnp",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "124.1k",
+        "stars": "124.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
