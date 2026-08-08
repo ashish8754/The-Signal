@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-07T07:19:20.602Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-08T06:56:53.284Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-n7ejo31g",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "excerpt": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "source": "OpenAI",
-    "time": "21h ago",
+    "id": "rss-naxu9hi5",
+    "topic": "Artificial Intelligence",
+    "topicId": "energy",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "excerpt": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "source": "TechCrunch",
+    "time": "14h ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+    "relevance": 85,
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-n7ejo31g",
-                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+                "id": "rss-nsbl1kvn",
+                "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+                "source": "MarkTechPost",
+                "time": "2h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-bizer41f",
+                "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
                 "source": "OpenAI",
                 "time": "21h ago",
-                "relevance": 83
+                "relevance": 82
             },
             {
-                "id": "rss-yzqcby78",
-                "title": "From asking to doing: How the world is putting ChatGPT to work",
+                "id": "rss-siyb62mw",
+                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-l7w752xe",
+                "id": "rss-ocvxv6zn",
+                "title": "Responding to the next frontier of critical cyber capabilities",
+                "source": "OpenAI",
+                "time": "15h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-vf86y7s9",
                 "title": "Inside our 353,000-person vibe coding course",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 80
-            },
-            {
-                "id": "rss-mc5z5ft3",
-                "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-                "source": "Google Blog",
-                "time": "Jul 28",
-                "relevance": 80
-            },
-            {
-                "id": "rss-wf8n5kdx",
-                "title": "Working with the American Psychological Association on youth mental health and AI",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 79
             }
         ]
     },
@@ -88,83 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-b97d2rvy",
-                "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+                "id": "rss-8obev1kq",
+                "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-3u96t3k4",
-                "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-c7jrurp4",
-                "title": "Adaptive Experimentation with Meta’s Ax: A Practical Coding Guide",
-                "source": "MarkTechPost",
-                "time": "14h ago",
+                "time": "9h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-k16ycbzh",
-                "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+                "id": "rss-5e0cw2xi",
+                "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 74
+                "time": "9h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-a733ufws",
+                "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+                "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 77
             }
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
         "stories": [
             {
-                "id": "rss-3c1oehgl",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
+                "id": "rss-naxu9hi5",
+                "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 85
             },
             {
-                "id": "hn-49198583",
-                "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-49195468",
-                "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+                "id": "hn-49208535",
+                "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
                 "source": "Hacker News",
                 "time": "19h ago",
-                "relevance": 68
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-v88kc2nc",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
-            },
-            {
-                "id": "hn-49198302",
-                "title": "GitHub Actions and Pages are experiencing degraded availability",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 70
+                "relevance": 69
             }
         ]
     }
@@ -172,7 +136,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-2si12ee3",
+        "id": "arxiv-4l4omf4x",
         "title": "Learning When to Trust via Selective Context Preference Optimization",
         "authors": "Xian Sun, Wei Chow, Yingshuo Wang, Junhao Liu, Wei Gao,…",
         "journal": "arXiv preprint",
@@ -181,7 +145,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06377v1"
     },
     {
-        "id": "arxiv-21ft0u3e",
+        "id": "arxiv-wodzjd9o",
         "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
         "authors": "Zhe Li, Zhenzhe Zhang, Yangyang Wei, Wenjie Zhang, Xichen…",
         "journal": "arXiv preprint",
@@ -190,7 +154,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06375v1"
     },
     {
-        "id": "arxiv-2rmdfivb",
+        "id": "arxiv-mvcx0d18",
         "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
         "authors": "Junfeng Li, Junjie He, Zhide Zhong, Yangyang Zheng, Pingyue…",
         "journal": "arXiv preprint",
@@ -199,7 +163,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06374v1"
     },
     {
-        "id": "arxiv-dz4p4zx3",
+        "id": "arxiv-hrlj5r7b",
         "title": "The Bitter Lesson of Tool Calling",
         "authors": "Ishan Patel, Sahil Sen, Elias Lumer, Vamse Kumar Subbiah",
         "journal": "arXiv preprint",
@@ -208,7 +172,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06370v1"
     },
     {
-        "id": "arxiv-ccdpztlw",
+        "id": "arxiv-2u440q5d",
         "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
         "authors": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi, Daniel…",
         "journal": "arXiv preprint",
@@ -217,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06366v1"
     },
     {
-        "id": "arxiv-144cooym",
+        "id": "arxiv-yqbkyb5j",
         "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
         "authors": "George Grispos, Sajda Qureshi",
         "journal": "arXiv preprint",
@@ -229,25 +193,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-qymekn5l",
+        "id": "gh-7uspcjxs",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "226.8k",
+        "stars": "227.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-58vkt5kk",
+        "id": "gh-66g4g14z",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "186.1k",
+        "stars": "186.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-s702pzjz",
+        "id": "gh-nvyxi24f",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "152.9k",
@@ -256,16 +220,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-hsb79xta",
+        "id": "gh-pqu4yrf2",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "163.4k",
+        "stars": "163.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ncvfqo7m",
+        "id": "gh-s68npmhs",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.3k",
@@ -274,7 +238,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-vicurks6",
+        "id": "gh-nuy4x0by",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.4k",
@@ -283,10 +247,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-c33p0mnp",
+        "id": "gh-r6rstosd",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "124.5k",
+        "stars": "124.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
