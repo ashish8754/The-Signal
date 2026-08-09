@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-08T06:56:53.284Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-08-09T06:59:44.739Z
+   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-naxu9hi5",
-    "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "excerpt": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "source": "TechCrunch",
-    "time": "14h ago",
+    "id": "rss-c2gud5ag",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Inside our 353,000-person vibe coding course",
+    "excerpt": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "source": "Google Blog",
+    "time": "5d ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+    "relevance": 80,
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
 },
 
     topics: [
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-nsbl1kvn",
-                "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+                "id": "rss-s6e7u3kh",
+                "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-bizer41f",
-                "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-                "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-siyb62mw",
-                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-                "source": "OpenAI",
-                "time": "1d ago",
+                "time": "13h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-ocvxv6zn",
-                "title": "Responding to the next frontier of critical cyber capabilities",
-                "source": "OpenAI",
-                "time": "15h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-vf86y7s9",
+                "id": "rss-c2gud5ag",
                 "title": "Inside our 353,000-person vibe coding course",
                 "source": "Google Blog",
-                "time": "4d ago",
-                "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-8obev1kq",
-                "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
-                "source": "MarkTechPost",
-                "time": "9h ago",
+                "time": "5d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-5e0cw2xi",
-                "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
-                "source": "MarkTechPost",
-                "time": "9h ago",
+                "id": "rss-x7ebluou",
+                "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+                "source": "Google Blog",
+                "time": "Jul 28",
+                "relevance": 80
+            },
+            {
+                "id": "rss-kqr13rti",
+                "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-tr5y826l",
+                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+                "source": "OpenAI",
+                "time": "2d ago",
                 "relevance": 78
-            },
-            {
-                "id": "rss-a733ufws",
-                "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
-                "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 77
             }
         ]
     },
@@ -117,18 +88,62 @@ const NEWSLETTER_DATA = {
         "color": "#8b949e",
         "stories": [
             {
-                "id": "rss-naxu9hi5",
-                "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+                "id": "rss-4ii01woz",
+                "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
                 "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 85
+                "time": "9h ago",
+                "relevance": 80
             },
             {
-                "id": "hn-49208535",
-                "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+                "id": "hn-49225139",
+                "title": "Open-source interactive map for the Aug 12 total solar eclipse",
                 "source": "Hacker News",
-                "time": "19h ago",
+                "time": "11h ago",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-n8aa98kn",
+                "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+                "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-tupvbq51",
+                "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-n691doce",
+                "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-84ogvda8",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
             }
         ]
     }
@@ -136,7 +151,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-4l4omf4x",
+        "id": "arxiv-ammnh4co",
         "title": "Learning When to Trust via Selective Context Preference Optimization",
         "authors": "Xian Sun, Wei Chow, Yingshuo Wang, Junhao Liu, Wei Gao,…",
         "journal": "arXiv preprint",
@@ -145,7 +160,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06377v1"
     },
     {
-        "id": "arxiv-wodzjd9o",
+        "id": "arxiv-vaam19x5",
         "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
         "authors": "Zhe Li, Zhenzhe Zhang, Yangyang Wei, Wenjie Zhang, Xichen…",
         "journal": "arXiv preprint",
@@ -154,7 +169,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06375v1"
     },
     {
-        "id": "arxiv-mvcx0d18",
+        "id": "arxiv-gvp92w3h",
         "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
         "authors": "Junfeng Li, Junjie He, Zhide Zhong, Yangyang Zheng, Pingyue…",
         "journal": "arXiv preprint",
@@ -163,7 +178,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06374v1"
     },
     {
-        "id": "arxiv-hrlj5r7b",
+        "id": "arxiv-2v22dpx5",
         "title": "The Bitter Lesson of Tool Calling",
         "authors": "Ishan Patel, Sahil Sen, Elias Lumer, Vamse Kumar Subbiah",
         "journal": "arXiv preprint",
@@ -172,7 +187,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06370v1"
     },
     {
-        "id": "arxiv-2u440q5d",
+        "id": "arxiv-ktpegk2j",
         "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
         "authors": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi, Daniel…",
         "journal": "arXiv preprint",
@@ -181,7 +196,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.06366v1"
     },
     {
-        "id": "arxiv-yqbkyb5j",
+        "id": "arxiv-oghi9mod",
         "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
         "authors": "George Grispos, Sajda Qureshi",
         "journal": "arXiv preprint",
@@ -193,16 +208,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-7uspcjxs",
+        "id": "gh-9g30vjam",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "227.2k",
+        "stars": "227.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-66g4g14z",
+        "id": "gh-wmlj4n45",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.4k",
@@ -211,16 +226,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-nvyxi24f",
+        "id": "gh-gv3nh80y",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "152.9k",
+        "stars": "153.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-pqu4yrf2",
+        "id": "gh-0knrz1ng",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.5k",
@@ -229,7 +244,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-s68npmhs",
+        "id": "gh-38omft58",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.3k",
@@ -238,19 +253,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-nuy4x0by",
+        "id": "gh-p6xrtlue",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.4k",
+        "stars": "164.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-r6rstosd",
+        "id": "gh-sj9695ah",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "124.7k",
+        "stars": "125.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
