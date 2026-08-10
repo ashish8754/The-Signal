@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-09T06:59:44.739Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-10T07:45:31.926Z
+   Stories: 24 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,84 +25,19 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-c2gud5ag",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Inside our 353,000-person vibe coding course",
-    "excerpt": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-    "source": "Google Blog",
-    "time": "5d ago",
+    "id": "rss-vf51i71o",
+    "topic": "AI Safety",
+    "topicId": "security",
+    "title": "The AI safety test is becoming a safety risk",
+    "excerpt": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "source": "TechCrunch",
+    "time": "17h ago",
     "readTime": "5 min read",
-    "relevance": 80,
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+    "relevance": 87,
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
 },
 
     topics: [
-    {
-        "id": "topic-llms",
-        "name": "Large Language Models",
-        "icon": "◎",
-        "color": "#d4a03d",
-        "stories": [
-            {
-                "id": "rss-s6e7u3kh",
-                "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-c2gud5ag",
-                "title": "Inside our 353,000-person vibe coding course",
-                "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-x7ebluou",
-                "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-                "source": "Google Blog",
-                "time": "Jul 28",
-                "relevance": 80
-            },
-            {
-                "id": "rss-kqr13rti",
-                "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-tr5y826l",
-                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "rss-4ii01woz",
-                "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-                "source": "TechCrunch",
-                "time": "9h ago",
-                "relevance": 80
-            },
-            {
-                "id": "hn-49225139",
-                "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 69
-            }
-        ]
-    },
     {
         "id": "topic-research",
         "name": "Research & Breakthroughs",
@@ -110,40 +45,104 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-n8aa98kn",
-                "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+                "id": "rss-xc70cs4x",
+                "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
                 "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 79
+                "time": "1h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-tupvbq51",
-                "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+                "id": "rss-zbu3n4qm",
+                "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 75
+                "relevance": 76
+            },
+            {
+                "id": "hn-49238735",
+                "title": "Turn satellite imagery into a paper globe you fold yourself",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-fwk436cg",
+                "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-cv250trt",
+                "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 74
             }
         ]
     },
     {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
+        "id": "topic-llms",
+        "name": "Large Language Models",
+        "icon": "◎",
+        "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-n691doce",
-                "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 73
+                "id": "rss-y036rwy8",
+                "title": "Anthropic is turning Claude Code’s auto mode on by default",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-84ogvda8",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "id": "rss-aaskhg0a",
+                "title": "Inside our 353,000-person vibe coding course",
+                "source": "Google Blog",
+                "time": "6d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-v3tnc400",
+                "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+                "source": "Google Blog",
+                "time": "Jul 28",
+                "relevance": 80
+            },
+            {
+                "id": "rss-4f12vjbb",
+                "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+                "source": "OpenAI",
+                "time": "3d ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-crq8otuh",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
+                "time": "Jan 19",
+                "relevance": 78
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-m83gmp35",
+                "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-4xqaokyz",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             }
         ]
     }
@@ -151,82 +150,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ammnh4co",
-        "title": "Learning When to Trust via Selective Context Preference Optimization",
-        "authors": "Xian Sun, Wei Chow, Yingshuo Wang, Junhao Liu, Wei Gao,…",
+        "id": "arxiv-5cddxuy0",
+        "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+        "authors": "Zongchuang Zhao, Xin Zhou, Tianyang Xu, Zhengyang Sun,…",
         "journal": "arXiv preprint",
-        "abstract": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We…",
+        "abstract": "World-Action Models (WAMs) improve end-to-end autonomous driving by transferring video dynamics priors to action prediction, but existing methods require costly future generation at inference. We present SimWAM, a simple yet effective WAM that uses video generation purely as a training signal. It co-trains a…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.07468v1"
+    },
+    {
+        "id": "arxiv-nkbevqrj",
+        "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+        "authors": "Youjun Zhao, Alex Warren, Gary K. L. Tam, Rynson W. H. Lau",
+        "journal": "arXiv preprint",
+        "abstract": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain consistent with the surrounding scene. Existing VDMs are not specifically designed to model scene-to-mirror…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.07463v1"
+    },
+    {
+        "id": "arxiv-1jzyd1i6",
+        "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+        "authors": "Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin",
+        "journal": "arXiv preprint",
+        "abstract": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.06377v1"
+        "url": "http://arxiv.org/abs/2608.07460v1"
     },
     {
-        "id": "arxiv-vaam19x5",
-        "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
-        "authors": "Zhe Li, Zhenzhe Zhang, Yangyang Wei, Wenjie Zhang, Xichen…",
+        "id": "arxiv-vznmo5xm",
+        "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+        "authors": "Gyuwan Kim, Cheoneum Park, Tao Yang",
         "journal": "arXiv preprint",
-        "abstract": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing humanoid policies typically decompose locomotion and manipulation, while recent world-action models remain either…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.06375v1"
-    },
-    {
-        "id": "arxiv-gvp92w3h",
-        "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
-        "authors": "Junfeng Li, Junjie He, Zhide Zhong, Yangyang Zheng, Pingyue…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. First, they underuse dynamics priors shared across diverse visual and interaction…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.06374v1"
-    },
-    {
-        "id": "arxiv-2v22dpx5",
-        "title": "The Bitter Lesson of Tool Calling",
-        "authors": "Ishan Patel, Sahil Sen, Elias Lumer, Vamse Kumar Subbiah",
-        "journal": "arXiv preprint",
-        "abstract": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally. However, a systematic evaluation of tools as code on an established benchmark across…",
+        "abstract": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant information redundancy and noise still remain in the coarse-grained chunks. This paper optimizes the Pareto frontier under…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.06370v1"
+        "url": "http://arxiv.org/abs/2608.07458v1"
     },
     {
-        "id": "arxiv-ktpegk2j",
-        "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-        "authors": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi, Daniel…",
+        "id": "arxiv-g22t436v",
+        "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+        "authors": "Bella Xinrui Li, Frank Yingjie Huo, Neil F Johnson",
         "journal": "arXiv preprint",
-        "abstract": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data with…",
+        "abstract": "What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a boss AI directs a stream of messages at the subordinate AI while ignoring its replies, it drives the subordinate into…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.06366v1"
+        "url": "http://arxiv.org/abs/2608.07457v1"
     },
     {
-        "id": "arxiv-oghi9mod",
-        "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
-        "authors": "George Grispos, Sajda Qureshi",
+        "id": "arxiv-ueeozgbu",
+        "title": "Strategy-first synthesis planning for complex natural products",
+        "authors": "Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu, Gabriel…",
         "journal": "arXiv preprint",
-        "abstract": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applications affects…",
+        "abstract": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate target, devise backup strategies, and anticipate procedural challenges. It is also a profoundly…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.06364v1"
+        "url": "http://arxiv.org/abs/2608.07454v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-9g30vjam",
+        "id": "gh-dm1xvtwl",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "227.6k",
+        "stars": "228.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-wmlj4n45",
+        "id": "gh-at9t78yh",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "186.4k",
+        "stars": "186.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-gv3nh80y",
+        "id": "gh-m8gklewa",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.0k",
@@ -235,7 +234,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-0knrz1ng",
+        "id": "gh-jm0wvxya",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "163.5k",
@@ -244,7 +243,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-38omft58",
+        "id": "gh-1rg0cxhs",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.3k",
@@ -253,7 +252,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-p6xrtlue",
+        "id": "gh-xfykjni1",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.5k",
@@ -262,10 +261,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-sj9695ah",
+        "id": "gh-d1exaz8u",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "125.0k",
+        "stars": "125.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
