@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-12T07:27:38.790Z
-   Stories: 20 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-13T07:37:35.761Z
+   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-pd99id07",
+    "id": "rss-3dn137pp",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Testing ads in ChatGPT",
     "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "source": "OpenAI",
-    "time": "21h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 90,
+    "relevance": 87,
     "url": "https://openai.com/index/testing-ads-in-chatgpt"
 },
 
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-pd99id07",
+                "id": "rss-3dn137pp",
                 "title": "Testing ads in ChatGPT",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-23yc01is",
+                "id": "rss-v09xjb6v",
                 "title": "Daybreak models are now available on AWS",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 86
+                "time": "1d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-7n3uztjl",
-                "title": "Google’s Gemini app surges to 1 billion users",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-vl8nnyg3",
-                "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+                "id": "rss-zjwb7ajn",
+                "title": "How RingCentral builds AI-native work from engineering to ops",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-e3be2idy",
-                "title": "Evolve your marketing with new AI tools",
-                "source": "Google Blog",
+                "id": "rss-j4spygwh",
+                "title": "From assistance to execution: How enterprises put AI to work",
+                "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
+            },
+            {
+                "id": "rss-s4003kdn",
+                "title": "Inside our 353,000-person vibe coding course",
+                "source": "Google Blog",
+                "time": "Aug 3",
+                "relevance": 80
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-6x65oxne",
-                "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
+                "id": "rss-4j9po3mt",
+                "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
                 "source": "MarkTechPost",
-                "time": "Just now",
-                "relevance": 84
+                "time": "1h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-51ivj1rt",
-                "title": "Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
-                "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-zcg5k1xe",
+                "id": "rss-4o6f2slz",
                 "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 75
             },
             {
-                "id": "rss-qaev2psx",
-                "title": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+                "id": "rss-77p9gjax",
+                "title": "Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
                 "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 74
+                "time": "1d ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-5vh59u8x",
+                "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 71
             }
         ]
     },
@@ -124,14 +124,14 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-xvt4pj6e",
-                "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+                "id": "rss-e5e4640j",
+                "title": "As AI safety concerns mount, three pioneers make the case for staying open",
                 "source": "TechCrunch",
-                "time": "9h ago",
+                "time": "13h ago",
                 "relevance": 81
             },
             {
-                "id": "rss-vrspff7b",
+                "id": "rss-shoon2gd",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
@@ -140,24 +140,24 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-w2barqtx",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-njnra5mf",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "May 19",
+                "relevance": 72
             },
             {
-                "id": "hn-49263340",
-                "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+                "id": "hn-49280184",
+                "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
                 "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 73
+                "time": "7h ago",
+                "relevance": 70
             }
         ]
     }
@@ -165,82 +165,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-s42riqyv",
-        "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
-        "authors": "Mingju Gao, Jingkai Zhou, Kun Gai, Changqian Yu, Hao Tang",
+        "id": "arxiv-8jmoya8i",
+        "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+        "authors": "Yuyang Yin, Zixiang Li, Longxuan Deng, Hongkai Li, Shifang…",
         "journal": "arXiv preprint",
-        "abstract": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However, directly optimizing Fréchet objectives can cause Fréchet hacking. The target metrics keep improving, but visual…",
+        "abstract": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-temporal dynamics. Yet existing generative methods rely on simple prompts to jointly control all of these factors through…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.11205v1"
+        "url": "http://arxiv.org/abs/2608.12314v1"
     },
     {
-        "id": "arxiv-a3whe4vm",
-        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-        "authors": "Wenrui Bao, Tianyun Jiang, Zhiben Chen, Ser-Nam Lim, Peter…",
+        "id": "arxiv-4hfw1q3k",
+        "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+        "authors": "Chuyue Li, Jinpeng Yu, Haozhe Wang, Tian Xueyun, Zhijing…",
         "journal": "arXiv preprint",
-        "abstract": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.11204v1"
-    },
-    {
-        "id": "arxiv-0obsv49k",
-        "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
-        "authors": "Yizhou Xu, Lars Bretzner, Tiesheng Wang, Atsuto Maki",
-        "journal": "arXiv preprint",
-        "abstract": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since human motion is inherently uncertain, accounting for multiple plausible futures is essential for capturing the underlying…",
+        "abstract": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video representation that is both faithful to film content and directly usable for agentic reasoning and manipulation. To address…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.11203v1"
+        "url": "http://arxiv.org/abs/2608.12313v1"
     },
     {
-        "id": "arxiv-pnqz9g4q",
-        "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
-        "authors": "Bowei Liu, Zheng Lu, Yuhan Bian, Xinchen Zhang, Xingming…",
+        "id": "arxiv-nt4jzsnl",
+        "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+        "authors": "Yan Deng, Fei Xu",
         "journal": "arXiv preprint",
-        "abstract": "Recent advances in video generation models have significantly improved the realism of synthetic videos, blurring the boundary between generated and authentic content and raising concerns about misinformation. Existing MLLM-based detectors mainly rely on supervised fine-tuning or label-level reinforcement learning,…",
+        "abstract": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.11201v1"
+        "url": "http://arxiv.org/abs/2608.12308v1"
     },
     {
-        "id": "arxiv-b98bwydc",
-        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-        "authors": "Chen Lyu, Xingwei Tan, Simon Cullen, Shelley Wilson, Lois…",
+        "id": "arxiv-7zxrebuz",
+        "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+        "authors": "Cheng Qian, Wenting Zhao, Liangwei Yang, Heng Wang, Jielin…",
         "journal": "arXiv preprint",
-        "abstract": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation,…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.11200v1"
-    },
-    {
-        "id": "arxiv-uqmamh9u",
-        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-        "authors": "Nikolai Bolik, Lennart Stöpler, Artur Andrzejak",
-        "journal": "arXiv preprint",
-        "abstract": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a…",
+        "abstract": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.11197v1"
+        "url": "http://arxiv.org/abs/2608.12307v1"
+    },
+    {
+        "id": "arxiv-sbtn69w7",
+        "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+        "authors": "Ebenezer Gelo, Geraud Nangue Tasse, Steven James, Benjamin…",
+        "journal": "arXiv preprint",
+        "abstract": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.12306v1"
+    },
+    {
+        "id": "arxiv-0cjfpxra",
+        "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+        "authors": "Saman Marandi, Yu-Shu Hu, Mohammad Modarres",
+        "journal": "arXiv preprint",
+        "abstract": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex systems. This study presents…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.12304v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-mpd8jdzs",
+        "id": "gh-63f07o5h",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "229.2k",
+        "stars": "229.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-txv76zvk",
+        "id": "gh-fxuqgtie",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "186.5k",
+        "stars": "186.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-bgmy4v1k",
+        "id": "gh-a85snjxl",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.1k",
@@ -249,25 +249,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-vd0bdbcw",
+        "id": "gh-9gfgf897",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "163.9k",
+        "stars": "164.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-xzeoe0b5",
+        "id": "gh-gtava7zq",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "102.3k",
+        "stars": "102.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-vohdfry3",
+        "id": "gh-2n9w3gan",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.5k",
@@ -276,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-orftd8uf",
+        "id": "gh-meagkmsk",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "126.9k",
+        "stars": "127.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
