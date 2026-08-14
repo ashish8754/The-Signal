@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-13T07:37:35.761Z
+   Updated: 2026-08-14T07:27:15.703Z
    Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-3dn137pp",
+    "id": "rss-kgxrjpn5",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Testing ads in ChatGPT",
-    "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "title": "The builder’s guide to GPT‑5.6",
+    "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "20h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/testing-ads-in-chatgpt"
+    "relevance": 90,
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-3dn137pp",
-                "title": "Testing ads in ChatGPT",
+                "id": "rss-kgxrjpn5",
+                "title": "The builder’s guide to GPT‑5.6",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "20h ago",
+                "relevance": 90
             },
             {
-                "id": "rss-v09xjb6v",
-                "title": "Daybreak models are now available on AWS",
+                "id": "rss-xakvwu2n",
+                "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 83
+                "time": "21h ago",
+                "relevance": 89
             },
             {
-                "id": "rss-zjwb7ajn",
-                "title": "How RingCentral builds AI-native work from engineering to ops",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
+                "id": "rss-1h30p7b6",
+                "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-j4spygwh",
-                "title": "From assistance to execution: How enterprises put AI to work",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-s4003kdn",
-                "title": "Inside our 353,000-person vibe coding course",
+                "id": "rss-h5lopt0q",
+                "title": "Bring your spreadsheet data to life with Sheets canvas",
                 "source": "Google Blog",
-                "time": "Aug 3",
+                "time": "14h ago",
                 "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-4j9po3mt",
-                "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
-                "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 85
             },
             {
-                "id": "rss-4o6f2slz",
-                "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-77p9gjax",
-                "title": "Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-5vh59u8x",
-                "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
+                "id": "rss-3gaskliw",
+                "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 80
             }
         ]
     },
@@ -124,14 +88,14 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-e5e4640j",
-                "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+                "id": "rss-cvl7wtlj",
+                "title": "Writer introduces new AI model and upgraded harness to contain token costs",
                 "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 81
+                "time": "10h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-shoon2gd",
+                "id": "rss-j1kowlig",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
@@ -146,18 +110,40 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-njnra5mf",
+                "id": "rss-xtehapnw",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
             },
             {
-                "id": "hn-49280184",
-                "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+                "id": "hn-49283063",
+                "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
                 "source": "Hacker News",
-                "time": "7h ago",
-                "relevance": 70
+                "time": "23h ago",
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-49248769",
+                "title": "The Library of Ashurbanipal (2025)",
+                "source": "Hacker News",
+                "time": "3d ago",
+                "relevance": 66
+            },
+            {
+                "id": "hn-49258085",
+                "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 65
             }
         ]
     }
@@ -165,73 +151,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-8jmoya8i",
-        "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
-        "authors": "Yuyang Yin, Zixiang Li, Longxuan Deng, Hongkai Li, Shifang…",
+        "id": "arxiv-poks7tvy",
+        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+        "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan,…",
         "journal": "arXiv preprint",
-        "abstract": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-temporal dynamics. Yet existing generative methods rely on simple prompts to jointly control all of these factors through…",
+        "abstract": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.12314v1"
+        "url": "http://arxiv.org/abs/2608.13560v1"
     },
     {
-        "id": "arxiv-4hfw1q3k",
-        "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-        "authors": "Chuyue Li, Jinpeng Yu, Haozhe Wang, Tian Xueyun, Zhijing…",
+        "id": "arxiv-mt9j2k3j",
+        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+        "authors": "Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu",
         "journal": "arXiv preprint",
-        "abstract": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video representation that is both faithful to film content and directly usable for agentic reasoning and manipulation. To address…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.12313v1"
-    },
-    {
-        "id": "arxiv-nt4jzsnl",
-        "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-        "authors": "Yan Deng, Fei Xu",
-        "journal": "arXiv preprint",
-        "abstract": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.12308v1"
-    },
-    {
-        "id": "arxiv-7zxrebuz",
-        "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-        "authors": "Cheng Qian, Wenting Zhao, Liangwei Yang, Heng Wang, Jielin…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.12307v1"
-    },
-    {
-        "id": "arxiv-sbtn69w7",
-        "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-        "authors": "Ebenezer Gelo, Geraud Nangue Tasse, Steven James, Benjamin…",
-        "journal": "arXiv preprint",
-        "abstract": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.12306v1"
-    },
-    {
-        "id": "arxiv-0cjfpxra",
-        "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-        "authors": "Saman Marandi, Yu-Shu Hu, Mohammad Modarres",
-        "journal": "arXiv preprint",
-        "abstract": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex systems. This study presents…",
+        "abstract": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.12304v1"
+        "url": "http://arxiv.org/abs/2608.13558v1"
+    },
+    {
+        "id": "arxiv-j6o6wb4x",
+        "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+        "authors": "Minghui Guo, Shengqiong Wu, Hao Fei",
+        "journal": "arXiv preprint",
+        "abstract": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces are still optimized primarily for pixel-level reconstruction and provide limited high-level semantic organization. A…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.13556v1"
+    },
+    {
+        "id": "arxiv-nkah2xxg",
+        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+        "authors": "Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan,…",
+        "journal": "arXiv preprint",
+        "abstract": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.13555v1"
+    },
+    {
+        "id": "arxiv-cmz0xt5u",
+        "title": "Defensive Boosting for Online Probabilistic Forecasting",
+        "authors": "Georgy Noarov, Aaron Roth",
+        "journal": "arXiv preprint",
+        "abstract": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradient boosting…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.13554v1"
+    },
+    {
+        "id": "arxiv-5qictucv",
+        "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+        "authors": "Kaixin Ding, Xi Chen, Minghong Cai, Zhiyuan Xu, Yiyang…",
+        "journal": "arXiv preprint",
+        "abstract": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long sequences. However, fairly comparing these interactive models remains challenging. In practice, a human player typically…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.13552v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-63f07o5h",
+        "id": "gh-raw7gqnu",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "229.8k",
+        "stars": "230.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-fxuqgtie",
+        "id": "gh-rqka9ko8",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.6k",
@@ -240,25 +226,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-a85snjxl",
+        "id": "gh-bfusorxv",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.1k",
+        "stars": "153.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-9gfgf897",
+        "id": "gh-474cekvn",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.0k",
+        "stars": "164.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-gtava7zq",
+        "id": "gh-tkmdb7il",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.4k",
@@ -267,7 +253,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-2n9w3gan",
+        "id": "gh-h9imfisk",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.5k",
@@ -276,10 +262,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-meagkmsk",
+        "id": "gh-e758ik6o",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "127.2k",
+        "stars": "127.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
