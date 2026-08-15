@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-14T07:27:15.703Z
-   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-15T06:41:11.397Z
+   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-kgxrjpn5",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "The builder’s guide to GPT‑5.6",
-    "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "source": "OpenAI",
-    "time": "20h ago",
+    "id": "rss-d0419vew",
+    "topic": "Open Source AI",
+    "topicId": "opensource",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "excerpt": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than…",
+    "source": "TechCrunch",
+    "time": "14h ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    "relevance": 88,
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-kgxrjpn5",
+                "id": "rss-ep837w90",
+                "title": "Kog is going deeper to squeeze more inference out of GPUs",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-2tveyi43",
                 "title": "The builder’s guide to GPT‑5.6",
                 "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-xakvwu2n",
+                "id": "rss-bpvc1e80",
                 "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 89
+                "time": "1d ago",
+                "relevance": 86
             },
             {
-                "id": "rss-1h30p7b6",
-                "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-h5lopt0q",
-                "title": "Bring your spreadsheet data to life with Sheets canvas",
-                "source": "Google Blog",
-                "time": "14h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-3gaskliw",
-                "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+                "id": "rss-2zidusrj",
+                "title": "From assistance to execution: How enterprises put AI to work",
                 "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 80
+                "time": "3d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-jh3h7v07",
+                "title": "Evolve your marketing with new AI tools",
+                "source": "Google Blog",
+                "time": "4d ago",
+                "relevance": 79
             }
         ]
     },
@@ -88,14 +88,14 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-cvl7wtlj",
-                "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+                "id": "rss-d0419vew",
+                "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
                 "source": "TechCrunch",
-                "time": "10h ago",
-                "relevance": 85
+                "time": "14h ago",
+                "relevance": 88
             },
             {
-                "id": "rss-j1kowlig",
+                "id": "rss-0mlp11mc",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
@@ -104,46 +104,24 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-xtehapnw",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
+                "id": "rss-tesevfoe",
+                "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+                "source": "MarkTechPost",
+                "time": "22h ago",
+                "relevance": 74
             },
             {
-                "id": "hn-49283063",
-                "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-                "source": "Hacker News",
-                "time": "23h ago",
+                "id": "rss-at3hh22c",
+                "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
+                "source": "MarkTechPost",
+                "time": "1d ago",
                 "relevance": 71
-            }
-        ]
-    },
-    {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
-        "stories": [
-            {
-                "id": "hn-49248769",
-                "title": "The Library of Ashurbanipal (2025)",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 66
-            },
-            {
-                "id": "hn-49258085",
-                "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
             }
         ]
     }
@@ -151,7 +129,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-poks7tvy",
+        "id": "arxiv-21ctto18",
         "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
         "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan,…",
         "journal": "arXiv preprint",
@@ -160,7 +138,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13560v1"
     },
     {
-        "id": "arxiv-mt9j2k3j",
+        "id": "arxiv-2w9jdl9j",
         "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
         "authors": "Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu",
         "journal": "arXiv preprint",
@@ -169,7 +147,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13558v1"
     },
     {
-        "id": "arxiv-j6o6wb4x",
+        "id": "arxiv-cdepq5zz",
         "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
         "authors": "Minghui Guo, Shengqiong Wu, Hao Fei",
         "journal": "arXiv preprint",
@@ -178,7 +156,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13556v1"
     },
     {
-        "id": "arxiv-nkah2xxg",
+        "id": "arxiv-lescgb3i",
         "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
         "authors": "Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan,…",
         "journal": "arXiv preprint",
@@ -187,7 +165,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13555v1"
     },
     {
-        "id": "arxiv-cmz0xt5u",
+        "id": "arxiv-m430bmcq",
         "title": "Defensive Boosting for Online Probabilistic Forecasting",
         "authors": "Georgy Noarov, Aaron Roth",
         "journal": "arXiv preprint",
@@ -196,7 +174,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13554v1"
     },
     {
-        "id": "arxiv-5qictucv",
+        "id": "arxiv-lwq0meoa",
         "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
         "authors": "Kaixin Ding, Xi Chen, Minghong Cai, Zhiyuan Xu, Yiyang…",
         "journal": "arXiv preprint",
@@ -208,16 +186,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-raw7gqnu",
+        "id": "gh-743nyex0",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "230.3k",
+        "stars": "230.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-rqka9ko8",
+        "id": "gh-r46v27e5",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.6k",
@@ -226,7 +204,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-bfusorxv",
+        "id": "gh-rhv7gxpr",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.2k",
@@ -235,7 +213,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-474cekvn",
+        "id": "gh-gd4mkw4p",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.1k",
@@ -244,7 +222,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-tkmdb7il",
+        "id": "gh-zwfkfwox",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.4k",
@@ -253,7 +231,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-h9imfisk",
+        "id": "gh-2hp0fhjv",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.5k",
@@ -262,10 +240,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-e758ik6o",
+        "id": "gh-x17vpuuj",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "127.5k",
+        "stars": "127.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
