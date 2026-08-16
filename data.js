@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-15T06:41:11.397Z
-   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-08-16T06:42:01.912Z
+   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-d0419vew",
-    "topic": "Open Source AI",
-    "topicId": "opensource",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "excerpt": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than…",
+    "id": "rss-k2pbzohv",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "excerpt": "AI coding startup Cursor is now officially a part of SpaceX.",
     "source": "TechCrunch",
     "time": "14h ago",
     "readTime": "5 min read",
     "relevance": 88,
-    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
 },
 
     topics: [
@@ -45,60 +45,89 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ep837w90",
-                "title": "Kog is going deeper to squeeze more inference out of GPUs",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 88
-            },
-            {
-                "id": "rss-2tveyi43",
+                "id": "rss-28yzglx0",
                 "title": "The builder’s guide to GPT‑5.6",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-bpvc1e80",
+                "id": "rss-yg4wh2se",
                 "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
+                "time": "2d ago",
+                "relevance": 84
             },
             {
-                "id": "rss-2zidusrj",
+                "id": "rss-w9wkpxfl",
+                "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-lfj9ob16",
                 "title": "From assistance to execution: How enterprises put AI to work",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-jh3h7v07",
+                "id": "rss-vb1p0rwe",
                 "title": "Evolve your marketing with new AI tools",
                 "source": "Google Blog",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 79
             }
         ]
     },
     {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-d0419vew",
-                "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 88
+                "id": "rss-rt4r5lfb",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
             },
             {
-                "id": "rss-0mlp11mc",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "id": "hn-49314967",
+                "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+                "source": "Hacker News",
+                "time": "7h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-49228660",
+                "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+                "source": "Hacker News",
+                "time": "Aug 9",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "hn-49316271",
+                "title": "Patterns and problems in emerging multi-agent systems",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-ujb1nc53",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
-                "time": "Jan 16",
+                "time": "May 19",
                 "relevance": 72
             }
         ]
@@ -110,18 +139,40 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-tesevfoe",
+                "id": "rss-nzdc3iek",
                 "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-                "source": "MarkTechPost",
-                "time": "22h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-at3hh22c",
-                "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 71
+            },
+            {
+                "id": "rss-atruxshh",
+                "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
+                "source": "MarkTechPost",
+                "time": "2d ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-biotech",
+        "name": "biotech",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "hn-49312845",
+                "title": "AI has access to a vastly larger working memory than the human brain",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-49313367",
+                "title": "AI in drug discovery – what it is, where we stand and the path forward",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 68
             }
         ]
     }
@@ -129,7 +180,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-21ctto18",
+        "id": "arxiv-wi3uftfq",
         "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
         "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan,…",
         "journal": "arXiv preprint",
@@ -138,7 +189,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13560v1"
     },
     {
-        "id": "arxiv-2w9jdl9j",
+        "id": "arxiv-jknslfch",
         "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
         "authors": "Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu",
         "journal": "arXiv preprint",
@@ -147,7 +198,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13558v1"
     },
     {
-        "id": "arxiv-cdepq5zz",
+        "id": "arxiv-edi0nifs",
         "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
         "authors": "Minghui Guo, Shengqiong Wu, Hao Fei",
         "journal": "arXiv preprint",
@@ -156,7 +207,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13556v1"
     },
     {
-        "id": "arxiv-lescgb3i",
+        "id": "arxiv-kw6jkwah",
         "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
         "authors": "Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan,…",
         "journal": "arXiv preprint",
@@ -165,7 +216,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13555v1"
     },
     {
-        "id": "arxiv-m430bmcq",
+        "id": "arxiv-vdf4c9ye",
         "title": "Defensive Boosting for Online Probabilistic Forecasting",
         "authors": "Georgy Noarov, Aaron Roth",
         "journal": "arXiv preprint",
@@ -174,7 +225,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.13554v1"
     },
     {
-        "id": "arxiv-lwq0meoa",
+        "id": "arxiv-pobs42lm",
         "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
         "authors": "Kaixin Ding, Xi Chen, Minghong Cai, Zhiyuan Xu, Yiyang…",
         "journal": "arXiv preprint",
@@ -186,16 +237,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-743nyex0",
+        "id": "gh-3k7s4ouq",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "230.8k",
+        "stars": "231.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-r46v27e5",
+        "id": "gh-ot4jfziy",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.6k",
@@ -204,16 +255,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-rhv7gxpr",
+        "id": "gh-o1qftjht",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.2k",
+        "stars": "153.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-gd4mkw4p",
+        "id": "gh-bbr4a94x",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.1k",
@@ -222,7 +273,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zwfkfwox",
+        "id": "gh-mpg5k4k8",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.4k",
@@ -231,7 +282,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-2hp0fhjv",
+        "id": "gh-twgdppdz",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.5k",
@@ -240,10 +291,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-x17vpuuj",
+        "id": "gh-r307qh8d",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "127.7k",
+        "stars": "127.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
