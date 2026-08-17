@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-16T06:42:01.912Z
-   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-08-17T06:59:12.370Z
+   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-k2pbzohv",
-    "topic": "Artificial Intelligence",
-    "topicId": "space",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "excerpt": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "source": "TechCrunch",
-    "time": "14h ago",
+    "id": "rss-lci9mnc8",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "The builder’s guide to GPT‑5.6",
+    "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "source": "OpenAI",
+    "time": "3d ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    "relevance": 85,
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
 },
 
     topics: [
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-28yzglx0",
+                "id": "rss-lci9mnc8",
                 "title": "The builder’s guide to GPT‑5.6",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-yg4wh2se",
+                "id": "rss-s6dayg76",
                 "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-w9wkpxfl",
-                "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-lfj9ob16",
+                "id": "rss-9syjc99l",
                 "title": "From assistance to execution: How enterprises put AI to work",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-vb1p0rwe",
-                "title": "Evolve your marketing with new AI tools",
-                "source": "Google Blog",
                 "time": "5d ago",
                 "relevance": 79
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
+            },
             {
-                "id": "rss-rt4r5lfb",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-ov78fayo",
+                "title": "Evolve your marketing with new AI tools",
+                "source": "Google Blog",
+                "time": "6d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-73mdpkhj",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-49314967",
-                "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-                "source": "Hacker News",
-                "time": "7h ago",
-                "relevance": 69
-            },
-            {
-                "id": "hn-49228660",
-                "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-                "source": "Hacker News",
-                "time": "Aug 9",
-                "relevance": 65
+                "time": "Jan 19",
+                "relevance": 78
             }
         ]
     },
@@ -117,18 +88,69 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-49316271",
-                "title": "Patterns and problems in emerging multi-agent systems",
+                "id": "hn-49322330",
+                "title": "MathCode, Mathematical Coding Agent",
                 "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 78
+                "time": "12h ago",
+                "relevance": 72
             },
             {
-                "id": "rss-ujb1nc53",
+                "id": "rss-vadmbhpm",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
+            },
+            {
+                "id": "hn-49257362",
+                "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)",
+                "source": "Hacker News",
+                "time": "5d ago",
+                "relevance": 66
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-mr216jjk",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-49323686",
+                "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+                "source": "Hacker News",
+                "time": "9h ago",
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-y86i6t5m",
+                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+                "source": "VentureBeat",
+                "time": "Jan 16",
+                "relevance": 72
+            },
+            {
+                "id": "hn-49325384",
+                "title": "Rhombus 1.1 is now available",
+                "source": "Hacker News",
+                "time": "6h ago",
+                "relevance": 71
             }
         ]
     },
@@ -139,40 +161,18 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-nzdc3iek",
-                "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+                "id": "rss-o4g28uea",
+                "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
+                "time": "3d ago",
+                "relevance": 69
             },
             {
-                "id": "rss-atruxshh",
-                "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
+                "id": "rss-xljka3a5",
+                "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
                 "source": "MarkTechPost",
                 "time": "2d ago",
                 "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-biotech",
-        "name": "biotech",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "hn-49312845",
-                "title": "AI has access to a vastly larger working memory than the human brain",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 69
-            },
-            {
-                "id": "hn-49313367",
-                "title": "AI in drug discovery – what it is, where we stand and the path forward",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 68
             }
         ]
     }
@@ -180,73 +180,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-wi3uftfq",
-        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-        "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan,…",
+        "id": "arxiv-8hl7y8bx",
+        "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+        "authors": "Qinye Zhou, Jun Zheng, Yongchao Du, Yuan Wang, Zhengrui…",
         "journal": "arXiv preprint",
-        "abstract": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to…",
+        "abstract": "With the rapid advancement of image editing models and their widespread application across various domains, there is an increasingly urgent need to deploy these model capabilities directly into real-world scenarios. However, existing benchmarks remain confined to simple single-image tasks, suffering from limited…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.13560v1"
+        "url": "http://arxiv.org/abs/2608.14546v1"
     },
     {
-        "id": "arxiv-jknslfch",
-        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-        "authors": "Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu",
+        "id": "arxiv-hfh3ybnj",
+        "title": "MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration",
+        "authors": "Mahesh Reddy, Yashesh Savani, Antoine Mercier, Hong Cai,…",
         "journal": "arXiv preprint",
-        "abstract": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.13558v1"
-    },
-    {
-        "id": "arxiv-edi0nifs",
-        "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
-        "authors": "Minghui Guo, Shengqiong Wu, Hao Fei",
-        "journal": "arXiv preprint",
-        "abstract": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces are still optimized primarily for pixel-level reconstruction and provide limited high-level semantic organization. A…",
+        "abstract": "High-resolution image restoration from degraded inputs is challenging because it must preserve global structural consistency while recovering fine-grained local details, especially at 4K resolution where direct diffusion-based restoration is computationally expensive and prone to repeated or inconsistent textures. In…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.13556v1"
+        "url": "http://arxiv.org/abs/2608.14543v1"
     },
     {
-        "id": "arxiv-kw6jkwah",
-        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
-        "authors": "Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan,…",
+        "id": "arxiv-grff33t1",
+        "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+        "authors": "Karel Becerra, Boris Mederos, Dean Snow, Ramón A. Mollineda",
         "journal": "arXiv preprint",
-        "abstract": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot…",
+        "abstract": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.14539v1"
+    },
+    {
+        "id": "arxiv-3vk7mae2",
+        "title": "Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles",
+        "authors": "Mohd. Faizuddin Faruqui, Ratnangshu Das, Ravi Kumar L,…",
+        "journal": "arXiv preprint",
+        "abstract": "Articulated vehicles are the workhorses of freight transportation, and their autonomous navigation is challenging. Their physical characteristics and motion constraints pose significant challenges in manoeuvring these vehicles on narrow routes. This paper presents a spatiotemporal tube-based approach to plan…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.13555v1"
+        "url": "http://arxiv.org/abs/2608.14531v1"
     },
     {
-        "id": "arxiv-vdf4c9ye",
-        "title": "Defensive Boosting for Online Probabilistic Forecasting",
-        "authors": "Georgy Noarov, Aaron Roth",
+        "id": "arxiv-px00rcoh",
+        "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+        "authors": "Zian Meng, Zhen Li, Chuanhao Li, Qiang Li, Kaipeng Zhang",
         "journal": "arXiv preprint",
-        "abstract": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradient boosting…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.13554v1"
-    },
-    {
-        "id": "arxiv-pobs42lm",
-        "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-        "authors": "Kaixin Ding, Xi Chen, Minghong Cai, Zhiyuan Xu, Yiyang…",
-        "journal": "arXiv preprint",
-        "abstract": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long sequences. However, fairly comparing these interactive models remains challenging. In practice, a human player typically…",
+        "abstract": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accumulate, making…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.13552v1"
+        "url": "http://arxiv.org/abs/2608.14530v1"
+    },
+    {
+        "id": "arxiv-4cl4fnx4",
+        "title": "Handover of In-Context Learning State Across Session Boundaries",
+        "authors": "Masahiro Kato, Taka Kato",
+        "journal": "arXiv preprint",
+        "abstract": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input limit, when the application restarts, or when another agent is asked to finish the task. The…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.14528v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-3k7s4ouq",
+        "id": "gh-si30jg1s",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "231.2k",
+        "stars": "231.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ot4jfziy",
+        "id": "gh-a2zkwm4w",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.6k",
@@ -255,7 +255,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-o1qftjht",
+        "id": "gh-889esp4b",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.3k",
@@ -264,16 +264,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-bbr4a94x",
+        "id": "gh-wvva0ebg",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.1k",
+        "stars": "164.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-mpg5k4k8",
+        "id": "gh-nuv2x5o7",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.4k",
@@ -282,7 +282,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-twgdppdz",
+        "id": "gh-crfll5kk",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.5k",
@@ -291,10 +291,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-r307qh8d",
+        "id": "gh-s6kko9nr",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "127.8k",
+        "stars": "128.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
