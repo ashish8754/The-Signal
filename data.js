@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-17T06:59:12.370Z
-   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-08-18T06:46:21.035Z
+   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-lci9mnc8",
+    "id": "rss-a41p2fsw",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "The builder’s guide to GPT‑5.6",
-    "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "title": "The Defender’s Window",
+    "excerpt": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    "relevance": 87,
+    "url": "https://openai.com/index/the-defenders-window"
 },
 
     topics: [
@@ -45,90 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-lci9mnc8",
+                "id": "rss-a41p2fsw",
+                "title": "The Defender’s Window",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-b3323y2j",
                 "title": "The builder’s guide to GPT‑5.6",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-s6dayg76",
-                "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+                "id": "rss-pnzhksd6",
+                "title": "New policy ideas for the Intelligence Age",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-9syjc99l",
-                "title": "From assistance to execution: How enterprises put AI to work",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 79
+                "id": "rss-aqx7tsve",
+                "title": "Get closer to the game with Gemini and Pixel",
+                "source": "Google Blog",
+                "time": "22h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-ov78fayo",
+                "id": "rss-wt5ermni",
                 "title": "Evolve your marketing with new AI tools",
                 "source": "Google Blog",
-                "time": "6d ago",
+                "time": "Aug 10",
                 "relevance": 79
-            },
-            {
-                "id": "rss-73mdpkhj",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "hn-49322330",
-                "title": "MathCode, Mathematical Coding Agent",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 72
-            },
-            {
-                "id": "rss-vadmbhpm",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
-            },
-            {
-                "id": "hn-49257362",
-                "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)",
-                "source": "Hacker News",
-                "time": "5d ago",
-                "relevance": 66
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-mr216jjk",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-49323686",
-                "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-                "source": "Hacker News",
-                "time": "9h ago",
-                "relevance": 71
             }
         ]
     },
@@ -139,18 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-y86i6t5m",
+                "id": "rss-uuj6yj1z",
+                "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-umerd0yp",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-49325384",
-                "title": "Rhombus 1.1 is now available",
+                "id": "hn-49331033",
+                "title": "Ask HN: Alternatives to GitHub",
                 "source": "Hacker News",
-                "time": "6h ago",
+                "time": "16h ago",
                 "relevance": 71
+            },
+            {
+                "id": "hn-49331423",
+                "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 69
             }
         ]
     },
@@ -161,18 +124,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-o4g28uea",
-                "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
+                "id": "rss-o250ef71",
+                "title": "Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots",
                 "source": "MarkTechPost",
-                "time": "3d ago",
-                "relevance": 69
+                "time": "4h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-xljka3a5",
-                "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+                "id": "rss-u4p4num6",
+                "title": "ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation",
                 "source": "MarkTechPost",
-                "time": "2d ago",
-                "relevance": 69
+                "time": "5h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-4356cxvn",
+                "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-2oe4gv3a",
+                "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-nqcdwh04",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-49334991",
+                "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 70
             }
         ]
     }
@@ -180,91 +179,91 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-8hl7y8bx",
-        "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
-        "authors": "Qinye Zhou, Jun Zheng, Yongchao Du, Yuan Wang, Zhengrui…",
+        "id": "arxiv-sc6k8qa0",
+        "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+        "authors": "Bingxin Xu, Yuzhang Shang, Emilio Ferrara",
         "journal": "arXiv preprint",
-        "abstract": "With the rapid advancement of image editing models and their widespread application across various domains, there is an increasingly urgent need to deploy these model capabilities directly into real-world scenarios. However, existing benchmarks remain confined to simple single-image tasks, suffering from limited…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.14546v1"
-    },
-    {
-        "id": "arxiv-hfh3ybnj",
-        "title": "MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration",
-        "authors": "Mahesh Reddy, Yashesh Savani, Antoine Mercier, Hong Cai,…",
-        "journal": "arXiv preprint",
-        "abstract": "High-resolution image restoration from degraded inputs is challenging because it must preserve global structural consistency while recovering fine-grained local details, especially at 4K resolution where direct diffusion-based restoration is computationally expensive and prone to repeated or inconsistent textures. In…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.14543v1"
-    },
-    {
-        "id": "arxiv-grff33t1",
-        "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
-        "authors": "Karel Becerra, Boris Mederos, Dean Snow, Ramón A. Mollineda",
-        "journal": "arXiv preprint",
-        "abstract": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.14539v1"
-    },
-    {
-        "id": "arxiv-3vk7mae2",
-        "title": "Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles",
-        "authors": "Mohd. Faizuddin Faruqui, Ratnangshu Das, Ravi Kumar L,…",
-        "journal": "arXiv preprint",
-        "abstract": "Articulated vehicles are the workhorses of freight transportation, and their autonomous navigation is challenging. Their physical characteristics and motion constraints pose significant challenges in manoeuvring these vehicles on narrow routes. This paper presents a spatiotemporal tube-based approach to plan…",
+        "abstract": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.14531v1"
+        "url": "http://arxiv.org/abs/2608.16889v1"
     },
     {
-        "id": "arxiv-px00rcoh",
-        "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
-        "authors": "Zian Meng, Zhen Li, Chuanhao Li, Qiang Li, Kaipeng Zhang",
+        "id": "arxiv-ghjuz3f0",
+        "title": "Q-based Variational Inverse Reinforcement Learning",
+        "authors": "Ondrej Bajgar, Peter Tisnikar, Alessandro Abate,…",
         "journal": "arXiv preprint",
-        "abstract": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accumulate, making…",
+        "abstract": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. Inverse reinforcement learning (IRL) addresses this challenge by inferring preferences, represented as reward functions,…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.16888v1"
+    },
+    {
+        "id": "arxiv-f0ju3tsm",
+        "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+        "authors": "Dengyang Jiang, Ruoyi Du, Zhennan Chen, Dongyang Liu, Zanyi…",
+        "journal": "arXiv preprint",
+        "abstract": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-conditional settings. Consequently, a practical recipe for training pixel-space models that rival or exceed…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.14530v1"
+        "url": "http://arxiv.org/abs/2608.16887v1"
     },
     {
-        "id": "arxiv-4cl4fnx4",
-        "title": "Handover of In-Context Learning State Across Session Boundaries",
-        "authors": "Masahiro Kato, Taka Kato",
+        "id": "arxiv-jnpm74ge",
+        "title": "$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+        "authors": "Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen, Zhi…",
         "journal": "arXiv preprint",
-        "abstract": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input limit, when the application restarts, or when another agent is asked to finish the task. The…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.14528v1"
+        "abstract": "Long-horizon robot manipulation requires a robot to both execute individual skills reliably and sequence them coherently over extended tasks. Most hierarchical vision-language-action (VLA) models make each such decision with a single forward pass, leaving no mechanism to allocate additional computation to difficult or…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.16885v1"
+    },
+    {
+        "id": "arxiv-dnx7cun3",
+        "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+        "authors": "Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii,…",
+        "journal": "arXiv preprint",
+        "abstract": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.16884v1"
+    },
+    {
+        "id": "arxiv-09qpmgf5",
+        "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
+        "authors": "Yunbum Kook, Santosh S. Vempala",
+        "journal": "arXiv preprint",
+        "abstract": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the uniform distribution $π$ over $\\mathcal{K}$. This implies that Hit-and-Run converges to a distribution within…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.16878v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-si30jg1s",
+        "id": "gh-pfaqrv1s",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "231.7k",
+        "stars": "232.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-a2zkwm4w",
+        "id": "gh-fgpmcldq",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "186.6k",
+        "stars": "186.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-889esp4b",
+        "id": "gh-a1bozmnw",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.3k",
+        "stars": "153.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-wvva0ebg",
+        "id": "gh-8hdgvbke",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.2k",
@@ -273,7 +272,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-nuv2x5o7",
+        "id": "gh-wrj4o4g3",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.4k",
@@ -282,19 +281,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-crfll5kk",
+        "id": "gh-046a2g03",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.5k",
+        "stars": "164.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-s6kko9nr",
+        "id": "gh-wxgx1bi2",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "128.0k",
+        "stars": "128.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
