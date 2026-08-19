@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-18T06:46:21.035Z
-   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-19T06:47:59.666Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-a41p2fsw",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "The Defender’s Window",
-    "excerpt": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "source": "OpenAI",
-    "time": "1d ago",
+    "id": "rss-96u7mebo",
+    "topic": "Open Source AI",
+    "topicId": "opensource",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "excerpt": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "source": "TechCrunch",
+    "time": "8h ago",
     "readTime": "5 min read",
     "relevance": 87,
-    "url": "https://openai.com/index/the-defenders-window"
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
 },
 
     topics: [
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-a41p2fsw",
-                "title": "The Defender’s Window",
+                "id": "rss-vtsbx7tx",
+                "title": "Pacing model development in an era of cyber-critical capabilities",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "19h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-b3323y2j",
-                "title": "The builder’s guide to GPT‑5.6",
+                "id": "rss-9aly690x",
+                "title": "ChatGPT Ads expands across Europe",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "8h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-pnzhksd6",
-                "title": "New policy ideas for the Intelligence Age",
+                "id": "rss-5b50v2k8",
+                "title": "Strengthening democratic oversight in national security",
                 "source": "OpenAI",
-                "time": "1d ago",
+                "time": "11h ago",
                 "relevance": 83
             },
             {
-                "id": "rss-aqx7tsve",
-                "title": "Get closer to the game with Gemini and Pixel",
-                "source": "Google Blog",
-                "time": "22h ago",
+                "id": "rss-ovlxi74c",
+                "title": "Partnering with CodeAI to prepare the first AI generation",
+                "source": "OpenAI",
+                "time": "19h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-wt5ermni",
+                "id": "rss-8xs9kens",
                 "title": "Evolve your marketing with new AI tools",
                 "source": "Google Blog",
                 "time": "Aug 10",
@@ -88,31 +88,31 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-uuj6yj1z",
-                "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+                "id": "rss-96u7mebo",
+                "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
                 "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 81
+                "time": "8h ago",
+                "relevance": 87
             },
             {
-                "id": "rss-umerd0yp",
+                "id": "hn-49334209",
+                "title": "Cursor launches Origin, GitHub alternative",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-kej1y007",
                 "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
                 "source": "VentureBeat",
                 "time": "Jan 16",
                 "relevance": 72
             },
             {
-                "id": "hn-49331033",
-                "title": "Ask HN: Alternatives to GitHub",
+                "id": "hn-49354664",
+                "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
                 "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 71
-            },
-            {
-                "id": "hn-49331423",
-                "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-                "source": "Hacker News",
-                "time": "16h ago",
+                "time": "6h ago",
                 "relevance": 69
             }
         ]
@@ -124,54 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-o250ef71",
-                "title": "Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-u4p4num6",
-                "title": "ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-4356cxvn",
-                "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
-                "source": "MarkTechPost",
+                "id": "rss-0n7r0s0b",
+                "title": "OpenAI institutes new safeguards after Hugging Face breach",
+                "source": "TechCrunch",
                 "time": "12h ago",
-                "relevance": 75
+                "relevance": 83
             },
             {
-                "id": "rss-2oe4gv3a",
-                "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
-                "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-nqcdwh04",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
-            },
-            {
-                "id": "hn-49334991",
-                "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+                "id": "rss-pst7g6dj",
+                "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
                 "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 70
+                "time": "5h ago",
+                "relevance": 73
             }
         ]
     }
@@ -179,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-sc6k8qa0",
-        "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-        "authors": "Bingxin Xu, Yuzhang Shang, Emilio Ferrara",
+        "id": "arxiv-lnc25ylj",
+        "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
+        "authors": "Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang, Yilun Du,…",
         "journal": "arXiv preprint",
-        "abstract": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe…",
+        "abstract": "We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by learning action consequences across embodiments, tasks, environments, and video-generation backbones. Our best…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.16889v1"
+        "url": "http://arxiv.org/abs/2608.18077v1"
     },
     {
-        "id": "arxiv-ghjuz3f0",
-        "title": "Q-based Variational Inverse Reinforcement Learning",
-        "authors": "Ondrej Bajgar, Peter Tisnikar, Alessandro Abate,…",
+        "id": "arxiv-44fvwfsi",
+        "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+        "authors": "Xingjian Wang, Zhao Wang, Taihang Hu, Jun Zheng, Qing Jin,…",
         "journal": "arXiv preprint",
-        "abstract": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. Inverse reinforcement learning (IRL) addresses this challenge by inferring preferences, represented as reward functions,…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.16888v1"
-    },
-    {
-        "id": "arxiv-f0ju3tsm",
-        "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-        "authors": "Dengyang Jiang, Ruoyi Du, Zhennan Chen, Dongyang Liu, Zanyi…",
-        "journal": "arXiv preprint",
-        "abstract": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-conditional settings. Consequently, a practical recipe for training pixel-space models that rival or exceed…",
+        "abstract": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.16887v1"
+        "url": "http://arxiv.org/abs/2608.18076v1"
     },
     {
-        "id": "arxiv-jnpm74ge",
-        "title": "$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
-        "authors": "Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen, Zhi…",
+        "id": "arxiv-0zwpzpnm",
+        "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+        "authors": "Iryna Hartsock, Cesar Lam, Christopher Otteni, Aliya…",
         "journal": "arXiv preprint",
-        "abstract": "Long-horizon robot manipulation requires a robot to both execute individual skills reliably and sequence them coherently over extended tasks. Most hierarchical vision-language-action (VLA) models make each such decision with a single forward pass, leaving no mechanism to allocate additional computation to difficult or…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.16885v1"
+        "abstract": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology reports from CT examinations of the chest, abdomen, and pelvis dictated by 15 board-certified radiologists in 2023 and…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.18072v1"
     },
     {
-        "id": "arxiv-dnx7cun3",
-        "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-        "authors": "Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii,…",
+        "id": "arxiv-uukxpwg6",
+        "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+        "authors": "Qinyuan Ye, Yu Li, Yada Pruksachatkun, Jiaxin Zhang,…",
         "journal": "arXiv preprint",
-        "abstract": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.16884v1"
+        "abstract": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a comprehensive…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.18066v1"
     },
     {
-        "id": "arxiv-09qpmgf5",
-        "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
-        "authors": "Yunbum Kook, Santosh S. Vempala",
+        "id": "arxiv-kbe4ygar",
+        "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+        "authors": "Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong…",
         "journal": "arXiv preprint",
-        "abstract": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the uniform distribution $π$ over $\\mathcal{K}$. This implies that Hit-and-Run converges to a distribution within…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.16878v1"
+        "abstract": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity and prohibitive memory requirements. A prevalent workaround employs a two-stage pipeline: editing at low resolution…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.18063v1"
+    },
+    {
+        "id": "arxiv-09gl35ho",
+        "title": "TokEval: A Tokenizer Evaluation Suite",
+        "authors": "Clara Meister",
+        "journal": "arXiv preprint",
+        "abstract": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce TokEval, a…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.18062v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-pfaqrv1s",
+        "id": "gh-gmld2fud",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "232.2k",
+        "stars": "232.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-fgpmcldq",
+        "id": "gh-445ru7i0",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.7k",
@@ -254,7 +218,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-a1bozmnw",
+        "id": "gh-qlq7z1q1",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.4k",
@@ -263,7 +227,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-8hdgvbke",
+        "id": "gh-ue4qlodd",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.2k",
@@ -272,16 +236,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-wrj4o4g3",
+        "id": "gh-uzipbxjz",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "102.4k",
+        "stars": "102.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-046a2g03",
+        "id": "gh-001duy0h",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.6k",
@@ -290,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-wxgx1bi2",
+        "id": "gh-wlquqskd",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "128.2k",
+        "stars": "128.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
