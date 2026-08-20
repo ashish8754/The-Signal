@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-19T06:47:59.666Z
+   Updated: 2026-08-20T06:49:48.321Z
    Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-96u7mebo",
-    "topic": "Open Source AI",
-    "topicId": "opensource",
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "excerpt": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "source": "TechCrunch",
-    "time": "8h ago",
+    "id": "rss-59g442nn",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "source": "OpenAI",
+    "time": "23h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+    "relevance": 89,
+    "url": "https://openai.com/index/replit"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-vtsbx7tx",
-                "title": "Pacing model development in an era of cyber-critical capabilities",
+                "id": "rss-59g442nn",
+                "title": "Replit expands access to software creation with GPT-5.6 Luna",
                 "source": "OpenAI",
-                "time": "19h ago",
-                "relevance": 84
+                "time": "23h ago",
+                "relevance": 89
             },
             {
-                "id": "rss-9aly690x",
-                "title": "ChatGPT Ads expands across Europe",
-                "source": "OpenAI",
-                "time": "8h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-5b50v2k8",
-                "title": "Strengthening democratic oversight in national security",
+                "id": "rss-awcrfm3q",
+                "title": "Offering Zero Data Retention for frontier models",
                 "source": "OpenAI",
                 "time": "11h ago",
-                "relevance": 83
+                "relevance": 89
             },
             {
-                "id": "rss-ovlxi74c",
-                "title": "Partnering with CodeAI to prepare the first AI generation",
+                "id": "rss-zmgy52ni",
+                "title": "ChatGPT Ads expands across Europe",
                 "source": "OpenAI",
-                "time": "19h ago",
+                "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-c43ws7a0",
+                "title": "Strengthening democratic oversight in national security",
+                "source": "OpenAI",
+                "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-8xs9kens",
-                "title": "Evolve your marketing with new AI tools",
+                "id": "rss-tymrzbxl",
+                "title": "5 new ways to level up your learning with Search",
                 "source": "Google Blog",
-                "time": "Aug 10",
-                "relevance": 79
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-96u7mebo",
-                "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-                "source": "TechCrunch",
-                "time": "8h ago",
-                "relevance": 87
-            },
-            {
-                "id": "hn-49334209",
-                "title": "Cursor launches Origin, GitHub alternative",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-kej1y007",
-                "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-                "source": "VentureBeat",
-                "time": "Jan 16",
-                "relevance": 72
-            },
-            {
-                "id": "hn-49354664",
-                "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 69
+                "time": "11h ago",
+                "relevance": 78
             }
         ]
     },
@@ -124,18 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-0n7r0s0b",
-                "title": "OpenAI institutes new safeguards after Hugging Face breach",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 83
+                "id": "rss-9nnao563",
+                "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 76
             },
             {
-                "id": "rss-pst7g6dj",
-                "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+                "id": "rss-0s1n7nhp",
+                "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 75
+            },
+            {
+                "id": "hn-49362001",
+                "title": "Manabu Kosaka's Handmade Paper Sculptures",
                 "source": "Hacker News",
-                "time": "5h ago",
-                "relevance": 73
+                "time": "16h ago",
+                "relevance": 71
+            },
+            {
+                "id": "rss-p3n3j2to",
+                "title": "Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots",
+                "source": "MarkTechPost",
+                "time": "2d ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-neq0wmmd",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-49363710",
+                "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 70
             }
         ]
     }
@@ -143,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-lnc25ylj",
-        "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
-        "authors": "Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang, Yilun Du,…",
+        "id": "arxiv-grkzcsmp",
+        "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+        "authors": "Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen…",
         "journal": "arXiv preprint",
-        "abstract": "We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by learning action consequences across embodiments, tasks, environments, and video-generation backbones. Our best…",
+        "abstract": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.19197v1"
+    },
+    {
+        "id": "arxiv-9mamtnir",
+        "title": "PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views",
+        "authors": "Ayush Kaura, Vignesh Vembar, Md Faizal Karim, Keshab Patra,…",
+        "journal": "arXiv preprint",
+        "abstract": "Dual-arm robotic grasping is essential for manipulating large, heavy, and geometrically complex objects that cannot be reliably handled using a single manipulator. These large objects often contain only sparse graspable regions determined by local geometric properties such as thickness, edge structure, and gripper…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.18077v1"
+        "url": "http://arxiv.org/abs/2608.19188v1"
     },
     {
-        "id": "arxiv-44fvwfsi",
-        "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-        "authors": "Xingjian Wang, Zhao Wang, Taihang Hu, Jun Zheng, Qing Jin,…",
+        "id": "arxiv-6lkywjxb",
+        "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
+        "authors": "Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam…",
         "journal": "arXiv preprint",
-        "abstract": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision…",
+        "abstract": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) robot embodiments that can solve long-horizon tasks directly from raw visuo-tactile perception. ADEPT pretrains a…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.19182v1"
+    },
+    {
+        "id": "arxiv-lpdtyjpl",
+        "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+        "authors": "Zhu Zhang, Jixun Wang, Xiaoang Xu, Xiaorong Wang, Zihan…",
+        "journal": "arXiv preprint",
+        "abstract": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible responses that omit evidence distributed across the input or violate global task constraints.…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.19181v1"
+    },
+    {
+        "id": "arxiv-858wk3os",
+        "title": "Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture",
+        "authors": "Yuandong Pan, Linjun Lu, Mudan Wang, Florian Noichl, Fan…",
+        "journal": "arXiv preprint",
+        "abstract": "Ground Penetrating Radar (GPR) is a widely adopted non-destructive sensing technology for subsurface inspection in civil and transportation engineering. Despite its potential for pavement condition assessment, the large-scale application of GPR in automated inspection has two key challenges: the scarcity of annotated…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.18076v1"
+        "url": "http://arxiv.org/abs/2608.19177v1"
     },
     {
-        "id": "arxiv-0zwpzpnm",
-        "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
-        "authors": "Iryna Hartsock, Cesar Lam, Christopher Otteni, Aliya…",
+        "id": "arxiv-kpgt3wh0",
+        "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
+        "authors": "Aditya Bhattacharjee, Christos Plachouras, Sungkyun Chang,…",
         "journal": "arXiv preprint",
-        "abstract": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology reports from CT examinations of the chest, abdomen, and pelvis dictated by 15 board-certified radiologists in 2023 and…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.18072v1"
-    },
-    {
-        "id": "arxiv-uukxpwg6",
-        "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-        "authors": "Qinyuan Ye, Yu Li, Yada Pruksachatkun, Jiaxin Zhang,…",
-        "journal": "arXiv preprint",
-        "abstract": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a comprehensive…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.18066v1"
-    },
-    {
-        "id": "arxiv-kbe4ygar",
-        "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
-        "authors": "Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong…",
-        "journal": "arXiv preprint",
-        "abstract": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity and prohibitive memory requirements. A prevalent workaround employs a two-stage pipeline: editing at low resolution…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.18063v1"
-    },
-    {
-        "id": "arxiv-09gl35ho",
-        "title": "TokEval: A Tokenizer Evaluation Suite",
-        "authors": "Clara Meister",
-        "journal": "arXiv preprint",
-        "abstract": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce TokEval, a…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.18062v1"
+        "abstract": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a frozen, pretrained CED encoder, and joint contrastive-triplet learning with semi-hard negatives using…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.19174v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-gmld2fud",
+        "id": "gh-0zh9xpo1",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "232.7k",
+        "stars": "233.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-445ru7i0",
+        "id": "gh-3enhvohv",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.7k",
@@ -218,25 +218,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-qlq7z1q1",
+        "id": "gh-91poacz2",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.4k",
+        "stars": "153.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-ue4qlodd",
+        "id": "gh-gmm553mm",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.2k",
+        "stars": "164.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-uzipbxjz",
+        "id": "gh-4ltalbo4",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.5k",
@@ -245,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-001duy0h",
+        "id": "gh-i79gdu7l",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.6k",
@@ -254,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-wlquqskd",
+        "id": "gh-nxcsh5ku",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "128.3k",
+        "stars": "128.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
