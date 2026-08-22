@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-21T06:50:56.754Z
-   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-08-22T06:42:33.288Z
+   Stories: 25 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-b8n1gp0c",
+    "id": "rss-2spxcvau",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Introducing AI Futures",
-    "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
     "source": "OpenAI",
-    "time": "23h ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/introducing-ai-futures"
+    "relevance": 84,
+    "url": "https://openai.com/index/replit"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-b8n1gp0c",
-                "title": "Introducing AI Futures",
-                "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-hl63ey9i",
+                "id": "rss-2spxcvau",
                 "title": "Replit expands access to software creation with GPT-5.6 Luna",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
+                "time": "2d ago",
+                "relevance": 84
             },
             {
-                "id": "rss-y65uf6oe",
-                "title": "Offering Zero Data Retention for frontier models",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-yuysknie",
-                "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+                "id": "rss-luyfxsn3",
+                "title": "Introducing AI Futures",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-uve2poub",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
+                "id": "rss-9x55o6hk",
+                "title": "Offering Zero Data Retention for frontier models",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-0osgwc2f",
+                "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-zobkdw1u",
+                "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 82
             }
         ]
     },
@@ -88,54 +88,83 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-yosrregr",
-                "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
-                "source": "MarkTechPost",
-                "time": "21h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-4m9j0ww9",
-                "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+                "id": "rss-4d3ww4nj",
+                "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
                 "source": "MarkTechPost",
                 "time": "8h ago",
-                "relevance": 72
+                "relevance": 80
             },
             {
-                "id": "rss-uru05yng",
-                "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+                "id": "rss-wety5ird",
+                "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 72
+                "time": "7h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-x6a0bmti",
+                "id": "rss-10nb60wg",
+                "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 69
+            },
+            {
+                "id": "rss-s1uxbb2e",
                 "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 72
+                "time": "1d ago",
+                "relevance": 69
             }
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-3rhvx6sy",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
+                "id": "rss-5219aucl",
+                "title": "Nvidia partners with data center developer Cloverleaf",
+                "source": "TechCrunch",
+                "time": "8h ago",
+                "relevance": 84
             },
             {
-                "id": "hn-49360140",
-                "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+                "id": "rss-weerdpif",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-49374853",
+                "title": "A look under our trunk: what's in our compute",
                 "source": "Hacker News",
                 "time": "1d ago",
+                "relevance": 66
+            }
+        ]
+    },
+    {
+        "id": "topic-biotech",
+        "name": "biotech",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "hn-49394827",
+                "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+                "source": "Hacker News",
+                "time": "7h ago",
                 "relevance": 70
+            },
+            {
+                "id": "hn-49380303",
+                "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 68
             }
         ]
     }
@@ -143,7 +172,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-53ejga29",
+        "id": "arxiv-ny7u9owb",
         "title": "Information on trajectories: martingales and random times",
         "authors": "Akshay Balsubramani",
         "journal": "arXiv preprint",
@@ -152,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.20337v1"
     },
     {
-        "id": "arxiv-8lkf5he0",
+        "id": "arxiv-brle6i78",
         "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
         "authors": "Sahil Kale, Ian Harris",
         "journal": "arXiv preprint",
@@ -161,7 +190,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.20338v1"
     },
     {
-        "id": "arxiv-avefzkmr",
+        "id": "arxiv-znpnfxi9",
         "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
         "authors": "Yudong Jin, Tao Xie, Qihang Zhang, Zehong Shen, Zhen Xu,…",
         "journal": "arXiv preprint",
@@ -170,7 +199,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.20335v1"
     },
     {
-        "id": "arxiv-lzvcvusd",
+        "id": "arxiv-p4lnwk4t",
         "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
         "authors": "Hengyuan Xu, Qixun Wang, Yiji Cheng, Miles Yang, Zhao…",
         "journal": "arXiv preprint",
@@ -179,7 +208,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.20336v1"
     },
     {
-        "id": "arxiv-0ajnkw3z",
+        "id": "arxiv-qwgqf4ti",
         "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
         "authors": "Taihang Hu, Zhao Wang, Zuan Gao, Tao Liu, Hao Yan, Zhengze…",
         "journal": "arXiv preprint",
@@ -188,7 +217,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2608.20334v1"
     },
     {
-        "id": "arxiv-7xf9qq66",
+        "id": "arxiv-e77vy1gr",
         "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
         "authors": "Shiao Xie, Siyu Chen, Jianwei Lv, Bo Yuan, Yujin Wang,…",
         "journal": "arXiv preprint",
@@ -200,16 +229,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-zxlugflx",
+        "id": "gh-wh2nz21n",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "233.7k",
+        "stars": "234.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-o9swjo8b",
+        "id": "gh-yzj9e67j",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.7k",
@@ -218,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-wxpd4f0l",
+        "id": "gh-1bkvpp1r",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.5k",
@@ -227,7 +256,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-grocg6it",
+        "id": "gh-rmjbviu6",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.3k",
@@ -236,7 +265,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-mhnmhzqk",
+        "id": "gh-tap5b04k",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.5k",
@@ -245,7 +274,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-nv4xvjtf",
+        "id": "gh-g534gz0p",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.6k",
@@ -254,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-535yybac",
+        "id": "gh-9r8nss93",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "128.7k",
+        "stars": "128.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
