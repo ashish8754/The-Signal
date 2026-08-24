@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-23T06:43:46.335Z
-   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-08-24T07:02:15.284Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-81z0c2a1",
+    "id": "rss-911tm8hh",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Replit expands access to software creation with GPT-5.6 Luna",
     "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "5d ago",
     "readTime": "5 min read",
     "relevance": 84,
     "url": "https://openai.com/index/replit"
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-81z0c2a1",
+                "id": "rss-911tm8hh",
                 "title": "Replit expands access to software creation with GPT-5.6 Luna",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "5d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-acr39j1d",
+                "id": "rss-6exx3yp4",
                 "title": "Offering Zero Data Retention for frontier models",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-eanln4cr",
+                "id": "rss-itn2cck9",
                 "title": "Introducing AI Futures",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "4d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-6hxjmvvm",
+                "id": "rss-0ro7d32o",
                 "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-lr808otm",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-q0mqdedp",
-                "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-5fnvobp1",
-                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-                "source": "VentureBeat",
-                "time": "May 19",
-                "relevance": 72
-            },
-            {
-                "id": "hn-49398152",
-                "title": "Munder Difflin – Agent harness to run an office of your clones",
+                "id": "hn-49415852",
+                "title": "OCR It – pull text out of un-copyable documents for your LLM",
                 "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 69
-            },
-            {
-                "id": "hn-49376197",
-                "title": "Autolith: A programming agent with a live runtime",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
+                "time": "Just now",
+                "relevance": 79
             }
         ]
     },
@@ -124,32 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-7on96d0g",
-                "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+                "id": "rss-m4wj4ubh",
+                "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
                 "source": "MarkTechPost",
-                "time": "6h ago",
+                "time": "1h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-ghgvprmk",
+                "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
+                "source": "MarkTechPost",
+                "time": "3h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-7at59onv",
-                "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+                "id": "rss-rf74fxpv",
+                "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "time": "20h ago",
+                "relevance": 74
             },
             {
-                "id": "rss-e9782r4y",
-                "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+                "id": "rss-kyb9p5ij",
+                "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "13h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-7m2r9cwc",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
                 "relevance": 75
             },
             {
-                "id": "rss-ryxmqxa7",
-                "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-                "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 72
+                "id": "hn-49405657",
+                "title": "AI Chip Architectures",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 74
             }
         ]
     }
@@ -157,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-7l5j1cb5",
-        "title": "Information on trajectories: martingales and random times",
-        "authors": "Akshay Balsubramani",
+        "id": "arxiv-8ah5io8z",
+        "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+        "authors": "Xianyun Sun, Chaoyou Fu, Zhengye Zhang, Feiyang Duan,…",
         "journal": "arXiv preprint",
-        "abstract": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures what each one discards. The tail a bound…",
+        "abstract": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike traditional passive video understanding, interactive assistants should actively combine visual states, user goals, and prior…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.21360v1"
+    },
+    {
+        "id": "arxiv-n0syc8xp",
+        "title": "Primal Acceleration of Newton's Method",
+        "authors": "Nikita Doikov",
+        "journal": "arXiv preprint",
+        "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.20337v1"
+        "url": "http://arxiv.org/abs/2608.21359v1"
     },
     {
-        "id": "arxiv-w7iheona",
-        "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-        "authors": "Sahil Kale, Ian Harris",
+        "id": "arxiv-8hoaxy4m",
+        "title": "Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction",
+        "authors": "Dong Li, Dujun Nie, Xiaotong Zhang, Ruilin Wang, Yuchen Li,…",
         "journal": "arXiv preprint",
-        "abstract": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completely. Current approaches rely on disjoint forget and retain sets composed of independent facts, and measure success using…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.20338v1"
+        "abstract": "Space resource acquisition and utilization, commonly referred to as Space Mining, represent critical pathways for enabling sustained human exploration and unlocking commercial opportunities in space. These resources mainly include helium-3, water, mineral resources on the Moon and Mars, and abundant mineral deposits…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.21358v1"
     },
     {
-        "id": "arxiv-df7hmpvb",
-        "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-        "authors": "Yudong Jin, Tao Xie, Qihang Zhang, Zehong Shen, Zhen Xu,…",
+        "id": "arxiv-pbrme1vo",
+        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+        "authors": "Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor, Francisco…",
         "journal": "arXiv preprint",
-        "abstract": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Splatting (4DGS). Existing camera-controlled video diffusion models synthesize plausible novel-view videos but fail to…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.20335v1"
+        "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.21357v1"
     },
     {
-        "id": "arxiv-t731oxbg",
-        "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-        "authors": "Hengyuan Xu, Qixun Wang, Yiji Cheng, Miles Yang, Zhao…",
+        "id": "arxiv-lxzkrig8",
+        "title": "AI with Authority, from Application to Silicon",
+        "authors": "Jason Hickey",
         "journal": "arXiv preprint",
-        "abstract": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct person and location, while training-time identity losses must establish correspondence among several noisy predicted…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.20336v1"
+        "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.21356v1"
     },
     {
-        "id": "arxiv-7jrrs9jj",
-        "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
-        "authors": "Taihang Hu, Zhao Wang, Zuan Gao, Tao Liu, Hao Yan, Zhengze…",
+        "id": "arxiv-0obhs724",
+        "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
+        "authors": "Yiwen Liu, Yujun Zhu, Kui Jia, Zhao Liao, Yangwei You,…",
         "journal": "arXiv preprint",
-        "abstract": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image editing. Our goal is to explore how far a relatively small visual generator can be pushed through systematic training engineering under a constrained computational budget. Swift-Image adopts an efficient…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.20334v1"
-    },
-    {
-        "id": "arxiv-64q9lzay",
-        "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-        "authors": "Shiao Xie, Siyu Chen, Jianwei Lv, Bo Yuan, Yujin Wang,…",
-        "journal": "arXiv preprint",
-        "abstract": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not adequately capture these dual requirements.…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.20331v1"
+        "abstract": "Recent vision-based action models have demonstrated strong capabilities in complex manipulation, but they rarely leverage explicit object physical properties to adapt their policies. We introduce ViTacPhys, a visual-tactile framework and data acquisition system that estimates object mass and friction-coefficient…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.21355v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-q9xjhwu5",
+        "id": "gh-rpfhjul6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "234.5k",
+        "stars": "235.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-9ea9eby1",
+        "id": "gh-v3vf8nb9",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.8k",
@@ -232,7 +218,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-cswf5yl4",
+        "id": "gh-gt4px9v1",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.6k",
@@ -241,7 +227,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-d8wc4r96",
+        "id": "gh-tx1co17s",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.4k",
@@ -250,7 +236,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-dzpi5xnq",
+        "id": "gh-w1cvqvks",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.6k",
@@ -259,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-pbrzh7pp",
+        "id": "gh-bzg04qi7",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.6k",
@@ -268,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-oo9marrd",
+        "id": "gh-wr4vndj8",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "129.1k",
+        "stars": "129.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
