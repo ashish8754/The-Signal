@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-24T07:02:15.284Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-08-25T06:51:59.379Z
+   Stories: 17 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-911tm8hh",
+    "id": "rss-17hv64yn",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "excerpt": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
     "source": "OpenAI",
-    "time": "5d ago",
+    "time": "18h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://openai.com/index/replit"
+    "relevance": 85,
+    "url": "https://openai.com/index/gpt-5-6-in-kiro"
 },
 
     topics: [
@@ -45,97 +45,61 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-911tm8hh",
-                "title": "Replit expands access to software creation with GPT-5.6 Luna",
+                "id": "rss-17hv64yn",
+                "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+                "source": "OpenAI",
+                "time": "18h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-7jybak1v",
+                "title": "Offering Zero Data Retention for frontier models",
                 "source": "OpenAI",
                 "time": "5d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-6exx3yp4",
-                "title": "Offering Zero Data Retention for frontier models",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-itn2cck9",
+                "id": "rss-fido29hq",
                 "title": "Introducing AI Futures",
                 "source": "OpenAI",
                 "time": "4d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-0ro7d32o",
+                "id": "rss-i1ljilf5",
                 "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 82
             },
             {
-                "id": "hn-49415852",
-                "title": "OCR It – pull text out of un-copyable documents for your LLM",
-                "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 79
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-m4wj4ubh",
-                "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-                "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-ghgvprmk",
-                "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-rf74fxpv",
-                "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
-                "source": "MarkTechPost",
-                "time": "20h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-kyb9p5ij",
-                "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-7m2r9cwc",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "id": "rss-las6veko",
+                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
+                "time": "Jan 19",
+                "relevance": 78
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-49427001",
+                "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+                "source": "Hacker News",
+                "time": "7h ago",
+                "relevance": 71
             },
             {
-                "id": "hn-49405657",
-                "title": "AI Chip Architectures",
+                "id": "hn-49422243",
+                "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
                 "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 74
+                "time": "14h ago",
+                "relevance": 69
             }
         ]
     }
@@ -143,82 +107,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-8ah5io8z",
-        "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
-        "authors": "Xianyun Sun, Chaoyou Fu, Zhengye Zhang, Feiyang Duan,…",
+        "id": "arxiv-ssxevfix",
+        "title": "How to Train a Critic Stably and Efficiently",
+        "authors": "Penghui Qi, Xiangxin Zhou, Wee Sun Lee",
         "journal": "arXiv preprint",
-        "abstract": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike traditional passive video understanding, interactive assistants should actively combine visual states, user goals, and prior…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.21360v1"
+        "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.23566v1"
     },
     {
-        "id": "arxiv-n0syc8xp",
-        "title": "Primal Acceleration of Newton's Method",
-        "authors": "Nikita Doikov",
+        "id": "arxiv-xw2qkz6m",
+        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+        "authors": "Zhifei Chen, Luozhou Wang, Guibao Shen, Dongyu Yan, Shuai…",
         "journal": "arXiv preprint",
-        "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.21359v1"
-    },
-    {
-        "id": "arxiv-8hoaxy4m",
-        "title": "Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction",
-        "authors": "Dong Li, Dujun Nie, Xiaotong Zhang, Ruilin Wang, Yuchen Li,…",
-        "journal": "arXiv preprint",
-        "abstract": "Space resource acquisition and utilization, commonly referred to as Space Mining, represent critical pathways for enabling sustained human exploration and unlocking commercial opportunities in space. These resources mainly include helium-3, water, mineral resources on the Moon and Mars, and abundant mineral deposits…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.21358v1"
-    },
-    {
-        "id": "arxiv-pbrme1vo",
-        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-        "authors": "Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor, Francisco…",
-        "journal": "arXiv preprint",
-        "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the…",
+        "abstract": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attention windows confine…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.21357v1"
+        "url": "http://arxiv.org/abs/2608.23565v1"
     },
     {
-        "id": "arxiv-lxzkrig8",
-        "title": "AI with Authority, from Application to Silicon",
-        "authors": "Jason Hickey",
+        "id": "arxiv-nfbk0zqk",
+        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+        "authors": "Deyao Hong, Yizhe Chi, Wenyi Li, Xiaoqiu Wang, Mingju Gao,…",
         "journal": "arXiv preprint",
-        "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person…",
+        "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.23564v1"
+    },
+    {
+        "id": "arxiv-rn9zxv0x",
+        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+        "authors": "Md Thamed Bin Zaman Chowdhury, Moazzem Hossain",
+        "journal": "arXiv preprint",
+        "abstract": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.23563v1"
+    },
+    {
+        "id": "arxiv-ge2ujwp3",
+        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+        "authors": "Yuanyuan Zhang, Yida Zhang, Jiahui Li, Yuyan Wu, Fei Dou,…",
+        "journal": "arXiv preprint",
+        "abstract": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes,…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.21356v1"
+        "url": "http://arxiv.org/abs/2608.23562v1"
     },
     {
-        "id": "arxiv-0obhs724",
-        "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
-        "authors": "Yiwen Liu, Yujun Zhu, Kui Jia, Zhao Liao, Yangwei You,…",
+        "id": "arxiv-72cvax08",
+        "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+        "authors": "Daniil Dmitriev, Zhihan Huang, Yuting Wei",
         "journal": "arXiv preprint",
-        "abstract": "Recent vision-based action models have demonstrated strong capabilities in complex manipulation, but they rarely leverage explicit object physical properties to adapt their policies. We introduce ViTacPhys, a visual-tactile framework and data acquisition system that estimates object mass and friction-coefficient…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.21355v1"
+        "abstract": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for the standard $τ$-leaping sampler scale…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.23554v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-rpfhjul6",
+        "id": "gh-f9golkns",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "235.2k",
+        "stars": "236.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-v3vf8nb9",
+        "id": "gh-8x6jr97j",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "186.8k",
+        "stars": "186.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-gt4px9v1",
+        "id": "gh-y5caaehx",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.6k",
@@ -227,7 +191,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-tx1co17s",
+        "id": "gh-q6ihsj1b",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.4k",
@@ -236,7 +200,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-w1cvqvks",
+        "id": "gh-jrv5i9dw",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.6k",
@@ -245,7 +209,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-bzg04qi7",
+        "id": "gh-tk65b22h",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.6k",
@@ -254,10 +218,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-wr4vndj8",
+        "id": "gh-8r45hl42",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "129.6k",
+        "stars": "129.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
