@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-25T06:51:59.379Z
-   Stories: 17 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-08-26T06:53:18.395Z
+   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-17hv64yn",
+    "id": "rss-pn4tvvsb",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "excerpt": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "title": "The full stack behind abundant intelligence",
+    "excerpt": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
     "source": "OpenAI",
-    "time": "18h ago",
+    "time": "23h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/gpt-5-6-in-kiro"
+    "relevance": 90,
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
 },
 
     topics: [
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-17hv64yn",
-                "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+                "id": "rss-pn4tvvsb",
+                "title": "The full stack behind abundant intelligence",
                 "source": "OpenAI",
-                "time": "18h ago",
-                "relevance": 85
+                "time": "23h ago",
+                "relevance": 90
             },
             {
-                "id": "rss-7jybak1v",
-                "title": "Offering Zero Data Retention for frontier models",
+                "id": "rss-a520beqe",
+                "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
                 "source": "OpenAI",
-                "time": "5d ago",
+                "time": "23h ago",
+                "relevance": 90
+            },
+            {
+                "id": "rss-3vivb4ek",
+                "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+                "source": "OpenAI",
+                "time": "1d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-fido29hq",
-                "title": "Introducing AI Futures",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 82
+                "id": "rss-8hlkund1",
+                "title": "5 ways to upgrade your home decor with Google Search",
+                "source": "Google Blog",
+                "time": "14h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-i1ljilf5",
-                "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-las6veko",
+                "id": "rss-4j27gvt6",
                 "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
                 "source": "VentureBeat",
                 "time": "Jan 19",
@@ -82,24 +82,82 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "hn-49427001",
-                "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-                "source": "Hacker News",
-                "time": "7h ago",
-                "relevance": 71
+                "id": "rss-rxhdzi0a",
+                "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
+                "source": "MarkTechPost",
+                "time": "1h ago",
+                "relevance": 84
             },
             {
-                "id": "hn-49422243",
-                "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+                "id": "rss-fu0dbfj8",
+                "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-8zgrq638",
+                "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-qtwna5vo",
+                "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-9fos859s",
+                "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
                 "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 69
+                "time": "16h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-thjm2rcg",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-ehunfcpq",
+                "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+                "source": "VentureBeat",
+                "time": "May 19",
+                "relevance": 72
+            },
+            {
+                "id": "hn-49441666",
+                "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+                "source": "Hacker News",
+                "time": "8h ago",
+                "relevance": 71
             }
         ]
     }
@@ -107,73 +165,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ssxevfix",
-        "title": "How to Train a Critic Stably and Efficiently",
-        "authors": "Penghui Qi, Xiangxin Zhou, Wee Sun Lee",
+        "id": "arxiv-rqveb3pp",
+        "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+        "authors": "Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo, Tinghao…",
         "journal": "arXiv preprint",
-        "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.23566v1"
+        "abstract": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrations, leaving…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.24885v1"
     },
     {
-        "id": "arxiv-xw2qkz6m",
-        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-        "authors": "Zhifei Chen, Luozhou Wang, Guibao Shen, Dongyu Yan, Shuai…",
+        "id": "arxiv-o3bzpr72",
+        "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
+        "authors": "Xiang Li, Yupeng Zheng, Songen Gu, Huailiang Ma, Feng Yu,…",
         "journal": "arXiv preprint",
-        "abstract": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attention windows confine…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.23565v1"
+        "abstract": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for efficiency; however, our matched implementations show lower generalization for Fast-WAM than for future-aware alternatives,…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.24882v1"
     },
     {
-        "id": "arxiv-nfbk0zqk",
-        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-        "authors": "Deyao Hong, Yizhe Chi, Wenyi Li, Xiaoqiu Wang, Mingju Gao,…",
+        "id": "arxiv-q0312h3c",
+        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+        "authors": "Hao Chen",
         "journal": "arXiv preprint",
-        "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.23564v1"
-    },
-    {
-        "id": "arxiv-rn9zxv0x",
-        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
-        "authors": "Md Thamed Bin Zaman Chowdhury, Moazzem Hossain",
-        "journal": "arXiv preprint",
-        "abstract": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.23563v1"
-    },
-    {
-        "id": "arxiv-ge2ujwp3",
-        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
-        "authors": "Yuanyuan Zhang, Yida Zhang, Jiahui Li, Yuyan Wu, Fei Dou,…",
-        "journal": "arXiv preprint",
-        "abstract": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes,…",
+        "abstract": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has concrete consequences:…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.23562v1"
+        "url": "http://arxiv.org/abs/2608.24881v1"
     },
     {
-        "id": "arxiv-72cvax08",
-        "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
-        "authors": "Daniil Dmitriev, Zhihan Huang, Yuting Wei",
+        "id": "arxiv-u5rb8lhz",
+        "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
+        "authors": "Jiangning Zhang, Haojun Chen, Yong Liu",
         "journal": "arXiv preprint",
-        "abstract": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for the standard $τ$-leaping sampler scale…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.23554v1"
+        "abstract": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.24877v1"
+    },
+    {
+        "id": "arxiv-ce4orhvc",
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "authors": "Zhaochen Yu, Yingcheng Wu, Zhenfei Yin, Kaiyuan Chen, Zhe…",
+        "journal": "arXiv preprint",
+        "abstract": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.24876v1"
+    },
+    {
+        "id": "arxiv-l5xdcl99",
+        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+        "authors": "Kai Ruan, Jinghao Lin, Qianshan Wei, Ziqi Zhou, Zihe Huang",
+        "journal": "arXiv preprint",
+        "abstract": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.24870v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-f9golkns",
+        "id": "gh-ozd2x9z2",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "236.0k",
+        "stars": "236.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-8x6jr97j",
+        "id": "gh-nokwjx4l",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.9k",
@@ -182,25 +240,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-y5caaehx",
+        "id": "gh-jzt8adja",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.6k",
+        "stars": "153.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-q6ihsj1b",
+        "id": "gh-n63cpwlu",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.4k",
+        "stars": "164.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-jrv5i9dw",
+        "id": "gh-c3sowx68",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.6k",
@@ -209,19 +267,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-tk65b22h",
+        "id": "gh-ce5qap1r",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.6k",
+        "stars": "164.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-8r45hl42",
+        "id": "gh-54f1egnt",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "129.8k",
+        "stars": "130.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
