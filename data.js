@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-26T06:53:18.395Z
-   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-27T17:26:39.588Z
+   Stories: 28 | Clusters: 6 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,19 +25,62 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-pn4tvvsb",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "The full stack behind abundant intelligence",
-    "excerpt": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "source": "OpenAI",
-    "time": "23h ago",
+    "id": "rss-llu4az2v",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "excerpt": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "source": "TechCrunch",
+    "time": "10h ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
 },
 
     topics: [
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-llu4az2v",
+                "title": "Nvidia closes in on Hugging Face acquisition",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-4z7c0c18",
+                "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+                "source": "TechCrunch",
+                "time": "17h ago",
+                "relevance": 87
+            },
+            {
+                "id": "hn-49466052",
+                "title": "Nvidia projects $673B in sales as AI demand widens",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-mnnwl1e2",
+                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+                "source": "VentureBeat",
+                "time": "Jan 22",
+                "relevance": 75
+            },
+            {
+                "id": "hn-49458161",
+                "title": "Nvidia agrees to acquire Hugging Face for $13B",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 72
+            }
+        ]
+    },
     {
         "id": "topic-llms",
         "name": "Large Language Models",
@@ -45,38 +88,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-pn4tvvsb",
-                "title": "The full stack behind abundant intelligence",
-                "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 90
-            },
-            {
-                "id": "rss-a520beqe",
-                "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-                "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 90
-            },
-            {
-                "id": "rss-3vivb4ek",
-                "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+                "id": "rss-e4dyipq7",
+                "title": "The Hugging Face incident and the road ahead",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 84
+                "relevance": 85
             },
             {
-                "id": "rss-8hlkund1",
-                "title": "5 ways to upgrade your home decor with Google Search",
-                "source": "Google Blog",
+                "id": "rss-9x22mcxb",
+                "title": "Expanding OpenAI’s presence in Brazil",
+                "source": "OpenAI",
                 "time": "14h ago",
-                "relevance": 78
+                "relevance": 80
             },
             {
-                "id": "rss-4j27gvt6",
-                "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-                "source": "VentureBeat",
-                "time": "Jan 19",
+                "id": "rss-orpu7xqd",
+                "title": "Learning never stops: How AI makes learning continuous",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-6g9e3y7p",
+                "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "hn-49467551",
+                "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+                "source": "Hacker News",
+                "time": "Just now",
                 "relevance": 78
             }
         ]
@@ -88,54 +131,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-rxhdzi0a",
-                "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
+                "id": "rss-7g83t34p",
+                "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
                 "source": "MarkTechPost",
                 "time": "1h ago",
-                "relevance": 84
+                "relevance": 85
             },
             {
-                "id": "rss-fu0dbfj8",
-                "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+                "id": "rss-ykws45fo",
+                "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
                 "source": "MarkTechPost",
-                "time": "7h ago",
+                "time": "19h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-83j92uwh",
+                "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
+                "source": "MarkTechPost",
+                "time": "13h ago",
                 "relevance": 76
             },
             {
-                "id": "rss-8zgrq638",
-                "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
+                "id": "rss-igoamwa2",
+                "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-qtwna5vo",
-                "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
-                "source": "MarkTechPost",
-                "time": "13h ago",
+                "time": "1d ago",
                 "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-9fos859s",
-                "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-thjm2rcg",
-                "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-                "source": "VentureBeat",
-                "time": "Jan 22",
-                "relevance": 75
             }
         ]
     },
@@ -146,18 +167,69 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-ehunfcpq",
+                "id": "rss-n1aiktd2",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-7xvqs95a",
                 "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
                 "source": "VentureBeat",
                 "time": "May 19",
                 "relevance": 72
             },
             {
-                "id": "hn-49441666",
-                "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+                "id": "hn-49450816",
+                "title": "Show HN: A lightweight, stateless database for agent memory",
                 "source": "Hacker News",
-                "time": "8h ago",
-                "relevance": 71
+                "time": "1d ago",
+                "relevance": 66
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "hn-49467702",
+                "title": "Grok Bot for Linux: Unofficial port of the official app (open source)",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 79
+            },
+            {
+                "id": "hn-49464314",
+                "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 74
+            }
+        ]
+    },
+    {
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "hn-49466715",
+                "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 75
+            },
+            {
+                "id": "hn-49466989",
+                "title": "Why HPSC Is a Big Deal for Space Exploration",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 74
             }
         ]
     }
@@ -165,73 +237,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-rqveb3pp",
-        "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
-        "authors": "Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo, Tinghao…",
+        "id": "arxiv-z0jms4qb",
+        "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+        "authors": "Junxiang Xu, Ruisi Wang, Fanyi Pu, Maijunxian Wang, Ran Ji,…",
         "journal": "arXiv preprint",
-        "abstract": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrations, leaving…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.24885v1"
-    },
-    {
-        "id": "arxiv-o3bzpr72",
-        "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
-        "authors": "Xiang Li, Yupeng Zheng, Songen Gu, Huailiang Ma, Feng Yu,…",
-        "journal": "arXiv preprint",
-        "abstract": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for efficiency; however, our matched implementations show lower generalization for Fast-WAM than for future-aware alternatives,…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.24882v1"
-    },
-    {
-        "id": "arxiv-q0312h3c",
-        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
-        "authors": "Hao Chen",
-        "journal": "arXiv preprint",
-        "abstract": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has concrete consequences:…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.24881v1"
-    },
-    {
-        "id": "arxiv-u5rb8lhz",
-        "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-        "authors": "Jiangning Zhang, Haojun Chen, Yong Liu",
-        "journal": "arXiv preprint",
-        "abstract": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under…",
+        "abstract": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.24877v1"
+        "url": "http://arxiv.org/abs/2608.26105v1"
     },
     {
-        "id": "arxiv-ce4orhvc",
-        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-        "authors": "Zhaochen Yu, Yingcheng Wu, Zhenfei Yin, Kaiyuan Chen, Zhe…",
+        "id": "arxiv-ccnlgbvw",
+        "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+        "authors": "Jiaming Zhou, Qihang Zhang, Gangwei Xu, Cunxin Fan, Yujie…",
         "journal": "arXiv preprint",
-        "abstract": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.24876v1"
+        "abstract": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task can be performed simply by specifying it in the context, without any parameter update. This form of in-context learning…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.26103v1"
     },
     {
-        "id": "arxiv-l5xdcl99",
-        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
-        "authors": "Kai Ruan, Jinghao Lin, Qianshan Wei, Ziqi Zhou, Zihe Huang",
+        "id": "arxiv-6nwi68d5",
+        "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+        "authors": "Bojia Zi, Xiaoyan Yang, Yu Zhou, Ruijie Sun, Lihan Zhang,…",
         "journal": "arXiv preprint",
-        "abstract": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.24870v1"
+        "abstract": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are commonly produced by automatic editing models, which may introduce visible artifacts and unreliable supervision signals.…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.26101v1"
+    },
+    {
+        "id": "arxiv-zfn5jo5p",
+        "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+        "authors": "Kaichen Li, Zhilin Zhu, Jianhao Huang, Zhengqin Lai,…",
+        "journal": "arXiv preprint",
+        "abstract": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterogeneous visual…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.26095v1"
+    },
+    {
+        "id": "arxiv-lpacahkr",
+        "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+        "authors": "Hao Yin, Paritosh Parmar, Lijun Gu, Lin Xu, Tianxiao Guo,…",
+        "journal": "arXiv preprint",
+        "abstract": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.26094v1"
+    },
+    {
+        "id": "arxiv-aji45x68",
+        "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+        "authors": "Ahmad Khan, Akram Bin Sediq, Sara Azadegi Naeini, Raviraj…",
+        "journal": "arXiv preprint",
+        "abstract": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearch protocol, in…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.26093v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-ozd2x9z2",
+        "id": "gh-6nncqqwg",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "236.5k",
+        "stars": "237.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-nokwjx4l",
+        "id": "gh-vhg6r45i",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "186.9k",
@@ -240,7 +312,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-jzt8adja",
+        "id": "gh-ipclx70n",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "153.7k",
@@ -249,7 +321,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-n63cpwlu",
+        "id": "gh-qpe1s3lq",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.5k",
@@ -258,7 +330,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-c3sowx68",
+        "id": "gh-e3bcmo3a",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.6k",
@@ -267,7 +339,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ce5qap1r",
+        "id": "gh-ffpwuobh",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.7k",
@@ -276,10 +348,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-54f1egnt",
+        "id": "gh-5yhxyscu",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "130.0k",
+        "stars": "130.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
