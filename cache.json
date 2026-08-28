@@ -1,6 +1,246 @@
 {
   "stories": [
     {
+      "id": "rss-q5l5k37l",
+      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
+      "source": "MarkTechPost",
+      "time": "Just now",
+      "rawDate": "2026-08-28 17:28:47",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
+      "description": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, runs the same shader in the browser, in headless Node.js via Dawn, and in a deterministic CI mock, and ships a fullscreen effect in 25 KB gzipped. The post Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders appeared first on MarkTechPost .",
+      "score": 85,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-41w8bi6b",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "source": "OpenAI",
+      "time": "16h ago",
+      "rawDate": "2026-08-28 02:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "score": 82.85714285714286,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-c7dl5gb6",
+      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
+      "source": "MarkTechPost",
+      "time": "22h ago",
+      "rawDate": "2026-08-27 20:05:49",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
+      "description": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from $2,500 a month. Cohere reports a ParseBench score of 79.2, ahead of Mistral OCR 4, Azure Document Intelligence and Databricks AI Parse — but that figure averages three of the benchmark's five dimensions and drops…",
+      "score": 80,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-ehrhnh4j",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "1d ago",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "hn-49481455",
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-08-28T17:01:12.000Z",
+      "topic": "agents",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "description": "",
+      "score": 79.5,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-wr7hncc5",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-08-27 09:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "score": 78.66666666666667,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-fjcz4lif",
+      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
+      "source": "MarkTechPost",
+      "time": "13h ago",
+      "rawDate": "2026-08-28 05:00:38",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+      "description": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription but drops speaker diarization and word timestamps. The batch endpoint keeps both, at half the cost. Google reports 4.0% word error rate streaming and 2.6% non-streaming, with 70% faster finalization than Chirp 3. Here is what the split means for anyone building voice agents or transcription pipelines. The post Google AI…",
+      "score": 77.5,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-1ikil8hf",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-08-26 10:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "score": 77.22222222222223,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-11fgk70z",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "2d ago",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
+      "score": 77.15384615384616,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-8g4hjug3",
+      "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-08-27 15:36:29",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
+      "description": "In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows The post From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance appeared first on MarkTechPost .",
+      "score": 77,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-zgzf7k47",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-08-27 03:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "score": 77,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-pau91zfq",
+      "title": "Get your Windows license refund",
+      "source": "Hacker News",
+      "time": "4h ago",
+      "rawDate": "2026-08-28 13:42:40",
+      "topic": "opensource",
+      "url": "https://en.refund4freedom.org/",
+      "description": "Comments",
+      "score": 76,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "hn-49477559",
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "source": "Hacker News",
+      "time": "5h ago",
+      "rawDate": "2026-08-28T12:28:41.000Z",
+      "topic": "energy",
+      "url": "https://www.nature.com/articles/d41586-026-02506-4",
+      "description": "",
+      "score": 76,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-df3xbd9l",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "source": "VentureBeat",
+      "time": "1d ago",
+      "rawDate": "2026-08-27 12:01:00",
+      "topic": "opensource",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-4nq2ml7g",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "source": "Google Blog",
+      "time": "Aug 17",
+      "rawDate": "2026-08-17 08:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "score": 75.22222222222223,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-owlgy9ya",
+      "title": "3 new ways to plan and book travel in Search",
+      "source": "Google Blog",
+      "time": "1d ago",
+      "rawDate": "2026-08-27 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "score": 75,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-o6a0xbdj",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-08-28 15:58:46",
+      "topic": "security",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "description": "Comments",
+      "score": 73.42857142857143,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-42l6dwm4",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-08-25 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "description": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "score": 73,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-fv6ja9j0",
+      "title": "5 new ways to level up your learning with Search",
+      "source": "Google Blog",
+      "time": "Aug 19",
+      "rawDate": "2026-08-19 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "description": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "score": 73,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
+      "id": "rss-okauln2r",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "source": "VentureBeat",
+      "time": "Aug 19",
+      "rawDate": "2026-08-19 14:18:12",
+      "topic": "llms",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
+      "score": 71,
+      "cachedAt": "2026-08-28T18:19:54.228Z"
+    },
+    {
       "id": "rss-llu4az2v",
       "title": "Nvidia closes in on Hugging Face acquisition",
       "source": "TechCrunch",
@@ -22,18 +262,6 @@
       "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
       "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
       "score": 87.0909090909091,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
-      "id": "rss-7g83t34p",
-      "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
-      "source": "MarkTechPost",
-      "time": "1h ago",
-      "rawDate": "2026-08-27 15:36:29",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
-      "description": "In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows The post From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance appeared first on MarkTechPost .",
-      "score": 85,
       "cachedAt": "2026-08-27T17:26:39.585Z"
     },
     {
@@ -61,18 +289,6 @@
       "cachedAt": "2026-08-27T17:26:39.585Z"
     },
     {
-      "id": "rss-9x22mcxb",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "source": "OpenAI",
-      "time": "14h ago",
-      "rawDate": "2026-08-27 03:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "score": 80,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
       "id": "rss-yhq7ircp",
       "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "source": "TechCrunch",
@@ -94,30 +310,6 @@
       "url": "https://openai.com/index/learning-never-stops",
       "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "score": 79.5,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
-      "id": "rss-6g9e3y7p",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-08-26 10:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
-      "id": "rss-n1aiktd2",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "1d ago",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
-      "score": 79.15384615384616,
       "cachedAt": "2026-08-27T17:26:39.585Z"
     },
     {
@@ -181,18 +373,6 @@
       "cachedAt": "2026-08-27T17:26:39.585Z"
     },
     {
-      "id": "rss-ctzgmb5s",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "source": "Google Blog",
-      "time": "Aug 17",
-      "rawDate": "2026-08-17 08:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-      "score": 75.22222222222223,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
       "id": "rss-dsr5fyxh",
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "source": "Google Blog",
@@ -253,30 +433,6 @@
       "cachedAt": "2026-08-27T17:26:39.585Z"
     },
     {
-      "id": "rss-dnbzew6o",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-08-25 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "description": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "score": 73,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
-      "id": "rss-nleugq2n",
-      "title": "5 new ways to level up your learning with Search",
-      "source": "Google Blog",
-      "time": "Aug 19",
-      "rawDate": "2026-08-19 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "description": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
-      "score": 73,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
       "id": "rss-igoamwa2",
       "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
       "source": "MarkTechPost",
@@ -310,18 +466,6 @@
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "description": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven…",
       "score": 71.9090909090909,
-      "cachedAt": "2026-08-27T17:26:39.585Z"
-    },
-    {
-      "id": "rss-4htw2i00",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "source": "VentureBeat",
-      "time": "Aug 19",
-      "rawDate": "2026-08-19 14:18:12",
-      "topic": "llms",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
-      "score": 71,
       "cachedAt": "2026-08-27T17:26:39.585Z"
     },
     {
@@ -971,66 +1115,6 @@
       "description": "",
       "score": 66.22222222222223,
       "cachedAt": "2026-08-22T06:42:33.285Z"
-    },
-    {
-      "id": "hn-49375996",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "source": "Hacker News",
-      "time": "15h ago",
-      "rawDate": "2026-08-20T15:26:02.000Z",
-      "topic": "llms",
-      "url": "https://github.com/zachahn/vomit",
-      "description": "",
-      "score": 76.0909090909091,
-      "cachedAt": "2026-08-21T06:50:56.752Z"
-    },
-    {
-      "id": "rss-yosrregr",
-      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
-      "source": "MarkTechPost",
-      "time": "21h ago",
-      "rawDate": "2026-08-20 08:51:38",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
-      "description": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit the Anthropic HH-RLHF dataset for structural and length-based biases, implement a robust training pipeline using TRL and LoRA, and evaluate model performance to ensure genuine preference learning rather than reliance on lexical shortcuts. The post Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on…",
-      "score": 75.55555555555556,
-      "cachedAt": "2026-08-21T06:50:56.752Z"
-    },
-    {
-      "id": "rss-uru05yng",
-      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
-      "source": "MarkTechPost",
-      "time": "11h ago",
-      "rawDate": "2026-08-20 18:53:09",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
-      "description": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs appeared first on MarkTechPost .",
-      "score": 72.3529411764706,
-      "cachedAt": "2026-08-21T06:50:56.752Z"
-    },
-    {
-      "id": "hn-49360140",
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-08-19T11:35:26.000Z",
-      "topic": "agents",
-      "url": "https://arxiv.org/abs/2504.09762",
-      "description": "",
-      "score": 69.71428571428571,
-      "cachedAt": "2026-08-21T06:50:56.752Z"
-    },
-    {
-      "id": "hn-49304409",
-      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "source": "Hacker News",
-      "time": "6d ago",
-      "rawDate": "2026-08-14T20:49:29.000Z",
-      "topic": "quantum",
-      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "description": "",
-      "score": 64,
-      "cachedAt": "2026-08-21T06:50:56.752Z"
     }
   ]
 }
