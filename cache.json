@@ -1,79 +1,127 @@
 {
   "stories": [
     {
-      "id": "rss-2owhz2ha",
+      "id": "rss-7sn1u56m",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "source": "TechCrunch",
+      "time": "22h ago",
+      "rawDate": "2026-08-29 13:00:00",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "score": 88,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-4am848p1",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "source": "TechCrunch",
-      "time": "16h ago",
+      "time": "1d ago",
       "rawDate": "2026-08-28 20:24:11",
       "topic": "infra",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "score": 86,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "score": 83,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-vfzfynhh",
+      "id": "rss-hly3cvcy",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "source": "OpenAI",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-08-28 06:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "score": 83.66666666666667,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "score": 81.66666666666667,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-6t0px1ad",
+      "id": "rss-mt1op4cl",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "source": "TechCrunch",
+      "time": "17h ago",
+      "rawDate": "2026-08-29 17:36:47",
+      "topic": "biotech",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "score": 81.33333333333333,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-82qs8b60",
+      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+      "source": "MarkTechPost",
+      "time": "16h ago",
+      "rawDate": "2026-08-29 18:57:26",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
+      "description": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUDA-enabled PyTorch environment, load the FCN prognostic model, and retrieve atmospheric initial conditions from GFS. We then implement a custom wind-power diagnostic that converts 10-meter wind components into turbine capacity factors, along […] The post Building Custom Batched Ensemble Weather Forecasting with NVIDIA…",
+      "score": 80,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-zmgkuud6",
+      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+      "source": "MarkTechPost",
+      "time": "5h ago",
+      "rawDate": "2026-08-30 06:12:21",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+      "description": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather than…",
+      "score": 78.63636363636364,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-2jzc0ftf",
       "title": "Supporting Thailand’s next generation of AI startups",
       "source": "OpenAI",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-08-28 02:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "score": 79.85714285714286,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "score": 77.85714285714286,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-m6rgse9k",
+      "id": "rss-k6jlyt7o",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "source": "VentureBeat",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-08-27 14:01:00",
       "topic": "agents",
       "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "score": 77.66666666666667,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-grfcql40",
+      "id": "rss-zdaeg5k1",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "source": "VentureBeat",
-      "time": "2d ago",
+      "time": "3d ago",
       "rawDate": "2026-08-26 14:30:00",
       "topic": "agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
       "score": 77.15384615384616,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-j9dotb38",
+      "id": "rss-muxq2jmd",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "source": "OpenAI",
-      "time": "2d ago",
+      "time": "3d ago",
       "rawDate": "2026-08-27 09:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "score": 76.66666666666667,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-8jz4osev",
+      "id": "rss-msdd3yne",
       "title": "Get closer to the game with Gemini and Pixel",
       "source": "Google Blog",
       "time": "Aug 17",
@@ -82,34 +130,58 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
       "score": 75.22222222222223,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-cjxm5513",
-      "title": "3 new ways to plan and book travel in Search",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-08-27 16:00:00",
+      "id": "rss-2fdtaumh",
+      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+      "source": "MarkTechPost",
+      "time": "20h ago",
+      "rawDate": "2026-08-29 14:30:44",
       "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "url": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+      "description": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency. The post Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling…",
       "score": 75,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-5vfo6a7n",
+      "id": "rss-3ppw70cm",
       "title": "Expanding OpenAI’s presence in Brazil",
       "source": "OpenAI",
-      "time": "2d ago",
+      "time": "3d ago",
       "rawDate": "2026-08-27 03:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "score": 75,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-lyl9h1as",
+      "id": "hn-49496543",
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "source": "Hacker News",
+      "time": "3h ago",
+      "rawDate": "2026-08-30T07:35:41.000Z",
+      "topic": "infra",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "description": "",
+      "score": 74.5,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-y0l01uqs",
+      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
+      "source": "MarkTechPost",
+      "time": "9h ago",
+      "rawDate": "2026-08-30 01:35:02",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
+      "description": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning. The post Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs appeared first on MarkTechPost .",
+      "score": 74.28571428571429,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-b4bk9fck",
       "title": "When agents act on their own, governance has to live in the data layer",
       "source": "VentureBeat",
       "time": "2d ago",
@@ -118,22 +190,46 @@
       "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
       "score": 73.85714285714286,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-updtlcyv",
+      "id": "hn-49497227",
+      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-08-30T09:56:05.000Z",
+      "topic": "llms",
+      "url": "https://github.com/AniketWathore/bolnee-chat",
+      "description": "",
+      "score": 73.66666666666667,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-icdwu6zn",
+      "title": "3 new ways to plan and book travel in Search",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-08-27 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "score": 73,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-rjnz0c49",
       "title": "5 ways to upgrade your home decor with Google Search",
       "source": "Google Blog",
-      "time": "3d ago",
+      "time": "4d ago",
       "rawDate": "2026-08-25 16:00:00",
       "topic": "llms",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "description": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
       "score": 73,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
-      "id": "rss-enwh173u",
+      "id": "rss-mrf1cae8",
       "title": "5 new ways to level up your learning with Search",
       "source": "Google Blog",
       "time": "Aug 19",
@@ -142,7 +238,43 @@
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "description": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
       "score": 73,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "hn-49469786",
+      "title": "Benchmarking Pocket-Scale Inference",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-08-27T19:12:03.000Z",
+      "topic": "llms",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "description": "",
+      "score": 72,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "rss-8flc2ybu",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "source": "VentureBeat",
+      "time": "Aug 19",
+      "rawDate": "2026-08-19 14:18:12",
+      "topic": "llms",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
+      "score": 71,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
+    },
+    {
+      "id": "hn-49490870",
+      "title": "Nancy Grace Roman Space Telescope",
+      "source": "Hacker News",
+      "time": "19h ago",
+      "rawDate": "2026-08-29T15:48:02.000Z",
+      "topic": "space",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "description": "",
+      "score": 71,
+      "cachedAt": "2026-08-30T11:29:49.313Z"
     },
     {
       "id": "hn-49485416",
@@ -154,18 +286,6 @@
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "description": "",
       "score": 72,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
-    },
-    {
-      "id": "rss-mf1n67lh",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "source": "VentureBeat",
-      "time": "Aug 19",
-      "rawDate": "2026-08-19 14:18:12",
-      "topic": "llms",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
-      "score": 71,
       "cachedAt": "2026-08-29T12:28:46.208Z"
     },
     {
@@ -935,126 +1055,6 @@
       "description": "",
       "score": 69.85714285714286,
       "cachedAt": "2026-08-24T07:02:15.282Z"
-    },
-    {
-      "id": "rss-q0mqdedp",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "source": "TechCrunch",
-      "time": "11h ago",
-      "rawDate": "2026-08-22 19:00:00",
-      "topic": "agents",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "score": 81.52941176470588,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "rss-u4lo4gpf",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "source": "TechCrunch",
-      "time": "14h ago",
-      "rawDate": "2026-08-22 16:30:34",
-      "topic": "security",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "score": 80.22222222222223,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "rss-7on96d0g",
-      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-08-22 23:49:38",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-      "description": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing…",
-      "score": 80,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "rss-7at59onv",
-      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-08-21 22:00:25",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-      "description": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines into publication-style diagrams, complete with custom reference styling and gallery exports. The post Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure…",
-      "score": 77,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "rss-ryxmqxa7",
-      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-      "source": "MarkTechPost",
-      "time": "17h ago",
-      "rawDate": "2026-08-22 13:43:13",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-      "description": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the question. If the harness decides quality, then how you run the loop becomes […] The post Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each…",
-      "score": 72.22222222222223,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "rss-wdxq3sxq",
-      "title": "Why your local LLM feels dumber than it is",
-      "source": "Hacker News",
-      "time": "12h ago",
-      "rawDate": "2026-08-22 18:14:16",
-      "topic": "llms",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "description": "Comments",
-      "score": 69.22222222222223,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "hn-49398152",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "source": "Hacker News",
-      "time": "20h ago",
-      "rawDate": "2026-08-22T09:49:14.000Z",
-      "topic": "agents",
-      "url": "https://munderdiffl.in/",
-      "description": "",
-      "score": 68.66666666666667,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "hn-49394827",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-08-21T23:09:06.000Z",
-      "topic": "biotech",
-      "url": "https://ozbrain.com",
-      "description": "",
-      "score": 67.07692307692308,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "hn-49393051",
-      "title": "A week of using Codex more than Claude",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-08-21T19:51:48.000Z",
-      "topic": "llms",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "description": "",
-      "score": 66.5,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
-    },
-    {
-      "id": "hn-49376197",
-      "title": "Autolith: A programming agent with a live runtime",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-08-20T15:40:57.000Z",
-      "topic": "agents",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "description": "",
-      "score": 64.5,
-      "cachedAt": "2026-08-23T06:43:46.333Z"
     }
   ]
 }

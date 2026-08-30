@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-29T12:28:46.210Z
-   Stories: 17 | Clusters: 2 | Papers: 0 | Repos: 7
+   Updated: 2026-08-30T11:29:49.315Z
+   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-2owhz2ha",
+    "id": "rss-7sn1u56m",
     "topic": "AI Infrastructure",
     "topicId": "infra",
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "excerpt": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "excerpt": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
     "source": "TechCrunch",
-    "time": "16h ago",
+    "time": "22h ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
 },
 
     topics: [
@@ -45,39 +45,97 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-vfzfynhh",
+                "id": "rss-hly3cvcy",
                 "title": "Our decision on Cursor following its acquisition by SpaceX",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
+                "time": "2d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-6t0px1ad",
+                "id": "rss-2jzc0ftf",
                 "title": "Supporting Thailand’s next generation of AI startups",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
+                "time": "2d ago",
+                "relevance": 78
             },
             {
-                "id": "rss-j9dotb38",
+                "id": "rss-muxq2jmd",
                 "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-8jz4osev",
+                "id": "rss-msdd3yne",
                 "title": "Get closer to the game with Gemini and Pixel",
                 "source": "Google Blog",
                 "time": "Aug 17",
                 "relevance": 75
             },
             {
-                "id": "rss-cjxm5513",
-                "title": "3 new ways to plan and book travel in Search",
-                "source": "Google Blog",
-                "time": "1d ago",
+                "id": "rss-2fdtaumh",
+                "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+                "source": "MarkTechPost",
+                "time": "20h ago",
                 "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-7sn1u56m",
+                "title": "Nvidia’s AI advantage is moving beyond the GPU",
+                "source": "TechCrunch",
+                "time": "22h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-4am848p1",
+                "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+                "source": "TechCrunch",
+                "time": "1d ago",
+                "relevance": 83
+            },
+            {
+                "id": "hn-49496543",
+                "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-82qs8b60",
+                "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+                "source": "MarkTechPost",
+                "time": "16h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-zmgkuud6",
+                "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-y0l01uqs",
+                "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 74
             }
         ]
     },
@@ -88,17 +146,17 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-m6rgse9k",
+                "id": "rss-k6jlyt7o",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
-                "time": "1d ago",
-                "relevance": 80
+                "time": "2d ago",
+                "relevance": 78
             },
             {
-                "id": "rss-grfcql40",
+                "id": "rss-zdaeg5k1",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 77
             }
         ]
@@ -107,28 +165,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "p-fallback",
-        "title": "Latest AI Research Papers",
-        "authors": "Various Authors",
-        "journal": "arXiv",
-        "abstract": "Check back tomorrow for fresh research highlights.",
+        "id": "arxiv-hbhk0d2o",
+        "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+        "authors": "Tianjie Ju, Zheng Wu, Yueqing Sun, Yuhan Cui, Bobo Li,…",
+        "journal": "arXiv preprint",
+        "abstract": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can turn local urban perception into reliable action in a complicated real-scale city.…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.27456v1"
+    },
+    {
+        "id": "arxiv-fmx9sqk5",
+        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+        "authors": "Yufan Wu, Yinghui He, Zhengyi Hu, Lang Wei, Ruichen Li,…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.27455v1"
+    },
+    {
+        "id": "arxiv-7hnvlmaa",
+        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "authors": "Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng, Andrew…",
+        "journal": "arXiv preprint",
+        "abstract": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2608.27454v1"
+    },
+    {
+        "id": "arxiv-umhpna7n",
+        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+        "authors": "Dewu Zheng, Ruizhe Ye, Yanlin Wang, Yang Ye, Hongyu Zhang,…",
+        "journal": "arXiv preprint",
+        "abstract": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful…",
         "badge": "Research",
-        "url": "https://arxiv.org/list/cs.AI/recent"
+        "url": "http://arxiv.org/abs/2608.27449v1"
+    },
+    {
+        "id": "arxiv-ci3nv883",
+        "title": "TTPO: Test-Time Policy Optimization",
+        "authors": "Aozhe Wang, Zhengxi Lu, Jianze Wang, Shangke Lv, Ying Liu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.27448v1"
+    },
+    {
+        "id": "arxiv-rvlkg0il",
+        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+        "authors": "Dewu Zheng, Yanlin Wang, Xiwen Wang, Kefeng Duan, Hongyu…",
+        "journal": "arXiv preprint",
+        "abstract": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.27442v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-r2x5z8zu",
+        "id": "gh-lupq3our",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "237.9k",
+        "stars": "238.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-w32eeoqf",
+        "id": "gh-tqrctsnu",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.0k",
@@ -137,16 +240,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-d42j4t1w",
+        "id": "gh-1na7dfg0",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.8k",
+        "stars": "153.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-2nrapg6r",
+        "id": "gh-p0oq98ul",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.6k",
@@ -155,7 +258,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-u3avm3q1",
+        "id": "gh-beqjkj7y",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.7k",
@@ -164,7 +267,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-pp57srzp",
+        "id": "gh-1dddy7mx",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.7k",
@@ -173,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-81kjqsvh",
+        "id": "gh-99a2dtn1",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "130.6k",
+        "stars": "130.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -185,44 +288,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "DeepMind"
-    },
-    {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "id": "ng-rss-hly3cvcy",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "desc": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "SpaceNews"
+        "source": "OpenAI"
     },
     {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Reuters"
+        "id": "ng-rss-mt1op4cl",
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "desc": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a…",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "TechCrunch"
     },
     {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "id": "ng-hn-49490870",
+        "title": "Nancy Grace Roman Space Telescope",
+        "desc": "Click to read more about this development.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "Hacker News"
     }
 ]
 };
