@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-30T11:29:49.315Z
-   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-08-31T13:02:08.587Z
+   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-7sn1u56m",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "excerpt": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "id": "rss-hlqclmlx",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "excerpt": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
     "source": "TechCrunch",
-    "time": "22h ago",
+    "time": "20h ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+    "relevance": 85,
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
 },
 
     topics: [
@@ -45,67 +45,74 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-hly3cvcy",
+                "id": "rss-61je1jnz",
                 "title": "Our decision on Cursor following its acquisition by SpaceX",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-2jzc0ftf",
+                "id": "rss-nr7ub9l3",
                 "title": "Supporting Thailand’s next generation of AI startups",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-muxq2jmd",
+                "id": "rss-753q5j6h",
                 "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-msdd3yne",
+                "id": "hn-49503956",
+                "title": "How to build a diffusion language model",
+                "source": "Hacker News",
+                "time": "13h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-lafv6krc",
                 "title": "Get closer to the game with Gemini and Pixel",
                 "source": "Google Blog",
                 "time": "Aug 17",
-                "relevance": 75
-            },
-            {
-                "id": "rss-2fdtaumh",
-                "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-                "source": "MarkTechPost",
-                "time": "20h ago",
                 "relevance": 75
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-7sn1u56m",
-                "title": "Nvidia’s AI advantage is moving beyond the GPU",
+                "id": "rss-tr3il2ps",
+                "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
                 "source": "TechCrunch",
                 "time": "22h ago",
-                "relevance": 88
+                "relevance": 81
             },
             {
-                "id": "rss-4am848p1",
-                "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-                "source": "TechCrunch",
-                "time": "1d ago",
-                "relevance": 83
+                "id": "rss-idoyf689",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "3d ago",
+                "relevance": 78
             },
             {
-                "id": "hn-49496543",
-                "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+                "id": "rss-qq0nuc7d",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "4d ago",
+                "relevance": 77
+            },
+            {
+                "id": "hn-49508317",
+                "title": "Agent Memory as a File Format",
                 "source": "Hacker News",
-                "time": "3h ago",
+                "time": "1h ago",
                 "relevance": 75
             }
         ]
@@ -117,47 +124,76 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-82qs8b60",
-                "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+                "id": "rss-s4h9934n",
+                "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
                 "source": "MarkTechPost",
-                "time": "16h ago",
+                "time": "15h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-zmgkuud6",
-                "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+                "id": "rss-ynp3b74g",
+                "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
                 "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 79
+                "time": "16h ago",
+                "relevance": 76
             },
             {
-                "id": "rss-y0l01uqs",
-                "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
+                "id": "rss-n2ygg2i0",
+                "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
                 "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 74
+                "time": "7h ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-bfps3c9v",
+                "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 71
             }
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
         "stories": [
             {
-                "id": "rss-k6jlyt7o",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "2d ago",
-                "relevance": 78
+                "id": "rss-hlqclmlx",
+                "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+                "source": "TechCrunch",
+                "time": "20h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-zdaeg5k1",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "id": "hn-49502214",
+                "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+                "source": "Hacker News",
+                "time": "17h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-37seqji6",
+                "title": "When agents act on their own, governance has to live in the data layer",
                 "source": "VentureBeat",
-                "time": "3d ago",
-                "relevance": 77
+                "time": "4d ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-49499867",
+                "title": "Haiku R1/beta6 has been released",
+                "source": "Hacker News",
+                "time": "21h ago",
+                "relevance": 71
             }
         ]
     }
@@ -165,73 +201,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-hbhk0d2o",
-        "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
-        "authors": "Tianjie Ju, Zheng Wu, Yueqing Sun, Yuhan Cui, Bobo Li,…",
+        "id": "arxiv-u4yl3j1y",
+        "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+        "authors": "Vaibhav Mehandiratta, Saket Ramchandra",
         "journal": "arXiv preprint",
-        "abstract": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can turn local urban perception into reliable action in a complicated real-scale city.…",
+        "abstract": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network,…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.28589v1"
+    },
+    {
+        "id": "arxiv-zykgkf28",
+        "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+        "authors": "Nan Wang, Mohit Yadav, Jonathan Wulff, Aidan Rosenbaum,…",
+        "journal": "arXiv preprint",
+        "abstract": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.28578v1"
+    },
+    {
+        "id": "arxiv-gnd4s6zj",
+        "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+        "authors": "Chengpiao Huang, Kaizheng Wang",
+        "journal": "arXiv preprint",
+        "abstract": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2608.28576v1"
+    },
+    {
+        "id": "arxiv-v7rzx8x4",
+        "title": "ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos",
+        "authors": "Seungyeon Kim, Noémie Jaquier",
+        "journal": "arXiv preprint",
+        "abstract": "Identifying the underlying dynamics and 3D geometry of deformable linear objects (DLOs), such as cables, ropes, and hoses, is essential for accurate robotic manipulation, but remains challenging due to their high-dimensional configuration spaces and diverse behaviors arising from varying material properties. Existing…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2608.28570v1"
+    },
+    {
+        "id": "arxiv-93q58ap9",
+        "title": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
+        "authors": "Fidel Omar Tito Cruz, Angie Sanchez Marquina, Summy Farfan,…",
+        "journal": "arXiv preprint",
+        "abstract": "Sign language production (SLP) aims to generate continuous signing motion from spoken language, often through gloss-to-pose generation. Prior work mainly follows two paradigms. Generative models synthesize motion from a learned prior or from noise, without reference to an observed signing instance, making rare hand…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.27456v1"
+        "url": "http://arxiv.org/abs/2608.28568v1"
     },
     {
-        "id": "arxiv-fmx9sqk5",
-        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-        "authors": "Yufan Wu, Yinghui He, Zhengyi Hu, Lang Wei, Ruichen Li,…",
+        "id": "arxiv-77lym5fy",
+        "title": "GeBDA: Building Damage Assessment as Text-Based Sequence Prediction",
+        "authors": "Olivier Dietrich, Krishna Sapkota, Konrad Schindler, Genady…",
         "journal": "arXiv preprint",
-        "abstract": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.27455v1"
-    },
-    {
-        "id": "arxiv-7hnvlmaa",
-        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-        "authors": "Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng, Andrew…",
-        "journal": "arXiv preprint",
-        "abstract": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2608.27454v1"
-    },
-    {
-        "id": "arxiv-umhpna7n",
-        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-        "authors": "Dewu Zheng, Ruizhe Ye, Yanlin Wang, Yang Ye, Hongyu Zhang,…",
-        "journal": "arXiv preprint",
-        "abstract": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.27449v1"
-    },
-    {
-        "id": "arxiv-ci3nv883",
-        "title": "TTPO: Test-Time Policy Optimization",
-        "authors": "Aozhe Wang, Zhengxi Lu, Jianze Wang, Shangke Lv, Ying Liu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2608.27448v1"
-    },
-    {
-        "id": "arxiv-rvlkg0il",
-        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-        "authors": "Dewu Zheng, Yanlin Wang, Xiwen Wang, Kefeng Duan, Hongyu…",
-        "journal": "arXiv preprint",
-        "abstract": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.27442v1"
+        "abstract": "Conventionally, Building Damage Assessment (BDA) is tackled either with dedicated network architectures or by fine-tuning geospatial image foundation models. In this work, we ask whether a general-purpose Vision-Language Model (VLM) can localize buildings and grade their damage through autoregressive sequence…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.28567v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-lupq3our",
+        "id": "gh-c0v1nfz6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "238.3k",
+        "stars": "238.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-tqrctsnu",
+        "id": "gh-e8n7uia4",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.0k",
@@ -240,25 +276,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-1na7dfg0",
+        "id": "gh-i4j2e16v",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "153.9k",
+        "stars": "154.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-p0oq98ul",
+        "id": "gh-2893bea9",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.6k",
+        "stars": "164.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-beqjkj7y",
+        "id": "gh-836eys84",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.7k",
@@ -267,7 +303,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-1dddy7mx",
+        "id": "gh-hmnj5e95",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.7k",
@@ -276,10 +312,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-99a2dtn1",
+        "id": "gh-yyqdh0ax",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "130.7k",
+        "stars": "130.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -288,7 +324,15 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-hly3cvcy",
+        "id": "ng-rss-hlqclmlx",
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "desc": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source…",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "TechCrunch"
+    },
+    {
+        "id": "ng-rss-61je1jnz",
         "title": "Our decision on Cursor following its acquisition by SpaceX",
         "desc": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
         "tag": "Space",
@@ -296,16 +340,16 @@ const NEWSLETTER_DATA = {
         "source": "OpenAI"
     },
     {
-        "id": "ng-rss-mt1op4cl",
-        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-        "desc": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a…",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "TechCrunch"
+        "id": "ng-hn-49503956",
+        "title": "How to build a diffusion language model",
+        "desc": "Click to read more about this development.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Hacker News"
     },
     {
-        "id": "ng-hn-49490870",
-        "title": "Nancy Grace Roman Space Telescope",
+        "id": "ng-hn-49502214",
+        "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
         "desc": "Click to read more about this development.",
         "tag": "Space",
         "tagClass": "space",
