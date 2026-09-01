@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-08-31T13:02:08.587Z
-   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-09-01T11:18:16.402Z
+   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-hlqclmlx",
-    "topic": "Artificial Intelligence",
-    "topicId": "space",
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-    "excerpt": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "id": "rss-1m8skopy",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "excerpt": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
     "source": "TechCrunch",
-    "time": "20h ago",
+    "time": "15h ago",
     "readTime": "5 min read",
     "relevance": 85,
-    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-61je1jnz",
+                "id": "rss-1m8skopy",
+                "title": "The Pentagon now has its own version of ChatGPT and Grok",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-36ujopim",
                 "title": "Our decision on Cursor following its acquisition by SpaceX",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-nr7ub9l3",
-                "title": "Supporting Thailand’s next generation of AI startups",
+                "id": "rss-teo8bhsy",
+                "title": "OpenAI supports California’s bill to advance youth AI safety",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-753q5j6h",
-                "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+                "id": "rss-0ew8xrzw",
+                "title": "Polimill builds Japan's next-generation public AI infrastructure",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 77
+                "time": "1d ago",
+                "relevance": 80
             },
             {
-                "id": "hn-49503956",
-                "title": "How to build a diffusion language model",
-                "source": "Hacker News",
-                "time": "13h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-lafv6krc",
-                "title": "Get closer to the game with Gemini and Pixel",
-                "source": "Google Blog",
-                "time": "Aug 17",
-                "relevance": 75
+                "id": "rss-4h8k1mn8",
+                "title": "A milestone in expanding access to AI",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 80
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-tr3il2ps",
-                "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-                "source": "TechCrunch",
-                "time": "22h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-idoyf689",
+                "id": "rss-8i8iz3l7",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-qq0nuc7d",
+                "id": "rss-pdwnk94u",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 77
             },
             {
-                "id": "hn-49508317",
-                "title": "Agent Memory as a File Format",
+                "id": "rss-98iziv7i",
+                "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
                 "source": "Hacker News",
-                "time": "1h ago",
-                "relevance": 75
+                "time": "8h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-49516848",
+                "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+                "source": "Hacker News",
+                "time": "9h ago",
+                "relevance": 69
             }
         ]
     },
@@ -124,76 +124,25 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-s4h9934n",
-                "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
+                "id": "rss-i51duxda",
+                "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
                 "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 80
+                "time": "11h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-ynp3b74g",
-                "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-                "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-n2ygg2i0",
-                "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
+                "id": "rss-onrjxjti",
+                "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
                 "source": "MarkTechPost",
                 "time": "7h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-bfps3c9v",
-                "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
-            }
-        ]
-    },
-    {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "rss-hlqclmlx",
-                "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-                "source": "TechCrunch",
-                "time": "20h ago",
-                "relevance": 85
-            },
-            {
-                "id": "hn-49502214",
-                "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-37seqji6",
-                "title": "When agents act on their own, governance has to live in the data layer",
-                "source": "VentureBeat",
-                "time": "4d ago",
                 "relevance": 74
             },
             {
-                "id": "hn-49499867",
-                "title": "Haiku R1/beta6 has been released",
-                "source": "Hacker News",
-                "time": "21h ago",
-                "relevance": 71
+                "id": "rss-a8cn3uep",
+                "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 70
             }
         ]
     }
@@ -201,82 +150,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-u4yl3j1y",
-        "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
-        "authors": "Vaibhav Mehandiratta, Saket Ramchandra",
+        "id": "arxiv-deza1wf0",
+        "title": "Context-Aware Interleaved Batching for WhisperX",
+        "authors": "Carlos Bain, Max Bain",
         "journal": "arXiv preprint",
-        "abstract": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network,…",
+        "abstract": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conversely, standard Whisper retains context sequentially but suffers from slow inference and hallucination loops. To…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2608.31170v1"
+    },
+    {
+        "id": "arxiv-ehsf5fsv",
+        "title": "Constant Individual Regret in General Games",
+        "authors": "Mingyang Liu, Gabriele Farina, Asuman Ozdaglar",
+        "journal": "arXiv preprint",
+        "abstract": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for every finite $N$-player normal-form game under full-information feedback. We introduce \\emph{ECHO-OFTRL}: optimistic…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2608.28589v1"
+        "url": "http://arxiv.org/abs/2608.31166v1"
     },
     {
-        "id": "arxiv-zykgkf28",
-        "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
-        "authors": "Nan Wang, Mohit Yadav, Jonathan Wulff, Aidan Rosenbaum,…",
+        "id": "arxiv-77vna4lg",
+        "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+        "authors": "Weiqi Wang, Zhi Li, Yudong Lei, David Martinez, Xiaofeng…",
         "journal": "arXiv preprint",
-        "abstract": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and…",
+        "abstract": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior drifting from what…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.28578v1"
+        "url": "http://arxiv.org/abs/2608.31167v1"
     },
     {
-        "id": "arxiv-gnd4s6zj",
-        "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
-        "authors": "Chengpiao Huang, Kaizheng Wang",
+        "id": "arxiv-1w85ec10",
+        "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting",
+        "authors": "Yiling Yao, Wenjuan Zhang, Bowen Wang, Bocheng Li, Wentao…",
         "journal": "arXiv preprint",
-        "abstract": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic…",
+        "abstract": "The bidirectional reflectance factor (BRF) characterizes the directional radiative properties of terrestrial surfaces. However, existing three-dimensional (3D) radiative transfer models require complex scene construction and computationally intensive radiative transfer solvers, limiting efficient generation of…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2608.31159v1"
+    },
+    {
+        "id": "arxiv-xtvf5sdn",
+        "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+        "authors": "Shijun Zhang",
+        "journal": "arXiv preprint",
+        "abstract": "Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $Φ$ with $P_Φ$ parameter slots, we write $\\boldsymbolθ_f=\\mathcal{G}(\\boldsymbolξ_f)$, where $\\mathcal{G}\\colon\\mathbb{R}^M\\to\\mathbb{R}^{P_Φ}$ is a parameter generator…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2608.31157v1"
+    },
+    {
+        "id": "arxiv-zgj4xz9r",
+        "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+        "authors": "Yisen Xi",
+        "journal": "arXiv preprint",
+        "abstract": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity verification of…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2608.28576v1"
-    },
-    {
-        "id": "arxiv-v7rzx8x4",
-        "title": "ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos",
-        "authors": "Seungyeon Kim, Noémie Jaquier",
-        "journal": "arXiv preprint",
-        "abstract": "Identifying the underlying dynamics and 3D geometry of deformable linear objects (DLOs), such as cables, ropes, and hoses, is essential for accurate robotic manipulation, but remains challenging due to their high-dimensional configuration spaces and diverse behaviors arising from varying material properties. Existing…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2608.28570v1"
-    },
-    {
-        "id": "arxiv-93q58ap9",
-        "title": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
-        "authors": "Fidel Omar Tito Cruz, Angie Sanchez Marquina, Summy Farfan,…",
-        "journal": "arXiv preprint",
-        "abstract": "Sign language production (SLP) aims to generate continuous signing motion from spoken language, often through gloss-to-pose generation. Prior work mainly follows two paradigms. Generative models synthesize motion from a learned prior or from noise, without reference to an observed signing instance, making rare hand…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.28568v1"
-    },
-    {
-        "id": "arxiv-77lym5fy",
-        "title": "GeBDA: Building Damage Assessment as Text-Based Sequence Prediction",
-        "authors": "Olivier Dietrich, Krishna Sapkota, Konrad Schindler, Genady…",
-        "journal": "arXiv preprint",
-        "abstract": "Conventionally, Building Damage Assessment (BDA) is tackled either with dedicated network architectures or by fine-tuning geospatial image foundation models. In this work, we ask whether a general-purpose Vision-Language Model (VLM) can localize buildings and grade their damage through autoregressive sequence…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2608.28567v1"
+        "url": "http://arxiv.org/abs/2608.31142v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-c0v1nfz6",
+        "id": "gh-ezbswgz0",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "238.8k",
+        "stars": "239.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-e8n7uia4",
+        "id": "gh-uamhp8eg",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.0k",
+        "stars": "187.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-i4j2e16v",
+        "id": "gh-j1u85njl",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "154.0k",
@@ -285,7 +234,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-2893bea9",
+        "id": "gh-paj1iv3f",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.7k",
@@ -294,7 +243,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-836eys84",
+        "id": "gh-zvub2wyv",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.7k",
@@ -303,19 +252,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-hmnj5e95",
+        "id": "gh-2sgo4gsd",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.7k",
+        "stars": "164.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-yyqdh0ax",
+        "id": "gh-m16231bz",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "130.9k",
+        "stars": "131.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -324,15 +273,15 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-hlqclmlx",
-        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-        "desc": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source…",
+        "id": "ng-rss-1m8skopy",
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "desc": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
         "tag": "Space",
         "tagClass": "space",
         "source": "TechCrunch"
     },
     {
-        "id": "ng-rss-61je1jnz",
+        "id": "ng-rss-36ujopim",
         "title": "Our decision on Cursor following its acquisition by SpaceX",
         "desc": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
         "tag": "Space",
@@ -340,16 +289,8 @@ const NEWSLETTER_DATA = {
         "source": "OpenAI"
     },
     {
-        "id": "ng-hn-49503956",
-        "title": "How to build a diffusion language model",
-        "desc": "Click to read more about this development.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Hacker News"
-    },
-    {
-        "id": "ng-hn-49502214",
-        "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+        "id": "ng-hn-49519902",
+        "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
         "desc": "Click to read more about this development.",
         "tag": "Space",
         "tagClass": "space",
