@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-03T10:53:01.855Z
+   Updated: 2026-09-04T10:51:35.482Z
    Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ed25651b",
-    "topic": "AI Agents & Autonomy",
-    "topicId": "agents",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "excerpt": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "source": "TechCrunch",
-    "time": "14h ago",
+    "id": "rss-6mhwf6b1",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Safety overview: GPT-6 Astra",
+    "excerpt": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "source": "OpenAI",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+    "relevance": 87,
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra"
 },
 
     topics: [
@@ -45,90 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-wq0a4z6v",
-                "title": "How AI-native companies turn workflows into operating capability",
+                "id": "rss-6mhwf6b1",
+                "title": "Safety overview: GPT-6 Astra",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 82
+                "relevance": 87
             },
             {
-                "id": "rss-5w5ldenz",
-                "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+                "id": "rss-ep9df9hq",
+                "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
                 "source": "OpenAI",
                 "time": "22h ago",
-                "relevance": 81
+                "relevance": 84
             },
             {
-                "id": "rss-z5v3ggzh",
-                "title": "Proactive cyber defense for governments and enterprises",
-                "source": "Google Blog",
-                "time": "19h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-xlnrfjgo",
-                "title": "Path to Astra: critical capabilities and frontier safeguards",
+                "id": "rss-q36xk9et",
+                "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-0r71nakn",
-                "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
-                "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 79
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-ed25651b",
-                "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-v7fah4gr",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "6d ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-ioq0i8n1",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 77
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-7098xy0h",
-                "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-ncwiy89v",
-                "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-                "source": "TechCrunch",
-                "time": "12h ago",
+                "time": "21h ago",
                 "relevance": 82
+            },
+            {
+                "id": "rss-9jlt68cx",
+                "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-g0b52lps",
+                "title": "The sameness problem behind those unappetizing AI-generated menus",
+                "source": "TechCrunch",
+                "time": "6h ago",
+                "relevance": 81
             }
         ]
     },
@@ -139,18 +88,83 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-gk0io59k",
-                "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
+                "id": "rss-aipgeuol",
+                "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
                 "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 80
+                "time": "15h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-168dmvq8",
-                "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+                "id": "rss-cyhck2u0",
+                "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
                 "source": "MarkTechPost",
-                "time": "11h ago",
+                "time": "13h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-69cjk6qn",
+                "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+                "source": "MarkTechPost",
+                "time": "15h ago",
                 "relevance": 74
+            },
+            {
+                "id": "rss-mlj4tge2",
+                "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-x9o0ru27",
+                "title": "When agents act on their own, governance has to live in the data layer",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 74
+            },
+            {
+                "id": "rss-a4ibrgx9",
+                "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 71
+            },
+            {
+                "id": "hn-49507072",
+                "title": "How an MIT research project became the Julia programming language",
+                "source": "Hacker News",
+                "time": "4d ago",
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-oo06hv7s",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 78
+            },
+            {
+                "id": "rss-f4e4dva2",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 77
             }
         ]
     }
@@ -158,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-vv3c8c28",
-        "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-        "authors": "Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones",
+        "id": "arxiv-lavei67j",
+        "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+        "authors": "Shravan Venkatraman, Wenshuai Zhao, Mohammad Hassan Vali,…",
         "journal": "arXiv preprint",
-        "abstract": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress because systems use…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.02887v1"
-    },
-    {
-        "id": "arxiv-aik6gi59",
-        "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-        "authors": "Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong,…",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video backbones is challenging: datasets differ in temporal scale, camera geometry, visual quality, motion, and captioning…",
+        "abstract": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method treats temporal sampling density as privileged information, based on the hypothesis that a denser view of the same clip…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.02886v1"
+        "url": "http://arxiv.org/abs/2609.04203v1"
     },
     {
-        "id": "arxiv-s1ywdzba",
-        "title": "Discriminative World Models for Web Agents",
-        "authors": "Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, Chuyi Shang,…",
+        "id": "arxiv-vzsd22pm",
+        "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+        "authors": "Adeela Islam, Zorah Lähner, Vittorio Murino, Vladislav…",
         "journal": "arXiv preprint",
-        "abstract": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations…",
+        "abstract": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Existing learning-based approaches often rely on hand-crafted descriptors or template-based representations, whereas recent…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.04202v1"
+    },
+    {
+        "id": "arxiv-y4kvyedf",
+        "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+        "authors": "Chin-Yang Lin, Yang-Che Sun, Cheng Sun, Fu-En Yang,…",
+        "journal": "arXiv preprint",
+        "abstract": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per-frame depth…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.04201v1"
+    },
+    {
+        "id": "arxiv-clbg31ii",
+        "title": "Principia: Relational Physics Tests for Video Models",
+        "authors": "Varun Varma Thozhiyoor, Shivam Tripathi, Venkatesh Babu…",
+        "journal": "arXiv preprint",
+        "abstract": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the same physical law,…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.04200v1"
+    },
+    {
+        "id": "arxiv-di7yhcha",
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "authors": "Yuntian Deng, Pengyu Nie, Stuart Shieber",
+        "journal": "arXiv preprint",
+        "abstract": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2609.04199v1"
+    },
+    {
+        "id": "arxiv-zxcy3gdb",
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "authors": "Haoyaun Zhu, Jie Zhang",
+        "journal": "arXiv preprint",
+        "abstract": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2609.02885v1"
-    },
-    {
-        "id": "arxiv-70ygwhpm",
-        "title": "Graph Machine: Towards Better Pretraining via Edges",
-        "authors": "Lintai Hou",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting the potentially accessible state size to…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.02881v1"
-    },
-    {
-        "id": "arxiv-hu1adzrg",
-        "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-        "authors": "Alessio Spurio Mancini",
-        "journal": "arXiv preprint",
-        "abstract": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2609.02876v1"
-    },
-    {
-        "id": "arxiv-qqt2y9m4",
-        "title": "Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation",
-        "authors": "Yutong Liu, Nan Huang, Xu Cao, James M. Rehg",
-        "journal": "arXiv preprint",
-        "abstract": "Recent advancements in unified generative models (UGMs) and world simulators have achieved unprecedented results in visual perception and synthesis. However, these models primarily rely on surface-level event alignment, leaving the capacity for high-level visual reasoning underexplored. True visual generative…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.02864v1"
+        "url": "http://arxiv.org/abs/2609.04198v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-q5r9w0mn",
+        "id": "gh-2g5s4cx4",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "240.5k",
+        "stars": "241.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-6m921rls",
+        "id": "gh-8if628h3",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.1k",
@@ -233,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-n2xna2ao",
+        "id": "gh-lf3gxt1p",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "154.2k",
@@ -242,25 +256,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-augct0xy",
+        "id": "gh-56lv0stq",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.7k",
+        "stars": "164.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-0s10jyja",
+        "id": "gh-zmlw9y3u",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "102.7k",
+        "stars": "102.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-g66hfnhh",
+        "id": "gh-80qc0t44",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.8k",
@@ -269,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-0lv8us0v",
+        "id": "gh-s7c3r7ky",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "131.3k",
+        "stars": "131.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
