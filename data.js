@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-04T10:51:35.482Z
-   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-09-05T10:10:29.570Z
+   Stories: 25 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-6mhwf6b1",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Safety overview: GPT-6 Astra",
-    "excerpt": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-    "source": "OpenAI",
-    "time": "1d ago",
+    "id": "rss-73895h01",
+    "topic": "AI Agents & Autonomy",
+    "topicId": "agents",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "excerpt": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "source": "TechCrunch",
+    "time": "10h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+    "relevance": 86,
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
 },
 
     topics: [
@@ -45,104 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-6mhwf6b1",
-                "title": "Safety overview: GPT-6 Astra",
+                "id": "rss-fujfpkl9",
+                "title": "GPT-6 Astra: A new generation of intelligence",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 87
+                "relevance": 86
             },
             {
-                "id": "rss-ep9df9hq",
+                "id": "rss-6rch0n4l",
+                "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-i46kh67g",
                 "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
                 "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-q36xk9et",
+                "id": "rss-26vqcgmx",
                 "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 82
+                "time": "1d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-9jlt68cx",
+                "id": "rss-d9x1bd8v",
                 "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
                 "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-g0b52lps",
-                "title": "The sameness problem behind those unappetizing AI-generated menus",
-                "source": "TechCrunch",
-                "time": "6h ago",
-                "relevance": 81
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-aipgeuol",
-                "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-cyhck2u0",
-                "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-69cjk6qn",
-                "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-mlj4tge2",
-                "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
-                "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-x9o0ru27",
-                "title": "When agents act on their own, governance has to live in the data layer",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 74
-            },
-            {
-                "id": "rss-a4ibrgx9",
-                "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 71
-            },
-            {
-                "id": "hn-49507072",
-                "title": "How an MIT research project became the Julia programming language",
-                "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 65
+                "time": "1d ago",
+                "relevance": 79
             }
         ]
     },
@@ -153,18 +88,105 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-oo06hv7s",
+                "id": "rss-73895h01",
+                "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 86
+            },
+            {
+                "id": "rss-ogt34pp8",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 78
             },
             {
-                "id": "rss-f4e4dva2",
+                "id": "rss-dr2xrmg6",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 77
+            },
+            {
+                "id": "rss-elp7j9gy",
+                "title": "Discovery of a new OpenAI agent message board",
+                "source": "Hacker News",
+                "time": "22h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-1vqxsy18",
+                "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-bq8fvm22",
+                "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-d7lcmx8y",
+                "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-7m13ogzu",
+                "title": "What will Apple’s John Ternus era look like?",
+                "source": "TechCrunch",
+                "time": "16h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-me24drjv",
+                "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 82
+            }
+        ]
+    },
+    {
+        "id": "topic-security",
+        "name": "AI Safety & Security",
+        "icon": "◊",
+        "color": "#ef4444",
+        "stories": [
+            {
+                "id": "hn-49572875",
+                "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+                "source": "Hacker News",
+                "time": "6h ago",
+                "relevance": 71
+            },
+            {
+                "id": "hn-49569663",
+                "title": "An open DNS recursive service for free security and high privacy",
+                "source": "Hacker News",
+                "time": "13h ago",
+                "relevance": 69
             }
         ]
     }
@@ -172,7 +194,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-lavei67j",
+        "id": "arxiv-ejla7mlv",
         "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
         "authors": "Shravan Venkatraman, Wenshuai Zhao, Mohammad Hassan Vali,…",
         "journal": "arXiv preprint",
@@ -181,7 +203,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.04203v1"
     },
     {
-        "id": "arxiv-vzsd22pm",
+        "id": "arxiv-6grl1i7c",
         "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
         "authors": "Adeela Islam, Zorah Lähner, Vittorio Murino, Vladislav…",
         "journal": "arXiv preprint",
@@ -190,7 +212,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.04202v1"
     },
     {
-        "id": "arxiv-y4kvyedf",
+        "id": "arxiv-rmrdkxci",
         "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
         "authors": "Chin-Yang Lin, Yang-Che Sun, Cheng Sun, Fu-En Yang,…",
         "journal": "arXiv preprint",
@@ -199,7 +221,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.04201v1"
     },
     {
-        "id": "arxiv-clbg31ii",
+        "id": "arxiv-o5qoz702",
         "title": "Principia: Relational Physics Tests for Video Models",
         "authors": "Varun Varma Thozhiyoor, Shivam Tripathi, Venkatesh Babu…",
         "journal": "arXiv preprint",
@@ -208,7 +230,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.04200v1"
     },
     {
-        "id": "arxiv-di7yhcha",
+        "id": "arxiv-tnjzmgdz",
         "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
         "authors": "Yuntian Deng, Pengyu Nie, Stuart Shieber",
         "journal": "arXiv preprint",
@@ -217,7 +239,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.04199v1"
     },
     {
-        "id": "arxiv-zxcy3gdb",
+        "id": "arxiv-4c452ue7",
         "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
         "authors": "Haoyaun Zhu, Jie Zhang",
         "journal": "arXiv preprint",
@@ -229,16 +251,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-2g5s4cx4",
+        "id": "gh-hmwsfldp",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "241.2k",
+        "stars": "241.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-8if628h3",
+        "id": "gh-amtuzre7",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.1k",
@@ -247,16 +269,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-lf3gxt1p",
+        "id": "gh-wvaz3l53",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "154.2k",
+        "stars": "154.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-56lv0stq",
+        "id": "gh-syuqexe7",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.8k",
@@ -265,7 +287,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-zmlw9y3u",
+        "id": "gh-6o1avjtn",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.8k",
@@ -274,7 +296,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-80qc0t44",
+        "id": "gh-k5xvm4gq",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.8k",
@@ -283,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-s7c3r7ky",
+        "id": "gh-12k83iqz",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "131.5k",
+        "stars": "131.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
