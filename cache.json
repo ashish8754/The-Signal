@@ -1,6 +1,270 @@
 {
   "stories": [
     {
+      "id": "rss-4zelbebv",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-03 11:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "score": 83.57142857142857,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-qmoyuo1z",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "source": "TechCrunch",
+      "time": "14h ago",
+      "rawDate": "2026-09-05 19:35:24",
+      "topic": "llms",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "score": 83,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-323w7w40",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "source": "TechCrunch",
+      "time": "16h ago",
+      "rawDate": "2026-09-05 18:05:27",
+      "topic": "devtools",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "score": 82.61538461538461,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-yzu3wk4g",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-03 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "score": 79.44444444444444,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-3y63rjq9",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
+      "score": 77.66666666666667,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-npe2c87p",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-03 13:15:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "score": 77.22222222222223,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-isxkwqyn",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
+      "score": 77.15384615384616,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-ikaxuigm",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-03 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "score": 77,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-t0j205jd",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-09-01 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "score": 76.63636363636364,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-i6ddcg5h",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "source": "TechCrunch",
+      "time": "1d ago",
+      "rawDate": "2026-09-04 23:36:14",
+      "topic": "robotics",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "description": "The round is being raised just months after the robot data startup exited from stealth.",
+      "score": 76.11111111111111,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-nlt45axv",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-09-02 15:40:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-3rog4d4b",
+      "title": "GPT-6 Astra on robot arms",
+      "source": "Hacker News",
+      "time": "8h ago",
+      "rawDate": "2026-09-06 01:52:45",
+      "topic": "robotics",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "description": "Comments",
+      "score": 75,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-k5y7epti",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 12:01:00",
+      "topic": "opensource",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
+      "score": 73.85714285714286,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-j35h6t2z",
+      "title": "The latest AI news we announced in August 2026",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-09-01 20:45:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "description": "Here are Google’s latest AI updates from August 2026",
+      "score": 73,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-ydskv6wf",
+      "title": "3 new ways to plan and book travel in Search",
+      "source": "Google Blog",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "score": 73,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "hn-49546198",
+      "title": "IBM Quantum Nighthawk R2",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-09-03T05:16:04.000Z",
+      "topic": "quantum",
+      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+      "description": "",
+      "score": 72,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "rss-x4a5d9el",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "source": "VentureBeat",
+      "time": "Aug 19",
+      "rawDate": "2026-08-19 14:18:12",
+      "topic": "llms",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
+      "score": 71,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "hn-49582719",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "source": "Hacker News",
+      "time": "8h ago",
+      "rawDate": "2026-09-06T02:24:57.000Z",
+      "topic": "hardware",
+      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "description": "",
+      "score": 71,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "hn-49576386",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "source": "Hacker News",
+      "time": "20h ago",
+      "rawDate": "2026-09-05T13:36:38.000Z",
+      "topic": "hardware",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "description": "",
+      "score": 69.5,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "hn-49580369",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "source": "Hacker News",
+      "time": "13h ago",
+      "rawDate": "2026-09-05T20:31:38.000Z",
+      "topic": "space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "description": "",
+      "score": 69,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "hn-49563355",
+      "title": "Discovery of a new OpenAI agent message board",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-09-04T11:54:53.000Z",
+      "topic": "agents",
+      "url": "https://collusion.wiki/",
+      "description": "",
+      "score": 66.5,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
+      "id": "hn-49539110",
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-09-02T16:56:03.000Z",
+      "topic": "hardware",
+      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-09-06T10:31:06.933Z"
+    },
+    {
       "id": "rss-73895h01",
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "source": "TechCrunch",
@@ -10,18 +274,6 @@
       "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
       "score": 86.33333333333333,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-fujfpkl9",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-03 11:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "score": 85.57142857142857,
       "cachedAt": "2026-09-05T10:10:29.567Z"
     },
     {
@@ -61,18 +313,6 @@
       "cachedAt": "2026-09-05T10:10:29.567Z"
     },
     {
-      "id": "rss-i46kh67g",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-03 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "score": 81.44444444444444,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
       "id": "rss-1vqxsy18",
       "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
       "source": "MarkTechPost",
@@ -82,54 +322,6 @@
       "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
       "description": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs…",
       "score": 80.88235294117646,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-26vqcgmx",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-03 13:15:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-3pmccpq7",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "source": "TechCrunch",
-      "time": "10h ago",
-      "rawDate": "2026-09-04 23:36:14",
-      "topic": "robotics",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "score": 79.11111111111111,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-d9x1bd8v",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-03 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "score": 79,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-ogt34pp8",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
-      "score": 77.66666666666667,
       "cachedAt": "2026-09-05T10:10:29.567Z"
     },
     {
@@ -145,78 +337,6 @@
       "cachedAt": "2026-09-05T10:10:29.567Z"
     },
     {
-      "id": "rss-dr2xrmg6",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
-      "score": 77.15384615384616,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-t3832ii3",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-09-01 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "score": 76.63636363636364,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-tszkl8u4",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-09-02 15:40:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "score": 75.85714285714286,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-q7q5vumi",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 12:01:00",
-      "topic": "opensource",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
-      "score": 73.85714285714286,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-kjkago66",
-      "title": "The latest AI news we announced in August 2026",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-09-01 20:45:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "description": "Here are Google’s latest AI updates from August 2026",
-      "score": 73,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-yu5xkyl3",
-      "title": "3 new ways to plan and book travel in Search",
-      "source": "Google Blog",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-      "score": 73,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
       "id": "hn-49572875",
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
       "source": "Hacker News",
@@ -226,18 +346,6 @@
       "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
       "description": "",
       "score": 71.44444444444444,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-patlutzo",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "source": "VentureBeat",
-      "time": "Aug 19",
-      "rawDate": "2026-08-19 14:18:12",
-      "topic": "llms",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
-      "score": 71,
       "cachedAt": "2026-09-05T10:10:29.567Z"
     },
     {
@@ -262,18 +370,6 @@
       "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
       "description": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost .",
       "score": 70.33333333333333,
-      "cachedAt": "2026-09-05T10:10:29.567Z"
-    },
-    {
-      "id": "rss-elp7j9gy",
-      "title": "Discovery of a new OpenAI agent message board",
-      "source": "Hacker News",
-      "time": "22h ago",
-      "rawDate": "2026-09-04 11:54:53",
-      "topic": "agents",
-      "url": "https://collusion.wiki/",
-      "description": "Comments",
-      "score": 69.5,
       "cachedAt": "2026-09-05T10:10:29.567Z"
     },
     {
@@ -1187,54 +1283,6 @@
       "description": "",
       "score": 71,
       "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "hn-49485416",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "source": "Hacker News",
-      "time": "13h ago",
-      "rawDate": "2026-08-28T23:27:45.000Z",
-      "topic": "llms",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "description": "",
-      "score": 72,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
-    },
-    {
-      "id": "hn-49480466",
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "source": "Hacker News",
-      "time": "20h ago",
-      "rawDate": "2026-08-28T15:58:46.000Z",
-      "topic": "security",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "description": "",
-      "score": 68.42857142857143,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
-    },
-    {
-      "id": "hn-49420524",
-      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-      "source": "Hacker News",
-      "time": "4d ago",
-      "rawDate": "2026-08-24T14:44:20.000Z",
-      "topic": "space",
-      "url": "https://galaxium.app",
-      "description": "",
-      "score": 67,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
-    },
-    {
-      "id": "hn-49443783",
-      "title": "Visual Analysis of Binary Files",
-      "source": "Hacker News",
-      "time": "3d ago",
-      "rawDate": "2026-08-26T03:11:13.000Z",
-      "topic": "vision",
-      "url": "https://binvis.io/#/",
-      "description": "",
-      "score": 66,
-      "cachedAt": "2026-08-29T12:28:46.208Z"
     }
   ]
 }
