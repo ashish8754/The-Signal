@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-06T10:31:06.936Z
-   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-09-07T11:54:02.006Z
+   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-4zelbebv",
+    "id": "rss-9junnb33",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "excerpt": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "title": "Research acceleration: The view inside OpenAI",
+    "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://openai.com/index/gpt-6-astra"
+    "relevance": 87,
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai"
 },
 
     topics: [
@@ -45,39 +45,75 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-4zelbebv",
-                "title": "GPT-6 Astra: A new generation of intelligence",
+                "id": "rss-9junnb33",
+                "title": "Research acceleration: The view inside OpenAI",
                 "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-qmoyuo1z",
+                "id": "rss-f62jtrv1",
                 "title": "Hikers rescued after using Google Gemini for planning",
                 "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 83
+                "time": "1d ago",
+                "relevance": 80
             },
             {
-                "id": "rss-yzu3wk4g",
+                "id": "rss-0bspiwre",
                 "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-npe2c87p",
+                "id": "rss-5fglc16l",
                 "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-ikaxuigm",
-                "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-                "source": "OpenAI",
-                "time": "2d ago",
+                "id": "rss-kz9coozb",
+                "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+                "source": "Google Blog",
+                "time": "5d ago",
                 "relevance": 77
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-vhh5zt3u",
+                "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-lg1wk7q4",
+                "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-eknm4on6",
+                "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+                "source": "MarkTechPost",
+                "time": "15h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-24ktq2wp",
+                "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 73
             }
         ]
     },
@@ -88,76 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-3y63rjq9",
+                "id": "rss-bsbcr56y",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 78
             },
             {
-                "id": "rss-isxkwqyn",
+                "id": "rss-g4x1q02k",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 77
-            },
-            {
-                "id": "hn-49563355",
-                "title": "Discovery of a new OpenAI agent message board",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
-            }
-        ]
-    },
-    {
-        "id": "topic-hardware",
-        "name": "AI Hardware",
-        "icon": "◆",
-        "color": "#f472b6",
-        "stories": [
-            {
-                "id": "hn-49582719",
-                "title": "AMD Based FreeBSD Desktop Reloaded",
-                "source": "Hacker News",
-                "time": "8h ago",
-                "relevance": 71
-            },
-            {
-                "id": "hn-49576386",
-                "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-                "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-49539110",
-                "title": "Delidded Intel I9-14900KS CT Scan",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 66
-            }
-        ]
-    },
-    {
-        "id": "topic-robotics",
-        "name": "Robotics & Embodiment",
-        "icon": "◈",
-        "color": "#a855f7",
-        "stories": [
-            {
-                "id": "rss-i6ddcg5h",
-                "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-                "source": "TechCrunch",
-                "time": "1d ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-3rog4d4b",
-                "title": "GPT-6 Astra on robot arms",
-                "source": "Hacker News",
-                "time": "8h ago",
-                "relevance": 75
             }
         ]
     }
@@ -165,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-i9zm4bw8",
-        "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
-        "authors": "Shravan Venkatraman, Wenshuai Zhao, Mohammad Hassan Vali,…",
+        "id": "arxiv-83zjobnk",
+        "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+        "authors": "Muyao Niu, Jixuan He, Ruihan Yu, Lian Fu, Yonghao Yu,…",
         "journal": "arXiv preprint",
-        "abstract": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method treats temporal sampling density as privileged information, based on the hypothesis that a denser view of the same clip…",
+        "abstract": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simulation, and…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.04203v1"
+        "url": "http://arxiv.org/abs/2609.05416v1"
     },
     {
-        "id": "arxiv-dx1fwziz",
-        "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
-        "authors": "Adeela Islam, Zorah Lähner, Vittorio Murino, Vladislav…",
+        "id": "arxiv-20q3yvfa",
+        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+        "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue…",
         "journal": "arXiv preprint",
-        "abstract": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Existing learning-based approaches often rely on hand-crafted descriptors or template-based representations, whereas recent…",
+        "abstract": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.04202v1"
+        "url": "http://arxiv.org/abs/2609.05415v1"
     },
     {
-        "id": "arxiv-3ddmm3kp",
-        "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
-        "authors": "Chin-Yang Lin, Yang-Che Sun, Cheng Sun, Fu-En Yang,…",
+        "id": "arxiv-c8ii6r5b",
+        "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+        "authors": "Ji Soo Lee, Xilun Chen, Pierce Chuang, Ashish Shenoy, Jason…",
         "journal": "arXiv preprint",
-        "abstract": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per-frame depth…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.04201v1"
-    },
-    {
-        "id": "arxiv-9hpwxzp4",
-        "title": "Principia: Relational Physics Tests for Video Models",
-        "authors": "Varun Varma Thozhiyoor, Shivam Tripathi, Venkatesh Babu…",
-        "journal": "arXiv preprint",
-        "abstract": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the same physical law,…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.04200v1"
-    },
-    {
-        "id": "arxiv-bw5sgefm",
-        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-        "authors": "Yuntian Deng, Pengyu Nie, Stuart Shieber",
-        "journal": "arXiv preprint",
-        "abstract": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At…",
+        "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable record. We introduce WearableQA, a benchmark comprising 4,084 10-option multiple-choice questions…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.04199v1"
+        "url": "http://arxiv.org/abs/2609.05405v1"
     },
     {
-        "id": "arxiv-8txgcx8j",
-        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-        "authors": "Haoyaun Zhu, Jie Zhang",
+        "id": "arxiv-qzbo6x7a",
+        "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+        "authors": "Sihwa Park",
         "journal": "arXiv preprint",
-        "abstract": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2609.04198v1"
+        "abstract": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process that underlies…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2609.05404v1"
+    },
+    {
+        "id": "arxiv-wu68f0lv",
+        "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+        "authors": "Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak, Siddharth…",
+        "journal": "arXiv preprint",
+        "abstract": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, but standard FL…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.05403v1"
+    },
+    {
+        "id": "arxiv-fx6b99nu",
+        "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+        "authors": "Wonje Jeung, Sangyeon Yoon, Hyesoo Hong, Yoonjun Cho,…",
+        "journal": "arXiv preprint",
+        "abstract": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often violate this property. Paraphrasing the…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.05401v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-d6037xdw",
+        "id": "gh-0n88lsl4",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "242.2k",
+        "stars": "242.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-andsbiq7",
+        "id": "gh-ec69iix5",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.2k",
@@ -240,16 +218,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-s53pt3vd",
+        "id": "gh-t9q64amk",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "154.3k",
+        "stars": "154.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-l5yfuk8s",
+        "id": "gh-1rhp55hk",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "164.9k",
@@ -258,7 +236,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-aern0w4a",
+        "id": "gh-70epql5u",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.8k",
@@ -267,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-3g3lr4xv",
+        "id": "gh-b395owie",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.8k",
@@ -276,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-ryszlaw7",
+        "id": "gh-io5ahqyj",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "131.7k",
+        "stars": "131.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -288,7 +266,15 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-t0j205jd",
+        "id": "ng-rss-lg1wk7q4",
+        "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+        "desc": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image…",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "MarkTechPost"
+    },
+    {
+        "id": "ng-rss-kz9coozb",
         "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
         "desc": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
         "tag": "Space",
@@ -296,20 +282,12 @@ const NEWSLETTER_DATA = {
         "source": "Google Blog"
     },
     {
-        "id": "ng-hn-49546198",
-        "title": "IBM Quantum Nighthawk R2",
-        "desc": "Click to read more about this development.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Hacker News"
-    },
-    {
-        "id": "ng-hn-49580369",
-        "title": "Private German rocket makes history, reaches orbit from European soil",
-        "desc": "Click to read more about this development.",
+        "id": "ng-rss-24ktq2wp",
+        "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+        "desc": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible…",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
+        "source": "MarkTechPost"
     }
 ]
 };

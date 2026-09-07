@@ -1,6 +1,222 @@
 {
   "stories": [
     {
+      "id": "rss-9junnb33",
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-09-06 08:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "score": 87,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-c3gwtajn",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-09-07 09:26:41",
+      "topic": "hardware",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "description": "Comments",
+      "score": 80.57142857142857,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-f62jtrv1",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "source": "TechCrunch",
+      "time": "1d ago",
+      "rawDate": "2026-09-05 19:35:24",
+      "topic": "llms",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "score": 80,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-vhh5zt3u",
+      "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
+      "source": "MarkTechPost",
+      "time": "6h ago",
+      "rawDate": "2026-09-07 05:00:37",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
+      "description": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost .",
+      "score": 80,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-0bspiwre",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "source": "OpenAI",
+      "time": "3d ago",
+      "rawDate": "2026-09-03 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "score": 79.44444444444444,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-bsbcr56y",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
+      "score": 77.66666666666667,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-5fglc16l",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "source": "OpenAI",
+      "time": "3d ago",
+      "rawDate": "2026-09-03 13:15:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "score": 77.22222222222223,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-g4x1q02k",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
+      "score": 77.15384615384616,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-lg1wk7q4",
+      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+      "source": "MarkTechPost",
+      "time": "14h ago",
+      "rawDate": "2026-09-06 21:06:41",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+      "description": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the…",
+      "score": 76.66666666666667,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-kz9coozb",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-09-01 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "score": 76.63636363636364,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-bw4417lv",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-09-02 15:40:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-eknm4on6",
+      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+      "source": "MarkTechPost",
+      "time": "15h ago",
+      "rawDate": "2026-09-06 20:25:17",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+      "description": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on…",
+      "score": 75.33333333333333,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-rdgywpe3",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 12:01:00",
+      "topic": "opensource",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
+      "score": 73.85714285714286,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "hn-49594878",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "source": "Hacker News",
+      "time": "4h ago",
+      "rawDate": "2026-09-07T07:03:20.000Z",
+      "topic": "multimodal",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "description": "",
+      "score": 73.42857142857143,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-90nk6ex3",
+      "title": "The latest AI news we announced in August 2026",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-09-01 20:45:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "description": "Here are Google’s latest AI updates from August 2026",
+      "score": 73,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-4b1idzbu",
+      "title": "3 new ways to plan and book travel in Search",
+      "source": "Google Blog",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "score": 73,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-24ktq2wp",
+      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-09-06 06:11:02",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+      "description": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation…",
+      "score": 72.88235294117646,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
+      "id": "rss-dox7a5h6",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "source": "VentureBeat",
+      "time": "Aug 19",
+      "rawDate": "2026-08-19 14:18:12",
+      "topic": "llms",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
+      "score": 71,
+      "cachedAt": "2026-09-07T11:54:02.003Z"
+    },
+    {
       "id": "rss-4zelbebv",
       "title": "GPT-6 Astra: A new generation of intelligence",
       "source": "OpenAI",
@@ -10,18 +226,6 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "score": 83.57142857142857,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-qmoyuo1z",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "source": "TechCrunch",
-      "time": "14h ago",
-      "rawDate": "2026-09-05 19:35:24",
-      "topic": "llms",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "score": 83,
       "cachedAt": "2026-09-06T10:31:06.933Z"
     },
     {
@@ -37,54 +241,6 @@
       "cachedAt": "2026-09-06T10:31:06.933Z"
     },
     {
-      "id": "rss-yzu3wk4g",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "source": "OpenAI",
-      "time": "2d ago",
-      "rawDate": "2026-09-03 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "score": 79.44444444444444,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-3y63rjq9",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
-      "score": 77.66666666666667,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-npe2c87p",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "source": "OpenAI",
-      "time": "2d ago",
-      "rawDate": "2026-09-03 13:15:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "score": 77.22222222222223,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-isxkwqyn",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As…",
-      "score": 77.15384615384616,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
       "id": "rss-ikaxuigm",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "source": "OpenAI",
@@ -94,18 +250,6 @@
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "score": 77,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-t0j205jd",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "source": "Google Blog",
-      "time": "4d ago",
-      "rawDate": "2026-09-01 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "score": 76.63636363636364,
       "cachedAt": "2026-09-06T10:31:06.933Z"
     },
     {
@@ -121,18 +265,6 @@
       "cachedAt": "2026-09-06T10:31:06.933Z"
     },
     {
-      "id": "rss-nlt45axv",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-09-02 15:40:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "score": 75.85714285714286,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
       "id": "rss-3rog4d4b",
       "title": "GPT-6 Astra on robot arms",
       "source": "Hacker News",
@@ -145,42 +277,6 @@
       "cachedAt": "2026-09-06T10:31:06.933Z"
     },
     {
-      "id": "rss-k5y7epti",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 12:01:00",
-      "topic": "opensource",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
-      "score": 73.85714285714286,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-j35h6t2z",
-      "title": "The latest AI news we announced in August 2026",
-      "source": "Google Blog",
-      "time": "4d ago",
-      "rawDate": "2026-09-01 20:45:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "description": "Here are Google’s latest AI updates from August 2026",
-      "score": 73,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-ydskv6wf",
-      "title": "3 new ways to plan and book travel in Search",
-      "source": "Google Blog",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-      "score": 73,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
       "id": "hn-49546198",
       "title": "IBM Quantum Nighthawk R2",
       "source": "Hacker News",
@@ -190,18 +286,6 @@
       "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
       "description": "",
       "score": 72,
-      "cachedAt": "2026-09-06T10:31:06.933Z"
-    },
-    {
-      "id": "rss-x4a5d9el",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "source": "VentureBeat",
-      "time": "Aug 19",
-      "rawDate": "2026-08-19 14:18:12",
-      "topic": "llms",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the…",
-      "score": 71,
       "cachedAt": "2026-09-06T10:31:06.933Z"
     },
     {
@@ -1163,126 +1247,6 @@
       "description": "",
       "score": 70.33333333333333,
       "cachedAt": "2026-08-31T13:02:08.585Z"
-    },
-    {
-      "id": "rss-7sn1u56m",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "source": "TechCrunch",
-      "time": "22h ago",
-      "rawDate": "2026-08-29 13:00:00",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "score": 88,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "rss-4am848p1",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "source": "TechCrunch",
-      "time": "1d ago",
-      "rawDate": "2026-08-28 20:24:11",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "score": 83,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "rss-mt1op4cl",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "source": "TechCrunch",
-      "time": "17h ago",
-      "rawDate": "2026-08-29 17:36:47",
-      "topic": "biotech",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-      "score": 81.33333333333333,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "rss-82qs8b60",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "source": "MarkTechPost",
-      "time": "16h ago",
-      "rawDate": "2026-08-29 18:57:26",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
-      "description": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUDA-enabled PyTorch environment, load the FCN prognostic model, and retrieve atmospheric initial conditions from GFS. We then implement a custom wind-power diagnostic that converts 10-meter wind components into turbine capacity factors, along […] The post Building Custom Batched Ensemble Weather Forecasting with NVIDIA…",
-      "score": 80,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "rss-2fdtaumh",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "source": "MarkTechPost",
-      "time": "20h ago",
-      "rawDate": "2026-08-29 14:30:44",
-      "topic": "llms",
-      "url": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "description": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency. The post Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling…",
-      "score": 75,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "hn-49496543",
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "source": "Hacker News",
-      "time": "3h ago",
-      "rawDate": "2026-08-30T07:35:41.000Z",
-      "topic": "infra",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "description": "",
-      "score": 74.5,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "rss-y0l01uqs",
-      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "source": "MarkTechPost",
-      "time": "9h ago",
-      "rawDate": "2026-08-30 01:35:02",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "description": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning. The post Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs appeared first on MarkTechPost .",
-      "score": 74.28571428571429,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "hn-49497227",
-      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-08-30T09:56:05.000Z",
-      "topic": "llms",
-      "url": "https://github.com/AniketWathore/bolnee-chat",
-      "description": "",
-      "score": 73.66666666666667,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "hn-49469786",
-      "title": "Benchmarking Pocket-Scale Inference",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-08-27T19:12:03.000Z",
-      "topic": "llms",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "description": "",
-      "score": 72,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
-    },
-    {
-      "id": "hn-49490870",
-      "title": "Nancy Grace Roman Space Telescope",
-      "source": "Hacker News",
-      "time": "19h ago",
-      "rawDate": "2026-08-29T15:48:02.000Z",
-      "topic": "space",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "description": "",
-      "score": 71,
-      "cachedAt": "2026-08-30T11:29:49.313Z"
     }
   ]
 }
