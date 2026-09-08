@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-07T11:54:02.006Z
-   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-08T10:50:48.058Z
+   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-9junnb33",
+    "id": "rss-hzwruu3i",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Research acceleration: The view inside OpenAI",
     "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 87,
+    "relevance": 85,
     "url": "https://openai.com/index/research-acceleration-view-inside-openai"
 },
 
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-9junnb33",
+                "id": "rss-hzwruu3i",
                 "title": "Research acceleration: The view inside OpenAI",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "2d ago",
+                "relevance": 85
             },
             {
-                "id": "rss-f62jtrv1",
-                "title": "Hikers rescued after using Google Gemini for planning",
-                "source": "TechCrunch",
+                "id": "hn-49605822",
+                "title": "Multi-Agents LLM Financial Trading Framework",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-1juuijje",
+                "title": "Supporting independent journalism in Ukraine",
+                "source": "OpenAI",
                 "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-1ff6wiw2",
+                "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+                "source": "MarkTechPost",
+                "time": "15h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-0bspiwre",
-                "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-                "source": "OpenAI",
-                "time": "3d ago",
+                "id": "hn-49605767",
+                "title": "Mistral raises €3B",
+                "source": "Hacker News",
+                "time": "5h ago",
                 "relevance": 79
-            },
-            {
-                "id": "rss-5fglc16l",
-                "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-kz9coozb",
-                "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-                "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 77
             }
         ]
     },
@@ -88,31 +88,24 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-vhh5zt3u",
+                "id": "rss-albs2pxw",
                 "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
                 "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-lg1wk7q4",
-                "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
-                "source": "MarkTechPost",
-                "time": "14h ago",
+                "time": "1d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-eknm4on6",
-                "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+                "id": "rss-5axcwrs3",
+                "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
                 "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 75
+                "time": "16h ago",
+                "relevance": 76
             },
             {
-                "id": "rss-24ktq2wp",
-                "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+                "id": "rss-1sh5j3fv",
+                "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "7h ago",
                 "relevance": 73
             }
         ]
@@ -124,14 +117,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-bsbcr56y",
+                "id": "rss-44dqjiv7",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 78
             },
             {
-                "id": "rss-g4x1q02k",
+                "id": "rss-ti4hgips",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +136,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-83zjobnk",
+        "id": "arxiv-4dnfncr4",
         "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "authors": "Muyao Niu, Jixuan He, Ruihan Yu, Lian Fu, Yonghao Yu,…",
         "journal": "arXiv preprint",
@@ -152,7 +145,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.05416v1"
     },
     {
-        "id": "arxiv-20q3yvfa",
+        "id": "arxiv-hb3sg81p",
         "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
         "authors": "Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue…",
         "journal": "arXiv preprint",
@@ -161,7 +154,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.05415v1"
     },
     {
-        "id": "arxiv-c8ii6r5b",
+        "id": "arxiv-1i7iq3mh",
         "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
         "authors": "Ji Soo Lee, Xilun Chen, Pierce Chuang, Ashish Shenoy, Jason…",
         "journal": "arXiv preprint",
@@ -170,7 +163,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.05405v1"
     },
     {
-        "id": "arxiv-qzbo6x7a",
+        "id": "arxiv-e9zpqdec",
         "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
         "authors": "Sihwa Park",
         "journal": "arXiv preprint",
@@ -179,7 +172,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.05404v1"
     },
     {
-        "id": "arxiv-wu68f0lv",
+        "id": "arxiv-0ay7w3ym",
         "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
         "authors": "Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak, Siddharth…",
         "journal": "arXiv preprint",
@@ -188,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.05403v1"
     },
     {
-        "id": "arxiv-fx6b99nu",
+        "id": "arxiv-bfa4mh1g",
         "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
         "authors": "Wonje Jeung, Sangyeon Yoon, Hyesoo Hong, Yoonjun Cho,…",
         "journal": "arXiv preprint",
@@ -200,16 +193,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-0n88lsl4",
+        "id": "gh-b5fpilw6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "242.9k",
+        "stars": "243.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ec69iix5",
+        "id": "gh-c8vqett4",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.2k",
@@ -218,7 +211,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-t9q64amk",
+        "id": "gh-q6v8ljxu",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "154.4k",
@@ -227,37 +220,37 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-1rhp55hk",
+        "id": "gh-a6csn155",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "164.9k",
+        "stars": "165.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-70epql5u",
+        "id": "gh-4zkyv3x8",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "102.8k",
+        "stars": "102.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-b395owie",
+        "id": "gh-1jlvcy00",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "164.8k",
+        "stars": "164.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-io5ahqyj",
+        "id": "gh-5vqahq8c",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "131.9k",
+        "stars": "132.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -266,28 +259,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-lg1wk7q4",
-        "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
-        "desc": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image…",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
+    },
+    {
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "MarkTechPost"
+        "source": "Reuters"
     },
     {
-        "id": "ng-rss-kz9coozb",
-        "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-        "desc": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Google Blog"
-    },
-    {
-        "id": "ng-rss-24ktq2wp",
-        "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
-        "desc": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible…",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "MarkTechPost"
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
