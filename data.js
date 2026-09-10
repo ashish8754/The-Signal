@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-09T10:56:16.804Z
-   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-10T10:52:52.691Z
+   Stories: 26 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ub0ofyhl",
+    "id": "rss-8nnd6ph5",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "excerpt": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
     "source": "OpenAI",
     "time": "17h ago",
     "readTime": "5 min read",
     "relevance": 90,
-    "url": "https://openai.com/index/codex-quantum-computing-experiments"
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ub0ofyhl",
-                "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+                "id": "rss-8nnd6ph5",
+                "title": "Paul Christiano joins OpenAI Foundation Board",
                 "source": "OpenAI",
                 "time": "17h ago",
                 "relevance": 90
             },
             {
-                "id": "rss-ubrkimpq",
-                "title": "Introducing ChatGPT Images 2.5",
+                "id": "rss-dvikbb3w",
+                "title": "GPT-6 Astra: The next generation in intelligence for work",
                 "source": "OpenAI",
                 "time": "23h ago",
-                "relevance": 90
+                "relevance": 89
             },
             {
-                "id": "rss-c5ka1o2f",
-                "title": "Hackers are stealing Claude tokens from subscribers",
-                "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-9gfvxsmb",
-                "title": "The Work Now Within Reach",
-                "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-36znsbi7",
-                "title": "On the Navier–Stokes Millennium Prize Problem",
+                "id": "rss-fh365e95",
+                "title": "How GPT-5.6 Sol helps run quantum computing experiments",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 77
+                "relevance": 87
+            },
+            {
+                "id": "rss-qjq6od3r",
+                "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-f7awwm9t",
+                "title": "The AI policy window is open. We need to act.",
+                "source": "OpenAI",
+                "time": "21h ago",
+                "relevance": 84
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-o0p5vr99",
+                "id": "rss-6dkkdfvc",
+                "title": "OpenAI adds a prominent AI doomer to its board of directors",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-su5v1o3o",
+                "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
+                "source": "MarkTechPost",
+                "time": "8h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-2xia3p3c",
+                "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-e326xm38",
                 "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-o7nu4gcb",
-                "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-ygy8pcvp",
-                "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
-                "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-07njgget",
-                "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 71
+                "time": "1d ago",
+                "relevance": 72
             }
         ]
     },
@@ -124,32 +124,76 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-uiz69fpw",
-                "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-vflpvs3u",
+                "id": "rss-bu7e18ks",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 78
             },
             {
-                "id": "rss-jugoasbj",
+                "id": "rss-7mom98wq",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 77
             },
             {
-                "id": "rss-r8ochduf",
-                "title": "Muse – Meta’s personal AI agent",
+                "id": "hn-49627370",
+                "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
                 "source": "Hacker News",
-                "time": "15h ago",
+                "time": "20h ago",
+                "relevance": 76
+            },
+            {
+                "id": "hn-49629886",
+                "title": "Growing proof that autonomous cars save lives",
+                "source": "Hacker News",
+                "time": "17h ago",
                 "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-u0wz4wdm",
+                "title": "When agents act on their own, governance has to live in the data layer",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 74
+            },
+            {
+                "id": "hn-49612223",
+                "title": "Open Source Durable Objects for Postgres",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 67
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "hn-49623398",
+                "title": "Show HN: Compute polynomials twice as fast",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 67
+            },
+            {
+                "id": "rss-rinm22g6",
+                "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+                "source": "Hacker News",
+                "time": "3d ago",
+                "relevance": 65
             }
         ]
     }
@@ -157,73 +201,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-bmzp4l2e",
-        "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
-        "authors": "Anqi Li, Yuxin Chen, Zhaobo Li, Zhuo Cao, Junli Ren,…",
+        "id": "arxiv-adm1bj4c",
+        "title": "Programmable World Model",
+        "authors": "Zheng-Hui Huang, Guixu Lin, Jiacheng Lin, Yi-Chuan Huang,…",
         "journal": "arXiv preprint",
-        "abstract": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.09158v1"
-    },
-    {
-        "id": "arxiv-ccy9l28j",
-        "title": "Learning Length-Extrapolatable Recurrent Models",
-        "authors": "Hanwen Jiang",
-        "journal": "arXiv preprint",
-        "abstract": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train a shared recurrent…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.09157v1"
-    },
-    {
-        "id": "arxiv-i6p8aqlj",
-        "title": "ReCite: Agentic Reasoning for Faithful Citation",
-        "authors": "Yuyang Huang, Bobo Li, Jiajia Song, Yuzhe Ding, Chong Teng,…",
-        "journal": "arXiv preprint",
-        "abstract": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult, prompting reliance on automatic citation recommendation. While modern retrieval-augmented…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.09156v1"
-    },
-    {
-        "id": "arxiv-5lg920hu",
-        "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
-        "authors": "Yuncong Yang, Zhengtao Han, Furkan Ozyurt, Zeyuan Yang, Han…",
-        "journal": "arXiv preprint",
-        "abstract": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle to scaling such models in robotics is that actions are not a universal language in pixel space: changes in visual…",
+        "abstract": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactions. We introduce Programmable World Model, a framework that decouples world-state evolution from…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.09155v1"
+        "url": "http://arxiv.org/abs/2609.10540v1"
     },
     {
-        "id": "arxiv-hb6lhx14",
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "authors": "Yuxing Lu, Yicheng Chen, Shanchan Wu, Sercan Ö. Arık",
+        "id": "arxiv-00m7170k",
+        "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+        "authors": "Yiling Ma, Yilun Zhao, Sihong Wu, Manasi Patwardhan, Arman…",
         "journal": "arXiv preprint",
-        "abstract": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2609.09153v1"
+        "abstract": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2609.10539v1"
     },
     {
-        "id": "arxiv-njpsxf0h",
-        "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
-        "authors": "Yuhan Ye, Kaizhao Liu",
+        "id": "arxiv-aaiie3s9",
+        "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+        "authors": "Phil Assheton",
         "journal": "arXiv preprint",
-        "abstract": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In the anytime setting, every infinite…",
+        "abstract": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2609.09152v1"
+        "url": "http://arxiv.org/abs/2609.10534v1"
+    },
+    {
+        "id": "arxiv-8wo3toh5",
+        "title": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
+        "authors": "Jerred Chen, Simon Weber, Ronald Clark",
+        "journal": "arXiv preprint",
+        "abstract": "Image-to-3D models can generate visually compelling 3D assets from a single RGB image, but their geometry is often only loosely constrained by the available observations, limiting their use in applications that require geometric fidelity. In many real-world settings, however, partial geometric observations of the…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.10531v1"
+    },
+    {
+        "id": "arxiv-l3bs3vz7",
+        "title": "A positive resolution of the gap-entropy conjecture",
+        "authors": "P. M. Aronow, Nathan Kallus, Patrick Lopatto",
+        "journal": "arXiv preprint",
+        "abstract": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.10529v1"
+    },
+    {
+        "id": "arxiv-8t2j6pl3",
+        "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+        "authors": "Xiaoyu Li, Andi Han, Jiaojiao Jiang, Junbin Gao",
+        "journal": "arXiv preprint",
+        "abstract": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2609.10525v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-47rvejhm",
+        "id": "gh-7xkixvkt",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "243.6k",
+        "stars": "244.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-mirdj600",
+        "id": "gh-bvc545sz",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.2k",
@@ -232,7 +276,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-67zcbbhi",
+        "id": "gh-fkhzwfef",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "154.5k",
@@ -241,16 +285,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-1l2ebku4",
+        "id": "gh-ilbe3vyz",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "165.0k",
+        "stars": "165.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-bpyma844",
+        "id": "gh-pumie725",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.9k",
@@ -259,7 +303,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-zmjcg7s4",
+        "id": "gh-9b5tsypz",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.9k",
@@ -268,10 +312,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-stepvxvs",
+        "id": "gh-5fzs1z57",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "132.2k",
+        "stars": "132.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -280,28 +324,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-ub0ofyhl",
-        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-        "desc": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
         "tag": "Quantum",
         "tagClass": "quantum",
-        "source": "OpenAI"
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-s7jfxjnz",
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "desc": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
     },
     {
-        "id": "ng-rss-m3m8pzcq",
-        "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-        "desc": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Google Blog"
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
