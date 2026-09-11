@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-10T10:52:52.691Z
-   Stories: 26 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-09-11T10:49:56.934Z
+   Stories: 22 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-8nnd6ph5",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "source": "OpenAI",
-    "time": "17h ago",
+    "id": "rss-hnzm3krv",
+    "topic": "Open Source AI",
+    "topicId": "opensource",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "excerpt": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "source": "TechCrunch",
+    "time": "13h ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+    "relevance": 86,
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-8nnd6ph5",
-                "title": "Paul Christiano joins OpenAI Foundation Board",
+                "id": "rss-nky6i52d",
+                "title": "Now everyone can put data to work",
                 "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 90
+                "time": "19h ago",
+                "relevance": 86
             },
             {
-                "id": "rss-dvikbb3w",
-                "title": "GPT-6 Astra: The next generation in intelligence for work",
-                "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 89
+                "id": "hn-49653985",
+                "title": "GPT‑Live‑1 in the API",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-fh365e95",
-                "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+                "id": "rss-4r0c1mh1",
+                "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+                "source": "OpenAI",
+                "time": "18h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-rseszdfx",
+                "title": "Introducing ChatGPT for Financial Services",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 87
+                "relevance": 81
             },
             {
-                "id": "rss-qjq6od3r",
-                "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-f7awwm9t",
-                "title": "The AI policy window is open. We need to act.",
+                "id": "rss-o9adve5r",
+                "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
                 "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 79
             }
         ]
     },
@@ -88,68 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-6dkkdfvc",
-                "title": "OpenAI adds a prominent AI doomer to its board of directors",
-                "source": "TechCrunch",
+                "id": "rss-9ly1iwih",
+                "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-bappurn5",
+                "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-nya1gigz",
+                "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+                "source": "MarkTechPost",
+                "time": "3h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-hldowu53",
+                "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+                "source": "MarkTechPost",
                 "time": "12h ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-su5v1o3o",
-                "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-                "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-2xia3p3c",
-                "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-e326xm38",
-                "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-bu7e18ks",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 78
-            },
-            {
-                "id": "rss-7mom98wq",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 77
-            },
-            {
-                "id": "hn-49627370",
-                "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-                "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 76
-            },
-            {
-                "id": "hn-49629886",
-                "title": "Growing proof that autonomous cars save lives",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 70
+                "relevance": 73
             }
         ]
     },
@@ -160,40 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#4ade80",
         "stories": [
             {
-                "id": "rss-u0wz4wdm",
+                "id": "rss-hnzm3krv",
+                "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 86
+            },
+            {
+                "id": "rss-hsv3hx49",
                 "title": "When agents act on their own, governance has to live in the data layer",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 74
             },
             {
-                "id": "hn-49612223",
-                "title": "Open Source Durable Objects for Postgres",
+                "id": "hn-49649222",
+                "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
                 "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
+                "time": "15h ago",
+                "relevance": 69
             }
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-49623398",
-                "title": "Show HN: Compute polynomials twice as fast",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
+                "id": "rss-3su95e1g",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 78
             },
             {
-                "id": "rss-rinm22g6",
-                "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
+                "id": "rss-alr21xre",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 77
             }
         ]
     }
@@ -201,91 +172,91 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-adm1bj4c",
-        "title": "Programmable World Model",
-        "authors": "Zheng-Hui Huang, Guixu Lin, Jiacheng Lin, Yi-Chuan Huang,…",
+        "id": "arxiv-pyxxztva",
+        "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+        "authors": "Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng,…",
         "journal": "arXiv preprint",
-        "abstract": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactions. We introduce Programmable World Model, a framework that decouples world-state evolution from…",
+        "abstract": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its visual interface through spatially coherent patch reconstruction and scale its training with carefully curated generation…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.10540v1"
+        "url": "http://arxiv.org/abs/2609.11929v1"
     },
     {
-        "id": "arxiv-00m7170k",
-        "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
-        "authors": "Yiling Ma, Yilun Zhao, Sihong Wu, Manasi Patwardhan, Arman…",
+        "id": "arxiv-rndwzlxv",
+        "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+        "authors": "Boning Li, Longbo Huang",
         "journal": "arXiv preprint",
-        "abstract": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.10539v1"
-    },
-    {
-        "id": "arxiv-aaiie3s9",
-        "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
-        "authors": "Phil Assheton",
-        "journal": "arXiv preprint",
-        "abstract": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum…",
+        "abstract": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2609.10534v1"
+        "url": "http://arxiv.org/abs/2609.11923v1"
     },
     {
-        "id": "arxiv-8wo3toh5",
-        "title": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
-        "authors": "Jerred Chen, Simon Weber, Ronald Clark",
+        "id": "arxiv-n3p7ae6w",
+        "title": "EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking",
+        "authors": "Dexter Ong, Vijay Kumar, Pratik Chaudhari",
         "journal": "arXiv preprint",
-        "abstract": "Image-to-3D models can generate visually compelling 3D assets from a single RGB image, but their geometry is often only loosely constrained by the available observations, limiting their use in applications that require geometric fidelity. In many real-world settings, however, partial geometric observations of the…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.10531v1"
+        "abstract": "Reliable relative localization between aerial and ground robots is a key requirement for tightly coordinated heterogeneous teams. This can be difficult to do using conventional frame-based cameras and fiducial markers because they are sensitive to motion blur, lighting variations, and payload constraints. This paper…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.11920v1"
     },
     {
-        "id": "arxiv-l3bs3vz7",
-        "title": "A positive resolution of the gap-entropy conjecture",
-        "authors": "P. M. Aronow, Nathan Kallus, Patrick Lopatto",
+        "id": "arxiv-1xz2ro7j",
+        "title": "General Quantification of Covariate and Concept Shifts",
+        "authors": "Hongbo Chen, Li Charlie Xia",
         "journal": "arXiv preprint",
-        "abstract": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of…",
+        "abstract": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.10529v1"
+        "url": "http://arxiv.org/abs/2609.11918v1"
     },
     {
-        "id": "arxiv-8t2j6pl3",
-        "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-        "authors": "Xiaoyu Li, Andi Han, Jiaojiao Jiang, Junbin Gao",
+        "id": "arxiv-7xh604qy",
+        "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+        "authors": "Atindra Jha, Margaret Li, Jure Leskovec, Percy Liang, Luke…",
         "journal": "arXiv preprint",
-        "abstract": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2609.10525v1"
+        "abstract": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.11917v1"
+    },
+    {
+        "id": "arxiv-wkxbnv0i",
+        "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+        "authors": "William Zhou, Mayukha Siripuram, Xiao Yan, Ziqi Liu, Yi Ding",
+        "journal": "arXiv preprint",
+        "abstract": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species identification. We test whether models in this deployment-relevant 2--8B range carry…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2609.11916v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-7xkixvkt",
+        "id": "gh-2ey5vjns",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "244.0k",
+        "stars": "244.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-bvc545sz",
+        "id": "gh-h4cgchmj",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.2k",
+        "stars": "187.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-fkhzwfef",
+        "id": "gh-pdrhraz9",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "154.5k",
+        "stars": "154.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-ilbe3vyz",
+        "id": "gh-h78w7bs9",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "165.1k",
@@ -294,7 +265,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-pumie725",
+        "id": "gh-beuua9jk",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "102.9k",
@@ -303,7 +274,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-9b5tsypz",
+        "id": "gh-h5x13a7b",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.9k",
@@ -312,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-5fzs1z57",
+        "id": "gh-r33zqbz5",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "132.3k",
+        "stars": "132.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
