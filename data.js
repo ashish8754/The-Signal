@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-12T10:18:15.514Z
-   Stories: 22 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-09-13T11:18:47.453Z
+   Stories: 19 | Clusters: 4 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,7 +25,7 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-4fx1so1f",
+    "id": "rss-x6dp9r89",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-4fx1so1f",
+                "id": "rss-x6dp9r89",
                 "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
                 "source": "OpenAI",
                 "time": "Just now",
                 "relevance": 93
             },
             {
-                "id": "rss-08trczpr",
+                "id": "rss-u9utyq42",
                 "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-y3kyz620",
-                "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-                "source": "OpenAI",
-                "time": "18h ago",
+                "time": "2d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-lpe3gqav",
-                "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+                "id": "rss-exag8n6p",
+                "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 79
+                "relevance": 81
             },
             {
-                "id": "rss-byjrbaac",
+                "id": "rss-yaff267w",
+                "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-b5yufhm8",
                 "title": "Proactive cyber defense for governments and enterprises",
                 "source": "Google Blog",
                 "time": "Sep 2",
@@ -88,32 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-krws4hd4",
-                "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+                "id": "rss-o24kgys0",
+                "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "time": "3h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-5woljrzi",
-                "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+                "id": "rss-2agpi45p",
+                "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
                 "source": "MarkTechPost",
-                "time": "12h ago",
-                "relevance": 75
+                "time": "9h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-dmzklq1i",
-                "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+                "id": "rss-f6cau6u9",
+                "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
                 "source": "MarkTechPost",
-                "time": "13h ago",
+                "time": "5h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-3jxxhstl",
+                "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 74
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "hn-49682319",
+                "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 80
+            },
+            {
+                "id": "hn-49673098",
+                "title": "Nvidia is the central bank of AI",
+                "source": "Hacker News",
+                "time": "20h ago",
                 "relevance": 73
-            },
-            {
-                "id": "rss-loif9c4w",
-                "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
             }
         ]
     },
@@ -124,69 +146,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-6rp10ady",
+                "id": "rss-f8wedpmr",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-qmf9af6d",
+                "id": "rss-e0l7jk0e",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
-            },
-            {
-                "id": "hn-49662672",
-                "title": "The EPA is planning to scrap public review rules for data center pollution",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "hn-49660149",
-                "title": "Rune is now open source",
-                "source": "Hacker News",
-                "time": "18h ago",
-                "relevance": 71
-            },
-            {
-                "id": "hn-49663373",
-                "title": "GrapheneOS' rewritten Messages app is released",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 70
-            }
-        ]
-    },
-    {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "hn-49652105",
-                "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
-            },
-            {
-                "id": "hn-49646113",
-                "title": "Detailed report on the use of solar geoengineering",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
             }
         ]
     }
@@ -194,73 +165,28 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-2qypkfid",
-        "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-        "authors": "Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng,…",
-        "journal": "arXiv preprint",
-        "abstract": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its visual interface through spatially coherent patch reconstruction and scale its training with carefully curated generation…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.11929v1"
-    },
-    {
-        "id": "arxiv-syo1uj3n",
-        "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-        "authors": "Boning Li, Longbo Huang",
-        "journal": "arXiv preprint",
-        "abstract": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel…",
+        "id": "p-fallback",
+        "title": "Latest AI Research Papers",
+        "authors": "Various Authors",
+        "journal": "arXiv",
+        "abstract": "Check back tomorrow for fresh research highlights.",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2609.11923v1"
-    },
-    {
-        "id": "arxiv-n4i4e0dh",
-        "title": "EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking",
-        "authors": "Dexter Ong, Vijay Kumar, Pratik Chaudhari",
-        "journal": "arXiv preprint",
-        "abstract": "Reliable relative localization between aerial and ground robots is a key requirement for tightly coordinated heterogeneous teams. This can be difficult to do using conventional frame-based cameras and fiducial markers because they are sensitive to motion blur, lighting variations, and payload constraints. This paper…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.11920v1"
-    },
-    {
-        "id": "arxiv-evjxmu3d",
-        "title": "General Quantification of Covariate and Concept Shifts",
-        "authors": "Hongbo Chen, Li Charlie Xia",
-        "journal": "arXiv preprint",
-        "abstract": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.11918v1"
-    },
-    {
-        "id": "arxiv-ppoke4v5",
-        "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-        "authors": "Atindra Jha, Margaret Li, Jure Leskovec, Percy Liang, Luke…",
-        "journal": "arXiv preprint",
-        "abstract": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.11917v1"
-    },
-    {
-        "id": "arxiv-oowef245",
-        "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-        "authors": "William Zhou, Mayukha Siripuram, Xiao Yan, Ziqi Liu, Yi Ding",
-        "journal": "arXiv preprint",
-        "abstract": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species identification. We test whether models in this deployment-relevant 2--8B range carry…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2609.11916v1"
+        "url": "https://arxiv.org/list/cs.AI/recent"
     }
 ],
 
     repos: [
     {
-        "id": "gh-9si0xl1u",
+        "id": "gh-u082yl72",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "244.7k",
+        "stars": "245.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-hzb9b91k",
+        "id": "gh-g3m1q3nh",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.3k",
@@ -269,34 +195,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-rdpdmkyx",
+        "id": "gh-jzk2mogb",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "154.6k",
+        "stars": "154.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-o62xfupy",
+        "id": "gh-yoplhggq",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "165.2k",
+        "stars": "165.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-4zvas1az",
+        "id": "gh-os0rg6k3",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "102.9k",
+        "stars": "103.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-eu4y51vh",
+        "id": "gh-6axge43s",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.9k",
@@ -305,10 +231,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-ob3oxxnt",
+        "id": "gh-fstq94x1",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "132.7k",
+        "stars": "132.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -317,36 +243,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-hn-49663373",
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "desc": "Click to read more about this development.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "Hacker News"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-hn-49652105",
-        "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-        "desc": "Click to read more about this development.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Hacker News"
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
     },
     {
-        "id": "ng-hn-49646113",
-        "title": "Detailed report on the use of solar geoengineering",
-        "desc": "Click to read more about this development.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Hacker News"
-    },
-    {
-        "id": "ng-hn-49626718",
-        "title": "A Design Space Exploration of Async/Await",
-        "desc": "Click to read more about this development.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
