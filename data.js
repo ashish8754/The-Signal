@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-13T11:18:47.453Z
-   Stories: 19 | Clusters: 4 | Papers: 0 | Repos: 7
+   Updated: 2026-09-14T12:09:41.948Z
+   Stories: 18 | Clusters: 3 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-x6dp9r89",
+    "id": "rss-o3vggfi2",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "excerpt": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
     "source": "OpenAI",
-    "time": "Just now",
+    "time": "3d ago",
     "readTime": "5 min read",
-    "relevance": 93,
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    "relevance": 84,
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-x6dp9r89",
-                "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-                "source": "OpenAI",
+                "id": "hn-49695065",
+                "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+                "source": "Hacker News",
                 "time": "Just now",
-                "relevance": 93
-            },
-            {
-                "id": "rss-u9utyq42",
-                "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-                "source": "OpenAI",
-                "time": "2d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-exag8n6p",
+                "id": "rss-o3vggfi2",
+                "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+                "source": "OpenAI",
+                "time": "3d ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-4falmb5e",
+                "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+                "source": "OpenAI",
+                "time": "12h ago",
+                "relevance": 83
+            },
+            {
+                "id": "hn-49695409",
+                "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 80
+            },
+            {
+                "id": "rss-nv1cavvz",
                 "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-yaff267w",
-                "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-                "source": "OpenAI",
                 "time": "2d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-b5yufhm8",
-                "title": "Proactive cyber defense for governments and enterprises",
-                "source": "Google Blog",
-                "time": "Sep 2",
-                "relevance": 76
+                "relevance": 79
             }
         ]
     },
@@ -88,53 +88,24 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-o24kgys0",
-                "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+                "id": "rss-5cex8c7u",
+                "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 82
+                "time": "4h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-2agpi45p",
-                "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+                "id": "rss-w64tmmoz",
+                "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
                 "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 80
+                "time": "16h ago",
+                "relevance": 75
             },
             {
-                "id": "rss-f6cau6u9",
-                "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+                "id": "rss-0h9pykd7",
+                "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
                 "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-3jxxhstl",
-                "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 74
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "hn-49682319",
-                "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-                "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 80
-            },
-            {
-                "id": "hn-49673098",
-                "title": "Nvidia is the central bank of AI",
-                "source": "Hacker News",
-                "time": "20h ago",
+                "time": "10h ago",
                 "relevance": 73
             }
         ]
@@ -146,14 +117,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-f8wedpmr",
+                "id": "rss-3wx7bnvj",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-e0l7jk0e",
+                "id": "rss-abw5oyb6",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -177,16 +148,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-u082yl72",
+        "id": "gh-w5b7osd1",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "245.0k",
+        "stars": "245.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-g3m1q3nh",
+        "id": "gh-6b52faxc",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.3k",
@@ -195,25 +166,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-jzk2mogb",
+        "id": "gh-25nh280c",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "154.7k",
+        "stars": "154.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-yoplhggq",
+        "id": "gh-yta3pz53",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "165.3k",
+        "stars": "165.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-os0rg6k3",
+        "id": "gh-9bo2logj",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.0k",
@@ -222,7 +193,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-6axge43s",
+        "id": "gh-ibuxdm4y",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.9k",
@@ -231,10 +202,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-fstq94x1",
+        "id": "gh-754b88rk",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "132.8k",
+        "stars": "133.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

@@ -1,28 +1,220 @@
 {
   "stories": [
     {
-      "id": "rss-x6dp9r89",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "source": "OpenAI",
-      "time": "Just now",
-      "rawDate": "2026-09-14 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "score": 92.85714285714286,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
+      "id": "rss-5cex8c7u",
+      "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+      "source": "MarkTechPost",
+      "time": "4h ago",
+      "rawDate": "2026-09-14 08:04:27",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+      "description": "NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1. The post NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training,…",
+      "score": 85,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
     },
     {
-      "id": "rss-u9utyq42",
+      "id": "hn-49695065",
+      "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+      "source": "Hacker News",
+      "time": "Just now",
+      "rawDate": "2026-09-14T11:27:54.000Z",
+      "topic": "llms",
+      "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
+      "description": "",
+      "score": 84.27272727272728,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-o3vggfi2",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "source": "OpenAI",
-      "time": "2d ago",
+      "time": "3d ago",
       "rawDate": "2026-09-11 10:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "score": 84.0909090909091,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-4falmb5e",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "source": "OpenAI",
+      "time": "12h ago",
+      "rawDate": "2026-09-14 00:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "score": 82.85714285714286,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "hn-49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "source": "Hacker News",
+      "time": "Just now",
+      "rawDate": "2026-09-14T12:01:32.000Z",
+      "topic": "llms",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "description": "",
+      "score": 80.33333333333333,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-nv1cavvz",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-11 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "score": 79,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-d8mmdggg",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "source": "OpenAI",
+      "time": "3d ago",
+      "rawDate": "2026-09-10 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "score": 76.53846153846153,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-z3eddt8q",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "source": "Google Blog",
+      "time": "Sep 2",
+      "rawDate": "2026-09-02 15:40:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-w64tmmoz",
+      "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
+      "source": "MarkTechPost",
+      "time": "16h ago",
+      "rawDate": "2026-09-13 19:46:38",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/",
+      "description": "In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first construct a synthetic multi-view dataset from an analytic scene containing volumetric geometry and view-dependent radiance, using sample_along_rays and volume_rendering to establish the forward rendering process. We then implement a NeRF […] The post Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis,…",
+      "score": 75,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "hn-49693384",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "source": "Hacker News",
+      "time": "4h ago",
+      "rawDate": "2026-09-14T07:55:19.000Z",
+      "topic": "llms",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "description": "",
+      "score": 74.5,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-56gd3jtk",
+      "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
+      "source": "MarkTechPost",
+      "time": "19h ago",
+      "rawDate": "2026-09-13 17:02:26",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+      "description": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-aware…",
+      "score": 74.16666666666667,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-0h9pykd7",
+      "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+      "source": "MarkTechPost",
+      "time": "10h ago",
+      "rawDate": "2026-09-14 01:44:01",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+      "description": "Dario Amodei published \"We Must Pace the Frontier,\" and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late. The post Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins…",
+      "score": 73,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-6rvj9nhs",
+      "title": "3 ways to prep for your next big race with Search",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-09-10 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "description": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "score": 73,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-xpffarpx",
+      "title": "Get ready for the game with new football features in Search",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-09-09 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "description": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "score": 73,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-83zldyww",
+      "title": "Recreating a 70-year love story frame by frame",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-09-09 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "description": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "score": 73,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "hn-49686445",
+      "title": "Why is Google still serving dodgy ads?",
+      "source": "Hacker News",
+      "time": "18h ago",
+      "rawDate": "2026-09-13T17:37:44.000Z",
+      "topic": "infra",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "description": "",
+      "score": 69.85714285714286,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-3wx7bnvj",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
+    },
+    {
+      "id": "rss-abw5oyb6",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-09-14T12:09:41.945Z"
     },
     {
       "id": "rss-o24kgys0",
@@ -34,18 +226,6 @@
       "url": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
       "description": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents appeared first on MarkTechPost .",
       "score": 81.66666666666667,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
-      "id": "rss-exag8n6p",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-11 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "score": 81,
       "cachedAt": "2026-09-13T11:18:47.451Z"
     },
     {
@@ -85,18 +265,6 @@
       "cachedAt": "2026-09-13T11:18:47.451Z"
     },
     {
-      "id": "rss-yaff267w",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "source": "OpenAI",
-      "time": "2d ago",
-      "rawDate": "2026-09-10 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "score": 76.53846153846153,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
       "id": "rss-ttpcifq1",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "source": "TechCrunch",
@@ -106,18 +274,6 @@
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
       "score": 76.42857142857143,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
-      "id": "rss-b5yufhm8",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "source": "Google Blog",
-      "time": "Sep 2",
-      "rawDate": "2026-09-02 15:40:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "score": 75.85714285714286,
       "cachedAt": "2026-09-13T11:18:47.451Z"
     },
     {
@@ -145,42 +301,6 @@
       "cachedAt": "2026-09-13T11:18:47.451Z"
     },
     {
-      "id": "rss-aitcz84g",
-      "title": "3 ways to prep for your next big race with Search",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-09-10 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "description": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "score": 73,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
-      "id": "rss-nxbhly7o",
-      "title": "Get ready for the game with new football features in Search",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-09-09 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "description": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "score": 73,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
-      "id": "rss-nzexxpql",
-      "title": "Recreating a 70-year love story frame by frame",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-09-09 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "description": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "score": 73,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
       "id": "hn-49673098",
       "title": "Nvidia is the central bank of AI",
       "source": "Hacker News",
@@ -202,30 +322,6 @@
       "url": "https://agentsdock.net/",
       "description": "",
       "score": 72,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
-      "id": "rss-f8wedpmr",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-09-13T11:18:47.451Z"
-    },
-    {
-      "id": "rss-e0l7jk0e",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-09-13T11:18:47.451Z"
     },
     {
@@ -1067,90 +1163,6 @@
       "description": "",
       "score": 64.22222222222223,
       "cachedAt": "2026-09-08T10:50:48.054Z"
-    },
-    {
-      "id": "rss-c3gwtajn",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "source": "Hacker News",
-      "time": "2h ago",
-      "rawDate": "2026-09-07 09:26:41",
-      "topic": "hardware",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "description": "Comments",
-      "score": 80.57142857142857,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
-    },
-    {
-      "id": "rss-f62jtrv1",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "source": "TechCrunch",
-      "time": "1d ago",
-      "rawDate": "2026-09-05 19:35:24",
-      "topic": "llms",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "score": 80,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
-    },
-    {
-      "id": "rss-0bspiwre",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "source": "OpenAI",
-      "time": "3d ago",
-      "rawDate": "2026-09-03 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "score": 79.44444444444444,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
-    },
-    {
-      "id": "rss-lg1wk7q4",
-      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
-      "source": "MarkTechPost",
-      "time": "14h ago",
-      "rawDate": "2026-09-06 21:06:41",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
-      "description": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the…",
-      "score": 76.66666666666667,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
-    },
-    {
-      "id": "rss-eknm4on6",
-      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
-      "source": "MarkTechPost",
-      "time": "15h ago",
-      "rawDate": "2026-09-06 20:25:17",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
-      "description": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on…",
-      "score": 75.33333333333333,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
-    },
-    {
-      "id": "hn-49594878",
-      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-      "source": "Hacker News",
-      "time": "4h ago",
-      "rawDate": "2026-09-07T07:03:20.000Z",
-      "topic": "multimodal",
-      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "description": "",
-      "score": 73.42857142857143,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
-    },
-    {
-      "id": "rss-24ktq2wp",
-      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-09-06 06:11:02",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
-      "description": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation…",
-      "score": 72.88235294117646,
-      "cachedAt": "2026-09-07T11:54:02.003Z"
     }
   ]
 }
