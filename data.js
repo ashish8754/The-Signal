@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-14T12:09:41.948Z
-   Stories: 18 | Clusters: 3 | Papers: 0 | Repos: 7
+   Updated: 2026-09-15T11:20:33.784Z
+   Stories: 20 | Clusters: 3 | Papers: 0 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-o3vggfi2",
+    "id": "rss-fyc593fq",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "excerpt": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "source": "OpenAI",
-    "time": "3d ago",
+    "title": "DevFest is back",
+    "excerpt": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+    "source": "Google Blog",
+    "time": "19h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    "relevance": 85,
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "hn-49695065",
-                "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
-                "source": "Hacker News",
-                "time": "Just now",
+                "id": "rss-fyc593fq",
+                "title": "DevFest is back",
+                "source": "Google Blog",
+                "time": "19h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-clnrmzlh",
+                "title": "How Fyxer built an AI executive assistant people trust",
+                "source": "OpenAI",
+                "time": "23h ago",
                 "relevance": 84
             },
             {
-                "id": "rss-o3vggfi2",
+                "id": "rss-pc00x5aa",
                 "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 84
             },
             {
-                "id": "rss-4falmb5e",
+                "id": "rss-ioiq3lb2",
+                "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+                "source": "Google Blog",
+                "time": "16h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-xsjna0br",
                 "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
                 "source": "OpenAI",
-                "time": "12h ago",
-                "relevance": 83
-            },
-            {
-                "id": "hn-49695409",
-                "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-                "source": "Hacker News",
-                "time": "Just now",
+                "time": "1d ago",
                 "relevance": 80
-            },
-            {
-                "id": "rss-nv1cavvz",
-                "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 79
             }
         ]
     },
@@ -88,25 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-5cex8c7u",
+                "id": "rss-c6q2tc9j",
                 "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
                 "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-w64tmmoz",
-                "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
+                "id": "rss-c6fshobc",
+                "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
                 "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 75
+                "time": "7h ago",
+                "relevance": 76
             },
             {
-                "id": "rss-0h9pykd7",
-                "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+                "id": "rss-leuoam8u",
+                "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
                 "source": "MarkTechPost",
-                "time": "10h ago",
-                "relevance": 73
+                "time": "14h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-cj2y1714",
+                "title": "Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 71
             }
         ]
     },
@@ -117,14 +124,21 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-3wx7bnvj",
+                "id": "hn-49700477",
+                "title": "Pion, an agent designed to run any company autonomously",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 71
+            },
+            {
+                "id": "rss-xq4v2xyb",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-abw5oyb6",
+                "id": "rss-3dwqqpgb",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -148,25 +162,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-w5b7osd1",
+        "id": "gh-l7zatc45",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "245.3k",
+        "stars": "245.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-6b52faxc",
+        "id": "gh-ka1oib84",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.3k",
+        "stars": "187.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-25nh280c",
+        "id": "gh-p5vsan2q",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "154.8k",
@@ -175,16 +189,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-yta3pz53",
+        "id": "gh-aahiu2kq",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "165.8k",
+        "stars": "166.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-9bo2logj",
+        "id": "gh-aa4lkdeo",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.0k",
@@ -193,7 +207,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ibuxdm4y",
+        "id": "gh-n7xuuho0",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "164.9k",
@@ -202,10 +216,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-754b88rk",
+        "id": "gh-xrx9z18p",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "133.0k",
+        "stars": "133.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
