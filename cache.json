@@ -1,16 +1,208 @@
 {
   "stories": [
     {
-      "id": "rss-oilpmy4n",
+      "id": "rss-a8vyb43i",
+      "title": "Introducing Astra for Law",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-09-17 00:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/astra-for-law",
+      "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "score": 87,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-f74gh7sq",
       "title": "Reimagining advertising with AI",
       "source": "OpenAI",
-      "time": "22h ago",
+      "time": "1d ago",
       "rawDate": "2026-09-16 13:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "score": 90,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
+      "score": 87,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-19r8m8wz",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "source": "OpenAI",
+      "time": "22h ago",
+      "rawDate": "2026-09-17 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "score": 85,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-aufqg7g7",
+      "title": "Making global data easier to explore",
+      "source": "Google Blog",
+      "time": "14h ago",
+      "rawDate": "2026-09-17 20:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "score": 81.33333333333333,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-tgol1e01",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+      "source": "MarkTechPost",
+      "time": "2h ago",
+      "rawDate": "2026-09-18 08:40:37",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
+      "description": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use appeared first on MarkTechPost .",
+      "score": 81.25,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-581izi3k",
+      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
+      "source": "MarkTechPost",
+      "time": "13h ago",
+      "rawDate": "2026-09-17 21:21:08",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
+      "description": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later. The post Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads appeared first on MarkTechPost .",
+      "score": 80,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-y6kcb3rt",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "source": "TechCrunch",
+      "time": "12h ago",
+      "rawDate": "2026-09-17 22:34:09",
+      "topic": "llms",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "description": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-jr5rom86",
+      "title": "Helping older adults use AI in everyday life",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-09-16 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "score": 79.5,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-3257dlal",
+      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+      "source": "MarkTechPost",
+      "time": "14h ago",
+      "rawDate": "2026-09-17 20:45:04",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
+      "description": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and […] The post Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop appeared first on MarkTechPost .",
+      "score": 73.33333333333333,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-c18c1ydh",
+      "title": "AI for Societal Impact",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-09-15 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "score": 73,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-lsio1z9w",
+      "title": "Building AI to accelerate science and improve lives",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-09-15 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "score": 73,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-7wo93x44",
+      "title": "AI for everyone in every language",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-09-15 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "score": 73,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-ysrykper",
+      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-09-17 07:35:37",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
+      "description": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training appeared first on MarkTechPost .",
+      "score": 72.55555555555556,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "hn-49747070",
+      "title": "How to Write with an LLM",
+      "source": "Hacker News",
+      "time": "12h ago",
+      "rawDate": "2026-09-17T21:48:38.000Z",
+      "topic": "llms",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "description": "",
+      "score": 70.33333333333333,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-xejd2n6z",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "rss-prb44jz9",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
+    },
+    {
+      "id": "hn-49746163",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "source": "Hacker News",
+      "time": "14h ago",
+      "rawDate": "2026-09-17T20:36:13.000Z",
+      "topic": "infra",
+      "url": "https://bend-lang.com/",
+      "description": "",
+      "score": 68.42857142857143,
+      "cachedAt": "2026-09-18T10:46:45.098Z"
     },
     {
       "id": "rss-38fgrf9i",
@@ -49,18 +241,6 @@
       "cachedAt": "2026-09-17T11:13:52.269Z"
     },
     {
-      "id": "rss-iery2afo",
-      "title": "Helping older adults use AI in everyday life",
-      "source": "OpenAI",
-      "time": "19h ago",
-      "rawDate": "2026-09-16 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "score": 82.5,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
       "id": "rss-5aaudu0a",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "source": "TechCrunch",
@@ -70,18 +250,6 @@
       "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
       "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
       "score": 82,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
-      "id": "rss-dpzgfihk",
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "source": "MarkTechPost",
-      "time": "3h ago",
-      "rawDate": "2026-09-17 07:35:37",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-      "description": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training appeared first on MarkTechPost .",
-      "score": 80.55555555555556,
       "cachedAt": "2026-09-17T11:13:52.269Z"
     },
     {
@@ -133,42 +301,6 @@
       "cachedAt": "2026-09-17T11:13:52.269Z"
     },
     {
-      "id": "rss-lvww12kw",
-      "title": "AI for Societal Impact",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-09-15 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "score": 75,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
-      "id": "rss-e2bgn3yq",
-      "title": "Building AI to accelerate science and improve lives",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-09-15 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-      "score": 75,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
-      "id": "rss-g16o75po",
-      "title": "AI for everyone in every language",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-09-15 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "score": 75,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
       "id": "rss-msw022ec",
       "title": "New insights from Google’s AI &amp; Economy ATLAS",
       "source": "Google Blog",
@@ -193,18 +325,6 @@
       "cachedAt": "2026-09-17T11:13:52.269Z"
     },
     {
-      "id": "rss-4qdjfvv1",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
       "id": "hn-49734264",
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "source": "Hacker News",
@@ -214,18 +334,6 @@
       "url": "https://openspec.dev/",
       "description": "",
       "score": 69.22222222222223,
-      "cachedAt": "2026-09-17T11:13:52.269Z"
-    },
-    {
-      "id": "rss-6cw7r7nm",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-09-17T11:13:52.269Z"
     },
     {
