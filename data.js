@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-18T10:46:45.100Z
+   Updated: 2026-09-19T10:30:52.169Z
    Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-a8vyb43i",
+    "id": "rss-dj9tb765",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Introducing Astra for Law",
-    "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "excerpt": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "22h ago",
     "readTime": "5 min read",
     "relevance": 87,
-    "url": "https://openai.com/index/astra-for-law"
+    "url": "https://openai.com/index/australian-youth-safety-blueprint"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-a8vyb43i",
-                "title": "Introducing Astra for Law",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-f74gh7sq",
-                "title": "Reimagining advertising with AI",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-19r8m8wz",
-                "title": "How Cooley is accelerating IPO work with ChatGPT",
+                "id": "rss-dj9tb765",
+                "title": "Introducing the Australian Youth Safety Blueprint",
                 "source": "OpenAI",
                 "time": "22h ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-6yvcqffy",
+                "title": "Introducing Astra for Law",
+                "source": "OpenAI",
+                "time": "2d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-aufqg7g7",
-                "title": "Making global data easier to explore",
+                "id": "rss-gfmz6qcq",
+                "title": "How Cooley is accelerating IPO work with ChatGPT",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-avuot80y",
+                "title": "Co-creating the future of fashion with Google",
                 "source": "Google Blog",
-                "time": "14h ago",
+                "time": "21h ago",
                 "relevance": 81
             },
             {
-                "id": "rss-y6kcb3rt",
-                "title": "PrismML hopes its tiny LLM will change how we all use AI",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 80
+                "id": "rss-ws6tt80b",
+                "title": "Making global data easier to explore",
+                "source": "Google Blog",
+                "time": "1d ago",
+                "relevance": 78
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-tgol1e01",
-                "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+                "id": "rss-wg8iwmo7",
+                "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
                 "source": "MarkTechPost",
                 "time": "2h ago",
-                "relevance": 81
+                "relevance": 85
             },
             {
-                "id": "rss-581izi3k",
-                "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
+                "id": "rss-zxpissj6",
+                "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
                 "source": "MarkTechPost",
-                "time": "13h ago",
+                "time": "6h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-3257dlal",
-                "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+                "id": "rss-ni1oifrs",
+                "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
                 "source": "MarkTechPost",
-                "time": "14h ago",
-                "relevance": 73
+                "time": "3h ago",
+                "relevance": 79
             },
             {
-                "id": "rss-ysrykper",
-                "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
+                "id": "rss-pp44up59",
+                "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 73
+                "time": "6h ago",
+                "relevance": 79
             }
         ]
     },
@@ -124,14 +124,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-xejd2n6z",
+                "id": "rss-swmcqw9l",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-prb44jz9",
+                "id": "rss-y3hrngfb",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +143,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-zltjpudy",
+        "id": "arxiv-vvsmes9y",
         "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
         "authors": "Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara",
         "journal": "arXiv preprint",
@@ -152,7 +152,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20822v1"
     },
     {
-        "id": "arxiv-fevi1keg",
+        "id": "arxiv-ss9piprb",
         "title": "Embedding Models Measure in Peculiar Ways",
         "authors": "Juri Opitz, Andrianos Michail",
         "journal": "arXiv preprint",
@@ -161,7 +161,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20821v1"
     },
     {
-        "id": "arxiv-v4vegz5y",
+        "id": "arxiv-88gvz1h8",
         "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
         "authors": "Nitish Dashora, Douglas Chen, Idan Shenfeld, John…",
         "journal": "arXiv preprint",
@@ -170,7 +170,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20820v1"
     },
     {
-        "id": "arxiv-sv1f3auq",
+        "id": "arxiv-kskladxc",
         "title": "Can 4D Foundation Models Remember?",
         "authors": "Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma",
         "journal": "arXiv preprint",
@@ -179,7 +179,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20819v1"
     },
     {
-        "id": "arxiv-t27v9f1a",
+        "id": "arxiv-cs0y827w",
         "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
         "authors": "Peiyu Liu, Dingxi Zhang, Federico Tombari, Marc Pollefeys,…",
         "journal": "arXiv preprint",
@@ -188,7 +188,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20818v1"
     },
     {
-        "id": "arxiv-k4xdk15h",
+        "id": "arxiv-ohzvx4ym",
         "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
         "authors": "Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu, Zhizhuo…",
         "journal": "arXiv preprint",
@@ -200,16 +200,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-i1sop93f",
+        "id": "gh-ni390ph5",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "246.7k",
+        "stars": "247.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-9pd7nuih",
+        "id": "gh-j9naf8v6",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.4k",
@@ -218,7 +218,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-pz5cq7ki",
+        "id": "gh-tpgdnf9s",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.0k",
@@ -227,7 +227,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-nxm1d6l8",
+        "id": "gh-02zu1s27",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.3k",
@@ -236,7 +236,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-bnlw7brk",
+        "id": "gh-jdc1s8tg",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.1k",
@@ -245,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-1tq5v5k8",
+        "id": "gh-i92yvsfi",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -254,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-krdqfgm4",
+        "id": "gh-h56n1m1r",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "133.7k",
+        "stars": "133.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
