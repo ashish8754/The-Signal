@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-19T10:30:52.169Z
-   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-20T10:53:20.115Z
+   Stories: 17 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-dj9tb765",
+    "id": "rss-929t2ikk",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "excerpt": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "title": "Introducing Astra for Law",
+    "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
     "source": "OpenAI",
-    "time": "22h ago",
+    "time": "3d ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/australian-youth-safety-blueprint"
+    "relevance": 85,
+    "url": "https://openai.com/index/astra-for-law"
 },
 
     topics: [
@@ -45,36 +45,36 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-dj9tb765",
-                "title": "Introducing the Australian Youth Safety Blueprint",
-                "source": "OpenAI",
-                "time": "22h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-6yvcqffy",
+                "id": "rss-929t2ikk",
                 "title": "Introducing Astra for Law",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-gfmz6qcq",
-                "title": "How Cooley is accelerating IPO work with ChatGPT",
+                "id": "rss-xs0j3euq",
+                "title": "Introducing the Australian Youth Safety Blueprint",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 82
+                "relevance": 84
             },
             {
-                "id": "rss-avuot80y",
+                "id": "rss-1ynld5m9",
+                "title": "How Cooley is accelerating IPO work with ChatGPT",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-ryiiw2b5",
+                "title": "Google’s Gemini is the latest AI model to hack other companies",
+                "source": "TechCrunch",
+                "time": "17h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-bi65mhrq",
                 "title": "Co-creating the future of fashion with Google",
-                "source": "Google Blog",
-                "time": "21h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-ws6tt80b",
-                "title": "Making global data easier to explore",
                 "source": "Google Blog",
                 "time": "1d ago",
                 "relevance": 78
@@ -88,32 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-wg8iwmo7",
-                "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+                "id": "rss-595ldmgs",
+                "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-zxpissj6",
-                "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
-                "source": "MarkTechPost",
-                "time": "6h ago",
+                "time": "4h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-ni1oifrs",
-                "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+                "id": "rss-j8xpx3ft",
+                "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 79
+                "time": "16h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-pp44up59",
-                "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
+                "id": "rss-l06luu44",
+                "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
                 "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 79
+                "time": "1d ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-iupm8fei",
+                "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 74
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-q9asafsh",
+                "title": "Exfiltrate Your Weights",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-49770809",
+                "title": "An open source roguelike adventure through dungeons",
+                "source": "Hacker News",
+                "time": "11h ago",
+                "relevance": 70
             }
         ]
     },
@@ -124,14 +146,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-swmcqw9l",
+                "id": "rss-8c728fs8",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-y3hrngfb",
+                "id": "rss-dfxjrk09",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +165,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-vvsmes9y",
+        "id": "arxiv-472hknpu",
         "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
         "authors": "Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara",
         "journal": "arXiv preprint",
@@ -152,7 +174,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20822v1"
     },
     {
-        "id": "arxiv-ss9piprb",
+        "id": "arxiv-4o1gc5xc",
         "title": "Embedding Models Measure in Peculiar Ways",
         "authors": "Juri Opitz, Andrianos Michail",
         "journal": "arXiv preprint",
@@ -161,7 +183,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20821v1"
     },
     {
-        "id": "arxiv-88gvz1h8",
+        "id": "arxiv-tlfg5k3o",
         "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
         "authors": "Nitish Dashora, Douglas Chen, Idan Shenfeld, John…",
         "journal": "arXiv preprint",
@@ -170,7 +192,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20820v1"
     },
     {
-        "id": "arxiv-kskladxc",
+        "id": "arxiv-ib78glzt",
         "title": "Can 4D Foundation Models Remember?",
         "authors": "Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma",
         "journal": "arXiv preprint",
@@ -179,7 +201,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20819v1"
     },
     {
-        "id": "arxiv-cs0y827w",
+        "id": "arxiv-r53gd1nv",
         "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
         "authors": "Peiyu Liu, Dingxi Zhang, Federico Tombari, Marc Pollefeys,…",
         "journal": "arXiv preprint",
@@ -188,7 +210,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.20818v1"
     },
     {
-        "id": "arxiv-ohzvx4ym",
+        "id": "arxiv-t4ogslaz",
         "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
         "authors": "Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu, Zhizhuo…",
         "journal": "arXiv preprint",
@@ -200,25 +222,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-ni390ph5",
+        "id": "gh-eu9gmepz",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "247.0k",
+        "stars": "247.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-j9naf8v6",
+        "id": "gh-plh0csun",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.4k",
+        "stars": "187.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-tpgdnf9s",
+        "id": "gh-65oenurp",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.0k",
@@ -227,16 +249,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-02zu1s27",
+        "id": "gh-535f2ep8",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "166.3k",
+        "stars": "166.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-jdc1s8tg",
+        "id": "gh-d9v0kffr",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.1k",
@@ -245,7 +267,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-i92yvsfi",
+        "id": "gh-3m73la1o",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -254,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-h56n1m1r",
+        "id": "gh-12xe5gtb",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "133.9k",
+        "stars": "134.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
