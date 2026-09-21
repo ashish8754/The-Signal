@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-20T10:53:20.115Z
-   Stories: 17 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-09-21T12:18:23.582Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-929t2ikk",
+    "id": "rss-n80e8myz",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Introducing Astra for Law",
     "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "4d ago",
     "readTime": "5 min read",
     "relevance": 85,
     "url": "https://openai.com/index/astra-for-law"
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-929t2ikk",
+                "id": "rss-n80e8myz",
                 "title": "Introducing Astra for Law",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-xs0j3euq",
+                "id": "rss-6j3h2799",
                 "title": "Introducing the Australian Youth Safety Blueprint",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
+                "time": "3d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-1ynld5m9",
+                "id": "rss-kojte2zu",
                 "title": "How Cooley is accelerating IPO work with ChatGPT",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "4d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-ryiiw2b5",
-                "title": "Google’s Gemini is the latest AI model to hack other companies",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-bi65mhrq",
-                "title": "Co-creating the future of fashion with Google",
-                "source": "Google Blog",
-                "time": "1d ago",
+                "id": "rss-kcc3lu7y",
+                "title": "Helping older adults use AI in everyday life",
+                "source": "OpenAI",
+                "time": "4d ago",
                 "relevance": 78
+            },
+            {
+                "id": "rss-t5vmupxz",
+                "title": "Making global data easier to explore",
+                "source": "Google Blog",
+                "time": "3d ago",
+                "relevance": 76
             }
         ]
     },
@@ -88,54 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-595ldmgs",
-                "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
+                "id": "rss-7alhrdbe",
+                "title": "StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-xiu3g9ph",
+                "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
                 "source": "MarkTechPost",
                 "time": "4h ago",
-                "relevance": 80
+                "relevance": 79
             },
             {
-                "id": "rss-j8xpx3ft",
-                "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
+                "id": "rss-4uoixp1h",
+                "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
                 "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 78
+                "time": "15h ago",
+                "relevance": 75
             },
             {
-                "id": "rss-l06luu44",
-                "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+                "id": "rss-2emotvuk",
+                "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-iupm8fei",
-                "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
-                "source": "MarkTechPost",
-                "time": "13h ago",
-                "relevance": 74
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-q9asafsh",
-                "title": "Exfiltrate Your Weights",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 74
-            },
-            {
-                "id": "hn-49770809",
-                "title": "An open source roguelike adventure through dungeons",
-                "source": "Hacker News",
-                "time": "11h ago",
-                "relevance": 70
+                "relevance": 72
             }
         ]
     },
@@ -146,14 +124,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-8c728fs8",
+                "id": "rss-wa4grikf",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-dfxjrk09",
+                "id": "rss-aqtxmw78",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -165,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-472hknpu",
-        "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-        "authors": "Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara",
+        "id": "arxiv-kiw28c8e",
+        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+        "authors": "Hongyang Du, Lan Yan, Christian Flores, Asim Kadav",
         "journal": "arXiv preprint",
-        "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.20822v1"
+        "abstract": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2609.22086v1"
     },
     {
-        "id": "arxiv-4o1gc5xc",
-        "title": "Embedding Models Measure in Peculiar Ways",
-        "authors": "Juri Opitz, Andrianos Michail",
+        "id": "arxiv-5dovswfp",
+        "title": "SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation",
+        "authors": "Saksham Singh, Zheyuan Hu, Max Sobol Mark, Jeffrey Yu,…",
         "journal": "arXiv preprint",
-        "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding…",
+        "abstract": "Despite rapid progress, generalist robot policies remain brittle on complex, long-horizon tasks that comprise multiple stages or require repeated attempts and deliberation on the same underlying stage before success. Q-value functions can improve these policies by ranking candidate actions or guiding policy…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.22085v1"
+    },
+    {
+        "id": "arxiv-bmwip9js",
+        "title": "MintAct: A Unified Visual Agent for Digital Environments",
+        "authors": "Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang,…",
+        "journal": "arXiv preprint",
+        "abstract": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance of per-domain…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.22083v1"
+    },
+    {
+        "id": "arxiv-wwrlxjf9",
+        "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+        "authors": "Aho Yapi, Pierre Latouche, Arnaud Guillin, Yan Bailly",
+        "journal": "arXiv preprint",
+        "abstract": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.20821v1"
+        "url": "http://arxiv.org/abs/2609.22081v1"
     },
     {
-        "id": "arxiv-tlfg5k3o",
-        "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-        "authors": "Nitish Dashora, Douglas Chen, Idan Shenfeld, John…",
+        "id": "arxiv-l0auxyot",
+        "title": "LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control",
+        "authors": "Jake Gonzales, Arturo Flores Alvarez, Yu-Ming Chen, Aaron…",
         "journal": "arXiv preprint",
-        "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries…",
+        "abstract": "Safe whole-body control requires coordinating collision avoidance and balance under high-dimensional, nonlinear dynamics--making safety certificates difficult to design and reuse across behaviors. We present LIMBO, a framework for synthesizing a state-action control barrier function and distilling its safety structure…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.20820v1"
+        "url": "http://arxiv.org/abs/2609.22075v1"
     },
     {
-        "id": "arxiv-ib78glzt",
-        "title": "Can 4D Foundation Models Remember?",
-        "authors": "Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma",
+        "id": "arxiv-gljyo418",
+        "title": "Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types",
+        "authors": "James Zhu, David Ologan, George Ortiz, Thomas Chun Fai Lee,…",
         "journal": "arXiv preprint",
-        "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.20819v1"
-    },
-    {
-        "id": "arxiv-r53gd1nv",
-        "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
-        "authors": "Peiyu Liu, Dingxi Zhang, Federico Tombari, Marc Pollefeys,…",
-        "journal": "arXiv preprint",
-        "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.20818v1"
-    },
-    {
-        "id": "arxiv-t4ogslaz",
-        "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-        "authors": "Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu, Zhizhuo…",
-        "journal": "arXiv preprint",
-        "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.20817v1"
+        "abstract": "Quadrupedal robots are increasingly deployed in environments where locomotion must remain robust to disturbances and constrained terrain. Gait type, such as walking or trotting, is commonly used to characterize quadrupedal locomotion. However, gait type does not uniquely define locomotion, as parameters such as duty…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.22073v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-eu9gmepz",
+        "id": "gh-m62egn5c",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "247.3k",
+        "stars": "247.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-plh0csun",
+        "id": "gh-tpic74sh",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.5k",
@@ -240,25 +218,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-65oenurp",
+        "id": "gh-0oejupz7",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.0k",
+        "stars": "155.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-535f2ep8",
+        "id": "gh-frlzalv5",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "166.4k",
+        "stars": "166.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-d9v0kffr",
+        "id": "gh-y5teyoiv",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.1k",
@@ -267,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-3m73la1o",
+        "id": "gh-djxt0eqp",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -276,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-12xe5gtb",
+        "id": "gh-r074jxrg",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "134.0k",
+        "stars": "134.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
