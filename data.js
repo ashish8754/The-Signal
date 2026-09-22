@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-21T12:18:23.582Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-22T11:10:28.980Z
+   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-n80e8myz",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Introducing Astra for Law",
-    "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "source": "OpenAI",
-    "time": "4d ago",
+    "id": "rss-9jnsw9j4",
+    "topic": "AI Agents & Autonomy",
+    "topicId": "agents",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "excerpt": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+    "source": "TechCrunch",
+    "time": "15h ago",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://openai.com/index/astra-for-law"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-n80e8myz",
-                "title": "Introducing Astra for Law",
+                "id": "rss-0jtnbjq1",
+                "title": "Advisory Group on Mathematics and Artificial Intelligence",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 85
+                "time": "23h ago",
+                "relevance": 86
             },
             {
-                "id": "rss-6j3h2799",
-                "title": "Introducing the Australian Youth Safety Blueprint",
+                "id": "rss-qrnf45c6",
+                "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 82
+                "time": "23h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-kojte2zu",
-                "title": "How Cooley is accelerating IPO work with ChatGPT",
+                "id": "rss-1wzy70fp",
+                "title": "Building standards for the next phase of AI",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-kcc3lu7y",
-                "title": "Helping older adults use AI in everyday life",
+                "id": "rss-g71ce563",
+                "title": "Expanding OpenAI Academy with new learning paths",
                 "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-t5vmupxz",
+                "id": "rss-med5qoz9",
                 "title": "Making global data easier to explore",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 76
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-7alhrdbe",
-                "title": "StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-xiu3g9ph",
-                "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-4uoixp1h",
-                "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-2emotvuk",
-                "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
             }
         ]
     },
@@ -124,18 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-wa4grikf",
+                "id": "rss-9jnsw9j4",
+                "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-bsopp5ja",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-aqtxmw78",
+                "id": "rss-hady8f1w",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-s3nu7yuv",
+                "title": "SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-ibepmm76",
+                "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-z1kpswct",
+                "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 71
             }
         ]
     }
@@ -143,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-kiw28c8e",
-        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-        "authors": "Hongyang Du, Lan Yan, Christian Flores, Asim Kadav",
+        "id": "arxiv-6v3ovmrt",
+        "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+        "authors": "Yiran Wang, Xingyilang Yin, Junfu Pu, Guangzhi Wang,…",
         "journal": "arXiv preprint",
-        "abstract": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2609.22086v1"
-    },
-    {
-        "id": "arxiv-5dovswfp",
-        "title": "SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation",
-        "authors": "Saksham Singh, Zheyuan Hu, Max Sobol Mark, Jeffrey Yu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Despite rapid progress, generalist robot policies remain brittle on complex, long-horizon tasks that comprise multiple stages or require repeated attempts and deliberation on the same underlying stage before success. Q-value functions can improve these policies by ranking candidate actions or guiding policy…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.22085v1"
-    },
-    {
-        "id": "arxiv-bmwip9js",
-        "title": "MintAct: A Unified Visual Agent for Digital Environments",
-        "authors": "Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang,…",
-        "journal": "arXiv preprint",
-        "abstract": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance of per-domain…",
+        "abstract": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions,…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.22083v1"
+        "url": "http://arxiv.org/abs/2609.25001v1"
     },
     {
-        "id": "arxiv-wwrlxjf9",
-        "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
-        "authors": "Aho Yapi, Pierre Latouche, Arnaud Guillin, Yan Bailly",
+        "id": "arxiv-a714jk50",
+        "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+        "authors": "Binxu Li, Haoyi Duan, Yuhui Zhang, Yaohui Zhang, Zihao Lin,…",
         "journal": "arXiv preprint",
-        "abstract": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.22081v1"
+        "abstract": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events. In this paper, we present VideoGen-Agent, a multimodal…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.24997v1"
     },
     {
-        "id": "arxiv-l0auxyot",
-        "title": "LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control",
-        "authors": "Jake Gonzales, Arturo Flores Alvarez, Yu-Ming Chen, Aaron…",
+        "id": "arxiv-9y2214rc",
+        "title": "Learning Beyond What Humans Can Demonstrate",
+        "authors": "Yuchen Song, Aditya Mittal, Unnat Jain",
         "journal": "arXiv preprint",
-        "abstract": "Safe whole-body control requires coordinating collision avoidance and balance under high-dimensional, nonlinear dynamics--making safety certificates difficult to design and reuse across behaviors. We present LIMBO, a framework for synthesizing a state-action control barrier function and distilling its safety structure…",
+        "abstract": "Behavior cloning for robot manipulation relies on expert demonstrations. However, for tasks that require dynamic stability, precise contact timing, or dexterous coordination, human operators may find it hard or even impossible to collect data. We study this infeasible-demonstration regime and propose GLIDE: Guardrails…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.22075v1"
+        "url": "http://arxiv.org/abs/2609.24996v1"
     },
     {
-        "id": "arxiv-gljyo418",
-        "title": "Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types",
-        "authors": "James Zhu, David Ologan, George Ortiz, Thomas Chun Fai Lee,…",
+        "id": "arxiv-ktw9gqkr",
+        "title": "MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning",
+        "authors": "Mingke Lu, Anxing Xiao, David Hsu",
         "journal": "arXiv preprint",
-        "abstract": "Quadrupedal robots are increasingly deployed in environments where locomotion must remain robust to disturbances and constrained terrain. Gait type, such as walking or trotting, is commonly used to characterize quadrupedal locomotion. However, gait type does not uniquely define locomotion, as parameters such as duty…",
+        "abstract": "Understanding natural human instructions is crucial for deploying robots in human-centric environments. We study multimodal instruction grounding, where language and gesture provide complementary but uncertain cues. We present MIGU, a modular framework that combines semantic and geometric evidence into a unified…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.22073v1"
+        "url": "http://arxiv.org/abs/2609.24995v1"
+    },
+    {
+        "id": "arxiv-aik0ny2x",
+        "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+        "authors": "Zixiang Chen, Wenting Zhao, Zhepeng Cen, Akshara Prabhakar,…",
+        "journal": "arXiv preprint",
+        "abstract": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect downstream randomness rather than differences between the current actions. We introduce Critical-State…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.24985v1"
+    },
+    {
+        "id": "arxiv-rpf3z86o",
+        "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+        "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu, Shenghai Yuan, Chaoran…",
+        "journal": "arXiv preprint",
+        "abstract": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.24984v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-m62egn5c",
+        "id": "gh-39iejseg",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "247.6k",
+        "stars": "247.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-tpic74sh",
+        "id": "gh-b4u2qfsb",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.5k",
@@ -218,7 +218,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-0oejupz7",
+        "id": "gh-zxf0ig8h",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.1k",
@@ -227,7 +227,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-frlzalv5",
+        "id": "gh-vonv3zaa",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.5k",
@@ -236,28 +236,28 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-y5teyoiv",
+        "id": "gh-w3r9zzbt",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "103.1k",
+        "stars": "103.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-djxt0eqp",
+        "id": "gh-wznq0sgq",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.0k",
+        "stars": "165.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-r074jxrg",
+        "id": "gh-5bklgk5q",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "134.2k",
+        "stars": "134.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -266,44 +266,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "DeepMind"
-    },
-    {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "SpaceNews"
-    },
-    {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "id": "ng-rss-wizbs7w8",
+        "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
+        "desc": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one…",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Reuters"
+        "source": "MarkTechPost"
     },
     {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "id": "ng-rss-s3nu7yuv",
+        "title": "SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6",
+        "desc": "SpaceXAI has released Grok 4.7, its new flagship model for coding, agentic tasks, and knowledge work. Grok 4.7 is built on a larger base model and a longer reinforcement learning…",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "MarkTechPost"
+    },
+    {
+        "id": "ng-hn-49791939",
+        "title": "NASA’s Mars Sample Return mission is dead",
+        "desc": "Click to read more about this development.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "Hacker News"
     }
 ]
 };
