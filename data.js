@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-23T11:00:57.789Z
-   Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-09-24T11:19:54.389Z
+   Stories: 30 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-c3dmon43",
+    "id": "rss-q5iaveye",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Better prompt caching for GPT-6",
-    "excerpt": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "excerpt": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
     "source": "OpenAI",
-    "time": "14h ago",
+    "time": "23h ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    "relevance": 82,
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
 },
 
     topics: [
@@ -45,61 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-c3dmon43",
-                "title": "Better prompt caching for GPT-6",
-                "source": "OpenAI",
-                "time": "14h ago",
-                "relevance": 90
-            },
-            {
-                "id": "rss-sb4pzn75",
-                "title": "Introducing GPT-6 Sol and Luna",
-                "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 88
-            },
-            {
-                "id": "rss-6jkco660",
-                "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+                "id": "rss-q5iaveye",
+                "title": "Sam Altman’s remarks at the United Nations Security Council",
                 "source": "OpenAI",
                 "time": "23h ago",
-                "relevance": 84
+                "relevance": 82
             },
             {
-                "id": "rss-ge97b3u9",
-                "title": "Priorities and principles for effective third party assessments",
+                "id": "rss-gxq7pyvi",
+                "title": "Anthropic says its biology lab has already found something big",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-323kk569",
+                "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
                 "source": "OpenAI",
-                "time": "1d ago",
+                "time": "23h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-8oy0fokm",
+                "title": "Two years of OpenAI Academy",
+                "source": "OpenAI",
+                "time": "19h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-tbavmjdd",
-                "title": "Making global data easier to explore",
-                "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 76
-            }
-        ]
-    },
-    {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "hn-49808816",
-                "title": "The current balance of power in open models",
-                "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-49796379",
-                "title": "What California is learning from solar panels built over irrigation canals",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
+                "id": "rss-p6bncy10",
+                "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+                "source": "OpenAI",
+                "time": "22h ago",
+                "relevance": 80
             }
         ]
     },
@@ -110,40 +88,104 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-433c9is7",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 69
+                "id": "rss-nvck1cxr",
+                "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 82
             },
             {
-                "id": "rss-6nokhk5w",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 69
+                "id": "rss-ccgfvvjw",
+                "title": "Everything new coming to Meta’s AI agent Muse",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 81
+            },
+            {
+                "id": "hn-49828177",
+                "title": "Looks promising for document editing with your agent",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-45kny1p9",
+                "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+                "source": "Hacker News",
+                "time": "5h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-49822555",
+                "title": "VSCode's SSH Agent Is Bananas (2025)",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 74
             }
         ]
     },
     {
-        "id": "topic-hardware",
-        "name": "AI Hardware",
-        "icon": "◆",
-        "color": "#f472b6",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "hn-49800513",
-                "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-                "source": "Hacker News",
-                "time": "22h ago",
-                "relevance": 69
+                "id": "rss-rs1n9nul",
+                "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 80
             },
             {
-                "id": "hn-49758709",
-                "title": "How did AMD Ryzen get 50% faster in two years?",
+                "id": "rss-e981g22y",
+                "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
+                "source": "MarkTechPost",
+                "time": "17h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-hd4p2fi2",
+                "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-vyv6hh3z",
+                "title": "A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model",
+                "source": "MarkTechPost",
+                "time": "10h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-eg4i0r6m",
+                "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
                 "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 65
+                "time": "12h ago",
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "rss-iimuxr4y",
+                "title": "Meta introduces camera-free AI glasses",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 82
+            },
+            {
+                "id": "hn-49819221",
+                "title": "Italian parliament votes for return to nuclear energy",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 70
             }
         ]
     }
@@ -151,73 +193,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-10xl4cow",
-        "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-        "authors": "Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen",
+        "id": "arxiv-l4udbg04",
+        "title": "On the Diffusibility of High-Dimensional Latents",
+        "authors": "Chao Feng, Zhiyang Xu, Bowei Chen, Yuanjun Xiong, Xiyao…",
         "journal": "arXiv preprint",
-        "abstract": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.26796v1"
-    },
-    {
-        "id": "arxiv-d9hqglw5",
-        "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
-        "authors": "Runyi Yang, Deheng Zhang, Xiaoye Wang, Kanzhi Wu, Lei Sun,…",
-        "journal": "arXiv preprint",
-        "abstract": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical interaction. Robot simulation instead requires object-level change, \\textit{i.e.}, objects must move independently, make contact, and reveal previously occluded…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.26795v1"
-    },
-    {
-        "id": "arxiv-h8dig4o1",
-        "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
-        "authors": "Shufan Sun, Chen Wang, Enxin Song, Jiatao Gu, Lingjie Liu",
-        "journal": "arXiv preprint",
-        "abstract": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with input images; and visual geometry foundation models that predict dense point maps from input images but the…",
+        "abstract": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reconstruction recovers…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.26793v1"
+        "url": "http://arxiv.org/abs/2609.28473v1"
     },
     {
-        "id": "arxiv-dl96t83u",
-        "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
-        "authors": "Ziyang Leng, Sicheng Mo, Seth Z. Zhao, Haoyuan Cai, Yu…",
-        "journal": "arXiv preprint",
-        "abstract": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existing platforms, however, exhibit a sim-to-real visual gap that corrupts policy perception, undermining their ability to…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.26792v1"
-    },
-    {
-        "id": "arxiv-noypjhfy",
-        "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
-        "authors": "Xiaoxing Ren, Thomas Parisini, Andreas A. Malikopoulos",
-        "journal": "arXiv preprint",
-        "abstract": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision processes without…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2609.26783v1"
-    },
-    {
-        "id": "arxiv-klpa1cwq",
-        "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-        "authors": "Zhihao Zhan, Ting Song, Li Dong, Shaohan Huang, Jianxun…",
-        "journal": "arXiv preprint",
-        "abstract": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-agent harnesses is often constrained by a central orchestrator's capacity to allocate tasks and coordinate workers. To…",
+        "id": "arxiv-kmmoyf4b",
+        "title": "Contrastive Learning for Authorship Verification",
+        "authors": "Peter Kirby",
+        "journal": "Experimental IR Meets Multilinguality, Multimodality, and Interaction (CLEF 2026), LNCS 17087, pp. 92-102, Springer (2027)",
+        "abstract": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors of model…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.26781v1"
+        "url": "http://arxiv.org/abs/2609.28471v1"
+    },
+    {
+        "id": "arxiv-95kee3ft",
+        "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+        "authors": "Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor…",
+        "journal": "arXiv preprint",
+        "abstract": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-scale data collection with over 175,000…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2609.28470v1"
+    },
+    {
+        "id": "arxiv-msf6q0mu",
+        "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+        "authors": "Zilin Fang, Zishuo Wang, Gim Hee Lee, David Hsu",
+        "journal": "arXiv preprint",
+        "abstract": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an important capability for applications such as…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.28467v1"
+    },
+    {
+        "id": "arxiv-6dzj517x",
+        "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+        "authors": "Harold Haodong Chen, Rongjin Guo, Disen Lan, Wen-Jie Shu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling, and evolving visual environments. Autoregressive (AR) video generation extends visual sequences through causal rollouts. However, a fundamental bottleneck emerges: as the generated sequence…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.28466v1"
+    },
+    {
+        "id": "arxiv-ub6xhvir",
+        "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
+        "authors": "Yingzhen Yang",
+        "journal": "arXiv preprint",
+        "abstract": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process. Its proof uses the modified…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.28459v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-y3256n5g",
+        "id": "gh-dlezpr3u",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "248.2k",
+        "stars": "248.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ypkcuc2z",
+        "id": "gh-6frjf2yg",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.5k",
@@ -226,7 +268,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-jmgjkasa",
+        "id": "gh-mlpz3z5u",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.2k",
@@ -235,7 +277,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-tjgatdo0",
+        "id": "gh-6hs87582",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.6k",
@@ -244,7 +286,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ekh2vye6",
+        "id": "gh-y7cp01nh",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.2k",
@@ -253,7 +295,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-0s8e7g1t",
+        "id": "gh-knp0qqdn",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -262,10 +304,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-dafjdu63",
+        "id": "gh-jut21eis",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "134.6k",
+        "stars": "134.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -274,44 +316,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "DeepMind"
-    },
-    {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "SpaceNews"
-    },
-    {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "id": "ng-rss-iimuxr4y",
+        "title": "Meta introduces camera-free AI glasses",
+        "desc": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Reuters"
+        "source": "TechCrunch"
     },
     {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "id": "ng-rss-sd4ci544",
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "desc": "Comments",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "Hacker News"
+    },
+    {
+        "id": "ng-hn-49819221",
+        "title": "Italian parliament votes for return to nuclear energy",
+        "desc": "Click to read more about this development.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Hacker News"
     }
 ]
 };
