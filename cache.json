@@ -1,16 +1,208 @@
 {
   "stories": [
     {
-      "id": "rss-q5iaveye",
+      "id": "rss-l3zj4ps4",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "source": "TechCrunch",
+      "time": "16h ago",
+      "rawDate": "2026-09-24 19:00:42",
+      "topic": "energy",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "score": 82.44444444444444,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-u1357azp",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "source": "OpenAI",
-      "time": "23h ago",
+      "time": "1d ago",
       "rawDate": "2026-09-23 12:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "score": 82.22222222222223,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
+      "score": 79.22222222222223,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-hlfwm7p7",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-09-23 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "score": 79,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-q95epl52",
+      "title": "Two years of OpenAI Academy",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-09-23 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "score": 77,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-tx66qsdv",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-09-23 13:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "score": 77,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-ba5ig8df",
+      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
+      "source": "MarkTechPost",
+      "time": "6h ago",
+      "rawDate": "2026-09-25 04:46:38",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
+      "description": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent judgment calls inside agent pipelines: routing, triage, tool selection, and guardrails. Is it deployable? Yes, […] The post Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That…",
+      "score": 76.66666666666667,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-dmlttyfn",
+      "title": "Making global data easier to explore",
+      "source": "Google Blog",
+      "time": "Sep 17",
+      "rawDate": "2026-09-17 20:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "score": 76.33333333333333,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-mfzk4wtb",
+      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
+      "source": "MarkTechPost",
+      "time": "16h ago",
+      "rawDate": "2026-09-24 18:58:56",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
+      "description": "BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds. The post BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost appeared first on MarkTechPost .",
+      "score": 76.15384615384616,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-2asokghm",
+      "title": "Co-creating the future of fashion with Google",
+      "source": "Google Blog",
+      "time": "6d ago",
+      "rawDate": "2026-09-18 13:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-o7oghaud",
+      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
+      "source": "MarkTechPost",
+      "time": "7h ago",
+      "rawDate": "2026-09-25 04:24:01",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
+      "description": "Black Forest Labs (BFL), the lab behind the FLUX image models, has released FLUX 3 Action. It is a 7B open-weights World Action Model (WAM) for robot control. The model reads camera frames, robot state and a text instruction. It then predicts future video frames and the next chunk of actions together. On the RoboLab-120 […] The post Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120 appeared first on MarkTechPost .",
+      "score": 75,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-o5vk2f5n",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "Google Blog",
+      "time": "1d ago",
+      "rawDate": "2026-09-23 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "score": 75,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-1zmvjl1m",
+      "title": "New experts join Google’s AI &amp; Economy team",
+      "source": "Google Blog",
+      "time": "6d ago",
+      "rawDate": "2026-09-18 14:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "score": 73,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-fmtsvi8k",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-jr0k27hv",
+      "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-09-24 05:27:41",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/",
+      "description": "Contrastive-LM has released CLM-8B, an open System One model that scores candidate actions against a state instead of generating text. It adds 2 small projection heads to a frozen Qwen3-8B encoder and trains them with a contrastive InfoNCE objective. In zero-shot tests it runs up to 9× faster than TypeSafe's Jev. With fine-tuned heads as a verifier, it reaches 81.6% on held-out DeepSWE tasks and 87.6% on held-out Terminal-Bench 2.1 tasks. The post Contrastive-LM Releases CLM-8B: An Open System…",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "hn-49830606",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-09-24T13:53:29.000Z",
+      "topic": "space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "description": "",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-w1akwf77",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
+    },
+    {
+      "id": "rss-fnibdg5a",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "source": "Hacker News",
+      "time": "18h ago",
+      "rawDate": "2026-09-24 17:21:36",
+      "topic": "devtools",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "Comments",
+      "score": 68.53846153846153,
+      "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
       "id": "rss-nvck1cxr",
@@ -49,18 +241,6 @@
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
-      "id": "rss-323kk569",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "source": "OpenAI",
-      "time": "23h ago",
-      "rawDate": "2026-09-23 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "score": 82,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
       "id": "rss-ccgfvvjw",
       "title": "Everything new coming to Meta’s AI agent Muse",
       "source": "TechCrunch",
@@ -85,42 +265,6 @@
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
-      "id": "rss-8oy0fokm",
-      "title": "Two years of OpenAI Academy",
-      "source": "OpenAI",
-      "time": "19h ago",
-      "rawDate": "2026-09-23 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "score": 80,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
-      "id": "rss-p6bncy10",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "source": "OpenAI",
-      "time": "22h ago",
-      "rawDate": "2026-09-23 13:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "score": 80,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
-      "id": "rss-0859mtgb",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "source": "Google Blog",
-      "time": "17h ago",
-      "rawDate": "2026-09-23 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "score": 78,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
       "id": "rss-e981g22y",
       "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
       "source": "MarkTechPost",
@@ -130,18 +274,6 @@
       "url": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
       "description": "NVIDIA has released Nemotron 3 Diarization, an open-weight speaker diarization model on Hugging Face. It answers one question about any conversation: who spoke when. The 100M-parameter model tracks up to 8 speakers, including when voices overlap. One checkpoint handles both offline recordings and real-time streaming. Is it deployable? Yes. The weights are released under the […] The post NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real…",
       "score": 77.5,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
-      "id": "rss-hd4p2fi2",
-      "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
-      "source": "MarkTechPost",
-      "time": "5h ago",
-      "rawDate": "2026-09-24 05:27:41",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/",
-      "description": "Contrastive-LM has released CLM-8B, an open System One model that scores candidate actions against a state instead of generating text. It adds 2 small projection heads to a frozen Qwen3-8B encoder and trains them with a contrastive InfoNCE objective. In zero-shot tests it runs up to 9× faster than TypeSafe's Jev. With fine-tuned heads as a verifier, it reaches 81.6% on held-out DeepSWE tasks and 87.6% on held-out Terminal-Bench 2.1 tasks. The post Contrastive-LM Releases CLM-8B: An Open System…",
-      "score": 77.22222222222223,
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
@@ -157,18 +289,6 @@
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
-      "id": "rss-9hnlaowd",
-      "title": "Making global data easier to explore",
-      "source": "Google Blog",
-      "time": "6d ago",
-      "rawDate": "2026-09-17 20:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "score": 76.33333333333333,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
       "id": "hn-49824864",
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
       "source": "Hacker News",
@@ -178,18 +298,6 @@
       "url": "https://github.com/nestrilabs/virtio-nvgpu",
       "description": "",
       "score": 75.88888888888889,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
-      "id": "rss-ing2icu5",
-      "title": "Co-creating the future of fashion with Google",
-      "source": "Google Blog",
-      "time": "5d ago",
-      "rawDate": "2026-09-18 13:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "score": 75.85714285714286,
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
@@ -265,18 +373,6 @@
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
-      "id": "rss-pgmk81fg",
-      "title": "New experts join Google’s AI &amp; Economy team",
-      "source": "Google Blog",
-      "time": "5d ago",
-      "rawDate": "2026-09-18 14:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "score": 73,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
       "id": "hn-49823348",
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
       "source": "Hacker News",
@@ -334,30 +430,6 @@
       "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
       "description": "",
       "score": 69.5,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
-      "id": "rss-l0ch2xo4",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-09-24T11:19:54.385Z"
-    },
-    {
-      "id": "rss-ospvhymt",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-09-24T11:19:54.385Z"
     },
     {
@@ -1007,114 +1079,6 @@
       "description": "",
       "score": 67.33333333333333,
       "cachedAt": "2026-09-19T10:30:52.167Z"
-    },
-    {
-      "id": "rss-f74gh7sq",
-      "title": "Reimagining advertising with AI",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-16 13:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "score": 87,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-tgol1e01",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "source": "MarkTechPost",
-      "time": "2h ago",
-      "rawDate": "2026-09-18 08:40:37",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-      "description": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use appeared first on MarkTechPost .",
-      "score": 81.25,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-581izi3k",
-      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-      "source": "MarkTechPost",
-      "time": "13h ago",
-      "rawDate": "2026-09-17 21:21:08",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-      "description": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later. The post Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads appeared first on MarkTechPost .",
-      "score": 80,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-y6kcb3rt",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "source": "TechCrunch",
-      "time": "12h ago",
-      "rawDate": "2026-09-17 22:34:09",
-      "topic": "llms",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "description": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-3257dlal",
-      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-      "source": "MarkTechPost",
-      "time": "14h ago",
-      "rawDate": "2026-09-17 20:45:04",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-      "description": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and […] The post Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop appeared first on MarkTechPost .",
-      "score": 73.33333333333333,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-lsio1z9w",
-      "title": "Building AI to accelerate science and improve lives",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-09-15 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-      "score": 73,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-7wo93x44",
-      "title": "AI for everyone in every language",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-09-15 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "score": 73,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "rss-ysrykper",
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-09-17 07:35:37",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-      "description": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training appeared first on MarkTechPost .",
-      "score": 72.55555555555556,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
-    },
-    {
-      "id": "hn-49746163",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "source": "Hacker News",
-      "time": "14h ago",
-      "rawDate": "2026-09-17T20:36:13.000Z",
-      "topic": "infra",
-      "url": "https://bend-lang.com/",
-      "description": "",
-      "score": 68.42857142857143,
-      "cachedAt": "2026-09-18T10:46:45.098Z"
     }
   ]
 }
