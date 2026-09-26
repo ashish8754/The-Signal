@@ -1,6 +1,198 @@
 {
   "stories": [
     {
+      "id": "rss-4h7tr8o5",
+      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+      "source": "MarkTechPost",
+      "time": "2h ago",
+      "rawDate": "2026-09-26 08:04:08",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "description": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR. The post Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building appeared first on MarkTechPost .",
+      "score": 84.33333333333333,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-uyr1tvr8",
+      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+      "source": "MarkTechPost",
+      "time": "3h ago",
+      "rawDate": "2026-09-26 07:22:46",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "description": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets. The post End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch appeared first on MarkTechPost .",
+      "score": 83.75,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-fifes60b",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "source": "OpenAI",
+      "time": "16h ago",
+      "rawDate": "2026-09-25 19:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/proaction",
+      "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "score": 82,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-8fvqev9s",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "source": "TechCrunch",
+      "time": "11h ago",
+      "rawDate": "2026-09-25 23:11:10",
+      "topic": "energy",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-jkbyzzpc",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+      "source": "MarkTechPost",
+      "time": "11h ago",
+      "rawDate": "2026-09-25 23:11:59",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "description": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang. The post Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding appeared first on MarkTechPost .",
+      "score": 79.33333333333333,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-c3h258f1",
+      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
+      "source": "MarkTechPost",
+      "time": "19h ago",
+      "rawDate": "2026-09-25 15:14:45",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+      "description": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI’s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company’s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM […] The post Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB appeared first on…",
+      "score": 78.57142857142857,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-tz5srdk7",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-23 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "score": 77.22222222222223,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-sf0o76ps",
+      "title": "Making global data easier to explore",
+      "source": "Google Blog",
+      "time": "Sep 17",
+      "rawDate": "2026-09-17 20:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "score": 76.33333333333333,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-66kkdikn",
+      "title": "Co-creating the future of fashion with Google",
+      "source": "Google Blog",
+      "time": "Sep 18",
+      "rawDate": "2026-09-18 13:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-s9j9g0fb",
+      "title": "Two years of OpenAI Academy",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-23 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "score": 75,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-im8cbnuv",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-09-23 13:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "score": 75,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-z5zgcu70",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-09-23 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "score": 73,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-zvabkplu",
+      "title": "New experts join Google’s AI &amp; Economy team",
+      "source": "Google Blog",
+      "time": "Sep 18",
+      "rawDate": "2026-09-18 14:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "score": 73,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-5i53dvgt",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "source": "Hacker News",
+      "time": "6h ago",
+      "rawDate": "2026-09-26 04:20:58",
+      "topic": "vision",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "description": "Comments",
+      "score": 71,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-z52lgb1n",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
+      "id": "rss-j5fvpbm4",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-09-26T11:00:35.870Z"
+    },
+    {
       "id": "rss-l3zj4ps4",
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "source": "TechCrunch",
@@ -10,18 +202,6 @@
       "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
       "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
       "score": 82.44444444444444,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-u1357azp",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-23 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "score": 79.22222222222223,
       "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
@@ -37,30 +217,6 @@
       "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
-      "id": "rss-q95epl52",
-      "title": "Two years of OpenAI Academy",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-23 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "score": 77,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-tx66qsdv",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-23 13:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "score": 77,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
       "id": "rss-ba5ig8df",
       "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
       "source": "MarkTechPost",
@@ -70,18 +226,6 @@
       "url": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
       "description": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent judgment calls inside agent pipelines: routing, triage, tool selection, and guardrails. Is it deployable? Yes, […] The post Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That…",
       "score": 76.66666666666667,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-dmlttyfn",
-      "title": "Making global data easier to explore",
-      "source": "Google Blog",
-      "time": "Sep 17",
-      "rawDate": "2026-09-17 20:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "score": 76.33333333333333,
       "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
@@ -97,18 +241,6 @@
       "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
-      "id": "rss-2asokghm",
-      "title": "Co-creating the future of fashion with Google",
-      "source": "Google Blog",
-      "time": "6d ago",
-      "rawDate": "2026-09-18 13:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "score": 75.85714285714286,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
       "id": "rss-o7oghaud",
       "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
       "source": "MarkTechPost",
@@ -118,42 +250,6 @@
       "url": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
       "description": "Black Forest Labs (BFL), the lab behind the FLUX image models, has released FLUX 3 Action. It is a 7B open-weights World Action Model (WAM) for robot control. The model reads camera frames, robot state and a text instruction. It then predicts future video frames and the next chunk of actions together. On the RoboLab-120 […] The post Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120 appeared first on MarkTechPost .",
       "score": 75,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-o5vk2f5n",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-09-23 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "score": 75,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-1zmvjl1m",
-      "title": "New experts join Google’s AI &amp; Economy team",
-      "source": "Google Blog",
-      "time": "6d ago",
-      "rawDate": "2026-09-18 14:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "score": 73,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-fmtsvi8k",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
       "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
@@ -178,18 +274,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
       "description": "",
       "score": 69.22222222222223,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-w1akwf77",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-09-25T11:24:45.283Z"
     },
     {
@@ -1007,78 +1091,6 @@
       "description": "",
       "score": 69.85714285714286,
       "cachedAt": "2026-09-20T10:53:20.113Z"
-    },
-    {
-      "id": "rss-zxpissj6",
-      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-09-19 04:04:06",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
-      "description": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving. The post GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026) appeared first on MarkTechPost .",
-      "score": 80,
-      "cachedAt": "2026-09-19T10:30:52.167Z"
-    },
-    {
-      "id": "rss-ni1oifrs",
-      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
-      "source": "MarkTechPost",
-      "time": "3h ago",
-      "rawDate": "2026-09-19 07:22:16",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
-      "description": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user’s computer. The agent works with local files and native apps, where your data already lives. It adds a desktop layer to an agent that launched on phones, the web and WhatsApp earlier this month. Is it deployable? […] The post Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes appeared first on MarkTechPost .",
-      "score": 79.21052631578948,
-      "cachedAt": "2026-09-19T10:30:52.167Z"
-    },
-    {
-      "id": "rss-pp44up59",
-      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-09-19 03:42:24",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/",
-      "description": "SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accurate as version 1.0 at the same price. Short-phrase word error rate across 19 languages fell from 20.6% to 6.8%. Pricing stays at $0.10 per hour for batch and $0.20 for streaming. The model is available today through the Grok Voice API. The post SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10…",
-      "score": 78.88888888888889,
-      "cachedAt": "2026-09-19T10:30:52.167Z"
-    },
-    {
-      "id": "rss-xpbgihqd",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "source": "Hacker News",
-      "time": "4h ago",
-      "rawDate": "2026-09-19 05:48:50",
-      "topic": "biotech",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "description": "Comments",
-      "score": 74,
-      "cachedAt": "2026-09-19T10:30:52.167Z"
-    },
-    {
-      "id": "hn-49761432",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "source": "Hacker News",
-      "time": "11h ago",
-      "rawDate": "2026-09-18T23:04:17.000Z",
-      "topic": "infra",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "description": "",
-      "score": 72.45454545454545,
-      "cachedAt": "2026-09-19T10:30:52.167Z"
-    },
-    {
-      "id": "hn-49747070",
-      "title": "How to Write with an LLM",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-09-17T21:48:38.000Z",
-      "topic": "llms",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "description": "",
-      "score": 67.33333333333333,
-      "cachedAt": "2026-09-19T10:30:52.167Z"
     }
   ]
 }

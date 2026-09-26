@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-25T11:24:45.286Z
-   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-26T11:00:35.872Z
+   Stories: 16 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-l3zj4ps4",
-    "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "excerpt": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-    "source": "TechCrunch",
+    "id": "rss-fifes60b",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "source": "OpenAI",
     "time": "16h ago",
     "readTime": "5 min read",
     "relevance": 82,
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+    "url": "https://openai.com/index/proaction"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-u1357azp",
+                "id": "rss-fifes60b",
+                "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+                "source": "OpenAI",
+                "time": "16h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-tz5srdk7",
                 "title": "Sam Altman’s remarks at the United Nations Security Council",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-hlfwm7p7",
-                "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-q95epl52",
-                "title": "Two years of OpenAI Academy",
-                "source": "OpenAI",
-                "time": "1d ago",
+                "time": "2d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-tx66qsdv",
-                "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-dmlttyfn",
+                "id": "rss-sf0o76ps",
                 "title": "Making global data easier to explore",
                 "source": "Google Blog",
                 "time": "Sep 17",
                 "relevance": 76
+            },
+            {
+                "id": "rss-66kkdikn",
+                "title": "Co-creating the future of fashion with Google",
+                "source": "Google Blog",
+                "time": "Sep 18",
+                "relevance": 76
+            },
+            {
+                "id": "rss-s9j9g0fb",
+                "title": "Two years of OpenAI Academy",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 75
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-ba5ig8df",
-                "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
+                "id": "rss-4h7tr8o5",
+                "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
                 "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 77
+                "time": "2h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-mfzk4wtb",
-                "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
+                "id": "rss-uyr1tvr8",
+                "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
                 "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 76
+                "time": "3h ago",
+                "relevance": 84
             },
             {
-                "id": "rss-o7oghaud",
-                "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
+                "id": "rss-jkbyzzpc",
+                "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
                 "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 75
+                "time": "11h ago",
+                "relevance": 79
             },
             {
-                "id": "rss-jr0k27hv",
-                "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
+                "id": "rss-c3h258f1",
+                "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 69
+                "time": "19h ago",
+                "relevance": 79
             }
         ]
     },
@@ -124,14 +124,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-fmtsvi8k",
+                "id": "rss-z52lgb1n",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-w1akwf77",
+                "id": "rss-j5fvpbm4",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +143,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-o8b30bcb",
+        "id": "arxiv-htgrl2t4",
         "title": "LLM Agents Can Easily Tamper With Their Own Traces",
         "authors": "Jeremy Qin, David Schmotz, Derck Prinzhorn, Luca…",
         "journal": "arXiv preprint",
@@ -152,7 +152,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30266v1"
     },
     {
-        "id": "arxiv-rhumuji5",
+        "id": "arxiv-7xgtcbhs",
         "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
         "authors": "Jiabin Qiu, Zixuan Chen, Hongye Cao, Jieqi Shi, Jing Huo,…",
         "journal": "arXiv preprint",
@@ -161,7 +161,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30264v1"
     },
     {
-        "id": "arxiv-ohxywvzh",
+        "id": "arxiv-rfimzjg5",
         "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
         "authors": "Sudip Bhujel, Shanghao Shi, Ruiquan Huang, Ning Zhang, Yang…",
         "journal": "arXiv preprint",
@@ -170,7 +170,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30258v1"
     },
     {
-        "id": "arxiv-hiffj1gr",
+        "id": "arxiv-92pfaw97",
         "title": "Agentic Detection of Online Conspiracies",
         "authors": "Lior Biton, Oren Tsur",
         "journal": "arXiv preprint",
@@ -179,7 +179,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30250v1"
     },
     {
-        "id": "arxiv-209aleek",
+        "id": "arxiv-oox3skac",
         "title": "RAPID: Robot Agentic Programming from Demonstrations",
         "authors": "Yuyao Liu, Jiayuan Mao, David Hsu, Leslie Pack Kaelbling,…",
         "journal": "arXiv preprint",
@@ -188,7 +188,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30249v1"
     },
     {
-        "id": "arxiv-zips1oo7",
+        "id": "arxiv-cxh2xsgi",
         "title": "Rolling-WAM: World Action Models with Rolling Imagination",
         "authors": "Yinghua Zhou, Junjie Ye, Yiqi Zhao, Hao Dong, Celina Shiyu…",
         "journal": "arXiv preprint",
@@ -200,43 +200,43 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-odz5kqgi",
+        "id": "gh-s65euxsv",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "248.8k",
+        "stars": "249.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-nsyjofya",
+        "id": "gh-jtih6qfn",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.5k",
+        "stars": "187.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-sps8ym75",
+        "id": "gh-x4os4fu3",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.2k",
+        "stars": "155.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-ygqms1nd",
+        "id": "gh-0qomhbyd",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "166.6k",
+        "stars": "166.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-t2z7lab0",
+        "id": "gh-vbuxntdp",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.3k",
@@ -245,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-1cp9femq",
+        "id": "gh-7do3iv1m",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -254,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-pzozfhfs",
+        "id": "gh-ijkow8du",
         "name": "Comfy-Org/ComfyUI",
-        "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": "134.9k",
+        "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
+        "stars": "135.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
