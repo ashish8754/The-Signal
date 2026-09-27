@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-26T11:00:35.872Z
-   Stories: 16 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-27T11:39:24.367Z
+   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-fifes60b",
+    "id": "rss-d8otv6i4",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "source": "OpenAI",
-    "time": "16h ago",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "excerpt": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "source": "TechCrunch",
+    "time": "10h ago",
     "readTime": "5 min read",
-    "relevance": 82,
-    "url": "https://openai.com/index/proaction"
+    "relevance": 81,
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-fifes60b",
-                "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-                "source": "OpenAI",
-                "time": "16h ago",
-                "relevance": 82
+                "id": "rss-d8otv6i4",
+                "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-tz5srdk7",
+                "id": "rss-dv0ecisx",
+                "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "hn-49865343",
+                "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-lmo0526e",
                 "title": "Sam Altman’s remarks at the United Nations Security Council",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-sf0o76ps",
+                "id": "rss-1wcf877g",
                 "title": "Making global data easier to explore",
                 "source": "Google Blog",
                 "time": "Sep 17",
                 "relevance": 76
-            },
-            {
-                "id": "rss-66kkdikn",
-                "title": "Co-creating the future of fashion with Google",
-                "source": "Google Blog",
-                "time": "Sep 18",
-                "relevance": 76
-            },
-            {
-                "id": "rss-s9j9g0fb",
-                "title": "Two years of OpenAI Academy",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 75
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-4h7tr8o5",
+                "id": "rss-ln1l2gwp",
+                "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+                "source": "MarkTechPost",
+                "time": "13h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-4s9st4f3",
+                "title": "A Coding Guide to Google Research’s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-ejrq8y2y",
                 "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
                 "source": "MarkTechPost",
-                "time": "2h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 76
             },
             {
-                "id": "rss-uyr1tvr8",
-                "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+                "id": "rss-t8kb94sj",
+                "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
                 "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-jkbyzzpc",
-                "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-c3h258f1",
-                "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
-                "source": "MarkTechPost",
-                "time": "19h ago",
-                "relevance": 79
+                "time": "15h ago",
+                "relevance": 74
             }
         ]
     },
@@ -124,14 +124,21 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-z52lgb1n",
+                "id": "hn-49857729",
+                "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 70
+            },
+            {
+                "id": "rss-umlpfemm",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-j5fvpbm4",
+                "id": "rss-yrbvp5bl",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +150,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-htgrl2t4",
+        "id": "arxiv-ioe9n289",
         "title": "LLM Agents Can Easily Tamper With Their Own Traces",
         "authors": "Jeremy Qin, David Schmotz, Derck Prinzhorn, Luca…",
         "journal": "arXiv preprint",
@@ -152,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30266v1"
     },
     {
-        "id": "arxiv-7xgtcbhs",
+        "id": "arxiv-b008v5sk",
         "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
         "authors": "Jiabin Qiu, Zixuan Chen, Hongye Cao, Jieqi Shi, Jing Huo,…",
         "journal": "arXiv preprint",
@@ -161,7 +168,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30264v1"
     },
     {
-        "id": "arxiv-rfimzjg5",
+        "id": "arxiv-2yekpk3t",
         "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
         "authors": "Sudip Bhujel, Shanghao Shi, Ruiquan Huang, Ning Zhang, Yang…",
         "journal": "arXiv preprint",
@@ -170,7 +177,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30258v1"
     },
     {
-        "id": "arxiv-92pfaw97",
+        "id": "arxiv-m30m1xqd",
         "title": "Agentic Detection of Online Conspiracies",
         "authors": "Lior Biton, Oren Tsur",
         "journal": "arXiv preprint",
@@ -179,7 +186,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30250v1"
     },
     {
-        "id": "arxiv-oox3skac",
+        "id": "arxiv-tj8yg8wa",
         "title": "RAPID: Robot Agentic Programming from Demonstrations",
         "authors": "Yuyao Liu, Jiayuan Mao, David Hsu, Leslie Pack Kaelbling,…",
         "journal": "arXiv preprint",
@@ -188,7 +195,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2609.30249v1"
     },
     {
-        "id": "arxiv-cxh2xsgi",
+        "id": "arxiv-ydbskzyo",
         "title": "Rolling-WAM: World Action Models with Rolling Imagination",
         "authors": "Yinghua Zhou, Junjie Ye, Yiqi Zhao, Hao Dong, Celina Shiyu…",
         "journal": "arXiv preprint",
@@ -200,16 +207,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-s65euxsv",
+        "id": "gh-ne8y56yy",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "249.1k",
+        "stars": "249.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-jtih6qfn",
+        "id": "gh-rnldpju9",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -218,7 +225,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-x4os4fu3",
+        "id": "gh-2z6fb0ex",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.3k",
@@ -227,7 +234,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-0qomhbyd",
+        "id": "gh-qq23xxw8",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.7k",
@@ -236,16 +243,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-vbuxntdp",
+        "id": "gh-mecvbeaj",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "103.3k",
+        "stars": "103.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-7do3iv1m",
+        "id": "gh-7mmm1suv",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -254,10 +261,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-ijkow8du",
+        "id": "gh-gb4k6uu4",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "135.0k",
+        "stars": "135.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
