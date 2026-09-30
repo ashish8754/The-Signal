@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-29T12:22:11.093Z
-   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-09-30T12:07:41.825Z
+   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-sapt9q2m",
+    "id": "rss-c6o2lj6u",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Towards safety cases for frontier AI training",
-    "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "title": "Introducing GPT-6.1 Sol",
+    "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
     "source": "OpenAI",
-    "time": "17h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+    "relevance": 87,
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol"
 },
 
     topics: [
@@ -45,36 +45,36 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-sapt9q2m",
+                "id": "rss-c6o2lj6u",
+                "title": "Introducing GPT-6.1 Sol",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-s1omv5ho",
+                "title": "DevDay 2026 Recap",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-hqjjzepx",
                 "title": "Towards safety cases for frontier AI training",
                 "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-9ynbbm64",
-                "title": "How we will do better for Australia",
-                "source": "OpenAI",
-                "time": "17h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-yw67j7a4",
-                "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+                "id": "rss-ym0ekkmi",
+                "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
                 "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 83
+                "time": "13h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-hfkgar48",
-                "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-                "source": "Google Blog",
-                "time": "17h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-b9n341ez",
-                "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+                "id": "rss-oz1xlidw",
+                "title": "Introducing dots",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 77
@@ -82,38 +82,24 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
         "stories": [
             {
-                "id": "rss-0ezu9yy7",
-                "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
-                "source": "MarkTechPost",
-                "time": "3h ago",
-                "relevance": 84
+                "id": "hn-49898778",
+                "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 70
             },
             {
-                "id": "rss-b72l3b42",
-                "title": "H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-n7p2xyg2",
-                "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak",
-                "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-1r4knkxc",
-                "title": "Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price",
-                "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 77
+                "id": "hn-49897993",
+                "title": "Vermont replacing power plants with home batteries",
+                "source": "Hacker News",
+                "time": "17h ago",
+                "relevance": 70
             }
         ]
     },
@@ -124,21 +110,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-49891290",
-                "title": "Jeeves. Reasoning improves Jev-like decision models",
-                "source": "Hacker News",
-                "time": "1h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-ntck5lyu",
+                "id": "rss-1n2hsxgz",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-1l0mla08",
+                "id": "rss-acehb2h1",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -150,73 +129,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-wzamkn5w",
-        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
-        "authors": "Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille",
+        "id": "arxiv-fqoa6yh6",
+        "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
+        "authors": "Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma, Nicolas Ugrinovic,…",
         "journal": "arXiv preprint",
-        "abstract": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE,…",
+        "abstract": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downstream part-level applications. We instead formulate part decomposition as a joint partitioning of the entire shape,…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.35770v1"
+        "url": "http://arxiv.org/abs/2609.38180v1"
     },
     {
-        "id": "arxiv-30q4i5ti",
-        "title": "Telescopic Language Models",
-        "authors": "Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty,…",
+        "id": "arxiv-czle696f",
+        "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+        "authors": "Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao",
         "journal": "arXiv preprint",
-        "abstract": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.35769v1"
+        "abstract": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.38178v1"
     },
     {
-        "id": "arxiv-p2uyzwgl",
-        "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
-        "authors": "Zimo Wang, Junkun Yuan, Angtian Wang, Haotian Yang, Canyu…",
+        "id": "arxiv-rh1c3b1k",
+        "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+        "authors": "Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom…",
         "journal": "arXiv preprint",
-        "abstract": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversaturation and artifacts.…",
+        "abstract": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.35768v1"
+        "url": "http://arxiv.org/abs/2609.38177v1"
     },
     {
-        "id": "arxiv-9z903otu",
-        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
-        "authors": "Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen,…",
+        "id": "arxiv-rowoohuq",
+        "title": "Breakdown of Local Denoising as Semantic Speciation",
+        "authors": "Guangkuo Liu, Mert Okyay, Yifan F. Zhang, Fangjun Hu, Rahul…",
         "journal": "arXiv preprint",
-        "abstract": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image generation must be…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.35767v1"
+        "abstract": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near-concurrence in a variety of frontier…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.38176v1"
     },
     {
-        "id": "arxiv-j14mynuy",
-        "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
-        "authors": "András Kovács, Alexander Conroy, Daniel Hershcovich, Jens…",
+        "id": "arxiv-a85q0d6e",
+        "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+        "authors": "Minxing Li, Minghao Han, Weizhi Zhao, Hanwen Wang,…",
         "journal": "arXiv preprint",
-        "abstract": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation. We investigate this problem through biblical intertextuality in Karen Blixen's Seven Gothic Tales. Drawing on the…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2609.35765v1"
+        "abstract": "We study robotic in-context learning (ICL), an emerging paradigm that enables robots to infer and execute tasks from visual demonstrations. Despite its growing promise, the problem itself remains under-defined: a visual demonstration simultaneously conveys action trajectories, object semantics, manipulation…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.38173v1"
     },
     {
-        "id": "arxiv-oj2dw1y6",
-        "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
-        "authors": "Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson,…",
+        "id": "arxiv-qnb2322y",
+        "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+        "authors": "Zihan Wang, Zhen Wu, Pieter Abbeel, Rocky Duan, Jitendra…",
         "journal": "arXiv preprint",
-        "abstract": "Sparse inertial pose estimation promises camera-free motion capture from consumer devices, but consumer sensors are unreliable: firmware-fused orientations are biased, mounting varies between sessions, and streams drift or drop out. On a new 35-take single-subject benchmark pairing an earbud head inertial measurement…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.35764v1"
+        "abstract": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction videos, such as clips that clearly show a person's full body and unoccluded interactions with objects, poses a…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2609.38172v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-og9epms7",
+        "id": "gh-el0o390k",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "250.0k",
+        "stars": "250.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-44rfi877",
+        "id": "gh-b99o1tah",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -225,7 +204,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-70gyv3q4",
+        "id": "gh-pddokc3b",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.4k",
@@ -234,7 +213,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-pxqjau8q",
+        "id": "gh-z4kk1pmp",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.8k",
@@ -243,7 +222,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-uf26y1i1",
+        "id": "gh-qwyg53d2",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.5k",
@@ -252,19 +231,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-yjk5v3p0",
+        "id": "gh-geqocbam",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.1k",
+        "stars": "165.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-wbpl6ofi",
+        "id": "gh-71wgqb19",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "135.5k",
+        "stars": "135.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
