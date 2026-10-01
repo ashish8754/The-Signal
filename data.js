@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-09-30T12:07:41.825Z
-   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-01T12:41:09.648Z
+   Stories: 24 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-c6o2lj6u",
+    "id": "rss-tw0yo7uj",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Introducing GPT-6.1 Sol",
-    "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
     "source": "OpenAI",
     "time": "1d ago",
     "readTime": "5 min read",
     "relevance": 87,
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
 },
 
     topics: [
@@ -45,61 +45,126 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-c6o2lj6u",
+                "id": "rss-tw0yo7uj",
+                "title": "Disrupting a coordinated model-distillation campaign",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-swq4rok9",
                 "title": "Introducing GPT-6.1 Sol",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-s1omv5ho",
-                "title": "DevDay 2026 Recap",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-hqjjzepx",
-                "title": "Towards safety cases for frontier AI training",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-ym0ekkmi",
-                "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-                "source": "TechCrunch",
-                "time": "13h ago",
+                "time": "2d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-oz1xlidw",
-                "title": "Introducing dots",
+                "id": "rss-r1f6ec5w",
+                "title": "DevDay 2026 Recap",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-r6wl3m25",
+                "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-ktw64o8r",
+                "title": "Helping small businesses put AI to work",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 77
+                "relevance": 80
             }
         ]
     },
     {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-49898778",
-                "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 70
+                "id": "rss-n8yb6q7l",
+                "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 83
             },
             {
-                "id": "hn-49897993",
-                "title": "Vermont replacing power plants with home batteries",
+                "id": "hn-49919910",
+                "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
                 "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 82
+            },
+            {
+                "id": "hn-49912048",
+                "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-49906100",
+                "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 68
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-p7872fnj",
+                "title": "NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-wvb50l79",
+                "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+                "source": "MarkTechPost",
+                "time": "15h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-6dls35bl",
+                "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 76
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "rss-vcs5bgwg",
+                "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+                "source": "TechCrunch",
                 "time": "17h ago",
-                "relevance": 70
+                "relevance": 85
+            },
+            {
+                "id": "hn-49913350",
+                "title": "Halfspace experimental IDE for solid modeling with distance fields",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 71
             }
         ]
     },
@@ -110,14 +175,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-1n2hsxgz",
+                "id": "rss-nlutlg5a",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-acehb2h1",
+                "id": "rss-s03varpo",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -129,73 +194,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-fqoa6yh6",
-        "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
-        "authors": "Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma, Nicolas Ugrinovic,…",
+        "id": "arxiv-0szwlai1",
+        "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+        "authors": "Hongyuan Tao, Xinggang Wang, Lianghui Zhu, Yongkang Li,…",
         "journal": "arXiv preprint",
-        "abstract": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downstream part-level applications. We instead formulate part decomposition as a joint partitioning of the entire shape,…",
+        "abstract": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with continuous image generation. The former introduces a visual quantization bottleneck. The…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.38180v1"
+        "url": "http://arxiv.org/abs/2609.40362v1"
     },
     {
-        "id": "arxiv-czle696f",
-        "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
-        "authors": "Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao",
+        "id": "arxiv-ulqu1xvv",
+        "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+        "authors": "Tian Xia, Minghao Liu, Yiqing Liang, Laixi Shi, Jiayun Wang",
         "journal": "arXiv preprint",
-        "abstract": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.38178v1"
-    },
-    {
-        "id": "arxiv-rh1c3b1k",
-        "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
-        "authors": "Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom…",
-        "journal": "arXiv preprint",
-        "abstract": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2609.38177v1"
-    },
-    {
-        "id": "arxiv-rowoohuq",
-        "title": "Breakdown of Local Denoising as Semantic Speciation",
-        "authors": "Guangkuo Liu, Mert Okyay, Yifan F. Zhang, Fangjun Hu, Rahul…",
-        "journal": "arXiv preprint",
-        "abstract": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near-concurrence in a variety of frontier…",
+        "abstract": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2609.38176v1"
+        "url": "http://arxiv.org/abs/2609.40361v1"
     },
     {
-        "id": "arxiv-a85q0d6e",
-        "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
-        "authors": "Minxing Li, Minghao Han, Weizhi Zhao, Hanwen Wang,…",
+        "id": "arxiv-98gga9f9",
+        "title": "Semifactual Credit-Augmented Policy Optimization",
+        "authors": "Junshu Pan, Zhizhang Fu, Shulin Huang, Yiran Ding, Zifan…",
         "journal": "arXiv preprint",
-        "abstract": "We study robotic in-context learning (ICL), an emerging paradigm that enables robots to infer and execute tasks from visual demonstrations. Despite its growing promise, the problem itself remains under-defined: a visual demonstration simultaneously conveys action trajectories, object semantics, manipulation…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.38173v1"
+        "abstract": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.40360v1"
     },
     {
-        "id": "arxiv-qnb2322y",
-        "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
-        "authors": "Zihan Wang, Zhen Wu, Pieter Abbeel, Rocky Duan, Jitendra…",
+        "id": "arxiv-vxc9x4yf",
+        "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+        "authors": "Dulhan Jayalath, Oiwi Parker Jones",
         "journal": "arXiv preprint",
-        "abstract": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction videos, such as clips that clearly show a person's full body and unoccluded interactions with objects, poses a…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2609.38172v1"
+        "abstract": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2609.40359v1"
+    },
+    {
+        "id": "arxiv-renehmku",
+        "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+        "authors": "Liming Lu, Xianzheng Ma, Wenkun He, Guanqi Zhan, Yilin…",
+        "journal": "arXiv preprint",
+        "abstract": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume that natural language is insufficient to represent the physical knowledge required for reliable generation, and…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.40358v1"
+    },
+    {
+        "id": "arxiv-cxte71fz",
+        "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+        "authors": "Xinghao Chen, Xiangbo Gao, Jiongze Yu, Yuheng Wu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, whiteboards, and product labels, while…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2609.40356v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-el0o390k",
+        "id": "gh-8uzjss8l",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "250.2k",
+        "stars": "250.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-b99o1tah",
+        "id": "gh-vyw9zy2l",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -204,7 +269,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-pddokc3b",
+        "id": "gh-k4clo1tx",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.4k",
@@ -213,25 +278,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-z4kk1pmp",
+        "id": "gh-05s6c698",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "166.8k",
+        "stars": "166.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-qwyg53d2",
+        "id": "gh-ur4jzfnw",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "103.5k",
+        "stars": "103.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-geqocbam",
+        "id": "gh-p2ozryek",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -240,10 +305,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-71wgqb19",
+        "id": "gh-q900wco9",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "135.6k",
+        "stars": "135.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
