@@ -1,16 +1,280 @@
 {
   "stories": [
     {
-      "id": "rss-tw0yo7uj",
+      "id": "rss-5lqe1jk0",
+      "title": "The eternal complement",
+      "source": "OpenAI",
+      "time": "19h ago",
+      "rawDate": "2026-10-01 17:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "score": 86.66666666666667,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-lov6rsfg",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "source": "OpenAI",
+      "time": "20h ago",
+      "rawDate": "2026-10-01 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "score": 86,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-yf4pelqc",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "source": "TechCrunch",
+      "time": "16h ago",
+      "rawDate": "2026-10-01 19:18:03",
+      "topic": "space",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "score": 85.05882352941177,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-rnwpfrs5",
       "title": "Disrupting a coordinated model-distillation campaign",
       "source": "OpenAI",
-      "time": "1d ago",
+      "time": "2d ago",
       "rawDate": "2026-09-30 10:30:00",
       "topic": "llms",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "score": 87,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
+      "score": 85,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-awe8duqz",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "source": "TechCrunch",
+      "time": "14h ago",
+      "rawDate": "2026-10-01 21:08:11",
+      "topic": "llms",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "score": 83.45454545454545,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-cb7qrhpt",
+      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+      "source": "MarkTechPost",
+      "time": "5h ago",
+      "rawDate": "2026-10-02 06:35:00",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+      "description": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents. The post AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks…",
+      "score": 80.26315789473684,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-jie2e1bx",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "source": "TechCrunch",
+      "time": "17h ago",
+      "rawDate": "2026-10-01 18:14:42",
+      "topic": "security",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "score": 80.22222222222223,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-6cir5cns",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-10-01 00:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/the-den-family-social",
+      "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "score": 80.07692307692308,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-5r8ikm1w",
+      "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
+      "source": "MarkTechPost",
+      "time": "18h ago",
+      "rawDate": "2026-10-01 17:13:12",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
+      "description": "Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused text plus image inputs. Both […] The post Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI appeared first on MarkTechPost .",
+      "score": 77.5,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-gd6uo11f",
+      "title": "Co-creating the future of fashion with Google",
+      "source": "Google Blog",
+      "time": "Sep 18",
+      "rawDate": "2026-09-18 13:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "score": 75.85714285714286,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "hn-49926512",
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-10-01T20:12:15.000Z",
+      "topic": "research",
+      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "description": "",
+      "score": 75,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-z3vb0m2e",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-09-28 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "score": 74.81818181818181,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-6d0cx9l9",
+      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+      "source": "MarkTechPost",
+      "time": "11h ago",
+      "rawDate": "2026-10-02 01:00:41",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "description": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency. The post Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text appeared first on MarkTechPost .",
+      "score": 74,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "hn-49931031",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "source": "Hacker News",
+      "time": "3h ago",
+      "rawDate": "2026-10-02T08:05:48.000Z",
+      "topic": "multimodal",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "description": "",
+      "score": 74,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "hn-49919910",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-01T10:21:36.000Z",
+      "topic": "infra",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "description": "",
+      "score": 74,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "hn-49922437",
+      "title": "Context Language Models",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-10-01T14:51:33.000Z",
+      "topic": "llms",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "description": "",
+      "score": 73.66666666666667,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-tiynd2gm",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "Google Blog",
+      "time": "Sep 23",
+      "rawDate": "2026-09-23 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "score": 73,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-icbq5e8t",
+      "title": "New experts join Google’s AI &amp; Economy team",
+      "source": "Google Blog",
+      "time": "Sep 18",
+      "rawDate": "2026-09-18 14:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "score": 73,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "hn-49926773",
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-10-01T20:36:47.000Z",
+      "topic": "hardware",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "description": "",
+      "score": 72.71428571428571,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-8cudsxj7",
+      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+      "source": "MarkTechPost",
+      "time": "11h ago",
+      "rawDate": "2026-10-02 00:32:50",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "description": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments into plain dictionaries, kontext wires components via string paths, and ktyping enforces runtime shape checks. The post A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End appeared first on MarkTechPost .",
+      "score": 71.53846153846153,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-5ijtw1in",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "hn-49923692",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "source": "Hacker News",
+      "time": "19h ago",
+      "rawDate": "2026-10-01T16:18:57.000Z",
+      "topic": "llms",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "description": "",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
+    },
+    {
+      "id": "rss-gvch1ulf",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-10-02T12:05:34.056Z"
     },
     {
       "id": "rss-swq4rok9",
@@ -70,18 +334,6 @@
       "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
       "score": 83,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
-      "id": "hn-49919910",
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "source": "Hacker News",
-      "time": "2h ago",
-      "rawDate": "2026-10-01T10:21:36.000Z",
-      "topic": "infra",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "description": "",
-      "score": 82,
       "cachedAt": "2026-10-01T12:41:09.646Z"
     },
     {
@@ -145,18 +397,6 @@
       "cachedAt": "2026-10-01T12:41:09.646Z"
     },
     {
-      "id": "rss-oxxi5hng",
-      "title": "Co-creating the future of fashion with Google",
-      "source": "Google Blog",
-      "time": "Sep 18",
-      "rawDate": "2026-09-18 13:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "score": 75.85714285714286,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
       "id": "rss-6dls35bl",
       "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
       "source": "MarkTechPost",
@@ -169,18 +409,6 @@
       "cachedAt": "2026-10-01T12:41:09.646Z"
     },
     {
-      "id": "rss-zbagcxx2",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 74.81818181818181,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
       "id": "hn-49911995",
       "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "source": "Hacker News",
@@ -190,30 +418,6 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "",
       "score": 74.27272727272728,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
-      "id": "rss-vcedkml2",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "source": "Google Blog",
-      "time": "Sep 23",
-      "rawDate": "2026-09-23 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "score": 73,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
-      "id": "rss-gdekevk1",
-      "title": "New experts join Google’s AI &amp; Economy team",
-      "source": "Google Blog",
-      "time": "Sep 18",
-      "rawDate": "2026-09-18 14:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "score": 73,
       "cachedAt": "2026-10-01T12:41:09.646Z"
     },
     {
@@ -238,30 +442,6 @@
       "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
       "description": "Comments",
       "score": 69.5,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
-      "id": "rss-nlutlg5a",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-10-01T12:41:09.646Z"
-    },
-    {
-      "id": "rss-s03varpo",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-10-01T12:41:09.646Z"
     },
     {
@@ -971,102 +1151,6 @@
       "description": "Comments",
       "score": 71,
       "cachedAt": "2026-09-26T11:00:35.870Z"
-    },
-    {
-      "id": "rss-l3zj4ps4",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "source": "TechCrunch",
-      "time": "16h ago",
-      "rawDate": "2026-09-24 19:00:42",
-      "topic": "energy",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "score": 82.44444444444444,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-hlfwm7p7",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-09-23 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "score": 79,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-ba5ig8df",
-      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-09-25 04:46:38",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
-      "description": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent judgment calls inside agent pipelines: routing, triage, tool selection, and guardrails. Is it deployable? Yes, […] The post Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That…",
-      "score": 76.66666666666667,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-mfzk4wtb",
-      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
-      "source": "MarkTechPost",
-      "time": "16h ago",
-      "rawDate": "2026-09-24 18:58:56",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
-      "description": "BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds. The post BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost appeared first on MarkTechPost .",
-      "score": 76.15384615384616,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-o7oghaud",
-      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
-      "source": "MarkTechPost",
-      "time": "7h ago",
-      "rawDate": "2026-09-25 04:24:01",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
-      "description": "Black Forest Labs (BFL), the lab behind the FLUX image models, has released FLUX 3 Action. It is a 7B open-weights World Action Model (WAM) for robot control. The model reads camera frames, robot state and a text instruction. It then predicts future video frames and the next chunk of actions together. On the RoboLab-120 […] The post Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120 appeared first on MarkTechPost .",
-      "score": 75,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-jr0k27hv",
-      "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-09-24 05:27:41",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/",
-      "description": "Contrastive-LM has released CLM-8B, an open System One model that scores candidate actions against a state instead of generating text. It adds 2 small projection heads to a frozen Qwen3-8B encoder and trains them with a contrastive InfoNCE objective. In zero-shot tests it runs up to 9× faster than TypeSafe's Jev. With fine-tuned heads as a verifier, it reaches 81.6% on held-out DeepSWE tasks and 87.6% on held-out Terminal-Bench 2.1 tasks. The post Contrastive-LM Releases CLM-8B: An Open System…",
-      "score": 69.22222222222223,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "hn-49830606",
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "source": "Hacker News",
-      "time": "21h ago",
-      "rawDate": "2026-09-24T13:53:29.000Z",
-      "topic": "space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "description": "",
-      "score": 69.22222222222223,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
-    },
-    {
-      "id": "rss-fnibdg5a",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "source": "Hacker News",
-      "time": "18h ago",
-      "rawDate": "2026-09-24 17:21:36",
-      "topic": "devtools",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "description": "Comments",
-      "score": 68.53846153846153,
-      "cachedAt": "2026-09-25T11:24:45.283Z"
     }
   ]
 }
