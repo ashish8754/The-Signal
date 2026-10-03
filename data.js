@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-02T12:05:34.059Z
-   Stories: 23 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-03T11:17:15.648Z
+   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-5lqe1jk0",
+    "id": "rss-vikve5xc",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "The eternal complement",
-    "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "title": "A model guide for the GPT-6 family",
+    "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
     "source": "OpenAI",
     "time": "19h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/the-eternal-complement"
+    "relevance": 90,
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-5lqe1jk0",
-                "title": "The eternal complement",
+                "id": "rss-vikve5xc",
+                "title": "A model guide for the GPT-6 family",
                 "source": "OpenAI",
                 "time": "19h ago",
-                "relevance": 87
+                "relevance": 90
             },
             {
-                "id": "rss-lov6rsfg",
-                "title": "How Albertsons Companies is reimagining retail from the inside out",
-                "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 86
-            },
-            {
-                "id": "rss-rnwpfrs5",
-                "title": "Disrupting a coordinated model-distillation campaign",
-                "source": "OpenAI",
-                "time": "2d ago",
+                "id": "rss-xc5fqjvi",
+                "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+                "source": "MarkTechPost",
+                "time": "4h ago",
                 "relevance": 85
             },
             {
-                "id": "rss-awe8duqz",
-                "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-                "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-6cir5cns",
-                "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+                "id": "rss-56l5m82m",
+                "title": "Chatham scales its capital markets expertise with OpenAI",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 80
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-cb7qrhpt",
-                "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 80
+                "relevance": 85
             },
             {
-                "id": "hn-49926512",
-                "title": "ArXiv's Updated Rate Limit Policy",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 75
+                "id": "rss-il535j1v",
+                "title": "The eternal complement",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 84
             },
             {
-                "id": "rss-6d0cx9l9",
-                "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-8cudsxj7",
-                "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 72
+                "id": "rss-3rx40u4j",
+                "title": "How Albertsons Companies is reimagining retail from the inside out",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 83
             }
         ]
     },
@@ -124,18 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-5ijtw1in",
+                "id": "hn-49942434",
+                "title": "Show HN: Offrun – manage every coding agent from one workspace",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-2rzv8qa4",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-gvch1ulf",
+                "id": "rss-p94l8lid",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-k3hsyv1w",
+                "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-g791nvcm",
+                "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 75
             }
         ]
     }
@@ -143,7 +136,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-9jxin6ul",
+        "id": "arxiv-hqsazmmv",
         "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
         "authors": "Sophia Feldman, Assaf Shocher",
         "journal": "arXiv preprint",
@@ -152,7 +145,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02210v1"
     },
     {
-        "id": "arxiv-05fif3as",
+        "id": "arxiv-wx2395ow",
         "title": "Sphere Encoder 2",
         "authors": "Kaiyu Yue, Sean McLeish, Ruchit Rawal, Brian Bartoldson,…",
         "journal": "arXiv preprint",
@@ -161,7 +154,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02208v1"
     },
     {
-        "id": "arxiv-j35es4gk",
+        "id": "arxiv-uqv3snm5",
         "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
         "authors": "Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev",
         "journal": "arXiv preprint",
@@ -170,7 +163,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02207v1"
     },
     {
-        "id": "arxiv-xgaznfrl",
+        "id": "arxiv-tcdkwtkj",
         "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
         "authors": "Pengfei Li, Naufal Suryanto, Sicheng Zhang, Muzammal Naseer",
         "journal": "arXiv preprint",
@@ -179,7 +172,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02206v1"
     },
     {
-        "id": "arxiv-ryuegupb",
+        "id": "arxiv-gyeuy3kz",
         "title": "ROWBench: Do Video Models Render What the Program Specifies?",
         "authors": "Zheng-Hui Huang, Guixu Lin, Yu-Ju Tsai, Jian-Kai Zhu,…",
         "journal": "arXiv preprint",
@@ -188,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02205v1"
     },
     {
-        "id": "arxiv-4u41b8bi",
+        "id": "arxiv-nyjr7p6d",
         "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
         "authors": "Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui…",
         "journal": "arXiv preprint",
@@ -200,25 +193,25 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-x1u14q2s",
+        "id": "gh-3uhvsvn8",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "250.7k",
+        "stars": "250.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-5akp7zvo",
+        "id": "gh-xnw8xpav",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.7k",
+        "stars": "187.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-8sto2x8u",
+        "id": "gh-tttwo9jw",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.5k",
@@ -227,7 +220,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-meeefv6q",
+        "id": "gh-rj373hoh",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.9k",
@@ -236,7 +229,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-n9e4n6o1",
+        "id": "gh-06uo16zj",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.6k",
@@ -245,7 +238,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-guk3on57",
+        "id": "gh-ctb98eyo",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -254,10 +247,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-04chx2ob",
+        "id": "gh-5qroburk",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "135.8k",
+        "stars": "135.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

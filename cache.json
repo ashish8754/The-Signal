@@ -1,28 +1,232 @@
 {
   "stories": [
     {
-      "id": "rss-5lqe1jk0",
-      "title": "The eternal complement",
+      "id": "rss-vikve5xc",
+      "title": "A model guide for the GPT-6 family",
       "source": "OpenAI",
       "time": "19h ago",
+      "rawDate": "2026-10-02 16:15:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "score": 90,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-xc5fqjvi",
+      "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+      "source": "MarkTechPost",
+      "time": "4h ago",
+      "rawDate": "2026-10-03 06:55:15",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+      "description": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization. The post IBM Brings Bob to Self-Hosted and Air-Gapped Environments:…",
+      "score": 85,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-gu8dxqwm",
+      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+      "source": "MarkTechPost",
+      "time": "5h ago",
+      "rawDate": "2026-10-03 05:37:18",
+      "topic": "infra",
+      "url": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+      "description": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost .",
+      "score": 85,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-56l5m82m",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-10-02 00:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/chatham-financial",
+      "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "score": 84.5,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-il535j1v",
+      "title": "The eternal complement",
+      "source": "OpenAI",
+      "time": "1d ago",
       "rawDate": "2026-10-01 17:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/the-eternal-complement",
       "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "score": 86.66666666666667,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
+      "score": 83.66666666666667,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
     },
     {
-      "id": "rss-lov6rsfg",
+      "id": "rss-3rx40u4j",
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "source": "OpenAI",
-      "time": "20h ago",
+      "time": "1d ago",
       "rawDate": "2026-10-01 16:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "score": 86,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
+      "score": 83,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-54okixb5",
+      "title": "The latest AI news we announced in September 2026",
+      "source": "Google Blog",
+      "time": "20h ago",
+      "rawDate": "2026-10-02 15:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "description": "Here are Google’s latest AI updates from September 2026",
+      "score": 78,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "hn-49942434",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-10-03T08:40:17.000Z",
+      "topic": "agents",
+      "url": "https://offrun.dev/",
+      "description": "",
+      "score": 75.63636363636364,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-k3hsyv1w",
+      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+      "source": "MarkTechPost",
+      "time": "6h ago",
+      "rawDate": "2026-10-03 05:09:53",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+      "description": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time…",
+      "score": 75.45454545454545,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "hn-49942818",
+      "title": "GitHub's new dashboard experience now the default",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-10-03T09:59:01.000Z",
+      "topic": "opensource",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "description": "",
+      "score": 74.85714285714286,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-vu7dky10",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-09-28 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "score": 74.81818181818181,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-g791nvcm",
+      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+      "source": "MarkTechPost",
+      "time": "7h ago",
+      "rawDate": "2026-10-03 03:31:15",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
+      "description": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's GLiDE, GLiNER2.5-Decide and 4 open-source rivals. The post Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors appeared first on MarkTechPost .",
+      "score": 74.61538461538461,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "hn-49942592",
+      "title": "Gemini ending free use of Flash and Pro models",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-10-03T09:13:19.000Z",
+      "topic": "llms",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "description": "",
+      "score": 74.22222222222223,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-zhliy300",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "Google Blog",
+      "time": "Sep 23",
+      "rawDate": "2026-09-23 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "score": 73,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-nfg7ftfb",
+      "title": "New experts join Google’s AI &amp; Economy team",
+      "source": "Google Blog",
+      "time": "Sep 18",
+      "rawDate": "2026-09-18 14:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "score": 73,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-2rzv8qa4",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "rss-p94l8lid",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "hn-49936575",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "source": "Hacker News",
+      "time": "17h ago",
+      "rawDate": "2026-10-02T18:01:16.000Z",
+      "topic": "llms",
+      "url": "https://dwarfstar.sh/",
+      "description": "",
+      "score": 69,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
+    },
+    {
+      "id": "hn-49929391",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-02T02:51:27.000Z",
+      "topic": "llms",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "description": "",
+      "score": 68.44444444444444,
+      "cachedAt": "2026-10-03T11:17:15.645Z"
     },
     {
       "id": "rss-yf4pelqc",
@@ -133,18 +337,6 @@
       "cachedAt": "2026-10-02T12:05:34.056Z"
     },
     {
-      "id": "rss-z3vb0m2e",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 74.81818181818181,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
-    },
-    {
       "id": "rss-6d0cx9l9",
       "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
       "source": "MarkTechPost",
@@ -193,30 +385,6 @@
       "cachedAt": "2026-10-02T12:05:34.056Z"
     },
     {
-      "id": "rss-tiynd2gm",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "source": "Google Blog",
-      "time": "Sep 23",
-      "rawDate": "2026-09-23 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "score": 73,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
-    },
-    {
-      "id": "rss-icbq5e8t",
-      "title": "New experts join Google’s AI &amp; Economy team",
-      "source": "Google Blog",
-      "time": "Sep 18",
-      "rawDate": "2026-09-18 14:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "score": 73,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
-    },
-    {
       "id": "hn-49926773",
       "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
       "source": "Hacker News",
@@ -241,18 +409,6 @@
       "cachedAt": "2026-10-02T12:05:34.056Z"
     },
     {
-      "id": "rss-5ijtw1in",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
-    },
-    {
       "id": "hn-49923692",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "source": "Hacker News",
@@ -262,18 +418,6 @@
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "description": "",
       "score": 69.22222222222223,
-      "cachedAt": "2026-10-02T12:05:34.056Z"
-    },
-    {
-      "id": "rss-gvch1ulf",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-10-02T12:05:34.056Z"
     },
     {
@@ -1091,66 +1235,6 @@
       "description": "",
       "score": 63.81818181818182,
       "cachedAt": "2026-09-27T11:39:24.364Z"
-    },
-    {
-      "id": "rss-uyr1tvr8",
-      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
-      "source": "MarkTechPost",
-      "time": "3h ago",
-      "rawDate": "2026-09-26 07:22:46",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
-      "description": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets. The post End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch appeared first on MarkTechPost .",
-      "score": 83.75,
-      "cachedAt": "2026-09-26T11:00:35.870Z"
-    },
-    {
-      "id": "rss-8fvqev9s",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "source": "TechCrunch",
-      "time": "11h ago",
-      "rawDate": "2026-09-25 23:11:10",
-      "topic": "energy",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-09-26T11:00:35.870Z"
-    },
-    {
-      "id": "rss-jkbyzzpc",
-      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
-      "source": "MarkTechPost",
-      "time": "11h ago",
-      "rawDate": "2026-09-25 23:11:59",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
-      "description": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang. The post Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding appeared first on MarkTechPost .",
-      "score": 79.33333333333333,
-      "cachedAt": "2026-09-26T11:00:35.870Z"
-    },
-    {
-      "id": "rss-c3h258f1",
-      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
-      "source": "MarkTechPost",
-      "time": "19h ago",
-      "rawDate": "2026-09-25 15:14:45",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
-      "description": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI’s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company’s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM […] The post Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB appeared first on…",
-      "score": 78.57142857142857,
-      "cachedAt": "2026-09-26T11:00:35.870Z"
-    },
-    {
-      "id": "rss-5i53dvgt",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "source": "Hacker News",
-      "time": "6h ago",
-      "rawDate": "2026-09-26 04:20:58",
-      "topic": "vision",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "description": "Comments",
-      "score": 71,
-      "cachedAt": "2026-09-26T11:00:35.870Z"
     }
   ]
 }
