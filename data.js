@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-03T11:17:15.648Z
-   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-04T11:57:02.649Z
+   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-vikve5xc",
+    "id": "rss-n989llo6",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "A model guide for the GPT-6 family",
     "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
     "source": "OpenAI",
-    "time": "19h ago",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 90,
+    "relevance": 87,
     "url": "https://openai.com/index/practical-guide-building-gpt-6"
 },
 
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-vikve5xc",
+                "id": "rss-n989llo6",
                 "title": "A model guide for the GPT-6 family",
                 "source": "OpenAI",
-                "time": "19h ago",
-                "relevance": 90
+                "time": "1d ago",
+                "relevance": 87
             },
             {
-                "id": "rss-xc5fqjvi",
-                "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-56l5m82m",
+                "id": "rss-pky74ptu",
                 "title": "Chatham scales its capital markets expertise with OpenAI",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 85
+                "time": "2d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-il535j1v",
+                "id": "rss-87fh2ku8",
                 "title": "The eternal complement",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
+                "time": "2d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-3rx40u4j",
+                "id": "rss-m1kwtc3b",
                 "title": "How Albertsons Companies is reimagining retail from the inside out",
                 "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-hiu7h7fz",
+                "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+                "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 83
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "hn-49942434",
-                "title": "Show HN: Offrun – manage every coding agent from one workspace",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-2rzv8qa4",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 69
-            },
-            {
-                "id": "rss-p94l8lid",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 69
+                "relevance": 77
             }
         ]
     },
@@ -117,18 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-k3hsyv1w",
-                "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+                "id": "rss-wig3yd0u",
+                "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
                 "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 75
+                "time": "4h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-g791nvcm",
-                "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+                "id": "rss-8ev8hatw",
+                "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-amxyvlh2",
+                "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
                 "source": "MarkTechPost",
                 "time": "7h ago",
-                "relevance": 75
+                "relevance": 77
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "rss-3se4g9fw",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 69
+            },
+            {
+                "id": "rss-cjtsbcrk",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 69
             }
         ]
     }
@@ -136,7 +136,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-hqsazmmv",
+        "id": "arxiv-m64wjfze",
         "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
         "authors": "Sophia Feldman, Assaf Shocher",
         "journal": "arXiv preprint",
@@ -145,7 +145,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02210v1"
     },
     {
-        "id": "arxiv-wx2395ow",
+        "id": "arxiv-ojg4utqf",
         "title": "Sphere Encoder 2",
         "authors": "Kaiyu Yue, Sean McLeish, Ruchit Rawal, Brian Bartoldson,…",
         "journal": "arXiv preprint",
@@ -154,7 +154,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02208v1"
     },
     {
-        "id": "arxiv-uqv3snm5",
+        "id": "arxiv-ij26768a",
         "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
         "authors": "Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev",
         "journal": "arXiv preprint",
@@ -163,7 +163,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02207v1"
     },
     {
-        "id": "arxiv-tcdkwtkj",
+        "id": "arxiv-1beubyer",
         "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
         "authors": "Pengfei Li, Naufal Suryanto, Sicheng Zhang, Muzammal Naseer",
         "journal": "arXiv preprint",
@@ -172,7 +172,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02206v1"
     },
     {
-        "id": "arxiv-gyeuy3kz",
+        "id": "arxiv-clhjn1s2",
         "title": "ROWBench: Do Video Models Render What the Program Specifies?",
         "authors": "Zheng-Hui Huang, Guixu Lin, Yu-Ju Tsai, Jian-Kai Zhu,…",
         "journal": "arXiv preprint",
@@ -181,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.02205v1"
     },
     {
-        "id": "arxiv-nyjr7p6d",
+        "id": "arxiv-9s6z882i",
         "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
         "authors": "Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui…",
         "journal": "arXiv preprint",
@@ -193,16 +193,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-3uhvsvn8",
+        "id": "gh-qxtt0dfv",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "250.9k",
+        "stars": "251.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-xnw8xpav",
+        "id": "gh-ahw07x34",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -211,7 +211,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-tttwo9jw",
+        "id": "gh-7ovvd4dd",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.5k",
@@ -220,7 +220,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-rj373hoh",
+        "id": "gh-u92gumkt",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "166.9k",
@@ -229,16 +229,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-06uo16zj",
+        "id": "gh-r6ksu9hx",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "103.6k",
+        "stars": "103.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-ctb98eyo",
+        "id": "gh-lkvxwrea",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -247,10 +247,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-5qroburk",
+        "id": "gh-wwhry3eh",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "135.9k",
+        "stars": "136.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
