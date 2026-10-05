@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-04T11:57:02.649Z
-   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-05T13:57:23.084Z
+   Stories: 20 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-n989llo6",
+    "id": "rss-ezxh6ulr",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "A model guide for the GPT-6 family",
-    "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "title": "Building advertising for the way people use AI",
+    "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "3h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/practical-guide-building-gpt-6"
+    "relevance": 90,
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-n989llo6",
-                "title": "A model guide for the GPT-6 family",
+                "id": "rss-ezxh6ulr",
+                "title": "Building advertising for the way people use AI",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
+                "time": "3h ago",
+                "relevance": 90
             },
             {
-                "id": "rss-pky74ptu",
-                "title": "Chatham scales its capital markets expertise with OpenAI",
+                "id": "rss-nsah29y0",
+                "title": "A model guide for the GPT-6 family",
                 "source": "OpenAI",
                 "time": "2d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-q0rhl86h",
+                "title": "Chatham scales its capital markets expertise with OpenAI",
+                "source": "OpenAI",
+                "time": "3d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-87fh2ku8",
+                "id": "rss-bse3ec3t",
                 "title": "The eternal complement",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-m1kwtc3b",
-                "title": "How Albertsons Companies is reimagining retail from the inside out",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-hiu7h7fz",
-                "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+                "id": "rss-7bc1cu3h",
+                "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "time": "16h ago",
+                "relevance": 75
             }
         ]
     },
@@ -88,25 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-wig3yd0u",
-                "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+                "id": "rss-02i5d4aw",
+                "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
                 "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 83
+                "time": "12h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-8ev8hatw",
-                "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+                "id": "rss-lw7png6p",
+                "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
                 "source": "MarkTechPost",
-                "time": "4h ago",
+                "time": "5h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-4cx0x85c",
+                "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+                "source": "MarkTechPost",
+                "time": "9h ago",
+                "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-b67c552z",
+                "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+                "source": "TechCrunch",
+                "time": "17h ago",
                 "relevance": 79
             },
             {
-                "id": "rss-amxyvlh2",
-                "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
-                "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 77
+                "id": "rss-ac3pn35q",
+                "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+                "source": "Hacker News",
+                "time": "6h ago",
+                "relevance": 70
             }
         ]
     },
@@ -117,14 +139,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-3se4g9fw",
+                "id": "rss-t19mt0ch",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-cjtsbcrk",
+                "id": "rss-ngejyxhr",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -136,82 +158,82 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-m64wjfze",
-        "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-        "authors": "Sophia Feldman, Assaf Shocher",
+        "id": "arxiv-5tzj8thf",
+        "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+        "authors": "Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc…",
         "journal": "arXiv preprint",
-        "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph…",
+        "abstract": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.02210v1"
+        "url": "http://arxiv.org/abs/2610.03717v1"
     },
     {
-        "id": "arxiv-ojg4utqf",
-        "title": "Sphere Encoder 2",
-        "authors": "Kaiyu Yue, Sean McLeish, Ruchit Rawal, Brian Bartoldson,…",
+        "id": "arxiv-jvhxgc91",
+        "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+        "authors": "Jiahuan Cheng, Zhiyi Li, Tian Xia, Ruojin Cai, Yilun Du,…",
         "journal": "arXiv preprint",
-        "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the…",
+        "abstract": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying part, nor which pixels move together as one body. We propose MoSE3, the first feed-forward model…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.02208v1"
+        "url": "http://arxiv.org/abs/2610.03716v1"
     },
     {
-        "id": "arxiv-ij26768a",
-        "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-        "authors": "Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev",
+        "id": "arxiv-304y7fcx",
+        "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+        "authors": "Ruihong Shen, Žiga Kovačič, Peter Kulits, Xingrui Wang,…",
         "journal": "arXiv preprint",
-        "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this…",
+        "abstract": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.02207v1"
+        "url": "http://arxiv.org/abs/2610.03715v1"
     },
     {
-        "id": "arxiv-1beubyer",
-        "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-        "authors": "Pengfei Li, Naufal Suryanto, Sicheng Zhang, Muzammal Naseer",
+        "id": "arxiv-23r792or",
+        "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+        "authors": "Nishit Anand, Ramani Duraiswami, Dinesh Manocha",
         "journal": "arXiv preprint",
-        "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2610.02206v1"
+        "abstract": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.03713v1"
     },
     {
-        "id": "arxiv-clhjn1s2",
-        "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-        "authors": "Zheng-Hui Huang, Guixu Lin, Yu-Ju Tsai, Jian-Kai Zhu,…",
+        "id": "arxiv-7fmbtpfh",
+        "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+        "authors": "Yiming Huang, Lennart Bastian, Hanqun Cao, Luis Vollmers,…",
         "journal": "arXiv preprint",
-        "abstract": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.02205v1"
+        "abstract": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.03712v1"
     },
     {
-        "id": "arxiv-9s6z882i",
-        "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-        "authors": "Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui…",
+        "id": "arxiv-qdczlx7p",
+        "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+        "authors": "Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth…",
         "journal": "arXiv preprint",
-        "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model…",
+        "abstract": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.02204v1"
+        "url": "http://arxiv.org/abs/2610.03710v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-qxtt0dfv",
+        "id": "gh-zvqwzlgm",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "251.1k",
+        "stars": "251.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ahw07x34",
+        "id": "gh-cavo54fk",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.6k",
+        "stars": "187.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-7ovvd4dd",
+        "id": "gh-ktsd09mm",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.5k",
@@ -220,25 +242,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-u92gumkt",
+        "id": "gh-gzabsxax",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "166.9k",
+        "stars": "167.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-r6ksu9hx",
+        "id": "gh-qu6nkbat",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "103.7k",
+        "stars": "103.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-lkvxwrea",
+        "id": "gh-j97wk5v3",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -247,7 +269,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-wwhry3eh",
+        "id": "gh-sq7ebmx2",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
         "stars": "136.1k",
