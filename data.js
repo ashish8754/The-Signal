@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-05T13:57:23.084Z
-   Stories: 20 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-10-06T12:58:33.706Z
+   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ezxh6ulr",
+    "id": "rss-lfc7322e",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Building advertising for the way people use AI",
-    "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "title": "A model guide for the GPT-6 family",
+    "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
     "source": "OpenAI",
-    "time": "3h ago",
+    "time": "3d ago",
     "readTime": "5 min read",
-    "relevance": 90,
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    "relevance": 85,
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
 },
 
     topics: [
@@ -45,90 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ezxh6ulr",
-                "title": "Building advertising for the way people use AI",
-                "source": "OpenAI",
-                "time": "3h ago",
-                "relevance": 90
-            },
-            {
-                "id": "rss-nsah29y0",
+                "id": "rss-lfc7322e",
                 "title": "A model guide for the GPT-6 family",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-q0rhl86h",
+                "id": "rss-1rn72ua1",
                 "title": "Chatham scales its capital markets expertise with OpenAI",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-bse3ec3t",
-                "title": "The eternal complement",
+                "id": "rss-ntmw3d6s",
+                "title": "Building advertising for the way people use AI",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "1d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-7bc1cu3h",
-                "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
-                "source": "MarkTechPost",
-                "time": "16h ago",
-                "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-02i5d4aw",
-                "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
-                "source": "MarkTechPost",
-                "time": "12h ago",
+                "id": "rss-swb2xrx0",
+                "title": "Our approach to EU text provenance rules",
+                "source": "OpenAI",
+                "time": "21h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-lw7png6p",
-                "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-4cx0x85c",
-                "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
-                "source": "MarkTechPost",
-                "time": "9h ago",
+                "id": "rss-yk87xex3",
+                "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+                "source": "Google Blog",
+                "time": "Sep 28",
                 "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "rss-b67c552z",
-                "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-ac3pn35q",
-                "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 70
             }
         ]
     },
@@ -139,18 +88,90 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-t19mt0ch",
+                "id": "rss-o14q725q",
+                "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+                "source": "TechCrunch",
+                "time": "18h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-enorpdey",
+                "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+                "source": "TechCrunch",
+                "time": "18h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-fvxxozj4",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-ngejyxhr",
+                "id": "rss-2a53lusg",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-nigt1pzd",
+                "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+                "source": "MarkTechPost",
+                "time": "15h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-ftnx0mii",
+                "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-okdzt879",
+                "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+                "source": "MarkTechPost",
+                "time": "14h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-qtqmotu1",
+                "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "hn-49976993",
+                "title": "World's First enhanced geothermal power plant completed in just 23 months",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-49971782",
+                "title": "Global Solar Atlas: summary of solar power potential globally",
+                "source": "Hacker News",
+                "time": "14h ago",
+                "relevance": 71
             }
         ]
     }
@@ -158,73 +179,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-5tzj8thf",
-        "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-        "authors": "Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc…",
+        "id": "arxiv-ql2eve08",
+        "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+        "authors": "Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang, Hsi-An Chen,…",
         "journal": "arXiv preprint",
-        "abstract": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a…",
+        "abstract": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.03717v1"
+        "url": "http://arxiv.org/abs/2610.06852v1"
     },
     {
-        "id": "arxiv-jvhxgc91",
-        "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
-        "authors": "Jiahuan Cheng, Zhiyi Li, Tian Xia, Ruojin Cai, Yilun Du,…",
+        "id": "arxiv-9scq5oz0",
+        "title": "Base Models Can Reason By Taking a Cue From Training Data",
+        "authors": "Sophie L. Wang, Amil Dravid, Rulin Shao, Kevin Farhat,…",
         "journal": "arXiv preprint",
-        "abstract": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying part, nor which pixels move together as one body. We propose MoSE3, the first feed-forward model…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.03716v1"
-    },
-    {
-        "id": "arxiv-304y7fcx",
-        "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-        "authors": "Ruihong Shen, Žiga Kovačič, Peter Kulits, Xingrui Wang,…",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.03715v1"
-    },
-    {
-        "id": "arxiv-23r792or",
-        "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-        "authors": "Nishit Anand, Ramani Duraiswami, Dinesh Manocha",
-        "journal": "arXiv preprint",
-        "abstract": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so…",
+        "abstract": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.03713v1"
+        "url": "http://arxiv.org/abs/2610.06851v1"
     },
     {
-        "id": "arxiv-7fmbtpfh",
-        "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-        "authors": "Yiming Huang, Lennart Bastian, Hanqun Cao, Luis Vollmers,…",
+        "id": "arxiv-l5jbna03",
+        "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+        "authors": "Yucheng Zhang, Sirui Xu, Jinhong Li, Liuyu Bian, Anatulya…",
         "journal": "arXiv preprint",
-        "abstract": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.03712v1"
-    },
-    {
-        "id": "arxiv-qdczlx7p",
-        "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-        "authors": "Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth…",
-        "journal": "arXiv preprint",
-        "abstract": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally…",
+        "abstract": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.03710v1"
+        "url": "http://arxiv.org/abs/2610.06850v1"
+    },
+    {
+        "id": "arxiv-ep3zyo7w",
+        "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+        "authors": "Jeffrey Hu, Daniel Olmeda Reino, Ayush Tewari",
+        "journal": "arXiv preprint",
+        "abstract": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregressive diffusion at…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.06847v1"
+    },
+    {
+        "id": "arxiv-q3fw2ayt",
+        "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+        "authors": "Haojin Deng, Zhiping Lin, Yimin Yang",
+        "journal": "arXiv preprint",
+        "abstract": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2610.06846v1"
+    },
+    {
+        "id": "arxiv-5ruzmocr",
+        "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+        "authors": "Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel…",
+        "journal": "arXiv preprint",
+        "abstract": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.06844v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-zvqwzlgm",
+        "id": "gh-d7e191s8",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "251.3k",
+        "stars": "251.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-cavo54fk",
+        "id": "gh-8lx22nyn",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.7k",
@@ -233,7 +254,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-ktsd09mm",
+        "id": "gh-nv4eylva",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.5k",
@@ -242,7 +263,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-gzabsxax",
+        "id": "gh-73popok5",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "167.0k",
@@ -251,7 +272,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-qu6nkbat",
+        "id": "gh-4red31wi",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.8k",
@@ -260,7 +281,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-j97wk5v3",
+        "id": "gh-wmmo6p5m",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -269,10 +290,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-sq7ebmx2",
+        "id": "gh-r1u5ak0z",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "136.1k",
+        "stars": "136.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
