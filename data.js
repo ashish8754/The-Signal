@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-08T13:01:16.267Z
-   Stories: 22 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-09T12:47:55.127Z
+   Stories: 20 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-b5hsijbf",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-    "source": "TechCrunch",
-    "time": "16h ago",
+    "id": "rss-ufymgwiy",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "source": "OpenAI",
+    "time": "5h ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+    "relevance": 87,
+    "url": "https://openai.com/index/sophos"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-8wfrspzn",
-                "title": "GPT-6 and Intelligent UI for everyone",
+                "id": "rss-ufymgwiy",
+                "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
                 "source": "OpenAI",
-                "time": "1d ago",
+                "time": "5h ago",
                 "relevance": 87
             },
             {
-                "id": "rss-f5mxpnr2",
-                "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-                "source": "TechCrunch",
-                "time": "18h ago",
+                "id": "rss-vnd41zzb",
+                "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-1bv7rhbq",
+                "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+                "source": "OpenAI",
+                "time": "20h ago",
                 "relevance": 83
             },
             {
-                "id": "rss-9x9pt7s4",
-                "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 82
-            },
-            {
-                "id": "rss-hhf33ocd",
-                "title": "Helping teens learn, plan, and shape the future of AI",
+                "id": "rss-qjzb9qag",
+                "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-sry4tebz",
-                "title": "How Jump Trading is scaling quant research with ChatGPT",
+                "id": "rss-5gmd4e6h",
+                "title": "LegalOn halves Codex costs while maintaining development speed",
                 "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 79
+                "time": "1d ago",
+                "relevance": 77
             }
         ]
     },
@@ -88,32 +88,76 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-q628kmvn",
+                "id": "rss-u6oad34j",
+                "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+                "source": "TechCrunch",
+                "time": "18h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-i78lwj7k",
+                "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+                "source": "MarkTechPost",
+                "time": "20h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-zgfk6beo",
+                "title": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-3gfiku5s",
                 "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
                 "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 85
+                "time": "1d ago",
+                "relevance": 77
+            }
+        ]
+    },
+    {
+        "id": "topic-security",
+        "name": "AI Safety & Security",
+        "icon": "◊",
+        "color": "#ef4444",
+        "stories": [
+            {
+                "id": "rss-um2kgr72",
+                "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+                "source": "TechCrunch",
+                "time": "16h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-izcd0uvu",
-                "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-ge8v1hcv",
-                "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
-                "source": "MarkTechPost",
-                "time": "11h ago",
+                "id": "hn-50018350",
+                "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+                "source": "Hacker News",
+                "time": "2h ago",
                 "relevance": 74
+            }
+        ]
+    },
+    {
+        "id": "topic-multimodal",
+        "name": "Multimodal AI",
+        "icon": "◑",
+        "color": "#b87333",
+        "stories": [
+            {
+                "id": "rss-902zyksq",
+                "title": "Whistle: Speech to Text in 16.9 MB",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 70
             },
             {
-                "id": "rss-qjimluz5",
-                "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
-                "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 73
+                "id": "hn-49992994",
+                "title": "ETH-68: Ethernet Audio Interface for Linux",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 67
             }
         ]
     },
@@ -124,28 +168,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-l3ge2418",
-                "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-                "source": "TechCrunch",
-                "time": "18h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-feqzbm07",
-                "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-                "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-vt37irj7",
+                "id": "rss-zee1m8ns",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-w0f9jk1v",
+                "id": "rss-3bqepxpv",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -157,100 +187,100 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-n5moxmxp",
-        "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
-        "authors": "Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, Kyehong Park,…",
+        "id": "arxiv-3l96mjk1",
+        "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+        "authors": "Jusuk Lee, Sungha Kim, Yeonsoo Park, Jonguk Cheon, Yoonkyo…",
         "journal": "arXiv preprint",
-        "abstract": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently or couple them implicitly, providing limited guidance for ensuring fine-grained spatial…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.10539v1"
-    },
-    {
-        "id": "arxiv-bj4l1c96",
-        "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-        "authors": "Shravan Chaudhari, William Paul, Suchi Saria, Rama…",
-        "journal": "arXiv preprint",
-        "abstract": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.10538v1"
-    },
-    {
-        "id": "arxiv-nzrigl52",
-        "title": "Decoupling Exploration from Optimization in RLVR",
-        "authors": "Saif Punjwani, Micah Goldblum",
-        "journal": "arXiv preprint",
-        "abstract": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.10536v1"
-    },
-    {
-        "id": "arxiv-p5etxa1y",
-        "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
-        "authors": "Yanwen Zou, Chenyang Shi, Guoxuan Xu, Wenye Yu, Wendi Chen,…",
-        "journal": "arXiv preprint",
-        "abstract": "End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy methods enable human correction through teleoperation, but specialized hardware and operator training hinder deployment at…",
+        "abstract": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching often limits generalization to initial object poses, goal poses, and grasps not shown in the video.…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.10534v1"
+        "url": "http://arxiv.org/abs/2610.12470v1"
     },
     {
-        "id": "arxiv-rbwlru6b",
-        "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-        "authors": "Hongru Cai, Ran Wei, Wenjie Wang, Chengfa Wu, Ning Song,…",
+        "id": "arxiv-gqm7t15m",
+        "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+        "authors": "Ritesh Thawkar, Shubham Patle, Shravan Venkatraman, Rao…",
         "journal": "arXiv preprint",
-        "abstract": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2610.10533v1"
+        "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.12469v1"
     },
     {
-        "id": "arxiv-jtdfye6o",
-        "title": "Long-WAM: Scaling the Context of World-Action Models",
-        "authors": "Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu, Shuai…",
+        "id": "arxiv-eg8w2dta",
+        "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+        "authors": "Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun,…",
         "journal": "arXiv preprint",
-        "abstract": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history…",
+        "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.10528v1"
+        "url": "http://arxiv.org/abs/2610.12468v1"
+    },
+    {
+        "id": "arxiv-97b2qteb",
+        "title": "CSF: Contextual Safety Filtering for Motion Generators",
+        "authors": "Lizhi Yang, Yiling Hou, Yao Tang, Junheng Li, Daniel Weng,…",
+        "journal": "arXiv preprint",
+        "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.12467v1"
+    },
+    {
+        "id": "arxiv-y4ljuduq",
+        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+        "authors": "Drew T. Nguyen, William Fithian",
+        "journal": "arXiv preprint",
+        "abstract": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2610.12466v1"
+    },
+    {
+        "id": "arxiv-aawx66xm",
+        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+        "authors": "Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio…",
+        "journal": "arXiv preprint",
+        "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations.…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.12465v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-jz23cw6w",
+        "id": "gh-c8bwmndb",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "252.1k",
+        "stars": "252.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-v7hool3b",
+        "id": "gh-flrb86b4",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.7k",
+        "stars": "187.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-6zj2d7ze",
+        "id": "gh-xu7m91o3",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.6k",
+        "stars": "155.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-sh2yonv3",
+        "id": "gh-qm32vz7h",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "167.1k",
+        "stars": "166.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-3xhbkyfs",
+        "id": "gh-mjek8lb6",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "103.9k",
@@ -259,16 +289,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-07r7we68",
+        "id": "gh-hev1s6t6",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.2k",
+        "stars": "165.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-fbik9b8h",
+        "id": "gh-j1o5xr9l",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
         "stars": "136.6k",
