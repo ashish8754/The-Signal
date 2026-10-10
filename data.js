@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-09T12:47:55.127Z
-   Stories: 20 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-10-10T12:06:08.689Z
+   Stories: 19 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ufymgwiy",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "source": "OpenAI",
-    "time": "5h ago",
+    "id": "rss-8yf1orli",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "source": "TechCrunch",
+    "time": "14h ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/sophos"
+    "relevance": 82,
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ufymgwiy",
-                "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-                "source": "OpenAI",
-                "time": "5h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-vnd41zzb",
-                "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-1bv7rhbq",
-                "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-                "source": "OpenAI",
-                "time": "20h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-qjzb9qag",
-                "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+                "id": "rss-vbx6l3vq",
+                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-5gmd4e6h",
-                "title": "LegalOn halves Codex costs while maintaining development speed",
+                "id": "rss-367hzkrj",
+                "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 77
+                "relevance": 80
+            },
+            {
+                "id": "rss-9c6hb83v",
+                "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-y8v034pn",
+                "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-dmgdg7a0",
+                "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+                "source": "Google Blog",
+                "time": "Sep 28",
+                "relevance": 75
             }
         ]
     },
@@ -88,76 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-u6oad34j",
-                "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-                "source": "TechCrunch",
-                "time": "18h ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-i78lwj7k",
-                "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+                "id": "rss-k6njo45i",
+                "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
                 "source": "MarkTechPost",
-                "time": "20h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-zgfk6beo",
-                "title": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
-                "source": "MarkTechPost",
-                "time": "5h ago",
+                "time": "6h ago",
                 "relevance": 78
             },
             {
-                "id": "rss-3gfiku5s",
-                "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
+                "id": "rss-h613sfs9",
+                "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
-            }
-        ]
-    },
-    {
-        "id": "topic-security",
-        "name": "AI Safety & Security",
-        "icon": "◊",
-        "color": "#ef4444",
-        "stories": [
-            {
-                "id": "rss-um2kgr72",
-                "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-                "source": "TechCrunch",
                 "time": "16h ago",
-                "relevance": 80
+                "relevance": 77
             },
             {
-                "id": "hn-50018350",
-                "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-                "source": "Hacker News",
-                "time": "2h ago",
+                "id": "rss-z6h6gbah",
+                "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+                "source": "MarkTechPost",
+                "time": "15h ago",
                 "relevance": 74
-            }
-        ]
-    },
-    {
-        "id": "topic-multimodal",
-        "name": "Multimodal AI",
-        "icon": "◑",
-        "color": "#b87333",
-        "stories": [
-            {
-                "id": "rss-902zyksq",
-                "title": "Whistle: Speech to Text in 16.9 MB",
-                "source": "Hacker News",
-                "time": "19h ago",
-                "relevance": 70
             },
             {
-                "id": "hn-49992994",
-                "title": "ETH-68: Ethernet Audio Interface for Linux",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 67
+                "id": "rss-hgni6f2a",
+                "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 71
             }
         ]
     },
@@ -168,14 +124,21 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-zee1m8ns",
+                "id": "hn-50031614",
+                "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-foakb0yf",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-3bqepxpv",
+                "id": "rss-a5sgcytd",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -187,7 +150,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-3l96mjk1",
+        "id": "arxiv-mksxlk00",
         "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
         "authors": "Jusuk Lee, Sungha Kim, Yeonsoo Park, Jonguk Cheon, Yoonkyo…",
         "journal": "arXiv preprint",
@@ -196,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.12470v1"
     },
     {
-        "id": "arxiv-gqm7t15m",
+        "id": "arxiv-w1ftcg35",
         "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
         "authors": "Ritesh Thawkar, Shubham Patle, Shravan Venkatraman, Rao…",
         "journal": "arXiv preprint",
@@ -205,7 +168,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.12469v1"
     },
     {
-        "id": "arxiv-eg8w2dta",
+        "id": "arxiv-pwaukfw6",
         "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
         "authors": "Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun,…",
         "journal": "arXiv preprint",
@@ -214,7 +177,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.12468v1"
     },
     {
-        "id": "arxiv-97b2qteb",
+        "id": "arxiv-u830zrr1",
         "title": "CSF: Contextual Safety Filtering for Motion Generators",
         "authors": "Lizhi Yang, Yiling Hou, Yao Tang, Junheng Li, Daniel Weng,…",
         "journal": "arXiv preprint",
@@ -223,7 +186,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.12467v1"
     },
     {
-        "id": "arxiv-y4ljuduq",
+        "id": "arxiv-sli4dtai",
         "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
         "authors": "Drew T. Nguyen, William Fithian",
         "journal": "arXiv preprint",
@@ -232,7 +195,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.12466v1"
     },
     {
-        "id": "arxiv-aawx66xm",
+        "id": "arxiv-2nuqivdu",
         "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
         "authors": "Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio…",
         "journal": "arXiv preprint",
@@ -244,16 +207,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-c8bwmndb",
+        "id": "gh-fzjty2ne",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "252.2k",
+        "stars": "252.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-flrb86b4",
+        "id": "gh-rkxkyfzx",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.5k",
@@ -262,34 +225,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-xu7m91o3",
+        "id": "gh-w2dzv74c",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.4k",
+        "stars": "155.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-qm32vz7h",
+        "id": "gh-cmdnvo9c",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "166.9k",
+        "stars": "167.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-mjek8lb6",
+        "id": "gh-njlvygli",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "103.9k",
+        "stars": "104.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-hev1s6t6",
+        "id": "gh-64j84l3r",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -298,10 +261,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-j1o5xr9l",
+        "id": "gh-2y3yf7rz",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "136.6k",
+        "stars": "136.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

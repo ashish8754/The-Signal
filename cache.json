@@ -1,16 +1,232 @@
 {
   "stories": [
     {
-      "id": "rss-ufymgwiy",
+      "id": "rss-8yf1orli",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "source": "TechCrunch",
+      "time": "14h ago",
+      "rawDate": "2026-10-09 21:41:29",
+      "topic": "space",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "score": 82.28571428571429,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-vbx6l3vq",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-10-09 07:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "score": 80.63636363636364,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-367hzkrj",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-10-08 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/oracle",
+      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "score": 80.33333333333333,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-9c6hb83v",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-10-08 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/pollo-ai",
+      "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "score": 79.44444444444444,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-y8v034pn",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "source": "OpenAI",
-      "time": "5h ago",
+      "time": "1d ago",
       "rawDate": "2026-10-09 07:00:00",
       "topic": "llms",
       "url": "https://openai.com/index/sophos",
       "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "score": 87,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
+      "score": 79,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-k6njo45i",
+      "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+      "source": "MarkTechPost",
+      "time": "6h ago",
+      "rawDate": "2026-10-10 06:03:09",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+      "description": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […] The post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model…",
+      "score": 77.5,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-h613sfs9",
+      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+      "source": "MarkTechPost",
+      "time": "16h ago",
+      "rawDate": "2026-10-09 20:05:07",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+      "description": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost .",
+      "score": 77.27272727272728,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-dmgdg7a0",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google Blog",
+      "time": "Sep 28",
+      "rawDate": "2026-09-28 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "score": 74.81818181818181,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-z6h6gbah",
+      "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+      "source": "MarkTechPost",
+      "time": "15h ago",
+      "rawDate": "2026-10-09 20:33:17",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+      "description": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR What is Qwen-Image-2.1-Turbo? Qwen-Image-2.1-Turbo is an […] The post Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model appeared first on…",
+      "score": 74.44444444444444,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "hn-50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-10-10T10:52:09.000Z",
+      "topic": "agents",
+      "url": "https://github.com/rociiu/talorys",
+      "description": "",
+      "score": 73.81818181818181,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-z5wj3p5m",
+      "title": "Introducing Playground: Create and play custom games",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-10-07 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "score": 73,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-666tbbwo",
+      "title": "The latest AI news we announced in September 2026",
+      "source": "Google Blog",
+      "time": "Oct 2",
+      "rawDate": "2026-10-02 15:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "description": "Here are Google’s latest AI updates from September 2026",
+      "score": 73,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-gtxc5a58",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "Google Blog",
+      "time": "Sep 23",
+      "rawDate": "2026-09-23 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "score": 73,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "hn-50021410",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-10-09T14:56:13.000Z",
+      "topic": "vision",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "description": "",
+      "score": 71.44444444444444,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-hgni6f2a",
+      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+      "source": "MarkTechPost",
+      "time": "7h ago",
+      "rawDate": "2026-10-10 04:51:34",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+      "description": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost .",
+      "score": 71.42857142857143,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "hn-50029830",
+      "title": "Food processing influences metabolism and brain activity",
+      "source": "Hacker News",
+      "time": "6h ago",
+      "rawDate": "2026-10-10T05:22:30.000Z",
+      "topic": "biotech",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "description": "",
+      "score": 69.85714285714286,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-foakb0yf",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-a5sgcytd",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
+    },
+    {
+      "id": "rss-dqeih0qi",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "source": "Hacker News",
+      "time": "9h ago",
+      "rawDate": "2026-10-10 03:02:47",
+      "topic": "security",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "description": "Comments",
+      "score": 69,
+      "cachedAt": "2026-10-10T12:06:08.687Z"
     },
     {
       "id": "rss-vnd41zzb",
@@ -22,30 +238,6 @@
       "url": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
       "description": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is […] The post Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work appeared first on MarkTechPost .",
       "score": 84.0909090909091,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
-      "id": "rss-1bv7rhbq",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "source": "OpenAI",
-      "time": "20h ago",
-      "rawDate": "2026-10-08 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/oracle",
-      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "score": 83.33333333333333,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
-      "id": "rss-qjzb9qag",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-08 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/pollo-ai",
-      "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "score": 81.44444444444444,
       "cachedAt": "2026-10-09T12:47:55.034Z"
     },
     {
@@ -121,18 +313,6 @@
       "cachedAt": "2026-10-09T12:47:55.034Z"
     },
     {
-      "id": "rss-nzw52gfz",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "Sep 28",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 74.81818181818181,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
       "id": "hn-50018350",
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "source": "Hacker News",
@@ -145,42 +325,6 @@
       "cachedAt": "2026-10-09T12:47:55.034Z"
     },
     {
-      "id": "rss-w07wxesz",
-      "title": "Introducing Playground: Create and play custom games",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-10-07 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "score": 73,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
-      "id": "rss-8i8u7bvb",
-      "title": "The latest AI news we announced in September 2026",
-      "source": "Google Blog",
-      "time": "6d ago",
-      "rawDate": "2026-10-02 15:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "description": "Here are Google’s latest AI updates from September 2026",
-      "score": 73,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
-      "id": "rss-5n7rlfoe",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "source": "Google Blog",
-      "time": "Sep 23",
-      "rawDate": "2026-09-23 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "score": 73,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
       "id": "rss-902zyksq",
       "title": "Whistle: Speech to Text in 16.9 MB",
       "source": "Hacker News",
@@ -190,30 +334,6 @@
       "url": "https://cactuscompute.com/blog/whistle",
       "description": "Comments",
       "score": 69.85714285714286,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
-      "id": "rss-zee1m8ns",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-10-09T12:47:55.034Z"
-    },
-    {
-      "id": "rss-3bqepxpv",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-10-09T12:47:55.034Z"
     },
     {
@@ -1055,102 +1175,6 @@
       "description": "",
       "score": 66.5,
       "cachedAt": "2026-10-04T11:57:02.645Z"
-    },
-    {
-      "id": "rss-gu8dxqwm",
-      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
-      "source": "MarkTechPost",
-      "time": "5h ago",
-      "rawDate": "2026-10-03 05:37:18",
-      "topic": "infra",
-      "url": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
-      "description": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost .",
-      "score": 85,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "hn-49942434",
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "source": "Hacker News",
-      "time": "2h ago",
-      "rawDate": "2026-10-03T08:40:17.000Z",
-      "topic": "agents",
-      "url": "https://offrun.dev/",
-      "description": "",
-      "score": 75.63636363636364,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "rss-k3hsyv1w",
-      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-10-03 05:09:53",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-      "description": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time…",
-      "score": 75.45454545454545,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "hn-49942818",
-      "title": "GitHub's new dashboard experience now the default",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-10-03T09:59:01.000Z",
-      "topic": "opensource",
-      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-      "description": "",
-      "score": 74.85714285714286,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "rss-g791nvcm",
-      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
-      "source": "MarkTechPost",
-      "time": "7h ago",
-      "rawDate": "2026-10-03 03:31:15",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
-      "description": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's GLiDE, GLiNER2.5-Decide and 4 open-source rivals. The post Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors appeared first on MarkTechPost .",
-      "score": 74.61538461538461,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "hn-49942592",
-      "title": "Gemini ending free use of Flash and Pro models",
-      "source": "Hacker News",
-      "time": "2h ago",
-      "rawDate": "2026-10-03T09:13:19.000Z",
-      "topic": "llms",
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
-      "description": "",
-      "score": 74.22222222222223,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "hn-49936575",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "source": "Hacker News",
-      "time": "17h ago",
-      "rawDate": "2026-10-02T18:01:16.000Z",
-      "topic": "llms",
-      "url": "https://dwarfstar.sh/",
-      "description": "",
-      "score": 69,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
-    },
-    {
-      "id": "hn-49929391",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-02T02:51:27.000Z",
-      "topic": "llms",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "description": "",
-      "score": 68.44444444444444,
-      "cachedAt": "2026-10-03T11:17:15.645Z"
     }
   ]
 }
