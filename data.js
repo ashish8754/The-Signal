@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-11T12:19:43.816Z
-   Stories: 14 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-10-12T14:45:47.261Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-xs9cd1mv",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "source": "OpenAI",
-    "time": "3d ago",
+    "id": "rss-q22dfpi6",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "excerpt": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "source": "TechCrunch",
+    "time": "17h ago",
     "readTime": "5 min read",
-    "relevance": 79,
-    "url": "https://openai.com/index/pollo-ai"
+    "relevance": 80,
+    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
 },
 
     topics: [
@@ -45,39 +45,75 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-xs9cd1mv",
+                "id": "rss-4cx6rk8m",
                 "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+                "source": "OpenAI",
+                "time": "4d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-okwfxyfx",
+                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
                 "source": "OpenAI",
                 "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-tgc4dze2",
-                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-                "source": "OpenAI",
-                "time": "2d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-q7yhglpm",
+                "id": "rss-957jzmjb",
                 "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-5yryja6a",
+                "id": "rss-6x4jbqlp",
                 "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-furluvt2",
+                "id": "rss-8uzuhz7z",
                 "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
                 "source": "Google Blog",
                 "time": "Sep 28",
                 "relevance": 75
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-g3fypw8d",
+                "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-qrid16v1",
+                "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+                "source": "MarkTechPost",
+                "time": "15h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-nqxurp5c",
+                "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+                "source": "MarkTechPost",
+                "time": "17h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-zbszbth8",
+                "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+                "source": "MarkTechPost",
+                "time": "6h ago",
+                "relevance": 74
             }
         ]
     },
@@ -88,25 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-1kkntcyh",
+                "id": "rss-9adm80h2",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-18j00mrg",
+                "id": "rss-ogcdrx6r",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
-            },
-            {
-                "id": "hn-50031614",
-                "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
             }
         ]
     }
@@ -114,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-62jrxmwh",
-        "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-        "authors": "Jusuk Lee, Sungha Kim, Yeonsoo Park, Jonguk Cheon, Yoonkyo…",
+        "id": "arxiv-86au8hai",
+        "title": "Can Language Models Play the Wikipedia Game?",
+        "authors": "Alexander Hickey, Joanna Knight, James Bishop",
         "journal": "arXiv preprint",
-        "abstract": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching often limits generalization to initial object poses, goal poses, and grasps not shown in the video.…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.12470v1"
-    },
-    {
-        "id": "arxiv-o6jzpb3y",
-        "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-        "authors": "Ritesh Thawkar, Shubham Patle, Shravan Venkatraman, Rao…",
-        "journal": "arXiv preprint",
-        "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.12469v1"
-    },
-    {
-        "id": "arxiv-2n8xqokr",
-        "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-        "authors": "Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun,…",
-        "journal": "arXiv preprint",
-        "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.12468v1"
-    },
-    {
-        "id": "arxiv-aocztk1x",
-        "title": "CSF: Contextual Safety Filtering for Motion Generators",
-        "authors": "Lizhi Yang, Yiling Hou, Yao Tang, Junheng Li, Daniel Weng,…",
-        "journal": "arXiv preprint",
-        "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.12467v1"
-    },
-    {
-        "id": "arxiv-567wp8hf",
-        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-        "authors": "Drew T. Nguyen, William Fithian",
-        "journal": "arXiv preprint",
-        "abstract": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI…",
+        "abstract": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.12466v1"
+        "url": "http://arxiv.org/abs/2610.13948v1"
     },
     {
-        "id": "arxiv-rvgo4et2",
-        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-        "authors": "Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio…",
+        "id": "arxiv-ycee9qhh",
+        "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+        "authors": "Xudong Cai, Ruijie Zhu, Haoliang Shang, Ruining Li, Marc…",
         "journal": "arXiv preprint",
-        "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations.…",
+        "abstract": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agentic generation, we present Artisan, a system that extends the latest method Articraft by introducing…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.13947v1"
+    },
+    {
+        "id": "arxiv-g6bo5b83",
+        "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+        "authors": "Xiaomeng Ye, Krishna Jaganathan, Gyubeum Lim, Gunjan…",
+        "journal": "arXiv preprint",
+        "abstract": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ achieves 0% pickup success in our captured deployment scenes without adaptation, and collecting real demonstrations in…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.12465v1"
+        "url": "http://arxiv.org/abs/2610.13945v1"
+    },
+    {
+        "id": "arxiv-12i0dl7k",
+        "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+        "authors": "Xuanlang Dai, Jiazi Bu, Yujie Zhou, Yuhong Liu, Beichen…",
+        "journal": "arXiv preprint",
+        "abstract": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their remarkable generation capabilities, the cross-model alignment of latent representations and the…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.13944v1"
+    },
+    {
+        "id": "arxiv-1jlysa9o",
+        "title": "Noise Space Learning for VLA Adaptation",
+        "authors": "Junjie Lu, Chuheng Zhang, Yucen Wang, Yuhua Jiang, Xinyao…",
+        "journal": "arXiv preprint",
+        "abstract": "Pretrained vision-language-action (VLA) models encode broad manipulation priors, yet adapting them to specific tasks requires balancing limited robot interaction, computational resources, and safety constraints. Noise space learning (NSL) adapts flow-matching-based VLAs by learning a context-conditioned distribution…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.13943v1"
+    },
+    {
+        "id": "arxiv-5ki7pvm0",
+        "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+        "authors": "Yucheng Yang, Xiaoxiao Sun, Shusheng Yang, Jiakang Chen,…",
+        "journal": "arXiv preprint",
+        "abstract": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does this feedback help correct deviations from the prompt, or preserve them? We find that image-to-text…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.13941v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-0nbix8zq",
+        "id": "gh-85xxufkk",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "252.7k",
+        "stars": "253.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-fuvw9z45",
+        "id": "gh-8jcwlo0y",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.5k",
@@ -189,7 +218,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-i0vwdeo1",
+        "id": "gh-01zijega",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.5k",
@@ -198,25 +227,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-9awmqu8x",
+        "id": "gh-87gii4m3",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "167.5k",
+        "stars": "167.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-8tgqg0ij",
+        "id": "gh-l66q8trp",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "104.3k",
+        "stars": "104.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-elc9iyob",
+        "id": "gh-0b9t0hwm",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -225,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-yj2lkhil",
+        "id": "gh-0fy7mszc",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "136.9k",
+        "stars": "137.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
