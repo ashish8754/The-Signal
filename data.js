@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-12T14:45:47.261Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-13T13:47:45.778Z
+   Stories: 17 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-q22dfpi6",
-    "topic": "Artificial Intelligence",
-    "topicId": "space",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "excerpt": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "id": "rss-448o29w1",
+    "topic": "AI Research",
+    "topicId": "research",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "excerpt": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
     "source": "TechCrunch",
-    "time": "17h ago",
+    "time": "19h ago",
     "readTime": "5 min read",
-    "relevance": 80,
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+    "relevance": 83,
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-4cx6rk8m",
+                "id": "rss-puvc2asb",
                 "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+                "source": "OpenAI",
+                "time": "5d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-34ms3v5g",
+                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
                 "source": "OpenAI",
                 "time": "4d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-okwfxyfx",
-                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-                "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-957jzmjb",
+                "id": "rss-agonz0i7",
                 "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-6x4jbqlp",
+                "id": "rss-kjejjsej",
                 "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
                 "source": "OpenAI",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-8uzuhz7z",
+                "id": "rss-zdeguylu",
                 "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
                 "source": "Google Blog",
                 "time": "Sep 28",
                 "relevance": 75
-            }
-        ]
-    },
-    {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
-        "icon": "◎",
-        "color": "#60a5fa",
-        "stories": [
-            {
-                "id": "rss-g3fypw8d",
-                "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
-                "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-qrid16v1",
-                "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
-                "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-nqxurp5c",
-                "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
-                "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-zbszbth8",
-                "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
-                "source": "MarkTechPost",
-                "time": "6h ago",
-                "relevance": 74
             }
         ]
     },
@@ -124,14 +88,21 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-9adm80h2",
+                "id": "hn-50059096",
+                "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+                "source": "Hacker News",
+                "time": "21h ago",
+                "relevance": 70
+            },
+            {
+                "id": "rss-z626gfdc",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-ogcdrx6r",
+                "id": "rss-lvdkqkey",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +114,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-86au8hai",
+        "id": "arxiv-6rrci5ov",
         "title": "Can Language Models Play the Wikipedia Game?",
         "authors": "Alexander Hickey, Joanna Knight, James Bishop",
         "journal": "arXiv preprint",
@@ -152,7 +123,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.13948v1"
     },
     {
-        "id": "arxiv-ycee9qhh",
+        "id": "arxiv-op6vx9m6",
         "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
         "authors": "Xudong Cai, Ruijie Zhu, Haoliang Shang, Ruining Li, Marc…",
         "journal": "arXiv preprint",
@@ -161,7 +132,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.13947v1"
     },
     {
-        "id": "arxiv-g6bo5b83",
+        "id": "arxiv-tuy3jfx4",
         "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
         "authors": "Xiaomeng Ye, Krishna Jaganathan, Gyubeum Lim, Gunjan…",
         "journal": "arXiv preprint",
@@ -170,7 +141,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.13945v1"
     },
     {
-        "id": "arxiv-12i0dl7k",
+        "id": "arxiv-1crfkdp3",
         "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
         "authors": "Xuanlang Dai, Jiazi Bu, Yujie Zhou, Yuhong Liu, Beichen…",
         "journal": "arXiv preprint",
@@ -179,7 +150,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.13944v1"
     },
     {
-        "id": "arxiv-1jlysa9o",
+        "id": "arxiv-rklg4iut",
         "title": "Noise Space Learning for VLA Adaptation",
         "authors": "Junjie Lu, Chuheng Zhang, Yucen Wang, Yuhua Jiang, Xinyao…",
         "journal": "arXiv preprint",
@@ -188,7 +159,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.13943v1"
     },
     {
-        "id": "arxiv-5ki7pvm0",
+        "id": "arxiv-inefnvb1",
         "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
         "authors": "Yucheng Yang, Xiaoxiao Sun, Shusheng Yang, Jiakang Chen,…",
         "journal": "arXiv preprint",
@@ -200,34 +171,34 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-85xxufkk",
+        "id": "gh-pputxyc8",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "253.0k",
+        "stars": "253.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-8jcwlo0y",
+        "id": "gh-my9kw1n9",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.5k",
+        "stars": "187.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-01zijega",
+        "id": "gh-0azgvjjl",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.5k",
+        "stars": "155.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-87gii4m3",
+        "id": "gh-qnj6ecih",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "167.6k",
@@ -236,16 +207,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-l66q8trp",
+        "id": "gh-gsqkbi0x",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "104.7k",
+        "stars": "104.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-0b9t0hwm",
+        "id": "gh-0zuxz77s",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -254,10 +225,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-0fy7mszc",
+        "id": "gh-w36yp0lw",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "137.1k",
+        "stars": "137.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

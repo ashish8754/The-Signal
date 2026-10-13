@@ -1,6 +1,210 @@
 {
   "stories": [
     {
+      "id": "rss-448o29w1",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "source": "TechCrunch",
+      "time": "19h ago",
+      "rawDate": "2026-10-12 17:56:56",
+      "topic": "research",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "score": 83,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-puvc2asb",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "source": "OpenAI",
+      "time": "5d ago",
+      "rawDate": "2026-10-08 12:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/pollo-ai",
+      "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "score": 79.44444444444444,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-34ms3v5g",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "OpenAI",
+      "time": "4d ago",
+      "rawDate": "2026-10-09 07:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "score": 78.63636363636364,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-agonz0i7",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "source": "OpenAI",
+      "time": "4d ago",
+      "rawDate": "2026-10-08 16:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/oracle",
+      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "score": 78.33333333333333,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-kjejjsej",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source": "OpenAI",
+      "time": "4d ago",
+      "rawDate": "2026-10-09 07:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/sophos",
+      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "score": 77,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "hn-50070593",
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-10-13T12:26:36.000Z",
+      "topic": "hardware",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "description": "",
+      "score": 75.33333333333333,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "hn-50070287",
+      "title": "A Visual Intro to Complex Numbers",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-10-13T12:00:04.000Z",
+      "topic": "vision",
+      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "description": "",
+      "score": 75.33333333333333,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-zdeguylu",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google Blog",
+      "time": "Sep 28",
+      "rawDate": "2026-09-28 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "score": 74.81818181818181,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "hn-50069971",
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-10-13T11:27:14.000Z",
+      "topic": "multimodal",
+      "url": "https://eg2.haku.sh/",
+      "description": "",
+      "score": 73.81818181818181,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-y8favwq2",
+      "title": "Introducing Playground: Create and play custom games",
+      "source": "Google Blog",
+      "time": "6d ago",
+      "rawDate": "2026-10-07 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "score": 73,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-hu2wqi9q",
+      "title": "The latest AI news we announced in September 2026",
+      "source": "Google Blog",
+      "time": "Oct 2",
+      "rawDate": "2026-10-02 15:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "description": "Here are Google’s latest AI updates from September 2026",
+      "score": 73,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-uyfd24n0",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "Google Blog",
+      "time": "Sep 23",
+      "rawDate": "2026-09-23 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "score": 73,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "hn-50063365",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "source": "Hacker News",
+      "time": "16h ago",
+      "rawDate": "2026-10-12T21:35:35.000Z",
+      "topic": "infra",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "description": "",
+      "score": 71.44444444444444,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "hn-50059096",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-10-12T16:46:34.000Z",
+      "topic": "agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "description": "",
+      "score": 70.33333333333333,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "hn-50056822",
+      "title": "Solar panels that plug into your wall",
+      "source": "Hacker News",
+      "time": "23h ago",
+      "rawDate": "2026-10-12T14:19:04.000Z",
+      "topic": "energy",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "description": "",
+      "score": 69.85714285714286,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-z626gfdc",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
+      "id": "rss-lvdkqkey",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-10-13T13:47:45.776Z"
+    },
+    {
       "id": "rss-q22dfpi6",
       "title": "Will the HomeView be Apple’s first smart home success?",
       "source": "TechCrunch",
@@ -22,18 +226,6 @@
       "url": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
       "description": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost .",
       "score": 80,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-4cx6rk8m",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "source": "OpenAI",
-      "time": "4d ago",
-      "rawDate": "2026-10-08 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/pollo-ai",
-      "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "score": 79.44444444444444,
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
@@ -61,18 +253,6 @@
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
-      "id": "rss-okwfxyfx",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "source": "OpenAI",
-      "time": "3d ago",
-      "rawDate": "2026-10-09 07:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "score": 78.63636363636364,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
       "id": "rss-qrid16v1",
       "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
       "source": "MarkTechPost",
@@ -85,18 +265,6 @@
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
-      "id": "rss-957jzmjb",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "source": "OpenAI",
-      "time": "3d ago",
-      "rawDate": "2026-10-08 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/oracle",
-      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "score": 78.33333333333333,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
       "id": "rss-nqxurp5c",
       "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
       "source": "MarkTechPost",
@@ -106,30 +274,6 @@
       "url": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
       "description": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost .",
       "score": 77.27272727272728,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-6x4jbqlp",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "source": "OpenAI",
-      "time": "3d ago",
-      "rawDate": "2026-10-09 07:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/sophos",
-      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "score": 77,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-8uzuhz7z",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "Sep 28",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 74.81818181818181,
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
@@ -157,42 +301,6 @@
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
-      "id": "rss-m3c12ku3",
-      "title": "Introducing Playground: Create and play custom games",
-      "source": "Google Blog",
-      "time": "5d ago",
-      "rawDate": "2026-10-07 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "score": 73,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-orq0refk",
-      "title": "The latest AI news we announced in September 2026",
-      "source": "Google Blog",
-      "time": "Oct 2",
-      "rawDate": "2026-10-02 15:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "description": "Here are Google’s latest AI updates from September 2026",
-      "score": 73,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-u1ubmoz8",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "source": "Google Blog",
-      "time": "Sep 23",
-      "rawDate": "2026-09-23 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "score": 73,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
       "id": "hn-50047422",
       "title": "The gap in shared understanding of LLM capability is widening",
       "source": "Hacker News",
@@ -205,18 +313,6 @@
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
-      "id": "rss-9adm80h2",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
       "id": "hn-50049508",
       "title": "Local Indexing to reduce tool calling and token usage",
       "source": "Hacker News",
@@ -226,18 +322,6 @@
       "url": "https://tedhaley.ca/pensieve/",
       "description": "",
       "score": 69.22222222222223,
-      "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-ogcdrx6r",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-10-12T14:45:47.259Z"
     },
     {
@@ -899,198 +983,6 @@
       "description": "",
       "score": 65.33333333333333,
       "cachedAt": "2026-10-07T12:52:51.078Z"
-    },
-    {
-      "id": "rss-lfc7322e",
-      "title": "A model guide for the GPT-6 family",
-      "source": "OpenAI",
-      "time": "3d ago",
-      "rawDate": "2026-10-02 16:15:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "score": 85,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-1rn72ua1",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "source": "OpenAI",
-      "time": "4d ago",
-      "rawDate": "2026-10-02 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/chatham-financial",
-      "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "score": 82.5,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-o14q725q",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "source": "TechCrunch",
-      "time": "18h ago",
-      "rawDate": "2026-10-05 18:54:30",
-      "topic": "agents",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "score": 82.28571428571429,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-ntmw3d6s",
-      "title": "Building advertising for the way people use AI",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-05 10:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "score": 82,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-enorpdey",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "source": "TechCrunch",
-      "time": "18h ago",
-      "rawDate": "2026-10-05 18:29:00",
-      "topic": "agents",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "score": 80,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-nigt1pzd",
-      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
-      "source": "MarkTechPost",
-      "time": "15h ago",
-      "rawDate": "2026-10-05 21:41:14",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
-      "description": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. The post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost .",
-      "score": 80,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-swb2xrx0",
-      "title": "Our approach to EU text provenance rules",
-      "source": "OpenAI",
-      "time": "21h ago",
-      "rawDate": "2026-10-05 15:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "score": 80,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-3198rar0",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "source": "TechCrunch",
-      "time": "17h ago",
-      "rawDate": "2026-10-05 19:33:53",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "score": 79.33333333333333,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-ftnx0mii",
-      "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-10-06 06:45:31",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
-      "description": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet. The post Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One appeared first on MarkTechPost .",
-      "score": 77.05882352941177,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-okdzt879",
-      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
-      "source": "MarkTechPost",
-      "time": "14h ago",
-      "rawDate": "2026-10-05 22:51:05",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
-      "description": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost .",
-      "score": 75.45454545454545,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "hn-49976993",
-      "title": "World's First enhanced geothermal power plant completed in just 23 months",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-10-06T11:34:14.000Z",
-      "topic": "energy",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "description": "",
-      "score": 73.81818181818181,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "hn-49973878",
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "source": "Hacker News",
-      "time": "9h ago",
-      "rawDate": "2026-10-06T03:39:01.000Z",
-      "topic": "multimodal",
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "description": "",
-      "score": 73.66666666666667,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-7dm1igng",
-      "title": "New experts join Google’s AI &amp; Economy team",
-      "source": "Google Blog",
-      "time": "Sep 18",
-      "rawDate": "2026-09-18 14:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "description": "We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "score": 73,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "hn-49970667",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "source": "Hacker News",
-      "time": "15h ago",
-      "rawDate": "2026-10-05T21:00:21.000Z",
-      "topic": "hardware",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "description": "",
-      "score": 71.44444444444444,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "hn-49971782",
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "source": "Hacker News",
-      "time": "14h ago",
-      "rawDate": "2026-10-05T22:37:58.000Z",
-      "topic": "energy",
-      "url": "https://globalsolaratlas.info/",
-      "description": "",
-      "score": 71.44444444444444,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
-    },
-    {
-      "id": "rss-qtqmotu1",
-      "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
-      "source": "MarkTechPost",
-      "time": "7h ago",
-      "rawDate": "2026-10-06 05:12:01",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
-      "description": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on MarkTechPost .",
-      "score": 70,
-      "cachedAt": "2026-10-06T12:58:33.704Z"
     }
   ]
 }
