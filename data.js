@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-13T13:47:45.778Z
-   Stories: 17 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-10-14T11:25:06.132Z
+   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-448o29w1",
-    "topic": "AI Research",
-    "topicId": "research",
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "excerpt": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "id": "rss-ifekpxap",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
     "source": "TechCrunch",
-    "time": "19h ago",
+    "time": "12h ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
 },
 
     topics: [
@@ -45,68 +45,83 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-puvc2asb",
-                "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+                "id": "rss-3f5m1e1y",
+                "title": "Higgsfield takes AI video from 1 minute to over 10",
+                "source": "OpenAI",
+                "time": "23h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-qn2351qs",
+                "title": "Gemini 4 Argon: Built to solve your hardest problems",
+                "source": "Google Blog",
+                "time": "19h ago",
+                "relevance": 80
+            },
+            {
+                "id": "hn-50085332",
+                "title": "Show HN: Building an LLM from Scratch in TypeScript",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 79
+            },
+            {
+                "id": "rss-8n4nmn3s",
+                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
                 "source": "OpenAI",
                 "time": "5d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-34ms3v5g",
-                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-agonz0i7",
+                "id": "rss-rb66bbg3",
                 "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
                 "source": "OpenAI",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 78
-            },
-            {
-                "id": "rss-kjejjsej",
-                "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-                "source": "OpenAI",
-                "time": "4d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-zdeguylu",
-                "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-                "source": "Google Blog",
-                "time": "Sep 28",
-                "relevance": 75
             }
         ]
     },
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-50059096",
-                "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+                "id": "rss-ifekpxap",
+                "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+                "source": "TechCrunch",
+                "time": "12h ago",
+                "relevance": 88
+            },
+            {
+                "id": "hn-50054092",
+                "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
                 "source": "Hacker News",
-                "time": "21h ago",
-                "relevance": 70
+                "time": "2d ago",
+                "relevance": 66
+            }
+        ]
+    },
+    {
+        "id": "topic-devtools",
+        "name": "Developer Tools",
+        "icon": "◇",
+        "color": "#38bdf8",
+        "stories": [
+            {
+                "id": "hn-50085306",
+                "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 80
             },
             {
-                "id": "rss-z626gfdc",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 69
-            },
-            {
-                "id": "rss-lvdkqkey",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 69
+                "id": "hn-50063104",
+                "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 66
             }
         ]
     }
@@ -114,73 +129,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-6rrci5ov",
-        "title": "Can Language Models Play the Wikipedia Game?",
-        "authors": "Alexander Hickey, Joanna Knight, James Bishop",
+        "id": "arxiv-xrzkgqf0",
+        "title": "ChunkAct: Action Chunking for Agentic Robotics",
+        "authors": "Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang…",
         "journal": "arXiv preprint",
-        "abstract": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.13948v1"
-    },
-    {
-        "id": "arxiv-op6vx9m6",
-        "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
-        "authors": "Xudong Cai, Ruijie Zhu, Haoliang Shang, Ruining Li, Marc…",
-        "journal": "arXiv preprint",
-        "abstract": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agentic generation, we present Artisan, a system that extends the latest method Articraft by introducing…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.13947v1"
-    },
-    {
-        "id": "arxiv-tuy3jfx4",
-        "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
-        "authors": "Xiaomeng Ye, Krishna Jaganathan, Gyubeum Lim, Gunjan…",
-        "journal": "arXiv preprint",
-        "abstract": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ achieves 0% pickup success in our captured deployment scenes without adaptation, and collecting real demonstrations in…",
+        "abstract": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.13945v1"
+        "url": "http://arxiv.org/abs/2610.18874v1"
     },
     {
-        "id": "arxiv-1crfkdp3",
-        "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
-        "authors": "Xuanlang Dai, Jiazi Bu, Yujie Zhou, Yuhong Liu, Beichen…",
+        "id": "arxiv-h662n5ib",
+        "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
+        "authors": "Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li,…",
         "journal": "arXiv preprint",
-        "abstract": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their remarkable generation capabilities, the cross-model alignment of latent representations and the…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.13944v1"
-    },
-    {
-        "id": "arxiv-rklg4iut",
-        "title": "Noise Space Learning for VLA Adaptation",
-        "authors": "Junjie Lu, Chuheng Zhang, Yucen Wang, Yuhua Jiang, Xinyao…",
-        "journal": "arXiv preprint",
-        "abstract": "Pretrained vision-language-action (VLA) models encode broad manipulation priors, yet adapting them to specific tasks requires balancing limited robot interaction, computational resources, and safety constraints. Noise space learning (NSL) adapts flow-matching-based VLAs by learning a context-conditioned distribution…",
+        "abstract": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can reinforce poor behavior, while filtering out failures discards evidence of physical interactions and…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.13943v1"
+        "url": "http://arxiv.org/abs/2610.18873v1"
     },
     {
-        "id": "arxiv-inefnvb1",
-        "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
-        "authors": "Yucheng Yang, Xiaoxiao Sun, Shusheng Yang, Jiakang Chen,…",
+        "id": "arxiv-izyrs6bj",
+        "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
+        "authors": "Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu,…",
         "journal": "arXiv preprint",
-        "abstract": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does this feedback help correct deviations from the prompt, or preserve them? We find that image-to-text…",
+        "abstract": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse environments, in turn, favors lightweight, portable capture systems. Yet, existing datasets provide only partial views of…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.18872v1"
+    },
+    {
+        "id": "arxiv-uymkb2kf",
+        "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
+        "authors": "Reyhaneh Esmailizadeh, Xingjian Leng, Zhanhao Liang, Liang…",
+        "journal": "arXiv preprint",
+        "abstract": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training their own models when getting started in the field. We develop MiniDog, a framework that enables pretraining diffusion…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.13941v1"
+        "url": "http://arxiv.org/abs/2610.18870v1"
+    },
+    {
+        "id": "arxiv-mo444s2j",
+        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+        "authors": "Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu",
+        "journal": "arXiv preprint",
+        "abstract": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover, cross-family training meets a scaling barrier: residual amplitude varies by more than an order of…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.18871v1"
+    },
+    {
+        "id": "arxiv-3y001hk5",
+        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+        "authors": "Mingxuan Yan, Litian Gong, Dihong Huang, Zhixu Li, Tianyu…",
+        "journal": "arXiv preprint",
+        "abstract": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks.…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.18869v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-pputxyc8",
+        "id": "gh-gr4257uy",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "253.3k",
+        "stars": "253.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-my9kw1n9",
+        "id": "gh-81yupvwg",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -189,7 +204,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-0azgvjjl",
+        "id": "gh-n871h351",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
         "stars": "155.6k",
@@ -198,25 +213,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-qnj6ecih",
+        "id": "gh-cm75vbo3",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "167.6k",
+        "stars": "167.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-gsqkbi0x",
+        "id": "gh-ij6bbu08",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "104.8k",
+        "stars": "104.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-0zuxz77s",
+        "id": "gh-710yfuem",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.0k",
@@ -225,10 +240,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-w36yp0lw",
+        "id": "gh-rxmjudjg",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "137.3k",
+        "stars": "137.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
