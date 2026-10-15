@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-14T11:25:06.132Z
-   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-15T11:01:54.214Z
+   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ifekpxap",
+    "id": "rss-2z2ae7ln",
     "topic": "AI Infrastructure",
     "topicId": "infra",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "excerpt": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
     "source": "TechCrunch",
-    "time": "12h ago",
+    "time": "10h ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    "relevance": 84,
+    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
 },
 
     topics: [
@@ -45,83 +45,126 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-3f5m1e1y",
-                "title": "Higgsfield takes AI video from 1 minute to over 10",
+                "id": "rss-r97u0f1u",
+                "title": "Amp puts AI agents to work beyond code with OpenAI models",
                 "source": "OpenAI",
                 "time": "23h ago",
-                "relevance": 88
+                "relevance": 84
             },
             {
-                "id": "rss-qn2351qs",
+                "id": "rss-bvwfywnx",
+                "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-xge57lmn",
+                "title": "SentinelOne cuts malware analysis from weeks to hours",
+                "source": "OpenAI",
+                "time": "23h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-gtvr72u9",
+                "title": "How Block is building AI-powered security with OpenAI technology",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-9syncac2",
                 "title": "Gemini 4 Argon: Built to solve your hardest problems",
                 "source": "Google Blog",
-                "time": "19h ago",
-                "relevance": 80
-            },
-            {
-                "id": "hn-50085332",
-                "title": "Show HN: Building an LLM from Scratch in TypeScript",
-                "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 79
-            },
-            {
-                "id": "rss-8n4nmn3s",
-                "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-rb66bbg3",
-                "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-                "source": "OpenAI",
-                "time": "5d ago",
-                "relevance": 78
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-ifekpxap",
-                "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-                "source": "TechCrunch",
-                "time": "12h ago",
-                "relevance": 88
-            },
-            {
-                "id": "hn-50054092",
-                "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 66
-            }
-        ]
-    },
-    {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
-        "stories": [
-            {
-                "id": "hn-50085306",
-                "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-                "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 80
-            },
-            {
-                "id": "hn-50063104",
-                "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
-                "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 66
+                "relevance": 77
+            }
+        ]
+    },
+    {
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
+        "stories": [
+            {
+                "id": "rss-4hykbefc",
+                "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-vrvhb1oj",
+                "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-gvj1oww0",
+                "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
+                "source": "MarkTechPost",
+                "time": "5h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-mzvr3beh",
+                "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+                "source": "MarkTechPost",
+                "time": "11h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "hn-50100387",
+                "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-3bl6d45f",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 69
+            },
+            {
+                "id": "rss-zwvobre7",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-multimodal",
+        "name": "Multimodal AI",
+        "icon": "◑",
+        "color": "#b87333",
+        "stories": [
+            {
+                "id": "rss-gi104mzr",
+                "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 81
+            },
+            {
+                "id": "hn-50047576",
+                "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+                "source": "Hacker News",
+                "time": "3d ago",
+                "relevance": 65
             }
         ]
     }
@@ -129,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-xrzkgqf0",
-        "title": "ChunkAct: Action Chunking for Agentic Robotics",
-        "authors": "Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang…",
+        "id": "arxiv-tv7ezfml",
+        "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+        "authors": "Jahyeok Koo, Hyeonseo Yu, Seungho Jang, Jaewoo Jung, Jiwon…",
         "journal": "arXiv preprint",
-        "abstract": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.18874v1"
-    },
-    {
-        "id": "arxiv-h662n5ib",
-        "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
-        "authors": "Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li,…",
-        "journal": "arXiv preprint",
-        "abstract": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can reinforce poor behavior, while filtering out failures discards evidence of physical interactions and…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.18873v1"
-    },
-    {
-        "id": "arxiv-izyrs6bj",
-        "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
-        "authors": "Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse environments, in turn, favors lightweight, portable capture systems. Yet, existing datasets provide only partial views of…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.18872v1"
-    },
-    {
-        "id": "arxiv-uymkb2kf",
-        "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
-        "authors": "Reyhaneh Esmailizadeh, Xingjian Leng, Zhanhao Liang, Liang…",
-        "journal": "arXiv preprint",
-        "abstract": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training their own models when getting started in the field. We develop MiniDog, a framework that enables pretraining diffusion…",
+        "abstract": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.18870v1"
+        "url": "http://arxiv.org/abs/2610.20610v1"
     },
     {
-        "id": "arxiv-mo444s2j",
-        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-        "authors": "Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu",
+        "id": "arxiv-b9ltkghw",
+        "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+        "authors": "Shaoyuan Xie, Zihan Zhang, Jingxuan Wang, Jiashu Qu,…",
         "journal": "arXiv preprint",
-        "abstract": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover, cross-family training meets a scaling barrier: residual amplitude varies by more than an order of…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.18871v1"
-    },
-    {
-        "id": "arxiv-3y001hk5",
-        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-        "authors": "Mingxuan Yan, Litian Gong, Dihong Huang, Zhixu Li, Tianyu…",
-        "journal": "arXiv preprint",
-        "abstract": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks.…",
+        "abstract": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed command set to free-form natural-language instructions. However, this open-ended interface exposes a new vulnerability…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.18869v1"
+        "url": "http://arxiv.org/abs/2610.20609v1"
+    },
+    {
+        "id": "arxiv-g79dymsf",
+        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+        "authors": "Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath",
+        "journal": "arXiv preprint",
+        "abstract": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.20606v1"
+    },
+    {
+        "id": "arxiv-ya0lcyqu",
+        "title": "Representation Conditioning for Generation",
+        "authors": "Saeed Razavi, Xingjian Leng, Liang Zheng",
+        "journal": "arXiv preprint",
+        "abstract": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.20608v1"
+    },
+    {
+        "id": "arxiv-t9unia3n",
+        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+        "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li",
+        "journal": "arXiv preprint",
+        "abstract": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.20607v1"
+    },
+    {
+        "id": "arxiv-boob01dd",
+        "title": "VITAL: From Visual Motion to Precise Action",
+        "authors": "Ao Liang, Youquan Liu, Mingxiao Li, Wei Chow, Lingdong…",
+        "journal": "arXiv preprint",
+        "abstract": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action targets directly from visual motion. We first examine a simpler setting in which trajectories are…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.20604v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-gr4257uy",
+        "id": "gh-ll2zdl0p",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "253.6k",
+        "stars": "253.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-81yupvwg",
+        "id": "gh-xcwgkudr",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -204,16 +247,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-n871h351",
+        "id": "gh-0adqvju4",
         "name": "langflow-ai/langflow",
         "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.6k",
+        "stars": "155.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langflow-ai/langflow"
     },
     {
-        "id": "gh-cm75vbo3",
+        "id": "gh-efxunkv3",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "167.7k",
@@ -222,28 +265,28 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-ij6bbu08",
+        "id": "gh-npt6srgi",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "104.9k",
+        "stars": "104.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-710yfuem",
+        "id": "gh-cdscc51q",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.0k",
+        "stars": "165.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-rxmjudjg",
+        "id": "gh-innigqru",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "137.4k",
+        "stars": "137.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
