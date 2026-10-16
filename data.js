@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-15T11:01:54.214Z
-   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-10-16T10:58:05.261Z
+   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-2z2ae7ln",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "excerpt": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "source": "TechCrunch",
-    "time": "10h ago",
+    "id": "rss-99t79s61",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "source": "OpenAI",
+    "time": "15h ago",
     "readTime": "5 min read",
-    "relevance": 84,
-    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+    "relevance": 83,
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-r97u0f1u",
-                "title": "Amp puts AI agents to work beyond code with OpenAI models",
+                "id": "rss-99t79s61",
+                "title": "Bringing GPT-Rosalind to academic research labs",
                 "source": "OpenAI",
-                "time": "23h ago",
-                "relevance": 84
+                "time": "15h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-bvwfywnx",
-                "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+                "id": "rss-0tp9xr9u",
+                "title": "Amp puts AI agents to work beyond code with OpenAI models",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-xge57lmn",
-                "title": "SentinelOne cuts malware analysis from weeks to hours",
+                "id": "rss-gy0vit5z",
+                "title": "Teaching students to think and learn through questions",
                 "source": "OpenAI",
-                "time": "23h ago",
+                "time": "21h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-gtvr72u9",
-                "title": "How Block is building AI-powered security with OpenAI technology",
+                "id": "rss-wgunin9j",
+                "title": "Sullivan &amp; Cromwell brings legal expertise into agreement review",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-9syncac2",
+                "id": "rss-oa6hxspf",
                 "title": "Gemini 4 Argon: Built to solve your hardest problems",
                 "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 77
+                "time": "2d ago",
+                "relevance": 75
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-4hykbefc",
-                "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
+                "id": "rss-w0a4ip25",
+                "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
                 "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-vrvhb1oj",
-                "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
-                "source": "MarkTechPost",
-                "time": "12h ago",
+                "time": "15h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-gvj1oww0",
-                "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
+                "id": "rss-l2ac1as1",
+                "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
                 "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 78
+                "time": "4h ago",
+                "relevance": 79
             },
             {
-                "id": "rss-mzvr3beh",
-                "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+                "id": "rss-jf0h69sz",
+                "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
                 "source": "MarkTechPost",
-                "time": "11h ago",
-                "relevance": 73
+                "time": "8h ago",
+                "relevance": 75
+            },
+            {
+                "id": "rss-t9hag3cz",
+                "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+                "source": "MarkTechPost",
+                "time": "20h ago",
+                "relevance": 74
             }
         ]
     },
@@ -124,47 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-50100387",
-                "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-                "source": "Hacker News",
-                "time": "3h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-3bl6d45f",
+                "id": "rss-d17axuu0",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-zwvobre7",
+                "id": "rss-my97zbnv",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-multimodal",
-        "name": "Multimodal AI",
-        "icon": "◑",
-        "color": "#b87333",
-        "stories": [
-            {
-                "id": "rss-gi104mzr",
-                "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-                "source": "TechCrunch",
-                "time": "11h ago",
-                "relevance": 81
-            },
-            {
-                "id": "hn-50047576",
-                "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
             }
         ]
     }
@@ -172,73 +143,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-tv7ezfml",
-        "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
-        "authors": "Jahyeok Koo, Hyeonseo Yu, Seungho Jang, Jaewoo Jung, Jiwon…",
+        "id": "arxiv-v15zccsa",
+        "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+        "authors": "Zhixu Li, Keqian Tang, Litian Gong, Jingyu Yao, Wenqian…",
         "journal": "arXiv preprint",
-        "abstract": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.20610v1"
-    },
-    {
-        "id": "arxiv-b9ltkghw",
-        "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
-        "authors": "Shaoyuan Xie, Zihan Zhang, Jingxuan Wang, Jiashu Qu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed command set to free-form natural-language instructions. However, this open-ended interface exposes a new vulnerability…",
+        "abstract": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.20609v1"
+        "url": "http://arxiv.org/abs/2610.22372v1"
     },
     {
-        "id": "arxiv-g79dymsf",
-        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-        "authors": "Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath",
+        "id": "arxiv-ntgxfmtr",
+        "title": "Gen4P: Video Generators are 4D Perceivers",
+        "authors": "Yitong Xia, Zeren Jiang, Chuanxia Zheng",
         "journal": "arXiv preprint",
-        "abstract": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.20606v1"
-    },
-    {
-        "id": "arxiv-ya0lcyqu",
-        "title": "Representation Conditioning for Generation",
-        "authors": "Saeed Razavi, Xingjian Leng, Liang Zheng",
-        "journal": "arXiv preprint",
-        "abstract": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion…",
+        "abstract": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.20608v1"
+        "url": "http://arxiv.org/abs/2610.22371v1"
     },
     {
-        "id": "arxiv-t9unia3n",
-        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-        "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li",
+        "id": "arxiv-x2us8bad",
+        "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+        "authors": "SeungJu Cha, Ye-Chan Kim, HyunGee Kim, Sungho Koh, Dong-Jin…",
         "journal": "arXiv preprint",
-        "abstract": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.20607v1"
-    },
-    {
-        "id": "arxiv-boob01dd",
-        "title": "VITAL: From Visual Motion to Precise Action",
-        "authors": "Ao Liang, Youquan Liu, Mingxiao Li, Wei Chow, Lingdong…",
-        "journal": "arXiv preprint",
-        "abstract": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action targets directly from visual motion. We first examine a simpler setting in which trajectories are…",
+        "abstract": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.20604v1"
+        "url": "http://arxiv.org/abs/2610.22370v1"
+    },
+    {
+        "id": "arxiv-h69ulbi8",
+        "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+        "authors": "Shimon Malnick, Nadav Orenstein, Ohad Fried, Shai Avidan",
+        "journal": "arXiv preprint",
+        "abstract": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when to refresh by…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.22369v1"
+    },
+    {
+        "id": "arxiv-3ln5lybg",
+        "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
+        "authors": "Wenye Yu, Yijin Chen, Kaiyi Xiong, Wenbo Han, Wendi Chen,…",
+        "journal": "arXiv preprint",
+        "abstract": "Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment experience. We present Value as Memory (VaM), a framework that addresses these challenges through value caching and…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.22368v1"
+    },
+    {
+        "id": "arxiv-m8sy5mi5",
+        "title": "Discovering state-of-the-art quantum circuits with large language models",
+        "authors": "Andi Gu, Alek H. Kemeny, Susanne F. Yelin, Mikhail D. Lukin",
+        "journal": "arXiv preprint",
+        "abstract": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2610.22367v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-ll2zdl0p",
+        "id": "gh-lc0cfmdr",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "253.9k",
+        "stars": "254.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-xcwgkudr",
+        "id": "gh-ybb7hk5p",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -247,34 +218,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-0adqvju4",
-        "name": "langflow-ai/langflow",
-        "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": "155.7k",
+        "id": "gh-mzqwhphm",
+        "name": "langgenius/dify",
+        "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
+        "stars": "158.6k",
         "lang": "Python",
         "langColor": "#3572A5",
-        "url": "https://github.com/langflow-ai/langflow"
+        "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-efxunkv3",
+        "id": "gh-fpjtq46k",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "167.7k",
+        "stars": "167.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-npt6srgi",
+        "id": "gh-he8jxkq2",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "104.7k",
+        "stars": "104.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-cdscc51q",
+        "id": "gh-4g7zt62z",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -283,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-innigqru",
+        "id": "gh-7de7liwd",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "137.6k",
+        "stars": "137.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
