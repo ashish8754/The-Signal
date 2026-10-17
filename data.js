@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-16T10:58:05.261Z
-   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-17T10:19:29.081Z
+   Stories: 23 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-99t79s61",
+    "id": "rss-tkrfpoyb",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "source": "OpenAI",
-    "time": "15h ago",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics,…",
+    "source": "TechCrunch",
+    "time": "17h ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    "relevance": 88,
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-99t79s61",
-                "title": "Bringing GPT-Rosalind to academic research labs",
-                "source": "OpenAI",
-                "time": "15h ago",
-                "relevance": 83
+                "id": "rss-tkrfpoyb",
+                "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+                "source": "TechCrunch",
+                "time": "17h ago",
+                "relevance": 88
             },
             {
-                "id": "rss-0tp9xr9u",
-                "title": "Amp puts AI agents to work beyond code with OpenAI models",
+                "id": "rss-784oyuyo",
+                "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+                "source": "TechCrunch",
+                "time": "17h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-vvv47ve4",
+                "title": "How Itaú is building generative AI for its entire customer base",
+                "source": "OpenAI",
+                "time": "15h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-rezpoex7",
+                "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 81
             },
             {
-                "id": "rss-gy0vit5z",
-                "title": "Teaching students to think and learn through questions",
-                "source": "OpenAI",
-                "time": "21h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-wgunin9j",
-                "title": "Sullivan &amp; Cromwell brings legal expertise into agreement review",
+                "id": "rss-jmbmsbpf",
+                "title": "Bringing GPT-Rosalind to academic research labs",
                 "source": "OpenAI",
                 "time": "1d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-oa6hxspf",
-                "title": "Gemini 4 Argon: Built to solve your hardest problems",
-                "source": "Google Blog",
-                "time": "2d ago",
-                "relevance": 75
+                "relevance": 80
             }
         ]
     },
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-w0a4ip25",
-                "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+                "id": "rss-jcv5lchy",
+                "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
                 "source": "MarkTechPost",
-                "time": "15h ago",
+                "time": "3h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-7je9gact",
+                "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+                "source": "MarkTechPost",
+                "time": "1h ago",
+                "relevance": 82
+            },
+            {
+                "id": "rss-l56uxwx1",
+                "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+                "source": "MarkTechPost",
+                "time": "10h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-l2ac1as1",
-                "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+                "id": "rss-fm72t9l4",
+                "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
                 "source": "MarkTechPost",
-                "time": "4h ago",
+                "time": "2h ago",
                 "relevance": 79
-            },
-            {
-                "id": "rss-jf0h69sz",
-                "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
-                "source": "MarkTechPost",
-                "time": "8h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-t9hag3cz",
-                "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-                "source": "MarkTechPost",
-                "time": "20h ago",
-                "relevance": 74
             }
         ]
     },
@@ -124,18 +124,47 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-d17axuu0",
+                "id": "rss-9r90nkc9",
+                "title": "India becomes the latest country to report rogue AI agent activity",
+                "source": "TechCrunch",
+                "time": "16h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-dc8qdlb5",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-my97zbnv",
+                "id": "rss-zmadbxfw",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "hn-50128654",
+                "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 75
+            },
+            {
+                "id": "hn-50119751",
+                "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 70
             }
         ]
     }
@@ -143,7 +172,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-v15zccsa",
+        "id": "arxiv-szpkou0j",
         "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
         "authors": "Zhixu Li, Keqian Tang, Litian Gong, Jingyu Yao, Wenqian…",
         "journal": "arXiv preprint",
@@ -152,7 +181,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.22372v1"
     },
     {
-        "id": "arxiv-ntgxfmtr",
+        "id": "arxiv-yweg7fl3",
         "title": "Gen4P: Video Generators are 4D Perceivers",
         "authors": "Yitong Xia, Zeren Jiang, Chuanxia Zheng",
         "journal": "arXiv preprint",
@@ -161,7 +190,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.22371v1"
     },
     {
-        "id": "arxiv-x2us8bad",
+        "id": "arxiv-n5i6o7tn",
         "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
         "authors": "SeungJu Cha, Ye-Chan Kim, HyunGee Kim, Sungho Koh, Dong-Jin…",
         "journal": "arXiv preprint",
@@ -170,7 +199,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.22370v1"
     },
     {
-        "id": "arxiv-h69ulbi8",
+        "id": "arxiv-kddijzp1",
         "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
         "authors": "Shimon Malnick, Nadav Orenstein, Ohad Fried, Shai Avidan",
         "journal": "arXiv preprint",
@@ -179,7 +208,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.22369v1"
     },
     {
-        "id": "arxiv-3ln5lybg",
+        "id": "arxiv-x5xnzevc",
         "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
         "authors": "Wenye Yu, Yijin Chen, Kaiyi Xiong, Wenbo Han, Wendi Chen,…",
         "journal": "arXiv preprint",
@@ -188,7 +217,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.22368v1"
     },
     {
-        "id": "arxiv-m8sy5mi5",
+        "id": "arxiv-ih0cggut",
         "title": "Discovering state-of-the-art quantum circuits with large language models",
         "authors": "Andi Gu, Alek H. Kemeny, Susanne F. Yelin, Mikhail D. Lukin",
         "journal": "arXiv preprint",
@@ -200,16 +229,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-lc0cfmdr",
+        "id": "gh-v7yeyu8a",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "254.3k",
+        "stars": "254.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-ybb7hk5p",
+        "id": "gh-a3bq0ln4",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.6k",
@@ -218,16 +247,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-mzqwhphm",
+        "id": "gh-p4gbfobz",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "158.6k",
+        "stars": "158.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-fpjtq46k",
+        "id": "gh-3crkcu0j",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "167.8k",
@@ -236,7 +265,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-he8jxkq2",
+        "id": "gh-tjy0ahmq",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "104.8k",
@@ -245,7 +274,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-4g7zt62z",
+        "id": "gh-l4mfw1ri",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -254,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-7de7liwd",
+        "id": "gh-8xyd3u7s",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "137.8k",
+        "stars": "138.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
