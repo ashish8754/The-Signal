@@ -1,6 +1,198 @@
 {
   "stories": [
     {
+      "id": "rss-c878e7b4",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "source": "TechCrunch",
+      "time": "15h ago",
+      "rawDate": "2026-10-17 18:48:08",
+      "topic": "llms",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "score": 84.66666666666667,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-fnk6f686",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-10-16 00:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "score": 79.44444444444444,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-nsxe91uo",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "OpenAI",
+      "time": "1d ago",
+      "rawDate": "2026-10-16 19:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "score": 78.81818181818181,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-9tiopobm",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-10-15 19:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "score": 78.33333333333333,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-qk5atf0a",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "source": "TechCrunch",
+      "time": "1d ago",
+      "rawDate": "2026-10-16 17:52:24",
+      "topic": "agents",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "score": 76.81818181818181,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-oxjjl8bv",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-10-13 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "score": 75.22222222222223,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-yzs7faa2",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "source": "OpenAI",
+      "time": "2d ago",
+      "rawDate": "2026-10-16 00:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "score": 75,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-i715o3yv",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google Blog",
+      "time": "Sep 28",
+      "rawDate": "2026-09-28 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "score": 74.81818181818181,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "hn-50131256",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "source": "Hacker News",
+      "time": "20h ago",
+      "rawDate": "2026-10-17T14:01:01.000Z",
+      "topic": "energy",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "description": "",
+      "score": 74.5,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-3rr8jlhl",
+      "title": "Introducing Playground: Create and play custom games",
+      "source": "Google Blog",
+      "time": "Oct 7",
+      "rawDate": "2026-10-07 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "score": 73,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-fpg32zhd",
+      "title": "The latest AI news we announced in September 2026",
+      "source": "Google Blog",
+      "time": "Oct 2",
+      "rawDate": "2026-10-02 15:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "description": "Here are Google’s latest AI updates from September 2026",
+      "score": 73,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "hn-50131006",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-10-17T13:28:46.000Z",
+      "topic": "multimodal",
+      "url": "https://celphase.github.io/duck-pond/",
+      "description": "",
+      "score": 70.33333333333333,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-6fn1nbxk",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "rss-qmm8b03j",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "hn-50100366",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-10-15T07:18:14.000Z",
+      "topic": "infra",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "description": "",
+      "score": 67,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
+      "id": "hn-50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-17T04:36:53.000Z",
+      "topic": "llms",
+      "url": "https://llmspeed.dev/",
+      "description": "",
+      "score": 66.5,
+      "cachedAt": "2026-10-18T10:35:16.515Z"
+    },
+    {
       "id": "rss-tkrfpoyb",
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "source": "TechCrunch",
@@ -49,42 +241,6 @@
       "cachedAt": "2026-10-17T10:19:29.078Z"
     },
     {
-      "id": "rss-vvv47ve4",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "source": "OpenAI",
-      "time": "15h ago",
-      "rawDate": "2026-10-16 19:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "score": 81.81818181818181,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-rezpoex7",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-16 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "score": 81.44444444444444,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-jmbmsbpf",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-15 19:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "score": 80.33333333333333,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
       "id": "rss-l56uxwx1",
       "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
       "source": "MarkTechPost",
@@ -94,18 +250,6 @@
       "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
       "description": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […] The post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost .",
       "score": 80,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-9r90nkc9",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "source": "TechCrunch",
-      "time": "16h ago",
-      "rawDate": "2026-10-16 17:52:24",
-      "topic": "agents",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "score": 79.81818181818181,
       "cachedAt": "2026-10-17T10:19:29.078Z"
     },
     {
@@ -133,42 +277,6 @@
       "cachedAt": "2026-10-17T10:19:29.078Z"
     },
     {
-      "id": "rss-x60rix1j",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-10-13 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "score": 75.22222222222223,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-xyn7zouj",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "Sep 28",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 74.81818181818181,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "hn-50127979",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "source": "Hacker News",
-      "time": "5h ago",
-      "rawDate": "2026-10-17T04:36:53.000Z",
-      "topic": "llms",
-      "url": "https://llmspeed.dev/",
-      "description": "",
-      "score": 74.5,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
       "id": "hn-50128654",
       "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
       "source": "Hacker News",
@@ -178,30 +286,6 @@
       "url": "https://github.com/CLoaKY233/siltop",
       "description": "",
       "score": 74.5,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-7hiw88rc",
-      "title": "Introducing Playground: Create and play custom games",
-      "source": "Google Blog",
-      "time": "Oct 7",
-      "rawDate": "2026-10-07 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "score": 73,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-taavbbmu",
-      "title": "The latest AI news we announced in September 2026",
-      "source": "Google Blog",
-      "time": "Oct 2",
-      "rawDate": "2026-10-02 15:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "description": "Here are Google’s latest AI updates from September 2026",
-      "score": 73,
       "cachedAt": "2026-10-17T10:19:29.078Z"
     },
     {
@@ -250,30 +334,6 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "description": "",
       "score": 69.5,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-dc8qdlb5",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-zmadbxfw",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-10-17T10:19:29.078Z"
     },
     {
@@ -983,102 +1043,6 @@
       "description": "",
       "score": 64.85714285714286,
       "cachedAt": "2026-10-11T12:19:43.814Z"
-    },
-    {
-      "id": "rss-8yf1orli",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "source": "TechCrunch",
-      "time": "14h ago",
-      "rawDate": "2026-10-09 21:41:29",
-      "topic": "space",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "score": 82.28571428571429,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "rss-k6njo45i",
-      "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
-      "source": "MarkTechPost",
-      "time": "6h ago",
-      "rawDate": "2026-10-10 06:03:09",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
-      "description": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […] The post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model…",
-      "score": 77.5,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "rss-h613sfs9",
-      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-      "source": "MarkTechPost",
-      "time": "16h ago",
-      "rawDate": "2026-10-09 20:05:07",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-      "description": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost .",
-      "score": 77.27272727272728,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "rss-z6h6gbah",
-      "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
-      "source": "MarkTechPost",
-      "time": "15h ago",
-      "rawDate": "2026-10-09 20:33:17",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
-      "description": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, plus a hosted API option. TL;DR What is Qwen-Image-2.1-Turbo? Qwen-Image-2.1-Turbo is an […] The post Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model appeared first on…",
-      "score": 74.44444444444444,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "hn-50021410",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "source": "Hacker News",
-      "time": "21h ago",
-      "rawDate": "2026-10-09T14:56:13.000Z",
-      "topic": "vision",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "description": "",
-      "score": 71.44444444444444,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "rss-hgni6f2a",
-      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-      "source": "MarkTechPost",
-      "time": "7h ago",
-      "rawDate": "2026-10-10 04:51:34",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
-      "description": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost .",
-      "score": 71.42857142857143,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "hn-50029830",
-      "title": "Food processing influences metabolism and brain activity",
-      "source": "Hacker News",
-      "time": "6h ago",
-      "rawDate": "2026-10-10T05:22:30.000Z",
-      "topic": "biotech",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "description": "",
-      "score": 69.85714285714286,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
-    },
-    {
-      "id": "rss-dqeih0qi",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "source": "Hacker News",
-      "time": "9h ago",
-      "rawDate": "2026-10-10 03:02:47",
-      "topic": "security",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "description": "Comments",
-      "score": 69,
-      "cachedAt": "2026-10-10T12:06:08.687Z"
     }
   ]
 }
