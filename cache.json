@@ -1,6 +1,150 @@
 {
   "stories": [
     {
+      "id": "hn-50151390",
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "source": "Hacker News",
+      "time": "Just now",
+      "rawDate": "2026-10-19T12:07:41.000Z",
+      "topic": "llms",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "description": "",
+      "score": 80.07692307692308,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-hlijnxz1",
+      "title": "Linux 7.3 Released",
+      "source": "Hacker News",
+      "time": "5h ago",
+      "rawDate": "2026-10-19 07:23:57",
+      "topic": "opensource",
+      "url": "https://lwn.net/Articles/1101143/",
+      "description": "Comments",
+      "score": 78.66666666666667,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-rjy4kxuf",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-10-19 09:59:32",
+      "topic": "llms",
+      "url": "https://mistral.ai/news/timestral/",
+      "description": "Comments",
+      "score": 78.66666666666667,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-uhef8cc9",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-10-13 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "score": 75.22222222222223,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-myowvhn2",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google Blog",
+      "time": "Sep 28",
+      "rawDate": "2026-09-28 19:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "score": 74.81818181818181,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "hn-50150750",
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-10-19T10:45:14.000Z",
+      "topic": "agents",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "description": "",
+      "score": 73.66666666666667,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-gop0zhdb",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-10-18 20:48:14",
+      "topic": "llms",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "description": "Comments",
+      "score": 73.15384615384616,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-6caea2nj",
+      "title": "Introducing Playground: Create and play custom games",
+      "source": "Google Blog",
+      "time": "Oct 7",
+      "rawDate": "2026-10-07 12:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "score": 73,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "rss-xln9snca",
+      "title": "The latest AI news we announced in September 2026",
+      "source": "Google Blog",
+      "time": "Oct 2",
+      "rawDate": "2026-10-02 15:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "description": "Here are Google’s latest AI updates from September 2026",
+      "score": 73,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "hn-50148855",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "source": "Hacker News",
+      "time": "6h ago",
+      "rawDate": "2026-10-19T05:55:31.000Z",
+      "topic": "llms",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "description": "",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "hn-50145507",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-10-18T21:09:12.000Z",
+      "topic": "llms",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "description": "",
+      "score": 68.33333333333333,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
+      "id": "hn-50104874",
+      "title": "How to Train Your Robot",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-10-15T15:13:21.000Z",
+      "topic": "robotics",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-10-19T12:31:41.569Z"
+    },
+    {
       "id": "rss-c878e7b4",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "source": "TechCrunch",
@@ -61,18 +205,6 @@
       "cachedAt": "2026-10-18T10:35:16.515Z"
     },
     {
-      "id": "rss-oxjjl8bv",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "source": "Google Blog",
-      "time": "4d ago",
-      "rawDate": "2026-10-13 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "score": 75.22222222222223,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
       "id": "rss-yzs7faa2",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "source": "OpenAI",
@@ -85,18 +217,6 @@
       "cachedAt": "2026-10-18T10:35:16.515Z"
     },
     {
-      "id": "rss-i715o3yv",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "Sep 28",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 74.81818181818181,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
       "id": "hn-50131256",
       "title": "Solar surpasses nuclear power globally for first time",
       "source": "Hacker News",
@@ -106,30 +226,6 @@
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "description": "",
       "score": 74.5,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-3rr8jlhl",
-      "title": "Introducing Playground: Create and play custom games",
-      "source": "Google Blog",
-      "time": "Oct 7",
-      "rawDate": "2026-10-07 12:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "score": 73,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-fpg32zhd",
-      "title": "The latest AI news we announced in September 2026",
-      "source": "Google Blog",
-      "time": "Oct 2",
-      "rawDate": "2026-10-02 15:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "description": "Here are Google’s latest AI updates from September 2026",
-      "score": 73,
       "cachedAt": "2026-10-18T10:35:16.515Z"
     },
     {
@@ -995,54 +1091,6 @@
       "description": "",
       "score": 69.22222222222223,
       "cachedAt": "2026-10-12T14:45:47.259Z"
-    },
-    {
-      "id": "rss-s650mqbr",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "source": "TechCrunch",
-      "time": "16h ago",
-      "rawDate": "2026-10-10 19:50:00",
-      "topic": "opensource",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "description": "Is Apple hoping to get into the AI-generated podcast business?",
-      "score": 79.42857142857143,
-      "cachedAt": "2026-10-11T12:19:43.814Z"
-    },
-    {
-      "id": "hn-50041667",
-      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-10-11T10:34:43.000Z",
-      "topic": "robotics",
-      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-      "description": "",
-      "score": 73.66666666666667,
-      "cachedAt": "2026-10-11T12:19:43.814Z"
-    },
-    {
-      "id": "hn-50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-10T10:52:09.000Z",
-      "topic": "agents",
-      "url": "https://github.com/rociiu/talorys",
-      "description": "",
-      "score": 65.81818181818181,
-      "cachedAt": "2026-10-11T12:19:43.814Z"
-    },
-    {
-      "id": "hn-50001234",
-      "title": "Retrofitting language models to operate over bytes",
-      "source": "Hacker News",
-      "time": "3d ago",
-      "rawDate": "2026-10-08T02:15:16.000Z",
-      "topic": "llms",
-      "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "description": "",
-      "score": 64.85714285714286,
-      "cachedAt": "2026-10-11T12:19:43.814Z"
     }
   ]
 }
