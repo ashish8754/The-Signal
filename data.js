@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-19T12:31:41.572Z
-   Stories: 12 | Clusters: 1 | Papers: 6 | Repos: 7
+   Updated: 2026-10-20T11:07:20.616Z
+   Stories: 12 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-uhef8cc9",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "excerpt": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "source": "Google Blog",
-    "time": "5d ago",
+    "id": "rss-qou8lvm2",
+    "topic": "Artificial Intelligence",
+    "topicId": "energy",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "excerpt": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "source": "TechCrunch",
+    "time": "9h ago",
     "readTime": "5 min read",
-    "relevance": 75,
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    "relevance": 81,
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
 },
 
     topics: [
@@ -45,39 +45,61 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "hn-50151390",
-                "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+                "id": "rss-53jjr1l3",
+                "title": "DeepSeek just open-sourced its inference engine",
                 "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 80
-            },
-            {
-                "id": "rss-rjy4kxuf",
-                "title": "Timestral: Mistral release time-series foundation models",
-                "source": "Hacker News",
-                "time": "2h ago",
+                "time": "1h ago",
                 "relevance": 79
             },
             {
-                "id": "rss-uhef8cc9",
+                "id": "rss-bl5k1zfm",
                 "title": "Gemini 4 Argon: Built to solve your hardest problems",
                 "source": "Google Blog",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 75
             },
             {
-                "id": "rss-myowvhn2",
+                "id": "rss-r5l3l09n",
                 "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
                 "source": "Google Blog",
                 "time": "Sep 28",
                 "relevance": 75
             },
             {
-                "id": "rss-gop0zhdb",
-                "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-                "source": "Hacker News",
-                "time": "15h ago",
+                "id": "rss-hmhihffk",
+                "title": "Introducing Playground: Create and play custom games",
+                "source": "Google Blog",
+                "time": "Oct 7",
                 "relevance": 73
+            },
+            {
+                "id": "rss-o1wxfo9e",
+                "title": "The latest AI news we announced in September 2026",
+                "source": "Google Blog",
+                "time": "Oct 2",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-um2mbhxd",
+                "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 80
+            },
+            {
+                "id": "hn-50152466",
+                "title": "Maxwell: A new kind of model that sits between code and hardware",
+                "source": "Hacker News",
+                "time": "21h ago",
+                "relevance": 69
             }
         ]
     }
@@ -85,91 +107,91 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-cp8ufe3m",
-        "title": "Learning to Correct Geometry in Generated Videos",
-        "authors": "Weijie Lyu, Tiancheng Shen, Jason Li, Yujing Wang, Xiaoyuan…",
+        "id": "arxiv-v0nyvq68",
+        "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+        "authors": "Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas, Ehsan…",
         "journal": "arXiv preprint",
-        "abstract": "Generated videos often lose geometric consistency under camera motion: structures warp under viewpoint change, parallax becomes inconsistent, and smooth camera movement may collapse into shot-like transitions. We argue that this failure is largely a data problem. In web-scale video corpora, most visible motion comes…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.23856v1"
+        "abstract": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.26863v1"
     },
     {
-        "id": "arxiv-r1rdw6tf",
-        "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
-        "authors": "Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava,…",
+        "id": "arxiv-bsxuhjry",
+        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "authors": "Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang…",
         "journal": "arXiv preprint",
-        "abstract": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.23854v1"
-    },
-    {
-        "id": "arxiv-1yrqysgn",
-        "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
-        "authors": "Antonia Bronars, Younghyo Park, Kushal Kedia, Pulkit Agrawal",
-        "journal": "arXiv preprint",
-        "abstract": "Every robot already carries high-resolution contact sensors: its own joints. Legged robots and humanoids exploit them to walk, run, and track whole-body motions without vision, but there the contacts are large and forceful. Is joint sensing also enough for precise, contact-rich assembly, where the robot must find a…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.23849v1"
-    },
-    {
-        "id": "arxiv-zhn9es9z",
-        "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-        "authors": "Dongyoon Hahm, Woogyeol Jin, Dennis Wei, Yi Zhou, Nathalie…",
-        "journal": "arXiv preprint",
-        "abstract": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relationship between…",
+        "abstract": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such…",
         "badge": "NLP",
-        "url": "http://arxiv.org/abs/2610.23847v1"
+        "url": "http://arxiv.org/abs/2610.26860v1"
     },
     {
-        "id": "arxiv-qh3yukgn",
-        "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
-        "authors": "Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov, Julian…",
+        "id": "arxiv-s4wa8hms",
+        "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+        "authors": "Wenqian Zhang, Yangyi Huang, Zigeng Xu, Weiyang Liu, Zhen…",
         "journal": "arXiv preprint",
-        "abstract": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance,…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.23845v1"
-    },
-    {
-        "id": "arxiv-821g96f1",
-        "title": "StopWatch: Goal Grounding for Object-goal Navigation",
-        "authors": "Xinhao Liu, Yunsheng Tian, Yuheng Qiu, Pieter Abbeel, Xi…",
-        "journal": "arXiv preprint",
-        "abstract": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rates remain low, and it is unclear which capability these fine-tuned policies lack. Our diagnosis identifies goal…",
+        "abstract": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.23841v1"
+        "url": "http://arxiv.org/abs/2610.26861v1"
+    },
+    {
+        "id": "arxiv-xhigtomq",
+        "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "authors": "Shiao Xie, Siyu Chen, Jianwei Lv, Xiandong Li, Yujin Wang",
+        "journal": "arXiv preprint",
+        "abstract": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.26856v1"
+    },
+    {
+        "id": "arxiv-fakbfmnf",
+        "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+        "authors": "Sangbeom Lim, Seoung Wug Oh, Heeji Yoon, Seungryong Kim,…",
+        "journal": "arXiv preprint",
+        "abstract": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However, the heavy compute of these diffusion backbones limits inference to a short chunk of just 6 to 24…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.26857v1"
+    },
+    {
+        "id": "arxiv-1raj0zsi",
+        "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+        "authors": "Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang, Jiarui…",
+        "journal": "arXiv preprint",
+        "abstract": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision. We present Ropedia W0, the first egocentric loco-manipulation world foundation…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.26855v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-2c5ndpj4",
+        "id": "gh-yzcts25l",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "255.1k",
+        "stars": "255.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-00rfl0f2",
+        "id": "gh-8jkojmqp",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.6k",
+        "stars": "187.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-u533kdv8",
+        "id": "gh-1ylagymz",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "158.9k",
+        "stars": "159.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-ozd2hy1y",
+        "id": "gh-0yh8szaf",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "167.9k",
@@ -178,7 +200,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-kflw1vcg",
+        "id": "gh-gx4zoobi",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "104.9k",
@@ -187,7 +209,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-dk16me2a",
+        "id": "gh-4z3va2r0",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -196,10 +218,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-4c5cmu48",
+        "id": "gh-02vwhnk5",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "139.2k",
+        "stars": "140.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
