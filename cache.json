@@ -1,6 +1,66 @@
 {
   "stories": [
     {
+      "id": "hn-50192868",
+      "title": "Achieving AI-style reasoning without an LLM",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-10-22T08:46:58.000Z",
+      "topic": "llms",
+      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "description": "",
+      "score": 78.66666666666667,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
+    },
+    {
+      "id": "hn-50181114",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-10-21T14:00:26.000Z",
+      "topic": "devtools",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "description": "",
+      "score": 70.63636363636364,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
+    },
+    {
+      "id": "hn-50176082",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-21T04:27:51.000Z",
+      "topic": "llms",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "description": "",
+      "score": 68.44444444444444,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
+    },
+    {
+      "id": "hn-50154100",
+      "title": "Chain of Thought for Humans",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-10-19T16:06:22.000Z",
+      "topic": "agents",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
+    },
+    {
+      "id": "hn-50155616",
+      "title": "The Robot I Didn't Expect to Build",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-10-19T17:57:18.000Z",
+      "topic": "robotics",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "description": "",
+      "score": 64.85714285714286,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
+    },
+    {
       "id": "hn-50163277",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "source": "Hacker News",
@@ -9,8 +69,8 @@
       "topic": "llms",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "description": "",
-      "score": 72.57142857142857,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 50,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "hn-50175185",
@@ -21,8 +81,8 @@
       "topic": "space",
       "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
       "description": "",
-      "score": 72,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 50,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "hn-50175779",
@@ -33,8 +93,8 @@
       "topic": "llms",
       "url": "https://www.anthropic.com/research/attack-surface-reduction",
       "description": "",
-      "score": 71.44444444444444,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 50,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "hn-50150214",
@@ -45,8 +105,8 @@
       "topic": "vision",
       "url": "https://www.pagetable.com/303",
       "description": "",
-      "score": 64,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 44,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "rss-qou8lvm2",
@@ -57,8 +117,8 @@
       "topic": "energy",
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "score": 56,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 39,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "rss-atf9nwjx",
@@ -69,8 +129,8 @@
       "topic": "security",
       "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-      "score": 56,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 39,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "rss-um2mbhxd",
@@ -81,8 +141,8 @@
       "topic": "infra",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "score": 55,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
+      "score": 38,
+      "cachedAt": "2026-10-22T11:22:40.693Z"
     },
     {
       "id": "rss-53jjr1l3",
@@ -683,330 +743,6 @@
       "description": "",
       "score": 69.22222222222223,
       "cachedAt": "2026-10-16T10:58:05.259Z"
-    },
-    {
-      "id": "rss-4hykbefc",
-      "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
-      "source": "MarkTechPost",
-      "time": "5h ago",
-      "rawDate": "2026-10-15 05:18:54",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
-      "description": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are unchanged from Grok Voice 2.0. TL;DR What is […] The post Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis appeared first on MarkTechPost .",
-      "score": 84.23076923076923,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-2z2ae7ln",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "source": "TechCrunch",
-      "time": "10h ago",
-      "rawDate": "2026-10-15 01:01:32",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "score": 84.15384615384616,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-gi104mzr",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "source": "TechCrunch",
-      "time": "11h ago",
-      "rawDate": "2026-10-15 00:00:00",
-      "topic": "multimodal",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
-      "score": 81.07692307692308,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-bvwfywnx",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-14 07:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/third-moment-research",
-      "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "score": 81,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-vrvhb1oj",
-      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
-      "source": "MarkTechPost",
-      "time": "12h ago",
-      "rawDate": "2026-10-14 22:52:17",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
-      "description": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. The post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model appeared first on MarkTechPost .",
-      "score": 80,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-xge57lmn",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "source": "OpenAI",
-      "time": "23h ago",
-      "rawDate": "2026-10-14 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/sentinelone",
-      "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "score": 80,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-lv1ouf3c",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "source": "TechCrunch",
-      "time": "13h ago",
-      "rawDate": "2026-10-14 21:30:33",
-      "topic": "security",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "score": 79.53846153846153,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-gtvr72u9",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-14 07:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-gvj1oww0",
-      "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
-      "source": "MarkTechPost",
-      "time": "5h ago",
-      "rawDate": "2026-10-15 05:45:03",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
-      "description": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost .",
-      "score": 78.33333333333333,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "hn-50100387",
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "source": "Hacker News",
-      "time": "3h ago",
-      "rawDate": "2026-10-15T07:20:39.000Z",
-      "topic": "agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "description": "",
-      "score": 76.44444444444444,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-mzvr3beh",
-      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
-      "source": "MarkTechPost",
-      "time": "11h ago",
-      "rawDate": "2026-10-14 23:37:25",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
-      "description": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appeared first on MarkTechPost .",
-      "score": 72.66666666666667,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-3v3bdthz",
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-13 12:30:08",
-      "topic": "opensource",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "description": "Comments",
-      "score": 67.63636363636364,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "hn-50067325",
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-10-13T05:54:01.000Z",
-      "topic": "llms",
-      "url": "https://news.ycombinator.com/item?id=50067325",
-      "description": "",
-      "score": 64.22222222222223,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "hn-50047576",
-      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-      "source": "Hacker News",
-      "time": "3d ago",
-      "rawDate": "2026-10-11T20:36:56.000Z",
-      "topic": "multimodal",
-      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-      "description": "",
-      "score": 64,
-      "cachedAt": "2026-10-15T11:01:54.212Z"
-    },
-    {
-      "id": "rss-ifekpxap",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "source": "TechCrunch",
-      "time": "12h ago",
-      "rawDate": "2026-10-13 23:13:31",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "score": 88,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "rss-3f5m1e1y",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "source": "OpenAI",
-      "time": "23h ago",
-      "rawDate": "2026-10-13 12:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "score": 88,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50085302",
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "source": "Hacker News",
-      "time": "Just now",
-      "rawDate": "2026-10-14T10:26:24.000Z",
-      "topic": "quantum",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "description": "",
-      "score": 81,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50085306",
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "source": "Hacker News",
-      "time": "Just now",
-      "rawDate": "2026-10-14T10:26:53.000Z",
-      "topic": "devtools",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "description": "",
-      "score": 79.85714285714286,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50085332",
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "source": "Hacker News",
-      "time": "Just now",
-      "rawDate": "2026-10-14T10:29:56.000Z",
-      "topic": "llms",
-      "url": "https://book.humanexperiences.io/",
-      "description": "",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "rss-8n4nmn3s",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "source": "OpenAI",
-      "time": "5d ago",
-      "rawDate": "2026-10-09 07:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "score": 78.63636363636364,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "rss-rb66bbg3",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "source": "OpenAI",
-      "time": "5d ago",
-      "rawDate": "2026-10-08 16:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/oracle",
-      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "score": 78.33333333333333,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "rss-2om8c0om",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "source": "OpenAI",
-      "time": "5d ago",
-      "rawDate": "2026-10-09 07:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/sophos",
-      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "score": 77,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50085259",
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-10-14T10:21:13.000Z",
-      "topic": "agents",
-      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "description": "",
-      "score": 73.42857142857143,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50078686",
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "source": "Hacker News",
-      "time": "14h ago",
-      "rawDate": "2026-10-13T21:01:12.000Z",
-      "topic": "biotech",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "description": "",
-      "score": 69,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50054092",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-10-12T10:09:37.000Z",
-      "topic": "infra",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "description": "",
-      "score": 66.44444444444444,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50063104",
-      "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-12T21:09:08.000Z",
-      "topic": "devtools",
-      "url": "https://kristaps.bsd.lv/kcgi/",
-      "description": "",
-      "score": 66.22222222222223,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
-    },
-    {
-      "id": "hn-50061659",
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-12T19:28:48.000Z",
-      "topic": "opensource",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "description": "",
-      "score": 66,
-      "cachedAt": "2026-10-14T11:25:06.130Z"
     }
   ]
 }

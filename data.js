@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-21T11:23:01.076Z
-   Stories: 12 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-10-22T11:22:40.696Z
+   Stories: 12 | Clusters: 1 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50163277",
+    "id": "hn-50192868",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "title": "Achieving AI-style reasoning without an LLM",
     "excerpt": "A major development in large language models that could reshape how we interact with AI systems.",
     "source": "Hacker News",
-    "time": "1d ago",
+    "time": "2h ago",
     "readTime": "5 min read",
-    "relevance": 73,
-    "url": "https://github.com/deepseek-ai/DeepInfer"
+    "relevance": 79,
+    "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/"
 },
 
     topics: [
@@ -45,60 +45,31 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
+                "id": "hn-50192868",
+                "title": "Achieving AI-style reasoning without an LLM",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 79
+            },
+            {
+                "id": "hn-50176082",
+                "title": "Using LLM for confidence scoring is a bad idea",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 68
+            },
+            {
                 "id": "hn-50163277",
                 "title": "DeepInfer: High-performance inference framework for DeepSeek models",
                 "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 73
+                "relevance": 65
             },
             {
                 "id": "hn-50175779",
                 "title": "Using Claude to reduce the attack surface of code",
                 "source": "Hacker News",
                 "time": "7h ago",
-                "relevance": 71
-            },
-            {
-                "id": "rss-53jjr1l3",
-                "title": "DeepSeek just open-sourced its inference engine",
-                "source": "Hacker News",
-                "time": "1h ago",
-                "relevance": 65
-            },
-            {
-                "id": "rss-bl5k1zfm",
-                "title": "Gemini 4 Argon: Built to solve your hardest problems",
-                "source": "Google Blog",
-                "time": "6d ago",
-                "relevance": 65
-            },
-            {
-                "id": "rss-r5l3l09n",
-                "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-                "source": "Google Blog",
-                "time": "Sep 28",
-                "relevance": 65
-            }
-        ]
-    },
-    {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "hn-50175185",
-                "title": "In Hilbert space, all things are quantumly possible",
-                "source": "Hacker News",
-                "time": "9h ago",
-                "relevance": 72
-            },
-            {
-                "id": "hn-50162177",
-                "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-                "source": "Hacker News",
-                "time": "4h ago",
                 "relevance": 65
             }
         ]
@@ -107,73 +78,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-8wsmomd3",
-        "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-        "authors": "Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron, Gal…",
+        "id": "arxiv-izno0sjs",
+        "title": "Agentic World Action Models",
+        "authors": "Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing…",
         "journal": "arXiv preprint",
-        "abstract": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.28632v1"
+        "abstract": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based planning and reasoning with reusable skills, but often lacks predictive grounding in physical dynamics. We introduce AW-0,…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.30136v1"
     },
     {
-        "id": "arxiv-iojoa2jk",
-        "title": "AEON: Unifying Video and 3D World Models",
-        "authors": "Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu, Junsheng Zhou",
+        "id": "arxiv-l8l68tvo",
+        "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+        "authors": "Zhennan Wan, Jianfei Chen",
         "journal": "arXiv preprint",
-        "abstract": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D generative models (e.g., Marble), which generate geometrically consistent scenes but often yield…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.28631v1"
+        "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2610.30132v1"
     },
     {
-        "id": "arxiv-ij7jitwo",
-        "title": "SolarRenderer: Few-Step Generative Reference Rendering",
-        "authors": "Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao…",
+        "id": "arxiv-pny6ajsk",
+        "title": "Rethinking Video Autoencoders for Interactive World Models",
+        "authors": "Adrien Ramanana Rahary, Yutong Bai, Nicolas Dufour, Patrick…",
         "journal": "arXiv preprint",
-        "abstract": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it leaves open. Existing renderers are tied to the representation of one engine, need tens of…",
+        "abstract": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.28630v1"
+        "url": "http://arxiv.org/abs/2610.30129v1"
     },
     {
-        "id": "arxiv-ijcgkyx0",
-        "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-        "authors": "Yazhuo Liu, Kunqing Ding, Xiaoguo Gong, Zifeng Wang, Yichen…",
+        "id": "arxiv-ip1zcpfl",
+        "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+        "authors": "Zhanshuo Cao, Jiakai Tang, Yuqi Zhou, Sunhao Dai, Jun Xu",
         "journal": "arXiv preprint",
-        "abstract": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation…",
+        "abstract": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2610.28629v1"
+        "url": "http://arxiv.org/abs/2610.30128v1"
     },
     {
-        "id": "arxiv-rg24fck9",
-        "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-        "authors": "Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye, Sungjae…",
+        "id": "arxiv-mdr8j6e0",
+        "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+        "authors": "Zhichao Zhai, Menglei Zhao, Guikun Chen, Zihao Yan, Kanzhi…",
         "journal": "arXiv preprint",
-        "abstract": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbitrary object poses but, lacking any…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.28628v1"
+        "abstract": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geometric references that language leaves implicit. In this work, we introduce VoxProg, which formulates 3D object…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.30127v1"
     },
     {
-        "id": "arxiv-rt8znqe3",
-        "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
-        "authors": "Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao, Carl…",
+        "id": "arxiv-hqqzk3e9",
+        "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+        "authors": "Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam, Hongze Fu,…",
         "journal": "arXiv preprint",
-        "abstract": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision target. We ask: can…",
+        "abstract": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.28626v1"
+        "url": "http://arxiv.org/abs/2610.30125v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-vxlpdxfx",
+        "id": "gh-wvcbxk56",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "255.7k",
+        "stars": "256.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-4e6j2a8y",
+        "id": "gh-b6olkyvr",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.7k",
@@ -182,34 +153,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-z8itfvfw",
+        "id": "gh-n96kxpsq",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.1k",
+        "stars": "159.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-spux94kl",
+        "id": "gh-hrpfzrq2",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "167.9k",
+        "stars": "168.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-czhvmx3v",
+        "id": "gh-12pxkk0z",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "104.9k",
+        "stars": "105.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-9at0rcuc",
+        "id": "gh-mpydzwqb",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -218,10 +189,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-r9ktz52p",
+        "id": "gh-bu5spy7y",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "141.2k",
+        "stars": "141.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
