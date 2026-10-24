@@ -1,6 +1,54 @@
 {
   "stories": [
     {
+      "id": "hn-50219666",
+      "title": "I Don't Understand Quantum Physics",
+      "source": "Hacker News",
+      "time": "Just now",
+      "rawDate": "2026-10-24T09:53:26.000Z",
+      "topic": "quantum",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "description": "",
+      "score": 81,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
+    },
+    {
+      "id": "hn-50171379",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "source": "Hacker News",
+      "time": "3d ago",
+      "rawDate": "2026-10-20T19:22:39.000Z",
+      "topic": "vision",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "description": "",
+      "score": 71.0909090909091,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
+    },
+    {
+      "id": "hn-50213925",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-10-23T19:09:54.000Z",
+      "topic": "multimodal",
+      "url": "https://block.xyz/dessa",
+      "description": "",
+      "score": 69.85714285714286,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
+    },
+    {
+      "id": "hn-50214373",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "source": "Hacker News",
+      "time": "14h ago",
+      "rawDate": "2026-10-23T19:46:38.000Z",
+      "topic": "agents",
+      "url": "https://corgi.computer/",
+      "description": "",
+      "score": 69.5,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
+    },
+    {
       "id": "hn-50195002",
       "title": "The alien space of science: Coherent but cognitively unavailable directions",
       "source": "Hacker News",
@@ -9,8 +57,8 @@
       "topic": "space",
       "url": "https://arxiv.org/abs/2603.01092",
       "description": "",
-      "score": 71,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 49,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50200164",
@@ -21,8 +69,8 @@
       "topic": "devtools",
       "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
       "description": "",
-      "score": 71,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 49,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50198675",
@@ -33,8 +81,8 @@
       "topic": "agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "",
-      "score": 70.33333333333333,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 49,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50192396",
@@ -45,8 +93,8 @@
       "topic": "quantum",
       "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
       "description": "",
-      "score": 66,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 46,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50192868",
@@ -57,8 +105,8 @@
       "topic": "llms",
       "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
       "description": "",
-      "score": 55,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 38,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50181114",
@@ -69,8 +117,8 @@
       "topic": "devtools",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "description": "",
-      "score": 49,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 34,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50176082",
@@ -81,8 +129,8 @@
       "topic": "llms",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
       "description": "",
-      "score": 47,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 32,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50154100",
@@ -93,8 +141,8 @@
       "topic": "agents",
       "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
       "description": "",
-      "score": 46,
-      "cachedAt": "2026-10-23T11:12:36.673Z"
+      "score": 32,
+      "cachedAt": "2026-10-24T10:31:21.528Z"
     },
     {
       "id": "hn-50155616",
@@ -539,150 +587,6 @@
       "description": "",
       "score": 66.5,
       "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-tkrfpoyb",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "source": "TechCrunch",
-      "time": "17h ago",
-      "rawDate": "2026-10-16 16:30:00",
-      "topic": "llms",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "score": 88,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-784oyuyo",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "source": "TechCrunch",
-      "time": "17h ago",
-      "rawDate": "2026-10-16 16:30:00",
-      "topic": "llms",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "score": 88,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-jcv5lchy",
-      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
-      "source": "MarkTechPost",
-      "time": "3h ago",
-      "rawDate": "2026-10-17 06:29:55",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
-      "description": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of context. For developers, this is […] The post StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context appeared first on MarkTechPost .",
-      "score": 82.6923076923077,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-7je9gact",
-      "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
-      "source": "MarkTechPost",
-      "time": "1h ago",
-      "rawDate": "2026-10-17 08:53:58",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
-      "description": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and […] The post DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API appeared first on MarkTechPost .",
-      "score": 82.27272727272728,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-l56uxwx1",
-      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
-      "source": "MarkTechPost",
-      "time": "10h ago",
-      "rawDate": "2026-10-17 00:09:12",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
-      "description": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […] The post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost .",
-      "score": 80,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-fm72t9l4",
-      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-      "source": "MarkTechPost",
-      "time": "2h ago",
-      "rawDate": "2026-10-17 07:26:39",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
-      "description": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s Strands Labs and independent developers. […] The post 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026 appeared first on MarkTechPost .",
-      "score": 78.63636363636364,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "rss-j1zsp627",
-      "title": "Teaching students to think and learn through questions",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-15 13:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "score": 77,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "hn-50128654",
-      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
-      "source": "Hacker News",
-      "time": "3h ago",
-      "rawDate": "2026-10-17T07:01:07.000Z",
-      "topic": "infra",
-      "url": "https://github.com/CLoaKY233/siltop",
-      "description": "",
-      "score": 74.5,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "hn-50121939",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "source": "Hacker News",
-      "time": "16h ago",
-      "rawDate": "2026-10-16T18:00:18.000Z",
-      "topic": "llms",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "description": "",
-      "score": 72.71428571428571,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "hn-50122800",
-      "title": "Claude reveals ECDSA curve origins",
-      "source": "Hacker News",
-      "time": "15h ago",
-      "rawDate": "2026-10-16T18:55:59.000Z",
-      "topic": "llms",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "description": "",
-      "score": 71,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "hn-50119751",
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "source": "Hacker News",
-      "time": "18h ago",
-      "rawDate": "2026-10-16T15:38:28.000Z",
-      "topic": "infra",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "description": "",
-      "score": 70.07692307692308,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
-    },
-    {
-      "id": "hn-50122951",
-      "title": "How the Claude Code team does code review",
-      "source": "Hacker News",
-      "time": "15h ago",
-      "rawDate": "2026-10-16T19:04:47.000Z",
-      "topic": "llms",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "description": "",
-      "score": 69.5,
-      "cachedAt": "2026-10-17T10:19:29.078Z"
     }
   ]
 }
