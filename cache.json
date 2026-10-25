@@ -1,6 +1,66 @@
 {
   "stories": [
     {
+      "id": "hn-50222525",
+      "title": "Neural chip decodes interactions between brain regions",
+      "source": "Hacker News",
+      "time": "18h ago",
+      "rawDate": "2026-10-24T15:57:17.000Z",
+      "topic": "infra",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "description": "",
+      "score": 75.57142857142857,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
+    },
+    {
+      "id": "hn-50219700",
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-24T09:58:27.000Z",
+      "topic": "infra",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "description": "",
+      "score": 70.66666666666667,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
+    },
+    {
+      "id": "hn-50222622",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "source": "Hacker News",
+      "time": "18h ago",
+      "rawDate": "2026-10-24T16:06:26.000Z",
+      "topic": "opensource",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "description": "",
+      "score": 69.5,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
+    },
+    {
+      "id": "hn-50219666",
+      "title": "I don't understand quantum physics (2018)",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-24T09:53:26.000Z",
+      "topic": "quantum",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "description": "",
+      "score": 67.33333333333333,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
+    },
+    {
+      "id": "hn-50172432",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "source": "Hacker News",
+      "time": "4d ago",
+      "rawDate": "2026-10-20T20:45:52.000Z",
+      "topic": "vision",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "description": "",
+      "score": 66.44444444444444,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
+    },
+    {
       "id": "hn-50219666",
       "title": "I Don't Understand Quantum Physics",
       "source": "Hacker News",
@@ -9,8 +69,8 @@
       "topic": "quantum",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "description": "",
-      "score": 81,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 56,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50171379",
@@ -21,8 +81,8 @@
       "topic": "vision",
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "description": "",
-      "score": 71.0909090909091,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 49,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50213925",
@@ -33,8 +93,8 @@
       "topic": "multimodal",
       "url": "https://block.xyz/dessa",
       "description": "",
-      "score": 69.85714285714286,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 48,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50214373",
@@ -45,8 +105,8 @@
       "topic": "agents",
       "url": "https://corgi.computer/",
       "description": "",
-      "score": 69.5,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 48,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50195002",
@@ -57,8 +117,8 @@
       "topic": "space",
       "url": "https://arxiv.org/abs/2603.01092",
       "description": "",
-      "score": 49,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 34,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50200164",
@@ -69,8 +129,8 @@
       "topic": "devtools",
       "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
       "description": "",
-      "score": 49,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 34,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50198675",
@@ -81,8 +141,8 @@
       "topic": "agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "",
-      "score": 49,
-      "cachedAt": "2026-10-24T10:31:21.528Z"
+      "score": 34,
+      "cachedAt": "2026-10-25T10:57:18.081Z"
     },
     {
       "id": "hn-50192396",
@@ -443,150 +503,6 @@
       "description": "",
       "score": 66,
       "cachedAt": "2026-10-19T12:31:41.569Z"
-    },
-    {
-      "id": "rss-c878e7b4",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "source": "TechCrunch",
-      "time": "15h ago",
-      "rawDate": "2026-10-17 18:48:08",
-      "topic": "llms",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "score": 84.66666666666667,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-fnk6f686",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "source": "OpenAI",
-      "time": "2d ago",
-      "rawDate": "2026-10-16 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "score": 79.44444444444444,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-nsxe91uo",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "source": "OpenAI",
-      "time": "1d ago",
-      "rawDate": "2026-10-16 19:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "score": 78.81818181818181,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-9tiopobm",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "source": "OpenAI",
-      "time": "2d ago",
-      "rawDate": "2026-10-15 19:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "score": 78.33333333333333,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-qk5atf0a",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "source": "TechCrunch",
-      "time": "1d ago",
-      "rawDate": "2026-10-16 17:52:24",
-      "topic": "agents",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "score": 76.81818181818181,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-yzs7faa2",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "source": "OpenAI",
-      "time": "2d ago",
-      "rawDate": "2026-10-16 00:00:00",
-      "topic": "llms",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "score": 75,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "hn-50131256",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "source": "Hacker News",
-      "time": "20h ago",
-      "rawDate": "2026-10-17T14:01:01.000Z",
-      "topic": "energy",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "description": "",
-      "score": 74.5,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "hn-50131006",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "source": "Hacker News",
-      "time": "21h ago",
-      "rawDate": "2026-10-17T13:28:46.000Z",
-      "topic": "multimodal",
-      "url": "https://celphase.github.io/duck-pond/",
-      "description": "",
-      "score": 70.33333333333333,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-6fn1nbxk",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "rss-qmm8b03j",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "hn-50100366",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "source": "Hacker News",
-      "time": "3d ago",
-      "rawDate": "2026-10-15T07:18:14.000Z",
-      "topic": "infra",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "description": "",
-      "score": 67,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
-    },
-    {
-      "id": "hn-50127979",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-17T04:36:53.000Z",
-      "topic": "llms",
-      "url": "https://llmspeed.dev/",
-      "description": "",
-      "score": 66.5,
-      "cachedAt": "2026-10-18T10:35:16.515Z"
     }
   ]
 }

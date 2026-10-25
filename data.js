@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-24T10:31:21.530Z
+   Updated: 2026-10-25T10:57:18.083Z
    Stories: 12 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,45 +25,38 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50219666",
-    "topic": "Artificial Intelligence",
-    "topicId": "quantum",
-    "title": "I Don't Understand Quantum Physics",
-    "excerpt": "A noteworthy development in the AI and technology landscape.",
+    "id": "hn-50222525",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Neural chip decodes interactions between brain regions",
+    "excerpt": "Critical infrastructure developments that will impact AI training and deployment costs.",
     "source": "Hacker News",
-    "time": "Just now",
+    "time": "18h ago",
     "readTime": "5 min read",
-    "relevance": 81,
-    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
+    "relevance": 76,
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
 },
 
     topics: [
     {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-50214373",
-                "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+                "id": "hn-50222525",
+                "title": "Neural chip decodes interactions between brain regions",
                 "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 70
+                "time": "18h ago",
+                "relevance": 76
             },
             {
-                "id": "hn-50198675",
-                "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+                "id": "hn-50219700",
+                "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
                 "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 65
-            },
-            {
-                "id": "hn-50154100",
-                "title": "Chain of Thought for Humans",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
+                "time": "1d ago",
+                "relevance": 71
             }
         ]
     },
@@ -75,60 +68,60 @@ const NEWSLETTER_DATA = {
         "stories": [
             {
                 "id": "hn-50219666",
+                "title": "I don't understand quantum physics (2018)",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 67
+            },
+            {
+                "id": "hn-50219666",
                 "title": "I Don't Understand Quantum Physics",
                 "source": "Hacker News",
                 "time": "Just now",
-                "relevance": 81
-            },
-            {
-                "id": "hn-50192396",
-                "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
-                "source": "Hacker News",
-                "time": "1d ago",
                 "relevance": 65
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-vision",
+        "name": "Computer Vision & Media",
+        "icon": "◐",
+        "color": "#e8b84a",
         "stories": [
             {
-                "id": "hn-50200164",
-                "title": "The HTML-in-Canvas API origin trial",
+                "id": "hn-50172432",
+                "title": "I Built a Stereo Vision Board for Hardware Hackers",
                 "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 65
+                "time": "4d ago",
+                "relevance": 66
             },
             {
-                "id": "hn-50181114",
-                "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+                "id": "hn-50171379",
+                "title": "A practical guide to AI image generation, from diffusion to agents",
                 "source": "Hacker News",
-                "time": "21h ago",
+                "time": "3d ago",
                 "relevance": 65
             }
         ]
     },
     {
-        "id": "topic-llms",
-        "name": "Large Language Models",
-        "icon": "◎",
-        "color": "#d4a03d",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-50192868",
-                "title": "Achieving AI-style reasoning without an LLM",
+                "id": "hn-50214373",
+                "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
                 "source": "Hacker News",
-                "time": "2h ago",
+                "time": "14h ago",
                 "relevance": 65
             },
             {
-                "id": "hn-50176082",
-                "title": "Using LLM for confidence scoring is a bad idea",
+                "id": "hn-50198675",
+                "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
                 "source": "Hacker News",
-                "time": "1d ago",
+                "time": "17h ago",
                 "relevance": 65
             }
         ]
@@ -137,7 +130,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-3d23bsaq",
+        "id": "arxiv-10zvywka",
         "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
         "authors": "Qiwen Gu, Xin Zhou, Xiwu Chen, Zhongyang Zhu, Zhuo Zhang,…",
         "journal": "arXiv preprint",
@@ -146,7 +139,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.31671v1"
     },
     {
-        "id": "arxiv-ek8wy8kq",
+        "id": "arxiv-f95pdkjy",
         "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
         "authors": "Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei",
         "journal": "arXiv preprint",
@@ -155,7 +148,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.31670v1"
     },
     {
-        "id": "arxiv-jgst6au1",
+        "id": "arxiv-oonb44yk",
         "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
         "authors": "Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan,…",
         "journal": "arXiv preprint",
@@ -164,7 +157,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.31668v1"
     },
     {
-        "id": "arxiv-wb7ob3c9",
+        "id": "arxiv-t6o404mb",
         "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
         "authors": "Mahdi Salmani, Adel Javanmard, Devansh Gupta, Meisam…",
         "journal": "arXiv preprint",
@@ -173,7 +166,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.31667v1"
     },
     {
-        "id": "arxiv-xl2znh9f",
+        "id": "arxiv-896jgwte",
         "title": "Phase Transition from Random Features to Fully Trainable Networks",
         "authors": "Xin He, Huan Lao, Xiliang Lu, Shijun Zhang",
         "journal": "arXiv preprint",
@@ -182,7 +175,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.31663v1"
     },
     {
-        "id": "arxiv-zafzfl8e",
+        "id": "arxiv-czm9v3mp",
         "title": "Reliable AI-Assisted Decisions via Selective Auditing",
         "authors": "Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani, Tijana Zrnic",
         "journal": "arXiv preprint",
@@ -194,16 +187,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-jy26k99i",
+        "id": "gh-4zhceos9",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "256.6k",
+        "stars": "256.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-a45etwz6",
+        "id": "gh-5bod90sx",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.7k",
@@ -212,16 +205,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-6hjwu45y",
+        "id": "gh-lyr1dtra",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.4k",
+        "stars": "159.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-w6qllkjx",
+        "id": "gh-obdckjr9",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.1k",
@@ -230,16 +223,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-qdxcmfe0",
+        "id": "gh-lp0orrct",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.0k",
+        "stars": "105.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-tjjhbh16",
+        "id": "gh-pt6qiq21",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.1k",
@@ -248,10 +241,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-hkwp5mfq",
+        "id": "gh-uc75oz24",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "142.5k",
+        "stars": "142.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -259,6 +252,14 @@ const NEWSLETTER_DATA = {
 ],
 
     nextgen: [
+    {
+        "id": "ng-hn-50219666",
+        "title": "I don't understand quantum physics (2018)",
+        "desc": "Click to read more about this development.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Hacker News"
+    },
     {
         "id": "ng-hn-50219666",
         "title": "I Don't Understand Quantum Physics",
@@ -281,14 +282,6 @@ const NEWSLETTER_DATA = {
         "desc": "Click to read more about this development.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
-    },
-    {
-        "id": "ng-hn-50192396",
-        "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
-        "desc": "Click to read more about this development.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
         "source": "Hacker News"
     }
 ]
