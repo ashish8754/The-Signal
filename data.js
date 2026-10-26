@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-25T10:57:18.083Z
-   Stories: 12 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-10-26T12:28:38.218Z
+   Stories: 12 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50222525",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Neural chip decodes interactions between brain regions",
-    "excerpt": "Critical infrastructure developments that will impact AI training and deployment costs.",
+    "id": "hn-50234474",
+    "topic": "Developer Tools",
+    "topicId": "devtools",
+    "title": "Dolly Parton's Imagination Library",
+    "excerpt": "A noteworthy development in the AI and technology landscape.",
     "source": "Hacker News",
     "time": "18h ago",
     "readTime": "5 min read",
-    "relevance": 76,
-    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+    "relevance": 72,
+    "url": "https://imaginationlibrary.com/"
 },
 
     topics: [
@@ -45,18 +45,25 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
+                "id": "hn-50210181",
+                "title": "Superhuman Hardware Design Is the Easy Part",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 65
+            },
+            {
                 "id": "hn-50222525",
                 "title": "Neural chip decodes interactions between brain regions",
                 "source": "Hacker News",
                 "time": "18h ago",
-                "relevance": 76
+                "relevance": 65
             },
             {
                 "id": "hn-50219700",
                 "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
                 "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 71
+                "relevance": 65
             }
         ]
     },
@@ -71,7 +78,7 @@ const NEWSLETTER_DATA = {
                 "title": "I don't understand quantum physics (2018)",
                 "source": "Hacker News",
                 "time": "1d ago",
-                "relevance": 67
+                "relevance": 65
             },
             {
                 "id": "hn-50219666",
@@ -93,7 +100,7 @@ const NEWSLETTER_DATA = {
                 "title": "I Built a Stereo Vision Board for Hardware Hackers",
                 "source": "Hacker News",
                 "time": "4d ago",
-                "relevance": 66
+                "relevance": 65
             },
             {
                 "id": "hn-50171379",
@@ -103,127 +110,105 @@ const NEWSLETTER_DATA = {
                 "relevance": 65
             }
         ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "hn-50214373",
-                "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-                "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 65
-            },
-            {
-                "id": "hn-50198675",
-                "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 65
-            }
-        ]
     }
 ],
 
     papers: [
     {
-        "id": "arxiv-10zvywka",
-        "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
-        "authors": "Qiwen Gu, Xin Zhou, Xiwu Chen, Zhongyang Zhu, Zhuo Zhang,…",
+        "id": "arxiv-bdpcdmkv",
+        "title": "The Language of Instruction: Genre and Generative AI",
+        "authors": "James E. Dobson",
         "journal": "arXiv preprint",
-        "abstract": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce FlexPart, a unified image-to-3D part generation framework that supports variable-granularity geometric…",
+        "abstract": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2610.32982v1"
+    },
+    {
+        "id": "arxiv-fjlmbl2f",
+        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+        "authors": "Yuhan Liu, Lianhui Qin, Shenji Wan",
+        "journal": "arXiv preprint",
+        "abstract": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.31671v1"
+        "url": "http://arxiv.org/abs/2610.32978v1"
     },
     {
-        "id": "arxiv-f95pdkjy",
-        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-        "authors": "Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei",
+        "id": "arxiv-dzr911vc",
+        "title": "UniAction: Unified Action Conditioning for World Models",
+        "authors": "Bowen Xue, Zizhang Li, Hong-Xing Yu, Jiajun Wu",
         "journal": "arXiv preprint",
-        "abstract": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical…",
+        "abstract": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-annotated data across separate models. We introduce UniAction, a unified action-conditioning framework that represents any…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.31670v1"
+        "url": "http://arxiv.org/abs/2610.32977v1"
     },
     {
-        "id": "arxiv-oonb44yk",
-        "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-        "authors": "Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan,…",
+        "id": "arxiv-0gv9guve",
+        "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
+        "authors": "Philipp Lindenberger, Paul-Edouard Sarlin, Ondrej Miksik,…",
         "journal": "arXiv preprint",
-        "abstract": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey…",
+        "abstract": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but expensive. Furthermore, these approaches are trained with only matching pairs and thus often fail to reject unrelated…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.31668v1"
+        "url": "http://arxiv.org/abs/2610.32976v1"
     },
     {
-        "id": "arxiv-t6o404mb",
-        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-        "authors": "Mahdi Salmani, Adel Javanmard, Devansh Gupta, Meisam…",
+        "id": "arxiv-wsigao8l",
+        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+        "authors": "Xi Chen, Fengqi Hu, Zeyu Shen, Jiaying Xu, Shangding Gu,…",
         "journal": "arXiv preprint",
-        "abstract": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.31667v1"
+        "abstract": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.32971v1"
     },
     {
-        "id": "arxiv-896jgwte",
-        "title": "Phase Transition from Random Features to Fully Trainable Networks",
-        "authors": "Xin He, Huan Lao, Xiliang Lu, Shijun Zhang",
+        "id": "arxiv-wx5rkz4n",
+        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+        "authors": "Amber Xie, Jiawei Fu, Xiaofeng Guo, Carmelo Sferrazza,…",
         "journal": "arXiv preprint",
-        "abstract": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2610.31663v1"
-    },
-    {
-        "id": "arxiv-czm9v3mp",
-        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-        "authors": "Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani, Tijana Zrnic",
-        "journal": "arXiv preprint",
-        "abstract": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2610.31662v1"
+        "abstract": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2610.32969v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-4zhceos9",
+        "id": "gh-d5xqiyh3",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "256.9k",
+        "stars": "257.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-5bod90sx",
+        "id": "gh-k00zu3q9",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.7k",
+        "stars": "187.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-lyr1dtra",
+        "id": "gh-7n4zf3kr",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.5k",
+        "stars": "159.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-obdckjr9",
+        "id": "gh-isba21aw",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.1k",
+        "stars": "168.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-lp0orrct",
+        "id": "gh-6n908ogi",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.1k",
@@ -232,19 +217,19 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-pt6qiq21",
+        "id": "gh-tibapknf",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.1k",
+        "stars": "165.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-uc75oz24",
+        "id": "gh-7t5hxc56",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "142.8k",
+        "stars": "143.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -274,14 +259,6 @@ const NEWSLETTER_DATA = {
         "desc": "Click to read more about this development.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Hacker News"
-    },
-    {
-        "id": "ng-hn-50195002",
-        "title": "The alien space of science: Coherent but cognitively unavailable directions",
-        "desc": "Click to read more about this development.",
-        "tag": "Space",
-        "tagClass": "space",
         "source": "Hacker News"
     }
 ]
