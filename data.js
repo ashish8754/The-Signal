@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-26T12:28:38.218Z
-   Stories: 12 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-27T11:47:04.185Z
+   Stories: 12 | Clusters: 1 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50234474",
-    "topic": "Developer Tools",
-    "topicId": "devtools",
-    "title": "Dolly Parton's Imagination Library",
+    "id": "hn-50245385",
+    "topic": "Artificial Intelligence",
+    "topicId": "energy",
+    "title": "Solar power is becoming bigger than nuclear",
     "excerpt": "A noteworthy development in the AI and technology landscape.",
     "source": "Hacker News",
-    "time": "18h ago",
+    "time": "20h ago",
     "readTime": "5 min read",
-    "relevance": 72,
-    "url": "https://imaginationlibrary.com/"
+    "relevance": 76,
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
 },
 
     topics: [
@@ -66,122 +66,78 @@ const NEWSLETTER_DATA = {
                 "relevance": 65
             }
         ]
-    },
-    {
-        "id": "topic-quantum",
-        "name": "quantum",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "hn-50219666",
-                "title": "I don't understand quantum physics (2018)",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 65
-            },
-            {
-                "id": "hn-50219666",
-                "title": "I Don't Understand Quantum Physics",
-                "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 65
-            }
-        ]
-    },
-    {
-        "id": "topic-vision",
-        "name": "Computer Vision & Media",
-        "icon": "◐",
-        "color": "#e8b84a",
-        "stories": [
-            {
-                "id": "hn-50172432",
-                "title": "I Built a Stereo Vision Board for Hardware Hackers",
-                "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 65
-            },
-            {
-                "id": "hn-50171379",
-                "title": "A practical guide to AI image generation, from diffusion to agents",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 65
-            }
-        ]
     }
 ],
 
     papers: [
     {
-        "id": "arxiv-bdpcdmkv",
-        "title": "The Language of Instruction: Genre and Generative AI",
-        "authors": "James E. Dobson",
+        "id": "arxiv-yqior0op",
+        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+        "authors": "Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha…",
         "journal": "arXiv preprint",
-        "abstract": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2610.32982v1"
+        "abstract": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2610.35868v1"
     },
     {
-        "id": "arxiv-fjlmbl2f",
-        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
-        "authors": "Yuhan Liu, Lianhui Qin, Shenji Wan",
+        "id": "arxiv-3sj8ps9y",
+        "title": "Center-of-Mass Interpretation of Evolution Strategies",
+        "authors": "Akshat Gupta",
         "journal": "arXiv preprint",
-        "abstract": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.32978v1"
+        "abstract": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update instead. Treat each…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2610.35865v1"
     },
     {
-        "id": "arxiv-dzr911vc",
-        "title": "UniAction: Unified Action Conditioning for World Models",
-        "authors": "Bowen Xue, Zizhang Li, Hong-Xing Yu, Jiajun Wu",
+        "id": "arxiv-vlmnwywp",
+        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+        "authors": "Xi Chen, Chongjian Ge, Yiran Xu, Yiqun Mei, Henrik I.…",
         "journal": "arXiv preprint",
-        "abstract": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-annotated data across separate models. We introduce UniAction, a unified action-conditioning framework that represents any…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.32977v1"
-    },
-    {
-        "id": "arxiv-0gv9guve",
-        "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
-        "authors": "Philipp Lindenberger, Paul-Edouard Sarlin, Ondrej Miksik,…",
-        "journal": "arXiv preprint",
-        "abstract": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but expensive. Furthermore, these approaches are trained with only matching pairs and thus often fail to reject unrelated…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.32976v1"
-    },
-    {
-        "id": "arxiv-wsigao8l",
-        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-        "authors": "Xi Chen, Fengqi Hu, Zeyu Shen, Jiaying Xu, Shangding Gu,…",
-        "journal": "arXiv preprint",
-        "abstract": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an…",
+        "abstract": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.32971v1"
+        "url": "http://arxiv.org/abs/2610.35866v1"
     },
     {
-        "id": "arxiv-wx5rkz4n",
-        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-        "authors": "Amber Xie, Jiawei Fu, Xiaofeng Guo, Carmelo Sferrazza,…",
+        "id": "arxiv-50yuanpc",
+        "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+        "authors": "Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen,…",
         "journal": "arXiv preprint",
-        "abstract": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their…",
+        "abstract": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.35864v1"
+    },
+    {
+        "id": "arxiv-yt0f7c81",
+        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+        "authors": "Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan…",
+        "journal": "arXiv preprint",
+        "abstract": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation. We…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.32969v1"
+        "url": "http://arxiv.org/abs/2610.35862v1"
+    },
+    {
+        "id": "arxiv-2u3d6l8b",
+        "title": "Do vision models know that three is three?",
+        "authors": "Ankit Sonthalia, Arnas Uselis, Seong Joon Oh",
+        "journal": "arXiv preprint",
+        "abstract": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.35857v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-d5xqiyh3",
+        "id": "gh-i9odreac",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "257.2k",
+        "stars": "257.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-k00zu3q9",
+        "id": "gh-dclq5hkj",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.8k",
@@ -190,16 +146,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-7n4zf3kr",
+        "id": "gh-kvughk87",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.6k",
+        "stars": "159.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-isba21aw",
+        "id": "gh-s14fbikh",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.2k",
@@ -208,7 +164,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-6n908ogi",
+        "id": "gh-xorpvy56",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.1k",
@@ -217,7 +173,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-tibapknf",
+        "id": "gh-tjld2wix",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -226,10 +182,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-7t5hxc56",
+        "id": "gh-23s10a69",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "143.1k",
+        "stars": "143.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -238,28 +194,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-hn-50219666",
-        "title": "I don't understand quantum physics (2018)",
-        "desc": "Click to read more about this development.",
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
         "tag": "Quantum",
         "tagClass": "quantum",
-        "source": "Hacker News"
+        "source": "Nature"
     },
     {
-        "id": "ng-hn-50219666",
-        "title": "I Don't Understand Quantum Physics",
-        "desc": "Click to read more about this development.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Hacker News"
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
     },
     {
-        "id": "ng-hn-50171379",
-        "title": "A practical guide to AI image generation, from diffusion to agents",
-        "desc": "Click to read more about this development.",
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Hacker News"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
