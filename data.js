@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-27T11:47:04.185Z
-   Stories: 12 | Clusters: 1 | Papers: 6 | Repos: 7
+   Updated: 2026-10-28T12:20:43.526Z
+   Stories: 12 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,19 +25,48 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50245385",
+    "id": "hn-50272145",
     "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "Solar power is becoming bigger than nuclear",
+    "topicId": "space",
+    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
     "excerpt": "A noteworthy development in the AI and technology landscape.",
     "source": "Hacker News",
-    "time": "20h ago",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 76,
-    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
+    "relevance": 79,
+    "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/"
 },
 
     topics: [
+    {
+        "id": "topic-llms",
+        "name": "Large Language Models",
+        "icon": "◎",
+        "color": "#d4a03d",
+        "stories": [
+            {
+                "id": "hn-50264853",
+                "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 72
+            },
+            {
+                "id": "hn-50265609",
+                "title": "Early progress on accelerating drug development with Claude",
+                "source": "Hacker News",
+                "time": "15h ago",
+                "relevance": 70
+            },
+            {
+                "id": "hn-50236102",
+                "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+                "source": "Hacker News",
+                "time": "15h ago",
+                "relevance": 65
+            }
+        ]
+    },
     {
         "id": "topic-infra",
         "name": "AI Infrastructure",
@@ -57,13 +86,6 @@ const NEWSLETTER_DATA = {
                 "source": "Hacker News",
                 "time": "18h ago",
                 "relevance": 65
-            },
-            {
-                "id": "hn-50219700",
-                "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 65
             }
         ]
     }
@@ -71,73 +93,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-yqior0op",
-        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-        "authors": "Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha…",
+        "id": "arxiv-pm11iiti",
+        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+        "authors": "Prakhar Kaushik, Soumava Paul, Alan Yuille",
         "journal": "arXiv preprint",
-        "abstract": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.35868v1"
-    },
-    {
-        "id": "arxiv-3sj8ps9y",
-        "title": "Center-of-Mass Interpretation of Evolution Strategies",
-        "authors": "Akshat Gupta",
-        "journal": "arXiv preprint",
-        "abstract": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update instead. Treat each…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.35865v1"
-    },
-    {
-        "id": "arxiv-vlmnwywp",
-        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-        "authors": "Xi Chen, Chongjian Ge, Yiran Xu, Yiqun Mei, Henrik I.…",
-        "journal": "arXiv preprint",
-        "abstract": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.35866v1"
-    },
-    {
-        "id": "arxiv-50yuanpc",
-        "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
-        "authors": "Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen,…",
-        "journal": "arXiv preprint",
-        "abstract": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce…",
+        "abstract": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.35864v1"
+        "url": "http://arxiv.org/abs/2610.37668v1"
     },
     {
-        "id": "arxiv-yt0f7c81",
-        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-        "authors": "Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan…",
+        "id": "arxiv-i1oarolb",
+        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+        "authors": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen,…",
         "journal": "arXiv preprint",
-        "abstract": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation. We…",
+        "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.35862v1"
+        "url": "http://arxiv.org/abs/2610.37666v1"
     },
     {
-        "id": "arxiv-2u3d6l8b",
-        "title": "Do vision models know that three is three?",
-        "authors": "Ankit Sonthalia, Arnas Uselis, Seong Joon Oh",
+        "id": "arxiv-v57jhjml",
+        "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+        "authors": "Jialv Zou, Xiaotong Li, Zhengrong Yue, Xu Huang, Yaxin Luo,…",
         "journal": "arXiv preprint",
-        "abstract": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this…",
+        "abstract": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic fidelity of…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.35857v1"
+        "url": "http://arxiv.org/abs/2610.37662v1"
+    },
+    {
+        "id": "arxiv-znmf173z",
+        "title": "When Should We Intervene at Test Time?",
+        "authors": "Jiahao Zhang, Xinling Wen, Liangliang Li, Yu Chen",
+        "journal": "arXiv preprint",
+        "abstract": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failures and cannot tell…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.37658v1"
+    },
+    {
+        "id": "arxiv-8x16or7o",
+        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+        "authors": "Igor Shilov, Xiaoxue Yang, Alexander Panfilov, Evgenii…",
+        "journal": "arXiv preprint",
+        "abstract": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.37657v1"
+    },
+    {
+        "id": "arxiv-3w6fh0t2",
+        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+        "authors": "Aakash Sarkar, Ananya Mukherjee, Motoshige Sato",
+        "journal": "arXiv preprint",
+        "abstract": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate frame may be…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.37656v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-i9odreac",
+        "id": "gh-7os403rk",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "257.6k",
+        "stars": "257.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-dclq5hkj",
+        "id": "gh-tf9af0si",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.8k",
@@ -146,25 +168,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-kvughk87",
+        "id": "gh-o77ax5l8",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.7k",
+        "stars": "159.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-s14fbikh",
+        "id": "gh-3t42vehg",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.2k",
+        "stars": "168.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-xorpvy56",
+        "id": "gh-g0kwaj49",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.1k",
@@ -173,7 +195,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-tjld2wix",
+        "id": "gh-q1kbfh5u",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -182,10 +204,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-23s10a69",
+        "id": "gh-9f4f7om8",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "143.5k",
+        "stars": "143.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

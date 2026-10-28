@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "id": "hn-50272145",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "source": "Hacker News",
+      "time": "Just now",
+      "rawDate": "2026-10-28T11:54:23.000Z",
+      "topic": "space",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "description": "",
+      "score": 79.22222222222223,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
+    },
+    {
+      "id": "hn-50264853",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "source": "Hacker News",
+      "time": "16h ago",
+      "rawDate": "2026-10-27T19:55:06.000Z",
+      "topic": "llms",
+      "url": "https://www.brangus.io/survival-llm",
+      "description": "",
+      "score": 71.61538461538461,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
+    },
+    {
+      "id": "hn-50265609",
+      "title": "Early progress on accelerating drug development with Claude",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-10-27T20:50:42.000Z",
+      "topic": "llms",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "description": "",
+      "score": 69.5,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
+    },
+    {
       "id": "hn-50245385",
       "title": "Solar power is becoming bigger than nuclear",
       "source": "Hacker News",
@@ -9,8 +45,8 @@
       "topic": "energy",
       "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
       "description": "",
-      "score": 75.57142857142857,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 52,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50236681",
@@ -21,8 +57,8 @@
       "topic": "vision",
       "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
       "description": "",
-      "score": 72.57142857142857,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 50,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50245138",
@@ -33,8 +69,8 @@
       "topic": "agents",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
       "description": "",
-      "score": 71.44444444444444,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 50,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50204697",
@@ -45,8 +81,8 @@
       "topic": "research",
       "url": "https://twitter.com/macrofying/status/2112904628509528219",
       "description": "",
-      "score": 66,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 46,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50234474",
@@ -57,8 +93,8 @@
       "topic": "devtools",
       "url": "https://imaginationlibrary.com/",
       "description": "",
-      "score": 50,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 35,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50236102",
@@ -69,8 +105,8 @@
       "topic": "llms",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "description": "",
-      "score": 47,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 32,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50210181",
@@ -81,8 +117,8 @@
       "topic": "infra",
       "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
       "description": "",
-      "score": 45,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 31,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50215997",
@@ -93,8 +129,8 @@
       "topic": "biotech",
       "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
       "description": "",
-      "score": 45,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 31,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50222525",
@@ -105,8 +141,8 @@
       "topic": "infra",
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "description": "",
-      "score": 36,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
+      "score": 25,
+      "cachedAt": "2026-10-28T12:20:43.524Z"
     },
     {
       "id": "hn-50219700",
@@ -395,66 +431,6 @@
       "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "score": 38,
       "cachedAt": "2026-10-22T11:22:40.693Z"
-    },
-    {
-      "id": "rss-53jjr1l3",
-      "title": "DeepSeek just open-sourced its inference engine",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-10-20 09:08:54",
-      "topic": "llms",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "description": "Comments",
-      "score": 55,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
-    },
-    {
-      "id": "rss-bl5k1zfm",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "source": "Google Blog",
-      "time": "6d ago",
-      "rawDate": "2026-10-13 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "score": 52,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
-    },
-    {
-      "id": "hn-50163142",
-      "title": "There is no official XScreenSaver GitHub repository",
-      "source": "Hacker News",
-      "time": "2h ago",
-      "rawDate": "2026-10-20T08:51:31.000Z",
-      "topic": "opensource",
-      "url": "https://github.com/xscreensaver-official/xscreensaver",
-      "description": "",
-      "score": 52,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
-    },
-    {
-      "id": "rss-r5l3l09n",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source": "Google Blog",
-      "time": "Sep 28",
-      "rawDate": "2026-09-28 19:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "score": 52,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
-    },
-    {
-      "id": "hn-50162177",
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "source": "Hacker News",
-      "time": "4h ago",
-      "rawDate": "2026-10-20T06:37:07.000Z",
-      "topic": "space",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "description": "",
-      "score": 51,
-      "cachedAt": "2026-10-21T11:23:01.074Z"
     }
   ]
 }
