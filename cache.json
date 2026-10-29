@@ -1,6 +1,78 @@
 {
   "stories": [
     {
+      "id": "hn-50287001",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-10-29T10:44:49.000Z",
+      "topic": "energy",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "description": "",
+      "score": 74.85714285714286,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
+    },
+    {
+      "id": "hn-50276792",
+      "title": "Gemini 4 Carbon",
+      "source": "Hacker News",
+      "time": "19h ago",
+      "rawDate": "2026-10-28T17:01:23.000Z",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "description": "",
+      "score": 73.66666666666667,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
+    },
+    {
+      "id": "hn-50284255",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "source": "Hacker News",
+      "time": "8h ago",
+      "rawDate": "2026-10-29T03:33:42.000Z",
+      "topic": "llms",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "description": "",
+      "score": 70.63636363636364,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
+    },
+    {
+      "id": "hn-50256409",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-10-27T09:13:12.000Z",
+      "topic": "infra",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
+    },
+    {
+      "id": "hn-50259697",
+      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-10-27T14:12:59.000Z",
+      "topic": "devtools",
+      "url": "https://dmux.github.io/minilake/",
+      "description": "",
+      "score": 65.53846153846153,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
+    },
+    {
+      "id": "hn-50243060",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-10-26T13:13:31.000Z",
+      "topic": "robotics",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "description": "",
+      "score": 65.33333333333333,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
+    },
+    {
       "id": "hn-50272145",
       "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
       "source": "Hacker News",
@@ -9,8 +81,8 @@
       "topic": "space",
       "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
       "description": "",
-      "score": 79.22222222222223,
-      "cachedAt": "2026-10-28T12:20:43.524Z"
+      "score": 55,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
     },
     {
       "id": "hn-50264853",
@@ -21,8 +93,8 @@
       "topic": "llms",
       "url": "https://www.brangus.io/survival-llm",
       "description": "",
-      "score": 71.61538461538461,
-      "cachedAt": "2026-10-28T12:20:43.524Z"
+      "score": 50,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
     },
     {
       "id": "hn-50265609",
@@ -33,8 +105,8 @@
       "topic": "llms",
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "description": "",
-      "score": 69.5,
-      "cachedAt": "2026-10-28T12:20:43.524Z"
+      "score": 48,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
     },
     {
       "id": "hn-50245385",
@@ -45,8 +117,8 @@
       "topic": "energy",
       "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
       "description": "",
-      "score": 52,
-      "cachedAt": "2026-10-28T12:20:43.524Z"
+      "score": 36,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
     },
     {
       "id": "hn-50236681",
@@ -57,8 +129,8 @@
       "topic": "vision",
       "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
       "description": "",
-      "score": 50,
-      "cachedAt": "2026-10-28T12:20:43.524Z"
+      "score": 35,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
     },
     {
       "id": "hn-50245138",
@@ -69,8 +141,8 @@
       "topic": "agents",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
       "description": "",
-      "score": 50,
-      "cachedAt": "2026-10-28T12:20:43.524Z"
+      "score": 35,
+      "cachedAt": "2026-10-29T12:30:02.412Z"
     },
     {
       "id": "hn-50204697",
@@ -383,54 +455,6 @@
       "description": "",
       "score": 35,
       "cachedAt": "2026-10-23T11:12:36.673Z"
-    },
-    {
-      "id": "hn-50150214",
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-10-19T09:21:34.000Z",
-      "topic": "vision",
-      "url": "https://www.pagetable.com/303",
-      "description": "",
-      "score": 44,
-      "cachedAt": "2026-10-22T11:22:40.693Z"
-    },
-    {
-      "id": "rss-qou8lvm2",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "source": "TechCrunch",
-      "time": "9h ago",
-      "rawDate": "2026-10-20 01:27:03",
-      "topic": "energy",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "score": 39,
-      "cachedAt": "2026-10-22T11:22:40.693Z"
-    },
-    {
-      "id": "rss-atf9nwjx",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "source": "TechCrunch",
-      "time": "12h ago",
-      "rawDate": "2026-10-19 22:49:27",
-      "topic": "security",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-      "score": 39,
-      "cachedAt": "2026-10-22T11:22:40.693Z"
-    },
-    {
-      "id": "rss-um2mbhxd",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "source": "TechCrunch",
-      "time": "11h ago",
-      "rawDate": "2026-10-19 23:39:38",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "score": 38,
-      "cachedAt": "2026-10-22T11:22:40.693Z"
     }
   ]
 }

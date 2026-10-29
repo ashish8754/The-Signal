@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-28T12:20:43.526Z
+   Updated: 2026-10-29T12:30:02.413Z
    Stories: 12 | Clusters: 2 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50272145",
+    "id": "hn-50287001",
     "topic": "Artificial Intelligence",
-    "topicId": "space",
-    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+    "topicId": "energy",
+    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
     "excerpt": "A noteworthy development in the AI and technology landscape.",
     "source": "Hacker News",
-    "time": "Just now",
+    "time": "1h ago",
     "readTime": "5 min read",
-    "relevance": 79,
-    "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/"
+    "relevance": 75,
+    "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/"
 },
 
     topics: [
@@ -45,22 +45,29 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
+                "id": "hn-50276792",
+                "title": "Gemini 4 Carbon",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-50284255",
+                "title": "Claude Code regularly sends each background agent’s transcript to its model",
+                "source": "Hacker News",
+                "time": "8h ago",
+                "relevance": 71
+            },
+            {
                 "id": "hn-50264853",
                 "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
                 "source": "Hacker News",
                 "time": "16h ago",
-                "relevance": 72
+                "relevance": 65
             },
             {
                 "id": "hn-50265609",
                 "title": "Early progress on accelerating drug development with Claude",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 70
-            },
-            {
-                "id": "hn-50236102",
-                "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
                 "source": "Hacker News",
                 "time": "15h ago",
                 "relevance": 65
@@ -68,23 +75,23 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
         "stories": [
             {
-                "id": "hn-50210181",
-                "title": "Superhuman Hardware Design Is the Easy Part",
+                "id": "hn-50287001",
+                "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
                 "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
+                "time": "1h ago",
+                "relevance": 75
             },
             {
-                "id": "hn-50222525",
-                "title": "Neural chip decodes interactions between brain regions",
+                "id": "hn-50245385",
+                "title": "Solar power is becoming bigger than nuclear",
                 "source": "Hacker News",
-                "time": "18h ago",
+                "time": "20h ago",
                 "relevance": 65
             }
         ]
@@ -93,7 +100,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-pm11iiti",
+        "id": "arxiv-dzo93hc3",
         "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
         "authors": "Prakhar Kaushik, Soumava Paul, Alan Yuille",
         "journal": "arXiv preprint",
@@ -102,7 +109,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.37668v1"
     },
     {
-        "id": "arxiv-i1oarolb",
+        "id": "arxiv-mnsa8ax1",
         "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
         "authors": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen,…",
         "journal": "arXiv preprint",
@@ -111,7 +118,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.37666v1"
     },
     {
-        "id": "arxiv-v57jhjml",
+        "id": "arxiv-msh3dx0l",
         "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
         "authors": "Jialv Zou, Xiaotong Li, Zhengrong Yue, Xu Huang, Yaxin Luo,…",
         "journal": "arXiv preprint",
@@ -120,7 +127,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.37662v1"
     },
     {
-        "id": "arxiv-znmf173z",
+        "id": "arxiv-m7qeptoh",
         "title": "When Should We Intervene at Test Time?",
         "authors": "Jiahao Zhang, Xinling Wen, Liangliang Li, Yu Chen",
         "journal": "arXiv preprint",
@@ -129,7 +136,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.37658v1"
     },
     {
-        "id": "arxiv-8x16or7o",
+        "id": "arxiv-yqxh9yuc",
         "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
         "authors": "Igor Shilov, Xiaoxue Yang, Alexander Panfilov, Evgenii…",
         "journal": "arXiv preprint",
@@ -138,7 +145,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.37657v1"
     },
     {
-        "id": "arxiv-3w6fh0t2",
+        "id": "arxiv-y3equwur",
         "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
         "authors": "Aakash Sarkar, Ananya Mukherjee, Motoshige Sato",
         "journal": "arXiv preprint",
@@ -150,16 +157,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-7os403rk",
+        "id": "gh-womwi9zx",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "257.9k",
+        "stars": "258.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-tf9af0si",
+        "id": "gh-wluqnjco",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.8k",
@@ -168,16 +175,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-o77ax5l8",
+        "id": "gh-08a8x5i8",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.8k",
+        "stars": "159.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-3t42vehg",
+        "id": "gh-bozf3t24",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.3k",
@@ -186,16 +193,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-g0kwaj49",
+        "id": "gh-r5i7d2md",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.1k",
+        "stars": "105.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-q1kbfh5u",
+        "id": "gh-pd2jholl",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -204,10 +211,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-9f4f7om8",
+        "id": "gh-xhc16xpt",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "143.7k",
+        "stars": "143.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -216,44 +223,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
-        "tag": "Biotech",
-        "tagClass": "biotech",
-        "source": "DeepMind"
-    },
-    {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "SpaceNews"
-    },
-    {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "id": "ng-hn-50287001",
+        "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+        "desc": "Click to read more about this development.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Reuters"
+        "source": "Hacker News"
     },
     {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "id": "ng-hn-50272145",
+        "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+        "desc": "Click to read more about this development.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "Hacker News"
+    },
+    {
+        "id": "ng-hn-50245385",
+        "title": "Solar power is becoming bigger than nuclear",
+        "desc": "Click to read more about this development.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Hacker News"
     }
 ]
 };
