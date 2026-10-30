@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-29T12:30:02.413Z
-   Stories: 12 | Clusters: 2 | Papers: 6 | Repos: 7
+   Updated: 2026-10-30T12:21:44.798Z
+   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "hn-50287001",
-    "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-    "excerpt": "A noteworthy development in the AI and technology landscape.",
-    "source": "Hacker News",
-    "time": "1h ago",
+    "id": "rss-4jhy7qi9",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "How we detect frontier model misalignment",
+    "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "source": "OpenAI",
+    "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 75,
-    "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/"
+    "relevance": 87,
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
 },
 
     topics: [
@@ -45,54 +45,104 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "hn-50276792",
-                "title": "Gemini 4 Carbon",
-                "source": "Hacker News",
+                "id": "rss-4jhy7qi9",
+                "title": "How we detect frontier model misalignment",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-juv6evmd",
+                "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-qi0cp9vx",
+                "title": "An updated Model Spec for more capable and beneficial AI",
+                "source": "OpenAI",
                 "time": "19h ago",
-                "relevance": 74
+                "relevance": 82
             },
             {
-                "id": "hn-50284255",
-                "title": "Claude Code regularly sends each background agent’s transcript to its model",
-                "source": "Hacker News",
-                "time": "8h ago",
-                "relevance": 71
+                "id": "rss-xumusq7v",
+                "title": "How Ropes &amp; Gray is developing AI for transactional diligence",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "hn-50264853",
-                "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 65
-            },
-            {
-                "id": "hn-50265609",
-                "title": "Early progress on accelerating drug development with Claude",
-                "source": "Hacker News",
-                "time": "15h ago",
-                "relevance": 65
+                "id": "rss-xkuyd6pw",
+                "title": "Our newest AI Quest: Mapping the human brain",
+                "source": "Google Blog",
+                "time": "3d ago",
+                "relevance": 76
             }
         ]
     },
     {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "hn-50287001",
-                "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-                "source": "Hacker News",
-                "time": "1h ago",
+                "id": "rss-ucvvrvtd",
+                "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-c65yio06",
+                "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+                "source": "MarkTechPost",
+                "time": "4h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-zjamoi0p",
+                "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+                "source": "MarkTechPost",
+                "time": "15h ago",
                 "relevance": 75
             },
             {
-                "id": "hn-50245385",
-                "title": "Solar power is becoming bigger than nuclear",
+                "id": "rss-nja8epx7",
+                "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+                "source": "MarkTechPost",
+                "time": "17h ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "hn-50296486",
+                "title": "We ran AI agent swarms in Minecraft and Mindustry",
                 "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 65
+                "time": "14h ago",
+                "relevance": 71
+            },
+            {
+                "id": "rss-gx8f0kqm",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 69
+            },
+            {
+                "id": "rss-q3fl5knu",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 69
             }
         ]
     }
@@ -100,73 +150,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-dzo93hc3",
-        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-        "authors": "Prakhar Kaushik, Soumava Paul, Alan Yuille",
+        "id": "arxiv-k1h4gj9n",
+        "title": "Elucidating the Design Space of LM Data Attribution",
+        "authors": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh, Antonio Torralba,…",
         "journal": "arXiv preprint",
-        "abstract": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.37668v1"
+        "abstract": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2610.40655v1"
     },
     {
-        "id": "arxiv-mnsa8ax1",
-        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-        "authors": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen,…",
+        "id": "arxiv-ud26a55s",
+        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+        "authors": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett",
         "journal": "arXiv preprint",
-        "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a…",
+        "abstract": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.40654v1"
+    },
+    {
+        "id": "arxiv-g2etbb9p",
+        "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+        "authors": "Nhan Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake",
+        "journal": "arXiv preprint",
+        "abstract": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2610.40653v1"
+    },
+    {
+        "id": "arxiv-t37h7til",
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "authors": "Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez,…",
+        "journal": "arXiv preprint",
+        "abstract": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2610.40649v1"
+    },
+    {
+        "id": "arxiv-k8w1h9ah",
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+        "authors": "Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai,…",
+        "journal": "arXiv preprint",
+        "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange,…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.40647v1"
+    },
+    {
+        "id": "arxiv-v8r6es0d",
+        "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
+        "authors": "Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke, Yuchen…",
+        "journal": "arXiv preprint",
+        "abstract": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement using different tools under contact-rich interaction. Thus, the ability to autonomously swap and…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.37666v1"
-    },
-    {
-        "id": "arxiv-msh3dx0l",
-        "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
-        "authors": "Jialv Zou, Xiaotong Li, Zhengrong Yue, Xu Huang, Yaxin Luo,…",
-        "journal": "arXiv preprint",
-        "abstract": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic fidelity of…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.37662v1"
-    },
-    {
-        "id": "arxiv-m7qeptoh",
-        "title": "When Should We Intervene at Test Time?",
-        "authors": "Jiahao Zhang, Xinling Wen, Liangliang Li, Yu Chen",
-        "journal": "arXiv preprint",
-        "abstract": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failures and cannot tell…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.37658v1"
-    },
-    {
-        "id": "arxiv-yqxh9yuc",
-        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-        "authors": "Igor Shilov, Xiaoxue Yang, Alexander Panfilov, Evgenii…",
-        "journal": "arXiv preprint",
-        "abstract": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.37657v1"
-    },
-    {
-        "id": "arxiv-y3equwur",
-        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-        "authors": "Aakash Sarkar, Ananya Mukherjee, Motoshige Sato",
-        "journal": "arXiv preprint",
-        "abstract": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate frame may be…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.37656v1"
+        "url": "http://arxiv.org/abs/2610.40646v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-womwi9zx",
+        "id": "gh-0e2eltqt",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "258.4k",
+        "stars": "258.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-wluqnjco",
+        "id": "gh-rvxyi66j",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.8k",
@@ -175,16 +225,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-08a8x5i8",
+        "id": "gh-88epybce",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "159.9k",
+        "stars": "160.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-bozf3t24",
+        "id": "gh-nn4jdi47",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.3k",
@@ -193,16 +243,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-r5i7d2md",
+        "id": "gh-7wj3ftmw",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.2k",
+        "stars": "105.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-pd2jholl",
+        "id": "gh-m5s35cqk",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -211,10 +261,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-xhc16xpt",
+        "id": "gh-jv2wootg",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "143.9k",
+        "stars": "144.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -223,28 +273,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-hn-50287001",
-        "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-        "desc": "Click to read more about this development.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Hacker News"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-hn-50272145",
-        "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-        "desc": "Click to read more about this development.",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "Hacker News"
+        "source": "SpaceNews"
     },
     {
-        "id": "ng-hn-50245385",
-        "title": "Solar power is becoming bigger than nuclear",
-        "desc": "Click to read more about this development.",
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "Hacker News"
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
