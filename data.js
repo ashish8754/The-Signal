@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-30T12:21:44.798Z
-   Stories: 21 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-10-31T11:52:15.528Z
+   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-4jhy7qi9",
+    "id": "rss-adqxdi6z",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "How we detect frontier model misalignment",
-    "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "title": "Community safety report and new protections for teens",
+    "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
     "source": "OpenAI",
     "time": "1d ago",
     "readTime": "5 min read",
-    "relevance": 87,
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    "relevance": 85,
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-4jhy7qi9",
-                "title": "How we detect frontier model misalignment",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-juv6evmd",
-                "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+                "id": "rss-adqxdi6z",
+                "title": "Community safety report and new protections for teens",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-qi0cp9vx",
-                "title": "An updated Model Spec for more capable and beneficial AI",
+                "id": "rss-7w9vlnvz",
+                "title": "Making it easier for websites to express AI training preferences",
                 "source": "OpenAI",
-                "time": "19h ago",
-                "relevance": 82
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-xumusq7v",
-                "title": "How Ropes &amp; Gray is developing AI for transactional diligence",
+                "id": "rss-h4kwsdqp",
+                "title": "An updated Model Spec for more capable and beneficial AI",
+                "source": "OpenAI",
+                "time": "1d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-mvdqbpbn",
+                "title": "Fair use benefits everyone",
                 "source": "OpenAI",
                 "time": "1d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-xkuyd6pw",
+                "id": "rss-szxv0igl",
                 "title": "Our newest AI Quest: Mapping the human brain",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 76
             }
         ]
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-ucvvrvtd",
-                "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
+                "id": "rss-sy68ezr2",
+                "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
                 "source": "MarkTechPost",
-                "time": "7h ago",
-                "relevance": 79
+                "time": "1h ago",
+                "relevance": 85
             },
             {
-                "id": "rss-c65yio06",
-                "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+                "id": "rss-oxlytxup",
+                "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
                 "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 77
+                "time": "1h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-zjamoi0p",
-                "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+                "id": "rss-rtg5sh78",
+                "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
                 "source": "MarkTechPost",
-                "time": "15h ago",
+                "time": "17h ago",
                 "relevance": 75
             },
             {
-                "id": "rss-nja8epx7",
-                "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+                "id": "rss-9i74gjei",
+                "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
                 "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 73
+                "time": "1d ago",
+                "relevance": 69
             }
         ]
     },
@@ -124,21 +124,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-50296486",
-                "title": "We ran AI agent swarms in Minecraft and Mindustry",
-                "source": "Hacker News",
-                "time": "14h ago",
-                "relevance": 71
-            },
-            {
-                "id": "rss-gx8f0kqm",
+                "id": "rss-e18esbz7",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-q3fl5knu",
+                "id": "rss-4xvy81w0",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -150,7 +143,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-k1h4gj9n",
+        "id": "arxiv-ocya9ybe",
         "title": "Elucidating the Design Space of LM Data Attribution",
         "authors": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh, Antonio Torralba,…",
         "journal": "arXiv preprint",
@@ -159,7 +152,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40655v1"
     },
     {
-        "id": "arxiv-ud26a55s",
+        "id": "arxiv-6bvhorlh",
         "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
         "authors": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett",
         "journal": "arXiv preprint",
@@ -168,7 +161,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40654v1"
     },
     {
-        "id": "arxiv-g2etbb9p",
+        "id": "arxiv-21fzo0dt",
         "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
         "authors": "Nhan Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake",
         "journal": "arXiv preprint",
@@ -177,7 +170,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40653v1"
     },
     {
-        "id": "arxiv-t37h7til",
+        "id": "arxiv-vtj7lz53",
         "title": "Rethinking Neural Thickets Without Weight Perturbations",
         "authors": "Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez,…",
         "journal": "arXiv preprint",
@@ -186,7 +179,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40649v1"
     },
     {
-        "id": "arxiv-k8w1h9ah",
+        "id": "arxiv-pqxwepq8",
         "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
         "authors": "Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai,…",
         "journal": "arXiv preprint",
@@ -195,7 +188,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40647v1"
     },
     {
-        "id": "arxiv-v8r6es0d",
+        "id": "arxiv-u70ptwwm",
         "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
         "authors": "Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke, Yuchen…",
         "journal": "arXiv preprint",
@@ -207,16 +200,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-0e2eltqt",
+        "id": "gh-e37ajf0c",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "258.7k",
+        "stars": "259.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-rvxyi66j",
+        "id": "gh-uytkklbc",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.8k",
@@ -225,25 +218,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-88epybce",
+        "id": "gh-hgfyytfy",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "160.0k",
+        "stars": "160.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-nn4jdi47",
+        "id": "gh-2e0xmv5k",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.3k",
+        "stars": "168.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-7wj3ftmw",
+        "id": "gh-0dxaphkd",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.0k",
@@ -252,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-m5s35cqk",
+        "id": "gh-oi1eg4ws",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -261,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-jv2wootg",
+        "id": "gh-kdtiaid9",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "144.1k",
+        "stars": "144.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
