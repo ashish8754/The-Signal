@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-10-31T11:52:15.528Z
-   Stories: 20 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-11-01T12:51:35.266Z
+   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,15 +25,15 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-adqxdi6z",
+    "id": "rss-ctq3bh7z",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Community safety report and new protections for teens",
     "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
     "source": "OpenAI",
-    "time": "1d ago",
+    "time": "2d ago",
     "readTime": "5 min read",
-    "relevance": 85,
+    "relevance": 83,
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
 },
 
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-adqxdi6z",
+                "id": "rss-ctq3bh7z",
                 "title": "Community safety report and new protections for teens",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 85
+                "time": "2d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-7w9vlnvz",
+                "id": "rss-zv2qn86m",
                 "title": "Making it easier for websites to express AI training preferences",
                 "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-h4kwsdqp",
-                "title": "An updated Model Spec for more capable and beneficial AI",
-                "source": "OpenAI",
-                "time": "1d ago",
+                "time": "2d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-mvdqbpbn",
-                "title": "Fair use benefits everyone",
+                "id": "rss-mk6encns",
+                "title": "An updated Model Spec for more capable and beneficial AI",
                 "source": "OpenAI",
-                "time": "1d ago",
+                "time": "2d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-szxv0igl",
+                "id": "rss-5f6cjrb9",
                 "title": "Our newest AI Quest: Mapping the human brain",
                 "source": "Google Blog",
-                "time": "4d ago",
+                "time": "5d ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-ujsp0oxo",
+                "title": "Southeast Asia’s digital economy to hit $368 billion",
+                "source": "Google Blog",
+                "time": "Oct 21",
                 "relevance": 76
             }
         ]
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-sy68ezr2",
-                "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+                "id": "rss-drqwv454",
+                "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
                 "source": "MarkTechPost",
-                "time": "1h ago",
+                "time": "5h ago",
                 "relevance": 85
             },
             {
-                "id": "rss-oxlytxup",
-                "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+                "id": "rss-5swjbohy",
+                "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
                 "source": "MarkTechPost",
-                "time": "1h ago",
-                "relevance": 80
+                "time": "4h ago",
+                "relevance": 78
             },
             {
-                "id": "rss-rtg5sh78",
-                "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
-                "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-9i74gjei",
-                "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+                "id": "rss-xby273hv",
+                "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 69
+                "relevance": 77
+            },
+            {
+                "id": "rss-k26mzpuk",
+                "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 72
             }
         ]
     },
@@ -124,14 +124,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-e18esbz7",
+                "id": "rss-ah9a0y11",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-4xvy81w0",
+                "id": "rss-n34vcn1c",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -143,7 +143,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ocya9ybe",
+        "id": "arxiv-cb8kb1fj",
         "title": "Elucidating the Design Space of LM Data Attribution",
         "authors": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh, Antonio Torralba,…",
         "journal": "arXiv preprint",
@@ -152,7 +152,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40655v1"
     },
     {
-        "id": "arxiv-6bvhorlh",
+        "id": "arxiv-3ypr9nlf",
         "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
         "authors": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett",
         "journal": "arXiv preprint",
@@ -161,7 +161,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40654v1"
     },
     {
-        "id": "arxiv-21fzo0dt",
+        "id": "arxiv-9k04n9lq",
         "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
         "authors": "Nhan Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake",
         "journal": "arXiv preprint",
@@ -170,7 +170,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40653v1"
     },
     {
-        "id": "arxiv-vtj7lz53",
+        "id": "arxiv-dp3cm7qn",
         "title": "Rethinking Neural Thickets Without Weight Perturbations",
         "authors": "Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez,…",
         "journal": "arXiv preprint",
@@ -179,7 +179,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40649v1"
     },
     {
-        "id": "arxiv-pqxwepq8",
+        "id": "arxiv-ibmuj5z8",
         "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
         "authors": "Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai,…",
         "journal": "arXiv preprint",
@@ -188,7 +188,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2610.40647v1"
     },
     {
-        "id": "arxiv-u70ptwwm",
+        "id": "arxiv-b798zj1m",
         "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
         "authors": "Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke, Yuchen…",
         "journal": "arXiv preprint",
@@ -200,34 +200,34 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-e37ajf0c",
+        "id": "gh-0z7tu4tv",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "259.0k",
+        "stars": "259.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-uytkklbc",
+        "id": "gh-8u10kb8t",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.8k",
+        "stars": "187.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-hgfyytfy",
+        "id": "gh-j9lje2dl",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "160.1k",
+        "stars": "160.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-2e0xmv5k",
+        "id": "gh-zoo4p36t",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.4k",
@@ -236,16 +236,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-0dxaphkd",
+        "id": "gh-k3qwx1ml",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.0k",
+        "stars": "105.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-oi1eg4ws",
+        "id": "gh-6eqr5ohl",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -254,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-kdtiaid9",
+        "id": "gh-inmx6j9w",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "144.3k",
+        "stars": "144.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
