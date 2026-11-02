@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-01T12:51:35.266Z
-   Stories: 18 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-11-02T15:02:17.238Z
+   Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,13 +25,13 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ctq3bh7z",
+    "id": "rss-p1tg2w2y",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
     "title": "Community safety report and new protections for teens",
     "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
     "source": "OpenAI",
-    "time": "2d ago",
+    "time": "3d ago",
     "readTime": "5 min read",
     "relevance": 83,
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
@@ -45,35 +45,35 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ctq3bh7z",
+                "id": "rss-p1tg2w2y",
                 "title": "Community safety report and new protections for teens",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-zv2qn86m",
+                "id": "rss-07xcts97",
                 "title": "Making it easier for websites to express AI training preferences",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-mk6encns",
+                "id": "rss-utojf9av",
                 "title": "An updated Model Spec for more capable and beneficial AI",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-5f6cjrb9",
+                "id": "rss-wzw98udo",
                 "title": "Our newest AI Quest: Mapping the human brain",
                 "source": "Google Blog",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 76
             },
             {
-                "id": "rss-ujsp0oxo",
+                "id": "rss-11jn385k",
                 "title": "Southeast Asia’s digital economy to hit $368 billion",
                 "source": "Google Blog",
                 "time": "Oct 21",
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-drqwv454",
+                "id": "rss-dmzppas5",
+                "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-wl5y5p2u",
                 "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-                "source": "MarkTechPost",
-                "time": "5h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-5swjbohy",
-                "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
-                "source": "MarkTechPost",
-                "time": "4h ago",
-                "relevance": 78
-            },
-            {
-                "id": "rss-xby273hv",
-                "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-k26mzpuk",
-                "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+                "id": "rss-76m4s6ar",
+                "title": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+                "source": "MarkTechPost",
+                "time": "7h ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-deeurkvn",
+                "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 72
+                "relevance": 70
             }
         ]
     },
@@ -124,18 +124,40 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-ah9a0y11",
+                "id": "rss-zsc04y3t",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-n34vcn1c",
+                "id": "rss-zq1art7s",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-energy",
+        "name": "energy",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "hn-50315217",
+                "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 67
+            },
+            {
+                "id": "hn-50314617",
+                "title": "One-minute frequency disturbances from synchronization in power systems",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 65
             }
         ]
     }
@@ -143,73 +165,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-cb8kb1fj",
-        "title": "Elucidating the Design Space of LM Data Attribution",
-        "authors": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh, Antonio Torralba,…",
+        "id": "arxiv-xncpp581",
+        "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
+        "authors": "Nattakorn Kittisut, Roy M. Gabriel, Marly van Assen,…",
         "journal": "arXiv preprint",
-        "abstract": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2610.40655v1"
-    },
-    {
-        "id": "arxiv-3ypr9nlf",
-        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-        "authors": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett",
-        "journal": "arXiv preprint",
-        "abstract": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.40654v1"
-    },
-    {
-        "id": "arxiv-9k04n9lq",
-        "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
-        "authors": "Nhan Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake",
-        "journal": "arXiv preprint",
-        "abstract": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2610.40653v1"
-    },
-    {
-        "id": "arxiv-dp3cm7qn",
-        "title": "Rethinking Neural Thickets Without Weight Perturbations",
-        "authors": "Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez,…",
-        "journal": "arXiv preprint",
-        "abstract": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2610.40649v1"
-    },
-    {
-        "id": "arxiv-ibmuj5z8",
-        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-        "authors": "Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai,…",
-        "journal": "arXiv preprint",
-        "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange,…",
+        "abstract": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackout), which masks unviewed regions during training and uses unmasked images at inference. Eight experts repeatedly read…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.40647v1"
+        "url": "http://arxiv.org/abs/2610.42152v1"
     },
     {
-        "id": "arxiv-b798zj1m",
-        "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
-        "authors": "Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke, Yuchen…",
+        "id": "arxiv-wtxzm0r4",
+        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+        "authors": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho,…",
         "journal": "arXiv preprint",
-        "abstract": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement using different tools under contact-rich interaction. Thus, the ability to autonomously swap and…",
+        "abstract": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2610.42149v1"
+    },
+    {
+        "id": "arxiv-ih0xzpjh",
+        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+        "authors": "Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee",
+        "journal": "arXiv preprint",
+        "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2610.42148v1"
+    },
+    {
+        "id": "arxiv-o7fgjq0v",
+        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+        "authors": "Ales Kubicek, Andrea Caciolai, Liangzu Peng, Sukrit Sumant,…",
+        "journal": "arXiv preprint",
+        "abstract": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2610.42147v1"
+    },
+    {
+        "id": "arxiv-n849opii",
+        "title": "Hierarchical World Models with Implicit Dynamics",
+        "authors": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, Nicolas Ballas,…",
+        "journal": "arXiv preprint",
+        "abstract": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.40646v1"
+        "url": "http://arxiv.org/abs/2610.42146v1"
+    },
+    {
+        "id": "arxiv-sbn0sb1y",
+        "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+        "authors": "Kuankuan Cheng, Haocheng Yuan, Changjian Li",
+        "journal": "arXiv preprint",
+        "abstract": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compactness and computational efficiency of the primitive-based representation. Prior work has primarily…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2610.42145v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-0z7tu4tv",
+        "id": "gh-f0mln3wa",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "259.4k",
+        "stars": "259.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-8u10kb8t",
+        "id": "gh-mmeor7lm",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.9k",
@@ -218,7 +240,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-j9lje2dl",
+        "id": "gh-c8xsz9dq",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
         "stars": "160.2k",
@@ -227,7 +249,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-zoo4p36t",
+        "id": "gh-vpmsggtv",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.4k",
@@ -236,7 +258,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-k3qwx1ml",
+        "id": "gh-9l7vlt1l",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.1k",
@@ -245,7 +267,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-6eqr5ohl",
+        "id": "gh-xjo4ce9a",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -254,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-inmx6j9w",
+        "id": "gh-nqosq3dr",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "144.4k",
+        "stars": "144.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
