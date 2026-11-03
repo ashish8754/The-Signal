@@ -1,6 +1,6 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-02T15:02:17.238Z
+   Updated: 2026-11-03T13:49:24.113Z
    Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-p1tg2w2y",
+    "id": "rss-ls5kyg9f",
     "topic": "LLMs & Generative AI",
     "topicId": "llms",
-    "title": "Community safety report and new protections for teens",
-    "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
     "source": "OpenAI",
-    "time": "3d ago",
+    "time": "5h ago",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    "relevance": 92,
+    "url": "https://openai.com/index/heimstaden"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-p1tg2w2y",
-                "title": "Community safety report and new protections for teens",
+                "id": "rss-ls5kyg9f",
+                "title": "Heimstaden is changing residential real estate management with AI",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 83
+                "time": "5h ago",
+                "relevance": 92
             },
             {
-                "id": "rss-07xcts97",
-                "title": "Making it easier for websites to express AI training preferences",
+                "id": "rss-kxlw2w16",
+                "title": "Introducing the Grid Protectors Program",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 79
+                "time": "22h ago",
+                "relevance": 88
             },
             {
-                "id": "rss-utojf9av",
-                "title": "An updated Model Spec for more capable and beneficial AI",
+                "id": "rss-icypqr56",
+                "title": "Scaling Git at OpenAI",
                 "source": "OpenAI",
-                "time": "3d ago",
-                "relevance": 77
+                "time": "22h ago",
+                "relevance": 80
             },
             {
-                "id": "rss-wzw98udo",
-                "title": "Our newest AI Quest: Mapping the human brain",
+                "id": "rss-3997li7a",
+                "title": "Rewarding defenders with bigger bug bounties",
+                "source": "OpenAI",
+                "time": "19h ago",
+                "relevance": 80
+            },
+            {
+                "id": "rss-8ma4oetr",
+                "title": "The latest AI news we announced in October 2026",
                 "source": "Google Blog",
-                "time": "6d ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-11jn385k",
-                "title": "Southeast Asia’s digital economy to hit $368 billion",
-                "source": "Google Blog",
-                "time": "Oct 21",
-                "relevance": 76
+                "time": "20h ago",
+                "relevance": 78
             }
         ]
     },
@@ -88,32 +88,54 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-dmzppas5",
-                "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+                "id": "rss-kdln5l7e",
+                "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
                 "source": "MarkTechPost",
-                "time": "7h ago",
+                "time": "19h ago",
                 "relevance": 80
             },
             {
-                "id": "rss-wl5y5p2u",
-                "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+                "id": "rss-yhyby56h",
+                "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+                "source": "MarkTechPost",
+                "time": "12h ago",
+                "relevance": 78
+            },
+            {
+                "id": "rss-1esyjs7z",
+                "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-76m4s6ar",
-                "title": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+                "id": "rss-924rpa9q",
+                "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
                 "source": "MarkTechPost",
                 "time": "7h ago",
+                "relevance": 72
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "hn-50351111",
+                "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+                "source": "Hacker News",
+                "time": "1h ago",
                 "relevance": 74
             },
             {
-                "id": "rss-deeurkvn",
-                "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 70
+                "id": "rss-fmaaw7lp",
+                "title": "Astra can read and write weights to improve Qwen",
+                "source": "Hacker News",
+                "time": "19h ago",
+                "relevance": 69
             }
         ]
     },
@@ -124,40 +146,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-zsc04y3t",
+                "id": "rss-21q2o8ek",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-zq1art7s",
+                "id": "rss-nhthsskb",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
-        "stories": [
-            {
-                "id": "hn-50315217",
-                "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 67
-            },
-            {
-                "id": "hn-50314617",
-                "title": "One-minute frequency disturbances from synchronization in power systems",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
             }
         ]
     }
@@ -165,73 +165,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-xncpp581",
-        "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
-        "authors": "Nattakorn Kittisut, Roy M. Gabriel, Marly van Assen,…",
+        "id": "arxiv-732jjs7k",
+        "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+        "authors": "Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan…",
         "journal": "arXiv preprint",
-        "abstract": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackout), which masks unviewed regions during training and uses unmasked images at inference. Eight experts repeatedly read…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.42152v1"
-    },
-    {
-        "id": "arxiv-wtxzm0r4",
-        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-        "authors": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho,…",
-        "journal": "arXiv preprint",
-        "abstract": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2610.42149v1"
-    },
-    {
-        "id": "arxiv-ih0xzpjh",
-        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-        "authors": "Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee",
-        "journal": "arXiv preprint",
-        "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2610.42148v1"
-    },
-    {
-        "id": "arxiv-o7fgjq0v",
-        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-        "authors": "Ales Kubicek, Andrea Caciolai, Liangzu Peng, Sukrit Sumant,…",
-        "journal": "arXiv preprint",
-        "abstract": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2610.42147v1"
-    },
-    {
-        "id": "arxiv-n849opii",
-        "title": "Hierarchical World Models with Implicit Dynamics",
-        "authors": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, Nicolas Ballas,…",
-        "journal": "arXiv preprint",
-        "abstract": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to…",
+        "abstract": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2610.42146v1"
+        "url": "http://arxiv.org/abs/2611.03647v1"
     },
     {
-        "id": "arxiv-sbn0sb1y",
-        "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
-        "authors": "Kuankuan Cheng, Haocheng Yuan, Changjian Li",
+        "id": "arxiv-cfe6m578",
+        "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+        "authors": "Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov, Deepak…",
         "journal": "arXiv preprint",
-        "abstract": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compactness and computational efficiency of the primitive-based representation. Prior work has primarily…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2610.42145v1"
+        "abstract": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabilities of the complete system. We…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2611.03648v1"
+    },
+    {
+        "id": "arxiv-aqpxiczh",
+        "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+        "authors": "Yujiao Shen, Jiahe Song, Haitian Li, Jingkang Yang, Ziwei…",
+        "journal": "arXiv preprint",
+        "abstract": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain limited in action atomicity, temporal precision, and hand-action association. We introduce…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.03646v1"
+    },
+    {
+        "id": "arxiv-pqlpki33",
+        "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+        "authors": "Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock,…",
+        "journal": "arXiv preprint",
+        "abstract": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2611.03641v1"
+    },
+    {
+        "id": "arxiv-q80l59lk",
+        "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+        "authors": "Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng…",
+        "journal": "arXiv preprint",
+        "abstract": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2611.03634v1"
+    },
+    {
+        "id": "arxiv-jw9fvpnp",
+        "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+        "authors": "Catherine Li, Jingchu Gai, Andrej Risteski, Jacob Mitchell…",
+        "journal": "arXiv preprint",
+        "abstract": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior of Muon and AdamW and uncover a…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2611.03633v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-f0mln3wa",
+        "id": "gh-1jhcjq21",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "259.7k",
+        "stars": "260.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-mmeor7lm",
+        "id": "gh-otnx4ygx",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.9k",
@@ -240,25 +240,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-c8xsz9dq",
+        "id": "gh-pge74qsm",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "160.2k",
+        "stars": "160.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-vpmsggtv",
+        "id": "gh-g6d95n3n",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.4k",
+        "stars": "168.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-9l7vlt1l",
+        "id": "gh-lq8dhf79",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.1k",
@@ -267,7 +267,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-xjo4ce9a",
+        "id": "gh-2wfp96l1",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.2k",
@@ -276,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-nqosq3dr",
+        "id": "gh-kcaz1yrk",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "144.6k",
+        "stars": "144.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

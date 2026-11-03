@@ -1,6 +1,234 @@
 {
   "stories": [
     {
+      "id": "rss-ls5kyg9f",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "source": "OpenAI",
+      "time": "5h ago",
+      "rawDate": "2026-11-03 08:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/heimstaden",
+      "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "score": 91.66666666666667,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-kxlw2w16",
+      "title": "Introducing the Grid Protectors Program",
+      "source": "OpenAI",
+      "time": "22h ago",
+      "rawDate": "2026-11-02 15:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "score": 88,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-l4rxjzr3",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "source": "TechCrunch",
+      "time": "6h ago",
+      "rawDate": "2026-11-03 07:20:00",
+      "topic": "multimodal",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "score": 81.33333333333333,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-kdln5l7e",
+      "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+      "source": "MarkTechPost",
+      "time": "19h ago",
+      "rawDate": "2026-11-02 18:41:41",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+      "description": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai’s GLM-5.3 on domain data, laboratory records and agent discovery trajectories. For developers, it offers open weights that report a FrontierScience-Research win over GPT-6-Astra. The weights ship under the MIT License. TL;DR What is […] The post Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery…",
+      "score": 80,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-icypqr56",
+      "title": "Scaling Git at OpenAI",
+      "source": "OpenAI",
+      "time": "22h ago",
+      "rawDate": "2026-11-02 15:30:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "score": 80,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-3997li7a",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "source": "OpenAI",
+      "time": "19h ago",
+      "rawDate": "2026-11-02 18:00:00",
+      "topic": "llms",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "score": 80,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-8ma4oetr",
+      "title": "The latest AI news we announced in October 2026",
+      "source": "Google Blog",
+      "time": "20h ago",
+      "rawDate": "2026-11-02 17:45:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "description": "Here are Google’s latest AI updates from October 2026",
+      "score": 78,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-yhyby56h",
+      "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+      "source": "MarkTechPost",
+      "time": "12h ago",
+      "rawDate": "2026-11-03 01:09:49",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+      "description": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks. The post Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention appeared first on MarkTechPost .",
+      "score": 77.6923076923077,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-1esyjs7z",
+      "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-02 07:47:12",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+      "description": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost .",
+      "score": 77,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-gzywj7z6",
+      "title": "Nvidia – open-source auto-ontology",
+      "source": "Hacker News",
+      "time": "6h ago",
+      "rawDate": "2026-11-03 07:04:50",
+      "topic": "infra",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Comments",
+      "score": 77,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-cj230ddk",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "source": "Google Blog",
+      "time": "Oct 26",
+      "rawDate": "2026-10-26 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "description": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "score": 75.5,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-ukwzdz59",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "source": "Google Blog",
+      "time": "Oct 21",
+      "rawDate": "2026-10-21 04:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "score": 75.5,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-xkgj4iyd",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google Blog",
+      "time": "Oct 13",
+      "rawDate": "2026-10-13 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "score": 75.22222222222223,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "hn-50351111",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-11-03T12:21:17.000Z",
+      "topic": "opensource",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "description": "",
+      "score": 73.53846153846153,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-924rpa9q",
+      "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+      "source": "MarkTechPost",
+      "time": "7h ago",
+      "rawDate": "2026-11-03 05:51:06",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
+      "description": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day. The post OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80% appeared first on MarkTechPost .",
+      "score": 71.66666666666667,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "hn-50339913",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "source": "Hacker News",
+      "time": "20h ago",
+      "rawDate": "2026-11-02T17:05:25.000Z",
+      "topic": "space",
+      "url": "https://momentic.ai/",
+      "description": "",
+      "score": 69.85714285714286,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-21q2o8ek",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-fmaaw7lp",
+      "title": "Astra can read and write weights to improve Qwen",
+      "source": "Hacker News",
+      "time": "19h ago",
+      "rawDate": "2026-11-02 18:21:28",
+      "topic": "opensource",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "description": "Comments",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
+      "id": "rss-nhthsskb",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-11-03T13:49:24.111Z"
+    },
+    {
       "id": "rss-p1tg2w2y",
       "title": "Community safety report and new protections for teens",
       "source": "OpenAI",
@@ -21,18 +249,6 @@
       "topic": "infra",
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "description": "Data centers are deeply unpopular. But what if we called them something else?",
-      "score": 80,
-      "cachedAt": "2026-11-02T15:02:17.236Z"
-    },
-    {
-      "id": "rss-dmzppas5",
-      "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-      "source": "MarkTechPost",
-      "time": "7h ago",
-      "rawDate": "2026-11-02 07:47:12",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
-      "description": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost .",
       "score": 80,
       "cachedAt": "2026-11-02T15:02:17.236Z"
     },
@@ -70,42 +286,6 @@
       "url": "https://openai.com/index/updated-model-spec",
       "description": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
       "score": 77,
-      "cachedAt": "2026-11-02T15:02:17.236Z"
-    },
-    {
-      "id": "rss-wzw98udo",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "source": "Google Blog",
-      "time": "6d ago",
-      "rawDate": "2026-10-26 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "description": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "score": 75.5,
-      "cachedAt": "2026-11-02T15:02:17.236Z"
-    },
-    {
-      "id": "rss-11jn385k",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "source": "Google Blog",
-      "time": "Oct 21",
-      "rawDate": "2026-10-21 04:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "score": 75.5,
-      "cachedAt": "2026-11-02T15:02:17.236Z"
-    },
-    {
-      "id": "rss-ta0wy3px",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "source": "Google Blog",
-      "time": "Oct 13",
-      "rawDate": "2026-10-13 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "score": 75.22222222222223,
       "cachedAt": "2026-11-02T15:02:17.236Z"
     },
     {
@@ -169,18 +349,6 @@
       "cachedAt": "2026-11-02T15:02:17.236Z"
     },
     {
-      "id": "rss-zsc04y3t",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-11-02T15:02:17.236Z"
-    },
-    {
       "id": "hn-50328896",
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "source": "Hacker News",
@@ -190,18 +358,6 @@
       "url": "https://news.ycombinator.com/item?id=50328896",
       "description": "",
       "score": 69.22222222222223,
-      "cachedAt": "2026-11-02T15:02:17.236Z"
-    },
-    {
-      "id": "rss-zq1art7s",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-11-02T15:02:17.236Z"
     },
     {
@@ -767,42 +923,6 @@
       "description": "",
       "score": 25,
       "cachedAt": "2026-10-28T12:20:43.524Z"
-    },
-    {
-      "id": "hn-50219700",
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-24T09:58:27.000Z",
-      "topic": "infra",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "description": "",
-      "score": 34,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
-    },
-    {
-      "id": "hn-50222622",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "source": "Hacker News",
-      "time": "18h ago",
-      "rawDate": "2026-10-24T16:06:26.000Z",
-      "topic": "opensource",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "description": "",
-      "score": 33,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
-    },
-    {
-      "id": "hn-50219666",
-      "title": "I don't understand quantum physics (2018)",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-24T09:53:26.000Z",
-      "topic": "quantum",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "description": "",
-      "score": 32,
-      "cachedAt": "2026-10-27T11:47:04.183Z"
     }
   ]
 }
