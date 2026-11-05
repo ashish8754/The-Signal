@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-04T13:56:47.081Z
-   Stories: 24 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-05T14:15:02.632Z
+   Stories: 19 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,62 +25,19 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-sc2hepuc",
-    "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "excerpt": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+    "id": "rss-ep8085o1",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "excerpt": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
     "source": "TechCrunch",
     "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 91,
-    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+    "relevance": 96,
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
 },
 
     topics: [
-    {
-        "id": "topic-llms",
-        "name": "Large Language Models",
-        "icon": "◎",
-        "color": "#d4a03d",
-        "stories": [
-            {
-                "id": "rss-be1hslp5",
-                "title": "Accelerating engineering for the physical world",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-jstz1ni0",
-                "title": "Heimstaden is changing residential real estate management with AI",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-pw39gcoy",
-                "title": "How Cisco defends at machine speed with OpenAI",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 80
-            },
-            {
-                "id": "hn-50365159",
-                "title": "I got banned from Lobsters for writing like an LLM",
-                "source": "Hacker News",
-                "time": "Just now",
-                "relevance": 79
-            },
-            {
-                "id": "rss-sdjntjpk",
-                "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-                "source": "OpenAI",
-                "time": "1d ago",
-                "relevance": 77
-            }
-        ]
-    },
     {
         "id": "topic-research",
         "name": "Research & Breakthroughs",
@@ -88,54 +45,97 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-yva30g4o",
+                "id": "rss-izej5lw6",
                 "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
                 "source": "MarkTechPost",
-                "time": "9h ago",
-                "relevance": 80
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-cgjn5dyt",
+                "id": "rss-5ltyjs4o",
                 "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
                 "source": "MarkTechPost",
-                "time": "15h ago",
-                "relevance": 80
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "rss-e5l6bah1",
+                "id": "rss-yxtlq59k",
                 "title": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
                 "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 78
+                "time": "1d ago",
+                "relevance": 75
             },
             {
-                "id": "rss-3bck0005",
+                "id": "rss-gr65u85x",
                 "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
                 "source": "MarkTechPost",
-                "time": "17h ago",
-                "relevance": 76
+                "time": "1d ago",
+                "relevance": 73
             }
         ]
     },
     {
-        "id": "topic-energy",
-        "name": "energy",
-        "icon": "•",
-        "color": "#8b949e",
+        "id": "topic-llms",
+        "name": "Large Language Models",
+        "icon": "◎",
+        "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-sc2hepuc",
-                "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-                "source": "TechCrunch",
-                "time": "Just now",
-                "relevance": 91
+                "id": "rss-874aj5pl",
+                "title": "Our newest AI Quest: Mapping the human brain",
+                "source": "Google Blog",
+                "time": "Oct 26",
+                "relevance": 76
             },
             {
-                "id": "rss-6cdvi3fx",
-                "title": "Data centers are turning to old jet engines as the wait for power grows",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 81
+                "id": "rss-c485nr25",
+                "title": "Southeast Asia’s digital economy to hit $368 billion",
+                "source": "Google Blog",
+                "time": "Oct 21",
+                "relevance": 76
+            },
+            {
+                "id": "rss-rbvw3yml",
+                "title": "Gemini 4 Argon: Built to solve your hardest problems",
+                "source": "Google Blog",
+                "time": "Oct 13",
+                "relevance": 75
+            },
+            {
+                "id": "rss-hwfr6hrv",
+                "title": "The latest AI news we announced in October 2026",
+                "source": "Google Blog",
+                "time": "2d ago",
+                "relevance": 73
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-u7d3mdcu",
+                "title": "Baidu released ERNIE 5.5 Flash Base",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 75
+            },
+            {
+                "id": "hn-50377221",
+                "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 75
+            },
+            {
+                "id": "hn-50366999",
+                "title": "Kimi K3.1 Pro model weights are out",
+                "source": "Hacker News",
+                "time": "22h ago",
+                "relevance": 70
             }
         ]
     },
@@ -146,18 +146,47 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-u04mnkx1",
+                "id": "hn-50370610",
+                "title": "Insects don't swarm at LED lights",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 70
+            },
+            {
+                "id": "rss-sqvbkzzx",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-k3d3l07w",
+                "id": "rss-i8fy78l8",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-ep8085o1",
+                "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+                "source": "TechCrunch",
+                "time": "Just now",
+                "relevance": 96
+            },
+            {
+                "id": "rss-en3e6p5s",
+                "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+                "source": "TechCrunch",
+                "time": "1h ago",
+                "relevance": 86
             }
         ]
     }
@@ -165,73 +194,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-c52xnsf0",
-        "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
-        "authors": "Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park, Seongchan…",
+        "id": "arxiv-3948hx7b",
+        "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+        "authors": "Weichen Fan, Haiwen Diao, Penghao Wu, Siyuan Hu, Ziqi…",
         "journal": "arXiv preprint",
-        "abstract": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the…",
+        "abstract": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.05377v1"
+        "url": "http://arxiv.org/abs/2611.06918v1"
     },
     {
-        "id": "arxiv-p87x898c",
-        "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-        "authors": "Hao Fei",
+        "id": "arxiv-n27fu3qv",
+        "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+        "authors": "Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel",
         "journal": "arXiv preprint",
-        "abstract": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2611.05376v1"
+        "abstract": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating a validation problem…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2611.06914v1"
     },
     {
-        "id": "arxiv-gogxn1g4",
-        "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-        "authors": "Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy,…",
+        "id": "arxiv-gnrrgd7s",
+        "title": "cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning",
+        "authors": "Balakumar Sundaralingam, Adithyavairavan Murali, Stan…",
         "journal": "arXiv preprint",
-        "abstract": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, large-margin…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.05373v1"
-    },
-    {
-        "id": "arxiv-stey85iu",
-        "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
-        "authors": "Yuhan Liu, Xinqi Liu, Zixuan Dong, Keith W. Ross, Shenji Wan",
-        "journal": "arXiv preprint",
-        "abstract": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depends on hand-tuned…",
+        "abstract": "We present cuRoboV2-Fast, a GPU-accelerated planner that reduces both planning latency and execution time for collision-free, payload-aware, torque-limited motions. B-spline trajectory optimization reduces the required iterations, while accelerated robot computations and differentiable inverse dynamics reduce…",
         "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.05372v1"
+        "url": "http://arxiv.org/abs/2611.06913v1"
     },
     {
-        "id": "arxiv-abycvwho",
-        "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
-        "authors": "Shivin Dass, Kevin Nguyen, Rohan Yelandur, Junhong Xu,…",
+        "id": "arxiv-xaopecfs",
+        "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+        "authors": "Nicolas Tricard, Linzheng Wang, Jason Chen, Sili Deng",
         "journal": "arXiv preprint",
-        "abstract": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown that curating such…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.05368v1"
+        "abstract": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which aspects of their predictions can be trusted. FlowReconBench evaluates ten learned and five classical…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2611.06912v1"
     },
     {
-        "id": "arxiv-lftblu30",
-        "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
-        "authors": "Zhipeng Zhong, Matthew Coombes, Cunjia Liu",
+        "id": "arxiv-lyv0moez",
+        "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+        "authors": "Fei Lin, Tengchao Zhang, Ziyang Gong, Xiaotong Yu, Bohan…",
         "journal": "arXiv preprint",
-        "abstract": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner surveys. We present a LiDARbased reference-generation pipeline for evaluating the zero-shot performance of feed-forward…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.05361v1"
+        "abstract": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2611.06911v1"
+    },
+    {
+        "id": "arxiv-a046mvy8",
+        "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+        "authors": "Bingran You, Wenjun Ke, Ria Rosenauer, Bo Liu, Wenbo Chen,…",
+        "journal": "arXiv preprint",
+        "abstract": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2611.06910v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-1jx3wqzx",
+        "id": "gh-cedlxsqx",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "260.4k",
+        "stars": "260.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-xrr16b45",
+        "id": "gh-sn3s0nhe",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.9k",
@@ -240,46 +269,46 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-6u28u2t8",
+        "id": "gh-nfsfw1j8",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "160.4k",
+        "stars": "160.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-flvlukgw",
+        "id": "gh-77qlmrl3",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.5k",
+        "stars": "168.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-lgsus4gc",
+        "id": "gh-hgkis4m7",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.1k",
+        "stars": "105.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-h1mrh4o0",
+        "id": "gh-cio368mv",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.2k",
+        "stars": "165.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-obf3hhom",
+        "id": "gh-z2n17iat",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "145.0k",
+        "stars": "145.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
