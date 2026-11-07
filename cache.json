@@ -1,6 +1,186 @@
 {
   "stories": [
     {
+      "id": "rss-9mmkrgyi",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "source": "TechCrunch",
+      "time": "17h ago",
+      "rawDate": "2026-11-06 18:44:20",
+      "topic": "agents",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "score": 81.33333333333333,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-qee3xl46",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "source": "Google Blog",
+      "time": "1d ago",
+      "rawDate": "2026-11-05 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "score": 81,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-07gt4d6p",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "source": "Google Blog",
+      "time": "Oct 26",
+      "rawDate": "2026-10-26 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "description": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "score": 75.5,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-q7m0wt9a",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "source": "Google Blog",
+      "time": "Oct 21",
+      "rawDate": "2026-10-21 04:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "score": 75.5,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-254opy49",
+      "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-06 04:25:07",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+      "description": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost .",
+      "score": 75.33333333333333,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "hn-50397099",
+      "title": "GitHub's new Git storage architecture",
+      "source": "Hacker News",
+      "time": "17h ago",
+      "rawDate": "2026-11-06T19:24:21.000Z",
+      "topic": "opensource",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "description": "",
+      "score": 75,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-5b7fi1uf",
+      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-05 22:58:21",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "description": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost .",
+      "score": 73.15384615384616,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-p2msn7kw",
+      "title": "The latest AI news we announced in October 2026",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-11-02 17:45:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "description": "Here are Google’s latest AI updates from October 2026",
+      "score": 73,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "hn-50392118",
+      "title": "Gemini Omni 1.2 Flash",
+      "source": "Hacker News",
+      "time": "23h ago",
+      "rawDate": "2026-11-06T13:35:27.000Z",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "description": "",
+      "score": 72,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-88mgsha5",
+      "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
+      "source": "MarkTechPost",
+      "time": "2d ago",
+      "rawDate": "2026-11-05 08:02:58",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+      "description": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost .",
+      "score": 71.66666666666667,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-33i3u1rg",
+      "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-05 21:33:00",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+      "description": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost .",
+      "score": 71,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "hn-50402212",
+      "title": "The Components of Agent Memory",
+      "source": "Hacker News",
+      "time": "5h ago",
+      "rawDate": "2026-11-07T06:39:04.000Z",
+      "topic": "agents",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "description": "",
+      "score": 71,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-r9z0gpo3",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "rss-shfkhzsy",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
+      "id": "hn-50377613",
+      "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-11-05T10:45:28.000Z",
+      "topic": "devtools",
+      "url": "https://github.com/hyphatech/spindle",
+      "description": "",
+      "score": 63.666666666666664,
+      "cachedAt": "2026-11-07T12:39:15.269Z"
+    },
+    {
       "id": "rss-h93ihge0",
       "title": "Underdog shows off a 32MB speech model in new demo",
       "source": "TechCrunch",
@@ -10,30 +190,6 @@
       "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
       "description": "Despite its small size, Underdog's new model can generate both speech and music.",
       "score": 90,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "rss-hwryauxy",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "source": "Google Blog",
-      "time": "20h ago",
-      "rawDate": "2026-11-05 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "score": 84,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "hn-50392118",
-      "title": "Gemini Omni 1.2 Flash",
-      "source": "Hacker News",
-      "time": "Just now",
-      "rawDate": "2026-11-06T13:35:27.000Z",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "description": "",
-      "score": 82,
       "cachedAt": "2026-11-06T13:54:46.248Z"
     },
     {
@@ -85,30 +241,6 @@
       "cachedAt": "2026-11-06T13:54:46.248Z"
     },
     {
-      "id": "rss-vk67b9vu",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "source": "Google Blog",
-      "time": "Oct 26",
-      "rawDate": "2026-10-26 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "description": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "score": 75.5,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "rss-nxdhdheh",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "source": "Google Blog",
-      "time": "Oct 21",
-      "rawDate": "2026-10-21 04:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "score": 75.5,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
       "id": "rss-lfqv1n4n",
       "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
       "source": "MarkTechPost",
@@ -118,30 +250,6 @@
       "url": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
       "description": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot. The post Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers appeared first on MarkTechPost .",
       "score": 74.27272727272728,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "rss-zf2ohw17",
-      "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-05 08:02:58",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
-      "description": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost .",
-      "score": 73.66666666666667,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "rss-6nbaqpd2",
-      "title": "The latest AI news we announced in October 2026",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-11-02 17:45:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "description": "Here are Google’s latest AI updates from October 2026",
-      "score": 73,
       "cachedAt": "2026-11-06T13:54:46.248Z"
     },
     {
@@ -202,30 +310,6 @@
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "description": "",
       "score": 69.5,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "rss-ticqn0xq",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-11-06T13:54:46.248Z"
-    },
-    {
-      "id": "rss-k7y2ctng",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-11-06T13:54:46.248Z"
     },
     {
@@ -947,102 +1031,6 @@
       "description": "",
       "score": 66.5,
       "cachedAt": "2026-11-01T12:51:35.264Z"
-    },
-    {
-      "id": "rss-8un06fjf",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "source": "TechCrunch",
-      "time": "10h ago",
-      "rawDate": "2026-10-31 01:20:05",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "score": 84.15384615384616,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "rss-9qwj7a9c",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "source": "TechCrunch",
-      "time": "12h ago",
-      "rawDate": "2026-10-30 22:56:13",
-      "topic": "security",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "score": 80.5,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "rss-ekwnajyz",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "source": "TechCrunch",
-      "time": "13h ago",
-      "rawDate": "2026-10-30 21:54:34",
-      "topic": "hardware",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "score": 80.5,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "rss-rtg5sh78",
-      "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
-      "source": "MarkTechPost",
-      "time": "17h ago",
-      "rawDate": "2026-10-30 17:53:37",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
-      "description": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent. The post Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9% appeared first on MarkTechPost .",
-      "score": 74.61538461538461,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "hn-50306442",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "source": "Hacker News",
-      "time": "19h ago",
-      "rawDate": "2026-10-30T16:40:22.000Z",
-      "topic": "opensource",
-      "url": "https://github.com/dbreunig/nesformer",
-      "description": "",
-      "score": 69,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "rss-9i74gjei",
-      "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-10-30 07:26:12",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-      "description": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost appeared first on MarkTechPost .",
-      "score": 68.9047619047619,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "hn-50300683",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "source": "Hacker News",
-      "time": "1d ago",
-      "rawDate": "2026-10-30T07:09:12.000Z",
-      "topic": "llms",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "description": "",
-      "score": 67.33333333333333,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
-    },
-    {
-      "id": "hn-50277379",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-10-28T17:29:23.000Z",
-      "topic": "devtools",
-      "url": "https://github.com/chris124567/cfsolve",
-      "description": "",
-      "score": 64.5,
-      "cachedAt": "2026-10-31T11:52:15.525Z"
     }
   ]
 }
