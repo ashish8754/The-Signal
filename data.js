@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-07T12:39:15.272Z
-   Stories: 15 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-11-08T12:56:24.661Z
+   Stories: 18 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-9mmkrgyi",
-    "topic": "AI Agents & Autonomy",
-    "topicId": "agents",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "id": "rss-cfhbtiar",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
     "source": "TechCrunch",
-    "time": "17h ago",
+    "time": "15h ago",
     "readTime": "5 min read",
-    "relevance": 81,
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    "relevance": 82,
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-qee3xl46",
+                "id": "rss-pt340f2f",
                 "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
                 "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 81
+                "time": "2d ago",
+                "relevance": 79
             },
             {
-                "id": "rss-07gt4d6p",
+                "id": "rss-nextl5jw",
                 "title": "Our newest AI Quest: Mapping the human brain",
                 "source": "Google Blog",
                 "time": "Oct 26",
                 "relevance": 76
             },
             {
-                "id": "rss-q7m0wt9a",
+                "id": "rss-8m0s43j1",
                 "title": "Southeast Asia’s digital economy to hit $368 billion",
                 "source": "Google Blog",
                 "time": "Oct 21",
                 "relevance": 76
             },
             {
-                "id": "rss-5b7fi1uf",
-                "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-                "source": "MarkTechPost",
-                "time": "1d ago",
+                "id": "rss-4mvamnzo",
+                "title": "The latest AI news we announced in October 2026",
+                "source": "Google Blog",
+                "time": "5d ago",
                 "relevance": 73
             },
             {
-                "id": "rss-p2msn7kw",
-                "title": "The latest AI news we announced in October 2026",
-                "source": "Google Blog",
-                "time": "4d ago",
-                "relevance": 73
+                "id": "rss-hmxgoamw",
+                "title": "Goodbye Claude, Hello Pi",
+                "source": "Hacker News",
+                "time": "9h ago",
+                "relevance": 72
             }
         ]
     },
@@ -88,31 +88,68 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-9mmkrgyi",
-                "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 81
-            },
-            {
-                "id": "hn-50402212",
-                "title": "The Components of Agent Memory",
+                "id": "hn-50411467",
+                "title": "Agent memory needs its OpenTelemetry moment",
                 "source": "Hacker News",
-                "time": "5h ago",
-                "relevance": 71
+                "time": "4h ago",
+                "relevance": 75
             },
             {
-                "id": "rss-r9z0gpo3",
+                "id": "rss-1r7cfh91",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-shfkhzsy",
+                "id": "rss-f8jq2n62",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-cfhbtiar",
+                "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 82
+            },
+            {
+                "id": "hn-50411961",
+                "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 82
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "rss-llnhi3zb",
+                "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 77
+            },
+            {
+                "id": "hn-50408931",
+                "title": "GitHub New pull request overview page in public preview",
+                "source": "Hacker News",
+                "time": "13h ago",
                 "relevance": 69
             }
         ]
@@ -124,22 +161,15 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-254opy49",
+                "id": "rss-43cg02hi",
                 "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-88mgsha5",
-                "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
-                "source": "MarkTechPost",
                 "time": "2d ago",
-                "relevance": 72
+                "relevance": 73
             },
             {
-                "id": "rss-33i3u1rg",
-                "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+                "id": "rss-lf926j0k",
+                "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 71
@@ -150,7 +180,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-7si4icwq",
+        "id": "arxiv-g8o9xct1",
         "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
         "authors": "Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen, Keivan…",
         "journal": "arXiv preprint",
@@ -159,7 +189,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.08487v1"
     },
     {
-        "id": "arxiv-yyj6jinx",
+        "id": "arxiv-wkepul0o",
         "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
         "authors": "Xiaoqi Zhao, Youwei Pang, Kailai Zhou",
         "journal": "arXiv preprint",
@@ -168,7 +198,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.08486v1"
     },
     {
-        "id": "arxiv-0ion9rrb",
+        "id": "arxiv-bp7b1gfr",
         "title": "Where and Why is Grounded Reasoning Useful?",
         "authors": "David Yan, Le Xue, Forrest Huang, Qiuyi Zhang, Dustin Tran,…",
         "journal": "arXiv preprint",
@@ -177,7 +207,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.08485v1"
     },
     {
-        "id": "arxiv-vyu98gy7",
+        "id": "arxiv-60n1zr8h",
         "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
         "authors": "Qile Jiang, George Em Karniadakis",
         "journal": "arXiv preprint",
@@ -186,7 +216,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.08483v1"
     },
     {
-        "id": "arxiv-35sr4vki",
+        "id": "arxiv-uxbpi7fd",
         "title": "Scientist World: Grow a Research World for AI-Scientists",
         "authors": "Taiming Lu, Sachin Konan, Zhuang Liu",
         "journal": "arXiv preprint",
@@ -195,7 +225,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.08478v1"
     },
     {
-        "id": "arxiv-mxwjwxqy",
+        "id": "arxiv-ehpibadi",
         "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
         "authors": "Yanlin Jin, Bowen Yang, Cheng Zhang, Yifan Yang, Zhe Li,…",
         "journal": "arXiv preprint",
@@ -207,16 +237,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-ldryn1bp",
+        "id": "gh-3qda90yk",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "261.4k",
+        "stars": "261.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-s8z24oj9",
+        "id": "gh-42grkbzh",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "187.9k",
@@ -225,34 +255,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-knksgk4m",
+        "id": "gh-uc25z91f",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "160.6k",
+        "stars": "160.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-8evflepz",
+        "id": "gh-npba4q5t",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.6k",
+        "stars": "168.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-7i3ixjwj",
+        "id": "gh-5fwz8uw2",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.2k",
+        "stars": "105.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-5nbx8trh",
+        "id": "gh-w57o7q55",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.3k",
@@ -261,10 +291,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-iy1khfi0",
+        "id": "gh-v941fhtp",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "145.5k",
+        "stars": "145.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
