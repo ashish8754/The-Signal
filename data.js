@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-08T12:56:24.661Z
-   Stories: 18 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-11-09T15:32:40.673Z
+   Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,91 +25,19 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-cfhbtiar",
+    "id": "rss-hifwpijf",
     "topic": "AI Infrastructure",
     "topicId": "infra",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "excerpt": "In a memo to the company, Huang admitted that he had an affair.",
     "source": "TechCrunch",
-    "time": "15h ago",
+    "time": "18h ago",
     "readTime": "5 min read",
-    "relevance": 82,
-    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    "relevance": 83,
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
 },
 
     topics: [
-    {
-        "id": "topic-llms",
-        "name": "Large Language Models",
-        "icon": "◎",
-        "color": "#d4a03d",
-        "stories": [
-            {
-                "id": "rss-pt340f2f",
-                "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-                "source": "Google Blog",
-                "time": "2d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-nextl5jw",
-                "title": "Our newest AI Quest: Mapping the human brain",
-                "source": "Google Blog",
-                "time": "Oct 26",
-                "relevance": 76
-            },
-            {
-                "id": "rss-8m0s43j1",
-                "title": "Southeast Asia’s digital economy to hit $368 billion",
-                "source": "Google Blog",
-                "time": "Oct 21",
-                "relevance": 76
-            },
-            {
-                "id": "rss-4mvamnzo",
-                "title": "The latest AI news we announced in October 2026",
-                "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-hmxgoamw",
-                "title": "Goodbye Claude, Hello Pi",
-                "source": "Hacker News",
-                "time": "9h ago",
-                "relevance": 72
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "hn-50411467",
-                "title": "Agent memory needs its OpenTelemetry moment",
-                "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-1r7cfh91",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 69
-            },
-            {
-                "id": "rss-f8jq2n62",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 69
-            }
-        ]
-    },
     {
         "id": "topic-infra",
         "name": "AI Infrastructure",
@@ -117,40 +45,82 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-cfhbtiar",
-                "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+                "id": "rss-hifwpijf",
+                "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
                 "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 82
+                "time": "18h ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-oacd2zm6",
+                "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+                "source": "TechCrunch",
+                "time": "10h ago",
+                "relevance": 81
             },
             {
                 "id": "hn-50411961",
                 "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
                 "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 82
+                "time": "1d ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-50418016",
+                "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+                "source": "Hacker News",
+                "time": "17h ago",
+                "relevance": 71
+            },
+            {
+                "id": "hn-50423151",
+                "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
+                "source": "Hacker News",
+                "time": "6h ago",
+                "relevance": 69
             }
         ]
     },
     {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
+        "id": "topic-llms",
+        "name": "Large Language Models",
+        "icon": "◎",
+        "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-llnhi3zb",
-                "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "id": "rss-pngnv76n",
+                "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+                "source": "Google Blog",
+                "time": "3d ago",
+                "relevance": 79
             },
             {
-                "id": "hn-50408931",
-                "title": "GitHub New pull request overview page in public preview",
-                "source": "Hacker News",
-                "time": "13h ago",
-                "relevance": 69
+                "id": "rss-zl9dk8x4",
+                "title": "Our newest AI Quest: Mapping the human brain",
+                "source": "Google Blog",
+                "time": "Oct 26",
+                "relevance": 76
+            },
+            {
+                "id": "rss-gdofeq8l",
+                "title": "Southeast Asia’s digital economy to hit $368 billion",
+                "source": "Google Blog",
+                "time": "Oct 21",
+                "relevance": 76
+            },
+            {
+                "id": "rss-rds8lwjk",
+                "title": "The latest AI news we announced in October 2026",
+                "source": "Google Blog",
+                "time": "6d ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-ua3bxoah",
+                "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 73
             }
         ]
     },
@@ -161,18 +131,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-43cg02hi",
-                "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
-                "source": "MarkTechPost",
-                "time": "2d ago",
-                "relevance": 73
+                "id": "rss-kpxkrrtt",
+                "title": "Fold Epic Paper Airplanes",
+                "source": "Hacker News",
+                "time": "3h ago",
+                "relevance": 77
             },
             {
-                "id": "rss-lf926j0k",
-                "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+                "id": "rss-8vt7611a",
+                "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
                 "source": "MarkTechPost",
                 "time": "1d ago",
+                "relevance": 72
+            },
+            {
+                "id": "rss-lvw3c4u3",
+                "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 70
+            },
+            {
+                "id": "rss-15m2c0l6",
+                "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 69
+            }
+        ]
+    },
+    {
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
+        "stories": [
+            {
+                "id": "hn-50422628",
+                "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+                "source": "Hacker News",
+                "time": "7h ago",
                 "relevance": 71
+            },
+            {
+                "id": "rss-wl6t7jhv",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 69
+            },
+            {
+                "id": "rss-sk1mhg21",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 69
             }
         ]
     }
@@ -180,91 +193,91 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-g8o9xct1",
-        "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-        "authors": "Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen, Keivan…",
+        "id": "arxiv-52h818n7",
+        "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+        "authors": "Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang…",
         "journal": "arXiv preprint",
-        "abstract": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be…",
+        "abstract": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.09894v1"
+    },
+    {
+        "id": "arxiv-aa7jq0tj",
+        "title": "On Agentic Manipulation Policies",
+        "authors": "Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji,…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2611.09892v1"
+    },
+    {
+        "id": "arxiv-9gtxft68",
+        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+        "authors": "Peter Belcak, Greg Heinrich, Saurav Muralidharan, Shizhe…",
+        "journal": "arXiv preprint",
+        "abstract": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2611.09891v1"
+    },
+    {
+        "id": "arxiv-xnv36zw8",
+        "title": "Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving",
+        "authors": "Frieda Rong, Zhaoyue Wang, Veer Kapadia, Vishaka Rajani,…",
+        "journal": "arXiv preprint",
+        "abstract": "Scenario-based simulation is central to evaluating autonomous-driving policies, but a scenario scripted before execution (i.e., with predetermined, fixed actor routes and speeds) may not preserve its intended interaction once the tested ego policy responds in closed loop. Scripted scenarios cannot adapt to…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2611.09888v1"
+    },
+    {
+        "id": "arxiv-3hsotlop",
+        "title": "On the (non-)closedness of the set of ReLU networks",
+        "authors": "Eloi Martinet, Leon Bungert",
+        "journal": "arXiv preprint",
+        "abstract": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.08487v1"
+        "url": "http://arxiv.org/abs/2611.09887v1"
     },
     {
-        "id": "arxiv-wkepul0o",
-        "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
-        "authors": "Xiaoqi Zhao, Youwei Pang, Kailai Zhou",
+        "id": "arxiv-78d8xvnk",
+        "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+        "authors": "Aadya Agrawal, Ho Kei Cheng, Alexander Schwing",
         "journal": "arXiv preprint",
-        "abstract": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371…",
+        "abstract": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods producing a fixed…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.08486v1"
-    },
-    {
-        "id": "arxiv-bp7b1gfr",
-        "title": "Where and Why is Grounded Reasoning Useful?",
-        "authors": "David Yan, Le Xue, Forrest Huang, Qiuyi Zhang, Dustin Tran,…",
-        "journal": "arXiv preprint",
-        "abstract": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.08485v1"
-    },
-    {
-        "id": "arxiv-60n1zr8h",
-        "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-        "authors": "Qile Jiang, George Em Karniadakis",
-        "journal": "arXiv preprint",
-        "abstract": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2611.08483v1"
-    },
-    {
-        "id": "arxiv-uxbpi7fd",
-        "title": "Scientist World: Grow a Research World for AI-Scientists",
-        "authors": "Taiming Lu, Sachin Konan, Zhuang Liu",
-        "journal": "arXiv preprint",
-        "abstract": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2611.08478v1"
-    },
-    {
-        "id": "arxiv-ehpibadi",
-        "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
-        "authors": "Yanlin Jin, Bowen Yang, Cheng Zhang, Yifan Yang, Zhe Li,…",
-        "journal": "arXiv preprint",
-        "abstract": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.08477v1"
+        "url": "http://arxiv.org/abs/2611.09882v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-3qda90yk",
+        "id": "gh-66gxk5lg",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "261.6k",
+        "stars": "262.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-42grkbzh",
+        "id": "gh-k5gcn88o",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "187.9k",
+        "stars": "188.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-uc25z91f",
+        "id": "gh-hduw3hvj",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "160.7k",
+        "stars": "160.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-npba4q5t",
+        "id": "gh-39h36vma",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "168.7k",
@@ -273,7 +286,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-5fwz8uw2",
+        "id": "gh-bcutomcm",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.3k",
@@ -282,7 +295,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-w57o7q55",
+        "id": "gh-6q8j5z9y",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.3k",
@@ -291,10 +304,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-v941fhtp",
+        "id": "gh-eqjh4il7",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "145.7k",
+        "stars": "145.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
