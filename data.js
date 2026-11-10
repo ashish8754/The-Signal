@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-09T15:32:40.673Z
-   Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-10T14:31:01.433Z
+   Stories: 17 | Clusters: 4 | Papers: 6 | Repos: 3
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,62 +25,19 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-hifwpijf",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+    "id": "rss-1d3vyyof",
+    "topic": "Artificial Intelligence",
+    "topicId": "space",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "excerpt": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
     "source": "TechCrunch",
-    "time": "18h ago",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 83,
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    "relevance": 91,
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
 },
 
     topics: [
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-hifwpijf",
-                "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-                "source": "TechCrunch",
-                "time": "18h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-oacd2zm6",
-                "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-                "source": "TechCrunch",
-                "time": "10h ago",
-                "relevance": 81
-            },
-            {
-                "id": "hn-50411961",
-                "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 74
-            },
-            {
-                "id": "hn-50418016",
-                "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-                "source": "Hacker News",
-                "time": "17h ago",
-                "relevance": 71
-            },
-            {
-                "id": "hn-50423151",
-                "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
-                "source": "Hacker News",
-                "time": "6h ago",
-                "relevance": 69
-            }
-        ]
-    },
     {
         "id": "topic-llms",
         "name": "Large Language Models",
@@ -88,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-pngnv76n",
+                "id": "rss-nzj521hi",
                 "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-zl9dk8x4",
+                "id": "rss-viwckjfr",
+                "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 79
+            },
+            {
+                "id": "rss-sai01t4q",
                 "title": "Our newest AI Quest: Mapping the human brain",
                 "source": "Google Blog",
                 "time": "Oct 26",
                 "relevance": 76
             },
             {
-                "id": "rss-gdofeq8l",
+                "id": "rss-1qwh3gxb",
                 "title": "Southeast Asia’s digital economy to hit $368 billion",
                 "source": "Google Blog",
                 "time": "Oct 21",
                 "relevance": 76
             },
             {
-                "id": "rss-rds8lwjk",
+                "id": "rss-0s8agbqt",
                 "title": "The latest AI news we announced in October 2026",
                 "source": "Google Blog",
-                "time": "6d ago",
-                "relevance": 73
-            },
-            {
-                "id": "rss-ua3bxoah",
-                "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
-                "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "Nov 2",
                 "relevance": 73
             }
         ]
@@ -131,31 +88,60 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-kpxkrrtt",
-                "title": "Fold Epic Paper Airplanes",
+                "id": "rss-lzp1yheg",
+                "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 69
+            },
+            {
+                "id": "rss-k9ectvc6",
+                "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 68
+            },
+            {
+                "id": "hn-50424581",
+                "title": "Foldable Flight: The Best Paper Airplanes",
                 "source": "Hacker News",
-                "time": "3h ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-8vt7611a",
-                "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
-                "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 72
+                "relevance": 67
             },
             {
-                "id": "rss-lvw3c4u3",
-                "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 70
-            },
-            {
-                "id": "rss-15m2c0l6",
+                "id": "rss-zuov88ja",
                 "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "2d ago",
+                "relevance": 67
+            }
+        ]
+    },
+    {
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
+            {
+                "id": "rss-1d3vyyof",
+                "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+                "source": "TechCrunch",
+                "time": "Just now",
+                "relevance": 91
+            },
+            {
+                "id": "hn-50427362",
+                "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+                "source": "Hacker News",
+                "time": "22h ago",
+                "relevance": 69
+            },
+            {
+                "id": "hn-50431075",
+                "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+                "source": "Hacker News",
+                "time": "18h ago",
                 "relevance": 69
             }
         ]
@@ -167,21 +153,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-50422628",
-                "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-                "source": "Hacker News",
-                "time": "7h ago",
-                "relevance": 71
-            },
-            {
-                "id": "rss-wl6t7jhv",
+                "id": "rss-u0lgj7ho",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-sk1mhg21",
+                "id": "rss-89t5qxvg",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -193,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-52h818n7",
-        "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
-        "authors": "Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang…",
+        "id": "arxiv-twxlobnp",
+        "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+        "authors": "Haozhi Yuan, Handong Li, Yifan Zhang, Qianshan Wei",
         "journal": "arXiv preprint",
-        "abstract": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first…",
+        "abstract": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.09894v1"
+        "url": "http://arxiv.org/abs/2611.12886v1"
     },
     {
-        "id": "arxiv-aa7jq0tj",
-        "title": "On Agentic Manipulation Policies",
-        "authors": "Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji,…",
+        "id": "arxiv-k8gztl07",
+        "title": "World In-Context Learning for Agentic Robot Manipulation",
+        "authors": "Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang…",
         "journal": "arXiv preprint",
-        "abstract": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.09892v1"
+        "abstract": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.12885v1"
     },
     {
-        "id": "arxiv-9gtxft68",
-        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-        "authors": "Peter Belcak, Greg Heinrich, Saurav Muralidharan, Shizhe…",
+        "id": "arxiv-9378wg41",
+        "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+        "authors": "Zhaoying Pan, Yipei Wang, Shenyu Lu, Xiaoqian Wang",
         "journal": "arXiv preprint",
-        "abstract": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2611.09891v1"
-    },
-    {
-        "id": "arxiv-xnv36zw8",
-        "title": "Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving",
-        "authors": "Frieda Rong, Zhaoyue Wang, Veer Kapadia, Vishaka Rajani,…",
-        "journal": "arXiv preprint",
-        "abstract": "Scenario-based simulation is central to evaluating autonomous-driving policies, but a scenario scripted before execution (i.e., with predetermined, fixed actor routes and speeds) may not preserve its intended interaction once the tested ego policy responds in closed loop. Scripted scenarios cannot adapt to…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.09888v1"
-    },
-    {
-        "id": "arxiv-3hsotlop",
-        "title": "On the (non-)closedness of the set of ReLU networks",
-        "authors": "Eloi Martinet, Leon Bungert",
-        "journal": "arXiv preprint",
-        "abstract": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over…",
+        "abstract": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.09887v1"
+        "url": "http://arxiv.org/abs/2611.12884v1"
     },
     {
-        "id": "arxiv-78d8xvnk",
-        "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
-        "authors": "Aadya Agrawal, Ho Kei Cheng, Alexander Schwing",
+        "id": "arxiv-z2lmmdr0",
+        "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+        "authors": "Zhaoying Pan, Shenyu Lu, Jun Hui Wong, Junyi Chai, Xiaoqian…",
         "journal": "arXiv preprint",
-        "abstract": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods producing a fixed…",
+        "abstract": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable for the task, thus motivating inference-time control of modality arbitration. We identify a small…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.09882v1"
+        "url": "http://arxiv.org/abs/2611.12883v1"
+    },
+    {
+        "id": "arxiv-c86aehxk",
+        "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+        "authors": "Majdi Hassan, Marta Skreta, Dominique Beaini, Kirill…",
+        "journal": "arXiv preprint",
+        "abstract": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential steps, resulting in…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2611.12880v1"
+    },
+    {
+        "id": "arxiv-rxoqq23x",
+        "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
+        "authors": "Rustin Soraki, Matthew Wallingford, Ryan Aby, Brandon Chee,…",
+        "journal": "arXiv preprint",
+        "abstract": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural source for learning to predict future interactions. Learning from them requires recovering motion from completed…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.12879v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-66gxk5lg",
+        "id": "gh-1vpj77x8",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "262.0k",
+        "stars": "262.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-k5gcn88o",
+        "id": "gh-oapyjaoj",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.0k",
@@ -268,49 +247,13 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-hduw3hvj",
+        "id": "gh-wu92fchp",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
         "stars": "160.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
-    },
-    {
-        "id": "gh-39h36vma",
-        "name": "huggingface/transformers",
-        "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.7k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/huggingface/transformers"
-    },
-    {
-        "id": "gh-bcutomcm",
-        "name": "pytorch/pytorch",
-        "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.3k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/pytorch/pytorch"
-    },
-    {
-        "id": "gh-6q8j5z9y",
-        "name": "AUTOMATIC1111/stable-diffusion-webui",
-        "desc": "Stable Diffusion web UI",
-        "stars": "165.3k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
-    },
-    {
-        "id": "gh-eqjh4il7",
-        "name": "Comfy-Org/ComfyUI",
-        "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "145.9k",
-        "lang": "Python",
-        "langColor": "#3572A5",
-        "url": "https://github.com/Comfy-Org/ComfyUI"
     }
 ],
 
