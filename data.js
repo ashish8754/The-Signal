@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-11T13:45:50.665Z
-   Stories: 15 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-11-12T14:49:14.861Z
+   Stories: 23 | Clusters: 5 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,19 +25,62 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-58qqj28h",
-    "topic": "LLMs & Generative AI",
-    "topicId": "llms",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "excerpt": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "source": "Google Blog",
-    "time": "1d ago",
+    "id": "rss-tauc88o9",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 85,
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    "relevance": 94,
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
 },
 
     topics: [
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-tauc88o9",
+                "title": "The unfolding Jensen Huang scandal: a timeline",
+                "source": "TechCrunch",
+                "time": "Just now",
+                "relevance": 94
+            },
+            {
+                "id": "hn-50467087",
+                "title": "NVIDIA Announces CEO Transition",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 87
+            },
+            {
+                "id": "rss-dl8wjaws",
+                "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 83
+            },
+            {
+                "id": "hn-50467132",
+                "title": "Jensen Huang resigns as Nvidia CEO immediately",
+                "source": "Hacker News",
+                "time": "Just now",
+                "relevance": 83
+            },
+            {
+                "id": "rss-fi2jsso2",
+                "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+                "source": "TechCrunch",
+                "time": "11h ago",
+                "relevance": 81
+            }
+        ]
+    },
     {
         "id": "topic-llms",
         "name": "Large Language Models",
@@ -45,39 +88,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-58qqj28h",
-                "title": "Google Cloud launches Gemini for healthcare.",
+                "id": "rss-0lyn0jvq",
+                "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
                 "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 85
+                "time": "20h ago",
+                "relevance": 88
             },
             {
-                "id": "rss-j4edqtzp",
+                "id": "rss-ky73eumq",
                 "title": "Gemini Intelligence: New features, on more devices",
                 "source": "Google Blog",
-                "time": "18h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-5042l1c0",
-                "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+                "id": "rss-otxd5rss",
+                "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
                 "source": "Google Blog",
-                "time": "4h ago",
-                "relevance": 83
+                "time": "22h ago",
+                "relevance": 79
             },
             {
-                "id": "rss-kqa13l4c",
-                "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-                "source": "Google Blog",
-                "time": "23h ago",
-                "relevance": 80
+                "id": "rss-6oa9si5o",
+                "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 77
             },
             {
-                "id": "hn-50443716",
-                "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+                "id": "hn-50456791",
+                "title": "Gemini Decisions API",
                 "source": "Hacker News",
-                "time": "19h ago",
-                "relevance": 70
+                "time": "20h ago",
+                "relevance": 77
             }
         ]
     },
@@ -88,32 +131,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-mm8ispvj",
-                "title": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
+                "id": "rss-v789lrti",
+                "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-fdzhrhcj",
-                "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+                "id": "rss-5w1hs54c",
+                "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 72
+                "relevance": 74
             },
             {
-                "id": "rss-helf1y8u",
-                "title": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
+                "id": "rss-acnulcnd",
+                "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 72
+                "relevance": 70
+            }
+        ]
+    },
+    {
+        "id": "topic-opensource",
+        "name": "Open Source",
+        "icon": "⚡",
+        "color": "#4ade80",
+        "stories": [
+            {
+                "id": "hn-50462177",
+                "title": "Critical RCE Vulnerability in Apache HTTP Server",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 73
             },
             {
-                "id": "rss-tlgdta29",
-                "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
-                "source": "MarkTechPost",
-                "time": "2d ago",
-                "relevance": 67
+                "id": "hn-50459485",
+                "title": "Lock Your GitHub Actions",
+                "source": "Hacker News",
+                "time": "16h ago",
+                "relevance": 72
             }
         ]
     },
@@ -124,21 +182,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-50443812",
-                "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-                "source": "Hacker News",
-                "time": "19h ago",
-                "relevance": 70
-            },
-            {
-                "id": "rss-9fsf5hd0",
+                "id": "rss-dhjlz05g",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-a6nzdcm8",
+                "id": "rss-s9x600af",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -150,7 +201,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-od3cij5h",
+        "id": "arxiv-4jazy0lo",
         "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
         "authors": "Emre Kutlusan, Yongmin Li",
         "journal": "arXiv preprint",
@@ -159,7 +210,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.14519v1"
     },
     {
-        "id": "arxiv-9len7eor",
+        "id": "arxiv-ws299i3w",
         "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
         "authors": "Sheethal Bhat, Bogdan Georgescu, Awais Mansoor, Florin C.…",
         "journal": "arXiv preprint",
@@ -168,7 +219,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.14518v1"
     },
     {
-        "id": "arxiv-rik3re3b",
+        "id": "arxiv-zxy3fwu0",
         "title": "TorchCurves: Differentiable Parametric Curves",
         "authors": "Alex Shtoff",
         "journal": "arXiv preprint",
@@ -177,7 +228,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.14516v1"
     },
     {
-        "id": "arxiv-88tsmng9",
+        "id": "arxiv-nde9tx6s",
         "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
         "authors": "Zijian Zhang, Rizhen Hu, Jiangweizhi Peng, Shiyang Li,…",
         "journal": "arXiv preprint",
@@ -186,7 +237,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.14515v1"
     },
     {
-        "id": "arxiv-oid0fvh6",
+        "id": "arxiv-o4rt3jr0",
         "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
         "authors": "Ziang Liu, James J. Kim, Yijia Dai, Jennifer J. Sun",
         "journal": "arXiv preprint",
@@ -195,7 +246,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.14514v1"
     },
     {
-        "id": "arxiv-r8heo0ra",
+        "id": "arxiv-6g5zsfhi",
         "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
         "authors": "Megha Srivastava, Michael H. Lim, Allison M. Keys, Pranav…",
         "journal": "arXiv preprint",
@@ -207,16 +258,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-vipuxrpt",
+        "id": "gh-kzuf96n5",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "262.6k",
+        "stars": "262.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-h84jq3hn",
+        "id": "gh-m3p74k6l",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.0k",
@@ -225,7 +276,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-i5qf61ph",
+        "id": "gh-35stda1b",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
         "stars": "161.0k",
@@ -234,25 +285,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-bp2darrc",
+        "id": "gh-8mud3zwd",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "168.8k",
+        "stars": "168.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-jyt1z4h2",
+        "id": "gh-6crgsl74",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.4k",
+        "stars": "105.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-zsu5yf8w",
+        "id": "gh-i4p5dpym",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.3k",
@@ -261,10 +312,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-vnvyiqmo",
+        "id": "gh-xo3oezha",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "146.3k",
+        "stars": "146.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
