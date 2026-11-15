@@ -1,6 +1,138 @@
 {
   "stories": [
     {
+      "id": "rss-1mxe19rr",
+      "title": "Where was Nvidia’s security team?",
+      "source": "TechCrunch",
+      "time": "13h ago",
+      "rawDate": "2026-11-15 00:08:07",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "score": 88,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "rss-cjpsm7xj",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "time": "21h ago",
+      "rawDate": "2026-11-14 16:34:15",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "score": 88,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "rss-dwgit7w9",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "TechCrunch",
+      "time": "15h ago",
+      "rawDate": "2026-11-14 21:41:22",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "score": 80.85714285714286,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "rss-m40p5kw9",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "source": "TechCrunch",
+      "time": "20h ago",
+      "rawDate": "2026-11-14 17:30:00",
+      "topic": "space",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "score": 79.42857142857143,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "hn-50506180",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "source": "Hacker News",
+      "time": "1h ago",
+      "rawDate": "2026-11-15T11:40:51.000Z",
+      "topic": "infra",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "description": "",
+      "score": 75.33333333333333,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "rss-1l8t2gce",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "source": "Hacker News",
+      "time": "16h ago",
+      "rawDate": "2026-11-14 21:22:24",
+      "topic": "space",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "description": "Comments",
+      "score": 74.5,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "rss-yrx4dbis",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "rss-plqro2sj",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "hn-50497892",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "source": "Hacker News",
+      "time": "21h ago",
+      "rawDate": "2026-11-14T15:40:52.000Z",
+      "topic": "devtools",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "description": "",
+      "score": 68.81818181818181,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "hn-50481321",
+      "title": "What thousands of conversations look like inside a language model",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-11-13T10:26:01.000Z",
+      "topic": "llms",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
+      "id": "hn-50441444",
+      "title": "Generative AI uses more energy on non-English text",
+      "source": "Hacker News",
+      "time": "4d ago",
+      "rawDate": "2026-11-10T15:07:28.000Z",
+      "topic": "llms",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "description": "",
+      "score": 64.5,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
+    },
+    {
       "id": "rss-wia6dh7l",
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "source": "TechCrunch",
@@ -9,8 +141,8 @@
       "topic": "infra",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "score": 85.6923076923077,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
+      "score": 59,
+      "cachedAt": "2026-11-15T13:38:37.745Z"
     },
     {
       "id": "rss-jrehfxr4",
@@ -157,18 +289,6 @@
       "cachedAt": "2026-11-14T13:09:37.827Z"
     },
     {
-      "id": "rss-j6ipbznz",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
       "id": "hn-50488470",
       "title": "Found: A protein that drives ageing without unleashing inflammation",
       "source": "Hacker News",
@@ -178,18 +298,6 @@
       "url": "https://www.nature.com/articles/d41586-026-03638-3",
       "description": "",
       "score": 69.22222222222223,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
-      "id": "rss-6gvhd870",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-11-14T13:09:37.827Z"
     },
     {
@@ -983,138 +1091,6 @@
       "description": "",
       "score": 68.81818181818181,
       "cachedAt": "2026-11-09T15:32:40.671Z"
-    },
-    {
-      "id": "rss-cfhbtiar",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "source": "TechCrunch",
-      "time": "15h ago",
-      "rawDate": "2026-11-07 21:17:08",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "score": 82.28571428571429,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "rss-llnhi3zb",
-      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-07 08:16:33",
-      "topic": "opensource",
-      "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
-      "description": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost .",
-      "score": 77,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "hn-50411467",
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "source": "Hacker News",
-      "time": "4h ago",
-      "rawDate": "2026-11-08T08:40:23.000Z",
-      "topic": "agents",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "description": "",
-      "score": 75.33333333333333,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "hn-50409856",
-      "title": "Consumer brain wave headsets threaten privacy",
-      "source": "Hacker News",
-      "time": "10h ago",
-      "rawDate": "2026-11-08T02:02:38.000Z",
-      "topic": "biotech",
-      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-      "description": "",
-      "score": 73.66666666666667,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "rss-43cg02hi",
-      "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
-      "source": "MarkTechPost",
-      "time": "2d ago",
-      "rawDate": "2026-11-06 04:25:07",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
-      "description": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost .",
-      "score": 73.33333333333333,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "rss-hmxgoamw",
-      "title": "Goodbye Claude, Hello Pi",
-      "source": "Hacker News",
-      "time": "9h ago",
-      "rawDate": "2026-11-08 03:11:48",
-      "topic": "llms",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "description": "Comments",
-      "score": 72,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "rss-3edzmdyj",
-      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-      "source": "MarkTechPost",
-      "time": "2d ago",
-      "rawDate": "2026-11-05 22:58:21",
-      "topic": "llms",
-      "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-      "description": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost .",
-      "score": 71.15384615384616,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "rss-lf926j0k",
-      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-06 17:28:04",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
-      "description": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128. The post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster appeared first on MarkTechPost .",
-      "score": 70.63636363636364,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "rss-a8xpoxvm",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "source": "Hacker News",
-      "time": "16h ago",
-      "rawDate": "2026-11-07 20:45:32",
-      "topic": "llms",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "description": "Comments",
-      "score": 70.33333333333333,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "hn-50408931",
-      "title": "GitHub New pull request overview page in public preview",
-      "source": "Hacker News",
-      "time": "13h ago",
-      "rawDate": "2026-11-07T23:09:40.000Z",
-      "topic": "opensource",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "description": "",
-      "score": 69.22222222222223,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
-    },
-    {
-      "id": "hn-50377661",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "source": "Hacker News",
-      "time": "3d ago",
-      "rawDate": "2026-11-05T10:52:04.000Z",
-      "topic": "energy",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "description": "",
-      "score": 64.22222222222223,
-      "cachedAt": "2026-11-08T12:56:24.659Z"
     }
   ]
 }

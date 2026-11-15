@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-14T13:09:37.828Z
-   Stories: 16 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-15T13:38:37.747Z
+   Stories: 12 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,62 +25,19 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-wia6dh7l",
+    "id": "rss-1mxe19rr",
     "topic": "AI Infrastructure",
     "topicId": "infra",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "title": "Where was Nvidia’s security team?",
+    "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate…",
     "source": "TechCrunch",
-    "time": "18h ago",
+    "time": "13h ago",
     "readTime": "5 min read",
-    "relevance": 86,
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    "relevance": 88,
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
 },
 
     topics: [
-    {
-        "id": "topic-llms",
-        "name": "Large Language Models",
-        "icon": "◎",
-        "color": "#d4a03d",
-        "stories": [
-            {
-                "id": "rss-kkv0gnrk",
-                "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-                "source": "Google Blog",
-                "time": "2d ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-9pw1p5po",
-                "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-                "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 81
-            },
-            {
-                "id": "rss-6mww7ylk",
-                "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-                "source": "Google Blog",
-                "time": "2d ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-cj5xkqxe",
-                "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 74
-            },
-            {
-                "id": "rss-ologmz2s",
-                "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-                "source": "Google Blog",
-                "time": "3d ago",
-                "relevance": 73
-            }
-        ]
-    },
     {
         "id": "topic-infra",
         "name": "AI Infrastructure",
@@ -88,25 +45,61 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
+                "id": "rss-1mxe19rr",
+                "title": "Where was Nvidia’s security team?",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-cjpsm7xj",
+                "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+                "source": "TechCrunch",
+                "time": "21h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-dwgit7w9",
+                "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+                "source": "TechCrunch",
+                "time": "15h ago",
+                "relevance": 81
+            },
+            {
+                "id": "hn-50506180",
+                "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+                "source": "Hacker News",
+                "time": "1h ago",
+                "relevance": 75
+            },
+            {
                 "id": "rss-wia6dh7l",
                 "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
                 "source": "TechCrunch",
                 "time": "18h ago",
-                "relevance": 86
-            },
+                "relevance": 65
+            }
+        ]
+    },
+    {
+        "id": "topic-space",
+        "name": "space",
+        "icon": "•",
+        "color": "#8b949e",
+        "stories": [
             {
-                "id": "rss-upy7sl44",
-                "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+                "id": "rss-m40p5kw9",
+                "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
                 "source": "TechCrunch",
-                "time": "14h ago",
-                "relevance": 81
+                "time": "20h ago",
+                "relevance": 79
             },
             {
-                "id": "rss-arxrttna",
-                "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+                "id": "rss-1l8t2gce",
+                "title": "SpaceX catches the Starship to end Flight 15",
                 "source": "Hacker News",
-                "time": "10h ago",
-                "relevance": 72
+                "time": "16h ago",
+                "relevance": 75
             }
         ]
     },
@@ -117,21 +110,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-jrehfxr4",
-                "title": "AI agent startup LangChain hits $3B valuation",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-j6ipbznz",
+                "id": "rss-yrx4dbis",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-6gvhd870",
+                "id": "rss-plqro2sj",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -140,31 +126,24 @@ const NEWSLETTER_DATA = {
         ]
     },
     {
-        "id": "topic-research",
-        "name": "Research & Breakthroughs",
+        "id": "topic-llms",
+        "name": "Large Language Models",
         "icon": "◎",
-        "color": "#60a5fa",
+        "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-gut5eh3d",
-                "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
+                "id": "hn-50481321",
+                "title": "What thousands of conversations look like inside a language model",
+                "source": "Hacker News",
+                "time": "2d ago",
+                "relevance": 66
             },
             {
-                "id": "rss-a7k4r27x",
-                "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-a56k2f1d",
-                "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
+                "id": "hn-50441444",
+                "title": "Generative AI uses more energy on non-English text",
+                "source": "Hacker News",
+                "time": "4d ago",
+                "relevance": 65
             }
         ]
     }
@@ -172,7 +151,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-ad1f7yuq",
+        "id": "arxiv-w5d2gn7u",
         "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
         "authors": "Yanke Song, Shuo Chen, Chris Rockwell, Guande He, Nan Liu,…",
         "journal": "arXiv preprint",
@@ -181,7 +160,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.17336v1"
     },
     {
-        "id": "arxiv-rpk9e835",
+        "id": "arxiv-qq5s3fxg",
         "title": "Unbundling Multimodal Vision Encoding",
         "authors": "Ellis Brown, Chris Hoang, Shengyi Qian, Shang-Wen Li, Mike…",
         "journal": "arXiv preprint",
@@ -190,7 +169,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.17334v1"
     },
     {
-        "id": "arxiv-v24u2kqu",
+        "id": "arxiv-j2awczpa",
         "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
         "authors": "Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen,…",
         "journal": "arXiv preprint",
@@ -199,7 +178,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.17331v1"
     },
     {
-        "id": "arxiv-qyae88dd",
+        "id": "arxiv-lt01l2x1",
         "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
         "authors": "Jie Wang, Tong Zhu, JiaHao Kuang, Zhe Xu, Yunkai Chai,…",
         "journal": "arXiv preprint",
@@ -208,7 +187,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.17332v1"
     },
     {
-        "id": "arxiv-bcc2wzfs",
+        "id": "arxiv-nb2t1r5e",
         "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
         "authors": "Guangyuan Sui, Yunzhong Hou, Chi Harold Liu",
         "journal": "arXiv preprint",
@@ -217,7 +196,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.17330v1"
     },
     {
-        "id": "arxiv-799l2m5t",
+        "id": "arxiv-b6c26yof",
         "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
         "authors": "Zeynep Yıldız, Satchit Chatterji, Ercan Atam, Erman Acar",
         "journal": "arXiv preprint",
@@ -229,16 +208,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-bhucf625",
+        "id": "gh-bzlyt68p",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "263.3k",
+        "stars": "263.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-nvpu454o",
+        "id": "gh-8sly8jhq",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.0k",
@@ -247,16 +226,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-b5x54sxl",
+        "id": "gh-a0oqk93r",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.1k",
+        "stars": "161.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-03bzkhj5",
+        "id": "gh-icnh79t4",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "169.0k",
@@ -265,7 +244,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-8cjpeqzu",
+        "id": "gh-f6ia6kkg",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.5k",
@@ -274,7 +253,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-worl2syw",
+        "id": "gh-jf37k0yn",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.3k",
@@ -283,10 +262,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-j2srkvb8",
+        "id": "gh-hsz7ns1d",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "146.8k",
+        "stars": "146.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -295,28 +274,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-a56k2f1d",
-        "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
-        "desc": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a…",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "MarkTechPost"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-6mww7ylk",
-        "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "desc": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Google Blog"
-    },
-    {
-        "id": "ng-hn-50488470",
-        "title": "Found: A protein that drives ageing without unleashing inflammation",
-        "desc": "Click to read more about this development.",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
         "tag": "Biotech",
         "tagClass": "biotech",
-        "source": "Hacker News"
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
+        "tag": "Energy",
+        "tagClass": "energy",
+        "source": "Reuters"
+    },
+    {
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };
