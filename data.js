@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-15T13:38:37.747Z
-   Stories: 12 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-16T15:09:53.558Z
+   Stories: 13 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,19 +25,62 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-1mxe19rr",
+    "id": "rss-sbroh6ee",
     "topic": "AI Infrastructure",
     "topicId": "infra",
-    "title": "Where was Nvidia’s security team?",
-    "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate…",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "excerpt": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
     "source": "TechCrunch",
-    "time": "13h ago",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    "relevance": 95,
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
 },
 
     topics: [
+    {
+        "id": "topic-llms",
+        "name": "Large Language Models",
+        "icon": "◎",
+        "color": "#d4a03d",
+        "stories": [
+            {
+                "id": "rss-nzmie86m",
+                "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+                "source": "Google Blog",
+                "time": "4d ago",
+                "relevance": 83
+            },
+            {
+                "id": "rss-h1ixsebb",
+                "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+                "source": "Google Blog",
+                "time": "3d ago",
+                "relevance": 79
+            },
+            {
+                "id": "rss-znevmyh7",
+                "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+                "source": "Google Blog",
+                "time": "4d ago",
+                "relevance": 74
+            },
+            {
+                "id": "rss-afk9sl5p",
+                "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+                "source": "Google Blog",
+                "time": "5d ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-vhimahem",
+                "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+                "source": "MarkTechPost",
+                "time": "3d ago",
+                "relevance": 72
+            }
+        ]
+    },
     {
         "id": "topic-infra",
         "name": "AI Infrastructure",
@@ -45,61 +88,40 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-1mxe19rr",
-                "title": "Where was Nvidia’s security team?",
+                "id": "rss-sbroh6ee",
+                "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
                 "source": "TechCrunch",
-                "time": "13h ago",
-                "relevance": 88
+                "time": "Just now",
+                "relevance": 95
             },
             {
-                "id": "rss-cjpsm7xj",
-                "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-                "source": "TechCrunch",
-                "time": "21h ago",
-                "relevance": 88
-            },
-            {
-                "id": "rss-dwgit7w9",
-                "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-                "source": "TechCrunch",
-                "time": "15h ago",
-                "relevance": 81
-            },
-            {
-                "id": "hn-50506180",
-                "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+                "id": "hn-50512235",
+                "title": "What's Next for Nvidia?",
                 "source": "Hacker News",
-                "time": "1h ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-wia6dh7l",
-                "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-                "source": "TechCrunch",
-                "time": "18h ago",
-                "relevance": 65
+                "time": "15h ago",
+                "relevance": 77
             }
         ]
     },
     {
-        "id": "topic-space",
-        "name": "space",
-        "icon": "•",
-        "color": "#8b949e",
+        "id": "topic-research",
+        "name": "Research & Breakthroughs",
+        "icon": "◎",
+        "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-m40p5kw9",
-                "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-                "source": "TechCrunch",
-                "time": "20h ago",
-                "relevance": 79
+                "id": "rss-9017qdp9",
+                "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+                "source": "MarkTechPost",
+                "time": "3d ago",
+                "relevance": 75
             },
             {
-                "id": "rss-1l8t2gce",
-                "title": "SpaceX catches the Starship to end Flight 15",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 75
+                "id": "rss-e20qtqen",
+                "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+                "source": "MarkTechPost",
+                "time": "2d ago",
+                "relevance": 67
             }
         ]
     },
@@ -110,40 +132,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-yrx4dbis",
+                "id": "rss-wa78j951",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-plqro2sj",
+                "id": "rss-yvksclxo",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-llms",
-        "name": "Large Language Models",
-        "icon": "◎",
-        "color": "#d4a03d",
-        "stories": [
-            {
-                "id": "hn-50481321",
-                "title": "What thousands of conversations look like inside a language model",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 66
-            },
-            {
-                "id": "hn-50441444",
-                "title": "Generative AI uses more energy on non-English text",
-                "source": "Hacker News",
-                "time": "4d ago",
-                "relevance": 65
             }
         ]
     }
@@ -151,91 +151,91 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-w5d2gn7u",
-        "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
-        "authors": "Yanke Song, Shuo Chen, Chris Rockwell, Guande He, Nan Liu,…",
+        "id": "arxiv-ae3nbddn",
+        "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+        "authors": "Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira,…",
         "journal": "arXiv preprint",
-        "abstract": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.17336v1"
-    },
-    {
-        "id": "arxiv-qq5s3fxg",
-        "title": "Unbundling Multimodal Vision Encoding",
-        "authors": "Ellis Brown, Chris Hoang, Shengyi Qian, Shang-Wen Li, Mike…",
-        "journal": "arXiv preprint",
-        "abstract": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.17334v1"
-    },
-    {
-        "id": "arxiv-j2awczpa",
-        "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
-        "authors": "Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen,…",
-        "journal": "arXiv preprint",
-        "abstract": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.17331v1"
-    },
-    {
-        "id": "arxiv-lt01l2x1",
-        "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
-        "authors": "Jie Wang, Tong Zhu, JiaHao Kuang, Zhe Xu, Yunkai Chai,…",
-        "journal": "arXiv preprint",
-        "abstract": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2611.17332v1"
-    },
-    {
-        "id": "arxiv-nb2t1r5e",
-        "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
-        "authors": "Guangyuan Sui, Yunzhong Hou, Chi Harold Liu",
-        "journal": "arXiv preprint",
-        "abstract": "Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execution outcomes in 3D environments, existing methods often struggle to predict accurate navigation waypoints from…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.17330v1"
-    },
-    {
-        "id": "arxiv-b6c26yof",
-        "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
-        "authors": "Zeynep Yıldız, Satchit Chatterji, Ercan Atam, Erman Acar",
-        "journal": "arXiv preprint",
-        "abstract": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world…",
+        "abstract": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast,…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.17329v1"
+        "url": "http://arxiv.org/abs/2611.18563v1"
+    },
+    {
+        "id": "arxiv-wldf4a79",
+        "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+        "authors": "Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou, Nanda H.…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy. This…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2611.18561v1"
+    },
+    {
+        "id": "arxiv-0s9b1geh",
+        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+        "authors": "Jiaming Tang, Zhuoyang Zhang, Junxian Guo, Fangzhou Zhao,…",
+        "journal": "arXiv preprint",
+        "abstract": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2611.18562v1"
+    },
+    {
+        "id": "arxiv-5ixr5a6f",
+        "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+        "authors": "Genki Kinoshita, Ko Nishino",
+        "journal": "arXiv preprint",
+        "abstract": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.18559v1"
+    },
+    {
+        "id": "arxiv-j5b3ijhk",
+        "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+        "authors": "Aayush Marasini, Barsat Khadka, Nick Rahimi",
+        "journal": "arXiv preprint",
+        "abstract": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming…",
+        "badge": "ML",
+        "url": "http://arxiv.org/abs/2611.18553v1"
+    },
+    {
+        "id": "arxiv-632awy7b",
+        "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+        "authors": "Furkan Horoz, Ozgur Kara, Kaan Oktay, Adil Kaan Akan,…",
+        "journal": "arXiv preprint",
+        "abstract": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the root cause of this failure by probing the internal representations of student…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.18550v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-bzlyt68p",
+        "id": "gh-crerkinc",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "263.5k",
+        "stars": "263.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-8sly8jhq",
+        "id": "gh-hd4zi5gl",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
-        "stars": "188.0k",
+        "stars": "188.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-a0oqk93r",
+        "id": "gh-jb25tl8d",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.2k",
+        "stars": "161.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-icnh79t4",
+        "id": "gh-xje34yp1",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "169.0k",
@@ -244,7 +244,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-f6ia6kkg",
+        "id": "gh-8wyhf78y",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.5k",
@@ -253,7 +253,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-jf37k0yn",
+        "id": "gh-u1ru28pq",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.3k",
@@ -262,10 +262,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-hsz7ns1d",
+        "id": "gh-miridiqf",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "146.9k",
+        "stars": "147.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"

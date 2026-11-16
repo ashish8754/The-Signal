@@ -1,6 +1,162 @@
 {
   "stories": [
     {
+      "id": "rss-sbroh6ee",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "source": "TechCrunch",
+      "time": "Just now",
+      "rawDate": "2026-11-16 15:02:34",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "description": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "score": 95.14285714285714,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-nzmie86m",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-11-11 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "score": 83,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-h1ixsebb",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-11-12 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "description": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "score": 79,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "hn-50512235",
+      "title": "What's Next for Nvidia?",
+      "source": "Hacker News",
+      "time": "15h ago",
+      "rawDate": "2026-11-15T23:55:55.000Z",
+      "topic": "infra",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "description": "",
+      "score": 77,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-9017qdp9",
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+      "source": "MarkTechPost",
+      "time": "3d ago",
+      "rawDate": "2026-11-13 10:32:26",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "description": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost .",
+      "score": 75,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-znevmyh7",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-11-11 16:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "score": 74.42857142857143,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-afk9sl5p",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-11-11 09:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.",
+      "score": 73,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-aa8unz0x",
+      "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+      "source": "MarkTechPost",
+      "time": "2d ago",
+      "rawDate": "2026-11-13 17:23:51",
+      "topic": "multimodal",
+      "url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+      "description": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API […] The post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost .",
+      "score": 72.6923076923077,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-vhimahem",
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "source": "MarkTechPost",
+      "time": "3d ago",
+      "rawDate": "2026-11-13 09:45:48",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "description": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost .",
+      "score": 72.27272727272728,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "hn-50512441",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "source": "Hacker News",
+      "time": "14h ago",
+      "rawDate": "2026-11-16T00:21:54.000Z",
+      "topic": "security",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "description": "",
+      "score": 71,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-wa78j951",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-yvksclxo",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
+      "id": "rss-e20qtqen",
+      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+      "source": "MarkTechPost",
+      "time": "2d ago",
+      "rawDate": "2026-11-13 16:10:02",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+      "description": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate appeared first on MarkTechPost .",
+      "score": 67.22222222222223,
+      "cachedAt": "2026-11-16T15:09:53.556Z"
+    },
+    {
       "id": "rss-1mxe19rr",
       "title": "Where was Nvidia’s security team?",
       "source": "TechCrunch",
@@ -73,30 +229,6 @@
       "cachedAt": "2026-11-15T13:38:37.745Z"
     },
     {
-      "id": "rss-yrx4dbis",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "rss-plqro2sj",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
       "id": "hn-50497892",
       "title": "PyPI's redesigned project pages with clearer security signals are now live",
       "source": "Hacker News",
@@ -157,30 +289,6 @@
       "cachedAt": "2026-11-14T13:09:37.827Z"
     },
     {
-      "id": "rss-kkv0gnrk",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-11-11 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "score": 83,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
-      "id": "rss-9pw1p5po",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-11-12 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "description": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "score": 81,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
       "id": "rss-upy7sl44",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "source": "TechCrunch",
@@ -190,18 +298,6 @@
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "score": 80.85714285714286,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
-      "id": "rss-gut5eh3d",
-      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-13 10:32:26",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
-      "description": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost .",
-      "score": 77,
       "cachedAt": "2026-11-14T13:09:37.827Z"
     },
     {
@@ -226,42 +322,6 @@
       "url": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
       "description": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance appeared first on MarkTechPost .",
       "score": 75.33333333333333,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
-      "id": "rss-6mww7ylk",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-11-11 16:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "score": 74.42857142857143,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
-      "id": "rss-cj5xkqxe",
-      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-13 09:45:48",
-      "topic": "llms",
-      "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
-      "description": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost .",
-      "score": 74.27272727272728,
-      "cachedAt": "2026-11-14T13:09:37.827Z"
-    },
-    {
-      "id": "rss-ologmz2s",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-11-11 09:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.",
-      "score": 73,
       "cachedAt": "2026-11-14T13:09:37.827Z"
     },
     {
