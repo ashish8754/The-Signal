@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-17T15:40:03.959Z
-   Stories: 17 | Clusters: 3 | Papers: 6 | Repos: 7
+   Updated: 2026-11-18T15:18:28.718Z
+   Stories: 18 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-kwr7o2so",
-    "topic": "AI Agents & Autonomy",
-    "topicId": "agents",
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "excerpt": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can […]",
+    "id": "rss-2h7u64sn",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+    "excerpt": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
     "source": "TechCrunch",
-    "time": "Just now",
+    "time": "2h ago",
     "readTime": "5 min read",
-    "relevance": 93,
-    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    "relevance": 87,
+    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-tsjgpzq1",
+                "id": "rss-ib1jfapr",
+                "title": "Put Gemini to work for you",
+                "source": "Google Blog",
+                "time": "22h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-s4b7ikb7",
                 "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
                 "source": "Google Blog",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-ftb119lq",
+                "id": "rss-lzj1xsxf",
                 "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
                 "source": "Google Blog",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-erfqicf0",
-                "title": "New Ask Maps features to help with holiday travel and prep",
-                "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "hn-50529612",
-                "title": "How the Claude Code team thinks about verification",
+                "id": "hn-50543989",
+                "title": "Energy-Based Reasoners: 385x more efficient inference",
                 "source": "Hacker News",
                 "time": "5h ago",
-                "relevance": 75
+                "relevance": 79
             },
             {
-                "id": "rss-1okf9itu",
-                "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+                "id": "rss-ok99ln8p",
+                "title": "New Ask Maps features to help with holiday travel and prep",
                 "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 74
+                "time": "2d ago",
+                "relevance": 73
             }
         ]
     },
@@ -88,32 +88,61 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-caydgrus",
-                "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+                "id": "rss-3ge8uobs",
+                "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 77
             },
             {
-                "id": "rss-ycwygdgq",
-                "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+                "id": "rss-syanvtv5",
+                "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-abgi5ka3",
-                "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
-                "source": "MarkTechPost",
-                "time": "2d ago",
                 "relevance": 74
             },
             {
-                "id": "rss-av5wmeqa",
-                "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+                "id": "rss-jw1mxkuf",
+                "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 70
+                "relevance": 72
+            },
+            {
+                "id": "rss-eaf34n0g",
+                "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+                "source": "MarkTechPost",
+                "time": "2d ago",
+                "relevance": 68
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "rss-2h7u64sn",
+                "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+                "source": "TechCrunch",
+                "time": "2h ago",
+                "relevance": 87
+            },
+            {
+                "id": "rss-1g9pue7z",
+                "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+                "source": "TechCrunch",
+                "time": "13h ago",
+                "relevance": 81
+            },
+            {
+                "id": "hn-50534631",
+                "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+                "source": "Hacker News",
+                "time": "22h ago",
+                "relevance": 71
             }
         ]
     },
@@ -124,21 +153,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-kwr7o2so",
-                "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-                "source": "TechCrunch",
-                "time": "Just now",
-                "relevance": 93
-            },
-            {
-                "id": "rss-205wufjm",
+                "id": "rss-2rnz66u9",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-u23x52ao",
+                "id": "rss-nh6mzs6h",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -150,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-yf1ju149",
-        "title": "Latent Lattice Language Models",
-        "authors": "Shivam Duggal, Zongze Wu, William T. Freeman, Antonio…",
+        "id": "arxiv-dp06kmdp",
+        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+        "authors": "Giannis Daras, Marios Papachristou, Adam Klivans, Antonio…",
         "journal": "arXiv preprint",
-        "abstract": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the…",
+        "abstract": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.21608v1"
+        "url": "http://arxiv.org/abs/2611.23229v1"
     },
     {
-        "id": "arxiv-u7am1xz0",
-        "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
-        "authors": "Ruixi Yu, Dairu Liu, Xuchuan Chen, Zekun Qi, Zekai Li, Zhuo…",
+        "id": "arxiv-c3dxkka3",
+        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+        "authors": "Rui Ning, Om Chabra, Hari Balakrishnan",
         "journal": "arXiv preprint",
-        "abstract": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-Language-Action (VLA) policies still rely on much smaller VLM backbones, leaving this potential…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.21607v1"
-    },
-    {
-        "id": "arxiv-r26vdnbf",
-        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-        "authors": "Huawei Lin, Jinting Liu, Tongyan Wang, Xuyang Chen, Ruihua…",
-        "journal": "arXiv preprint",
-        "abstract": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We…",
+        "abstract": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN),…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.21605v1"
+        "url": "http://arxiv.org/abs/2611.23228v1"
     },
     {
-        "id": "arxiv-gcgd1ctn",
-        "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
-        "authors": "Siran Peng, Tianshuo Zhang, Yibo Xue, Ajian Liu, Haoyuan…",
+        "id": "arxiv-nhcrlc0o",
+        "title": "FastFrames: Video Generation at Interactive Latency",
+        "authors": "Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei…",
         "journal": "arXiv preprint",
-        "abstract": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visual plausibility. Existing MLLM-based methods typically express these judgments through textual explanations, but seldom…",
+        "abstract": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregressive video…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.21604v1"
+        "url": "http://arxiv.org/abs/2611.23226v1"
     },
     {
-        "id": "arxiv-4wfelv43",
-        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
-        "authors": "Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi,…",
+        "id": "arxiv-kd3lv9n1",
+        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+        "authors": "Xingyang Yu",
         "journal": "arXiv preprint",
-        "abstract": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eastern North Pacific tropical cyclones…",
+        "abstract": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2611.23225v1"
+    },
+    {
+        "id": "arxiv-mz2sa1v7",
+        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+        "authors": "Zhaosong Lu, Yifeng Xiao",
+        "journal": "arXiv preprint",
+        "abstract": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements. Consequently, any desirable approximate solution must (nearly) satisfy these constraints. Motivated by…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2611.23221v1"
+    },
+    {
+        "id": "arxiv-i0gr0qfa",
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "authors": "Shobhita Sundaram, Cansu Sancaktar, Phillip Isola",
+        "journal": "arXiv preprint",
+        "abstract": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this…",
         "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.21602v1"
-    },
-    {
-        "id": "arxiv-j8yuwkq1",
-        "title": "How VLMs Plan What's Next",
-        "authors": "Rohit Gandikota, Arnab Sen Sharma, Adam Belfki, David Bau",
-        "journal": "arXiv preprint",
-        "abstract": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts. First, binding heads match the…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.21600v1"
+        "url": "http://arxiv.org/abs/2611.23219v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-88vx2wgp",
+        "id": "gh-7vp5ovn1",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "264.1k",
+        "stars": "264.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-fpqapu74",
+        "id": "gh-ya7pu5bc",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.1k",
@@ -225,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-da912xws",
+        "id": "gh-s1xumx6j",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
         "stars": "161.4k",
@@ -234,25 +256,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-zuizynxk",
+        "id": "gh-v5qpei8h",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "169.3k",
+        "stars": "169.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-mdikhti9",
+        "id": "gh-6cqdseea",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.8k",
+        "stars": "105.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-25n86koh",
+        "id": "gh-qnuzbd6j",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.3k",
@@ -261,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-ssu2ue3p",
+        "id": "gh-r7uvy6t4",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "147.3k",
+        "stars": "147.5k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
