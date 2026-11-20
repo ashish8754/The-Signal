@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-19T15:25:30.490Z
-   Stories: 16 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-20T15:01:33.463Z
+   Stories: 13 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-7cjup3a1",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "excerpt": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "source": "TechCrunch",
-    "time": "Just now",
+    "id": "rss-83kg4pdo",
+    "topic": "LLMs & Generative AI",
+    "topicId": "llms",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "excerpt": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "source": "Google Blog",
+    "time": "21h ago",
     "readTime": "5 min read",
-    "relevance": 92,
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+    "relevance": 88,
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
 },
 
     topics: [
@@ -45,68 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-xgycj01y",
+                "id": "rss-83kg4pdo",
+                "title": "Introducing Tool Retrieval in the Gemini API",
+                "source": "Google Blog",
+                "time": "21h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-kqjacii6",
+                "title": "Apple may be developing its own AI agent that runs your Mac",
+                "source": "TechCrunch",
+                "time": "14h ago",
+                "relevance": 81
+            },
+            {
+                "id": "rss-juw3vevl",
                 "title": "The Gemini app is now available on lower-memory Android devices.",
                 "source": "Google Blog",
-                "time": "22h ago",
-                "relevance": 84
+                "time": "1d ago",
+                "relevance": 81
             },
             {
-                "id": "rss-aqti8dby",
+                "id": "rss-a5hxnz2o",
                 "title": "Put Gemini to work for you",
                 "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 82
+                "time": "2d ago",
+                "relevance": 80
             },
             {
-                "id": "rss-3etv2t86",
-                "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+                "id": "rss-sxnp6764",
+                "title": "Walter Isaacson on curiosity and creativity in the AI age.",
                 "source": "Google Blog",
-                "time": "6d ago",
-                "relevance": 79
-            },
-            {
-                "id": "rss-ai2nc34s",
-                "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
-                "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 75
-            },
-            {
-                "id": "rss-yx1cimz5",
-                "title": "New Ask Maps features to help with holiday travel and prep",
-                "source": "Google Blog",
-                "time": "3d ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-agents",
-        "name": "AI Agents & Autonomy",
-        "icon": "◉",
-        "color": "#c9862e",
-        "stories": [
-            {
-                "id": "rss-v4eyax26",
-                "title": "Superhuman pushes its Go assistant everywhere",
-                "source": "TechCrunch",
-                "time": "1h ago",
-                "relevance": 90
-            },
-            {
-                "id": "rss-akmj6z6n",
-                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-                "source": "VentureBeat",
-                "time": "Aug 27",
-                "relevance": 69
-            },
-            {
-                "id": "rss-yg3f54d5",
-                "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                "source": "VentureBeat",
-                "time": "Aug 26",
-                "relevance": 69
+                "time": "22h ago",
+                "relevance": 78
             }
         ]
     },
@@ -117,47 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-093zpmsa",
-                "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+                "id": "rss-7e2to486",
+                "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 75
+                "relevance": 72
             },
             {
-                "id": "rss-o2whjhb9",
-                "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+                "id": "rss-zuielqb0",
+                "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 75
+                "relevance": 71
             },
             {
-                "id": "rss-71l6ixk2",
-                "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+                "id": "rss-mwtor07a",
+                "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 68
+                "relevance": 70
             }
         ]
     },
     {
-        "id": "topic-devtools",
-        "name": "Developer Tools",
-        "icon": "◇",
-        "color": "#38bdf8",
+        "id": "topic-agents",
+        "name": "AI Agents & Autonomy",
+        "icon": "◉",
+        "color": "#c9862e",
         "stories": [
             {
-                "id": "hn-50536950",
-                "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
-                "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 66
+                "id": "rss-zpoz9qxu",
+                "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+                "source": "VentureBeat",
+                "time": "Aug 27",
+                "relevance": 69
             },
             {
-                "id": "hn-50522991",
-                "title": "Funkycache: A Python library to cache functions in SQLite",
-                "source": "Hacker News",
-                "time": "2d ago",
-                "relevance": 65
+                "id": "rss-lb7qp6pe",
+                "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                "source": "VentureBeat",
+                "time": "Aug 26",
+                "relevance": 69
             }
         ]
     }
@@ -165,73 +136,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-xb35psr5",
-        "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
-        "authors": "Jingzhi Bao, Xiaohe Ma, Hong Li, Yuanming Hu, Xiaoguang Han",
-        "journal": "ACM Trans. Graph. 45, 6, Article 265 (December 2026)",
-        "abstract": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle to infer accurate…",
+        "id": "arxiv-qa0wxjzj",
+        "title": "Posterior Matching Distillation",
+        "authors": "Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag",
+        "journal": "arXiv preprint",
+        "abstract": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student's output distribution to the teacher's. This matching is often driven by reverse-KL objectives,…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.24941v1"
+        "url": "http://arxiv.org/abs/2611.26629v1"
     },
     {
-        "id": "arxiv-4lrmn04h",
-        "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
-        "authors": "Junjie Ye, Yiqi Zhao, Muchen Xu, Celina Shiyu Wang, Hao…",
+        "id": "arxiv-e46fc46m",
+        "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+        "authors": "Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan…",
         "journal": "arXiv preprint",
-        "abstract": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action generation for control, yet inherit the heavy cost of video generators. Recent latent-space policies…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.24940v1"
+        "abstract": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.26627v1"
     },
     {
-        "id": "arxiv-toc08ke5",
-        "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
-        "authors": "Yupeng Zheng, Chaoyue Li, Linbo Wang, Xiang Li, Yuhang…",
+        "id": "arxiv-ayqapc58",
+        "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+        "authors": "Weihao Cheng",
         "journal": "arXiv preprint",
-        "abstract": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes needed for manipulation. We introduce Phoenix, which learns representations of scene structure for world-action…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.24938v1"
-    },
-    {
-        "id": "arxiv-nxdccyhh",
-        "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-        "authors": "Yan Qiu, Yuanyuan Li",
-        "journal": "arXiv preprint",
-        "abstract": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2611.24936v1"
-    },
-    {
-        "id": "arxiv-pydi5jjp",
-        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-        "authors": "Priyanka Sinha, Sugam Pandey",
-        "journal": "arXiv preprint",
-        "abstract": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait…",
+        "abstract": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play…",
         "badge": "AI",
-        "url": "http://arxiv.org/abs/2611.24932v1"
+        "url": "http://arxiv.org/abs/2611.26624v1"
     },
     {
-        "id": "arxiv-ai2ki8fa",
-        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-        "authors": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim, Rishi…",
+        "id": "arxiv-af8tzfz5",
+        "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+        "authors": "Jinbin Luo, Xiaozhe Yao, Shang Yang, Zhijian Liu, Song Han,…",
         "journal": "arXiv preprint",
-        "abstract": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the…",
+        "abstract": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU…",
         "badge": "Research",
-        "url": "http://arxiv.org/abs/2611.24927v1"
+        "url": "http://arxiv.org/abs/2611.26619v1"
+    },
+    {
+        "id": "arxiv-58kx2xhl",
+        "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+        "authors": "Yuxin Jiang, Wenqiang Sun, Jiaqi Li, Yuchao Gu, Lvmin…",
+        "journal": "arXiv preprint",
+        "abstract": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.26617v1"
+    },
+    {
+        "id": "arxiv-55mj6zge",
+        "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+        "authors": "Yansong Qu, Wesker Zheng, Quanjian Song, Zhiyuan Zhang,…",
+        "journal": "arXiv preprint",
+        "abstract": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory costs. We present ScaleWorld, a causal video model that unifies low-resolution world prediction and high-resolution…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.26615v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-x81npuyv",
+        "id": "gh-gv20mzbg",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "264.7k",
+        "stars": "264.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-m0js4ygq",
+        "id": "gh-y00gof7g",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.1k",
@@ -240,16 +211,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-jaw5qndq",
+        "id": "gh-g2hd6awo",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.5k",
+        "stars": "161.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-fuot9sfz",
+        "id": "gh-1x8x4rrn",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "169.3k",
@@ -258,28 +229,28 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-vjvkd311",
+        "id": "gh-hff6bmnf",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.7k",
+        "stars": "105.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-28x77kyf",
+        "id": "gh-ssabikbv",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
-        "stars": "165.3k",
+        "stars": "165.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-cgjozw9t",
+        "id": "gh-lz06v9yu",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "147.6k",
+        "stars": "147.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
