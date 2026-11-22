@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-21T14:23:37.755Z
-   Stories: 20 | Clusters: 5 | Papers: 6 | Repos: 7
+   Updated: 2026-11-22T14:16:15.504Z
+   Stories: 15 | Clusters: 3 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-3xwq3wtu",
+    "id": "rss-bgwkcbis",
     "topic": "AI Infrastructure",
     "topicId": "infra",
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "excerpt": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+    "title": "A tale of two Nvidias",
+    "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
     "source": "TechCrunch",
-    "time": "23h ago",
+    "time": "17h ago",
     "readTime": "5 min read",
-    "relevance": 88,
-    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    "relevance": 86,
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-twlaoyp5",
+                "id": "rss-pn0gx3sa",
                 "title": "Introducing Tool Retrieval in the Gemini API",
                 "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 85
+                "time": "2d ago",
+                "relevance": 83
             },
             {
-                "id": "rss-jnze02pr",
-                "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
-                "source": "MarkTechPost",
-                "time": "23h ago",
-                "relevance": 80
-            },
-            {
-                "id": "rss-rivdx0ij",
+                "id": "rss-b4l4bpnp",
                 "title": "Put Gemini to work for you",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-xf04m3s8",
+                "id": "rss-cx4aaowy",
                 "title": "The Gemini app is now available on lower-memory Android devices.",
                 "source": "Google Blog",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-iwtq54ud",
+                "id": "hn-50595554",
+                "title": "Data Processing Incidents on Inference Providers",
+                "source": "Hacker News",
+                "time": "12h ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-ygslgz7h",
                 "title": "Walter Isaacson on curiosity and creativity in the AI age.",
                 "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 75
+                "time": "2d ago",
+                "relevance": 73
             }
         ]
     },
@@ -88,25 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-mhlkotcy",
-                "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+                "id": "rss-zzolh36v",
+                "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 74
+                "relevance": 76
             },
             {
-                "id": "rss-qz2nrpvk",
-                "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+                "id": "rss-kzztubwv",
+                "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 73
+            },
+            {
+                "id": "rss-0uznckbh",
+                "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
                 "source": "MarkTechPost",
                 "time": "1d ago",
                 "relevance": 71
             },
             {
-                "id": "rss-912gup69",
-                "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+                "id": "rss-iglx690a",
+                "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 71
+                "relevance": 69
             }
         ]
     },
@@ -117,69 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-44zxtxsy",
-                "title": "ClawDOS – An AI coding agent for DOS",
-                "source": "Hacker News",
-                "time": "8h ago",
-                "relevance": 70
-            },
-            {
-                "id": "rss-l8lm6nj5",
+                "id": "rss-lvmm09r6",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-qgmwje4a",
+                "id": "rss-frzk24wy",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
                 "relevance": 69
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-3xwq3wtu",
-                "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-                "source": "TechCrunch",
-                "time": "23h ago",
-                "relevance": 88
-            },
-            {
-                "id": "hn-50579297",
-                "title": "Vibecoding an inference chip",
-                "source": "Hacker News",
-                "time": "20h ago",
-                "relevance": 77
-            }
-        ]
-    },
-    {
-        "id": "topic-opensource",
-        "name": "Open Source",
-        "icon": "⚡",
-        "color": "#4ade80",
-        "stories": [
-            {
-                "id": "hn-50587875",
-                "title": "My Monitor Was Cutting My Download Speed by 75%",
-                "source": "Hacker News",
-                "time": "3h ago",
-                "relevance": 74
-            },
-            {
-                "id": "hn-50532613",
-                "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-                "source": "Hacker News",
-                "time": "3d ago",
-                "relevance": 66
             }
         ]
     }
@@ -187,7 +143,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-p816q4om",
+        "id": "arxiv-1qb5qkzp",
         "title": "Posterior Matching Distillation",
         "authors": "Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag",
         "journal": "arXiv preprint",
@@ -196,7 +152,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.26629v1"
     },
     {
-        "id": "arxiv-gmyuwcge",
+        "id": "arxiv-h2bjygqt",
         "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
         "authors": "Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan…",
         "journal": "arXiv preprint",
@@ -205,7 +161,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.26627v1"
     },
     {
-        "id": "arxiv-8t76nmh7",
+        "id": "arxiv-y5jwktq8",
         "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
         "authors": "Weihao Cheng",
         "journal": "arXiv preprint",
@@ -214,7 +170,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.26624v1"
     },
     {
-        "id": "arxiv-b7pwxn2h",
+        "id": "arxiv-1ucgoo5k",
         "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
         "authors": "Jinbin Luo, Xiaozhe Yao, Shang Yang, Zhijian Liu, Song Han,…",
         "journal": "arXiv preprint",
@@ -223,7 +179,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.26619v1"
     },
     {
-        "id": "arxiv-w9sf4x0m",
+        "id": "arxiv-sp7obfkh",
         "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
         "authors": "Yuxin Jiang, Wenqiang Sun, Jiaqi Li, Yuchao Gu, Lvmin…",
         "journal": "arXiv preprint",
@@ -232,7 +188,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.26617v1"
     },
     {
-        "id": "arxiv-h80enfye",
+        "id": "arxiv-uatrwrza",
         "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
         "authors": "Yansong Qu, Wesker Zheng, Quanjian Song, Zhiyuan Zhang,…",
         "journal": "arXiv preprint",
@@ -244,16 +200,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-uk3qb2ok",
+        "id": "gh-uzpstt9e",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "265.1k",
+        "stars": "265.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-28wllhn8",
+        "id": "gh-lowao26r",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.1k",
@@ -262,25 +218,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-kc5a1yg3",
+        "id": "gh-k7zv8yqx",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.6k",
+        "stars": "161.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-r7l2rese",
+        "id": "gh-1gorohp1",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "169.3k",
+        "stars": "169.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-2arbmeqa",
+        "id": "gh-0hg7m2er",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.8k",
@@ -289,7 +245,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-xzz3ced3",
+        "id": "gh-7j7nvxd0",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.4k",
@@ -298,10 +254,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-v5acv5v6",
+        "id": "gh-5b89xvp6",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "147.9k",
+        "stars": "148.1k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -310,36 +266,44 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "ng-rss-jm2p8dto",
-        "title": "Chips can survive the space environment — can their financing?",
-        "desc": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "TechCrunch"
+        "id": "n1",
+        "title": "Quantum Error Correction Milestone Achieved",
+        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Nature"
     },
     {
-        "id": "ng-rss-sh7lr3rt",
-        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-        "desc": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "id": "n2",
+        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
+        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "tag": "Biotech",
+        "tagClass": "biotech",
+        "source": "DeepMind"
+    },
+    {
+        "id": "n3",
+        "title": "Commercial Space Stations Planned for 2027",
+        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "tag": "Space",
+        "tagClass": "space",
+        "source": "SpaceNews"
+    },
+    {
+        "id": "n4",
+        "title": "Solid-State Battery Production Lines Go Live",
+        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
         "tag": "Energy",
         "tagClass": "energy",
-        "source": "TechCrunch"
+        "source": "Reuters"
     },
     {
-        "id": "ng-rss-jnze02pr",
-        "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
-        "desc": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step…",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "MarkTechPost"
-    },
-    {
-        "id": "ng-rss-rivdx0ij",
-        "title": "Put Gemini to work for you",
-        "desc": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-        "tag": "Space",
-        "tagClass": "space",
-        "source": "Google Blog"
+        "id": "n5",
+        "title": "Self-Healing Materials Enter Pilot Testing",
+        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
+        "tag": "Materials",
+        "tagClass": "materials",
+        "source": "MIT News"
     }
 ]
 };

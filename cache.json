@@ -1,6 +1,186 @@
 {
   "stories": [
     {
+      "id": "rss-bgwkcbis",
+      "title": "A tale of two Nvidias",
+      "source": "TechCrunch",
+      "time": "17h ago",
+      "rawDate": "2026-11-21 21:07:42",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "score": 86,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-pn0gx3sa",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-11-19 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "description": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "score": 83,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-b4l4bpnp",
+      "title": "Put Gemini to work for you",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-11-17 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "description": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-cx4aaowy",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-11-18 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "description": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "score": 79,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "hn-50595554",
+      "title": "Data Processing Incidents on Inference Providers",
+      "source": "Hacker News",
+      "time": "12h ago",
+      "rawDate": "2026-11-22T02:14:14.000Z",
+      "topic": "llms",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "description": "",
+      "score": 77,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-zzolh36v",
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-21 11:46:17",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "description": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost .",
+      "score": 76.0909090909091,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "hn-50597612",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "source": "Hacker News",
+      "time": "5h ago",
+      "rawDate": "2026-11-22T08:57:34.000Z",
+      "topic": "energy",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "description": "",
+      "score": 73.33333333333333,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-kzztubwv",
+      "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-20 17:42:29",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+      "description": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only appeared first on MarkTechPost .",
+      "score": 73.15384615384616,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-ygslgz7h",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "source": "Google Blog",
+      "time": "2d ago",
+      "rawDate": "2026-11-19 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "score": 73,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-0uznckbh",
+      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-21 12:13:50",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "description": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost .",
+      "score": 71.28571428571429,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-lvmm09r6",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-iglx690a",
+      "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-21 04:01:04",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+      "description": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost .",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "rss-frzk24wy",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "hn-50587875",
+      "title": "My monitor was cutting my download speed by 75%",
+      "source": "Hacker News",
+      "time": "1d ago",
+      "rawDate": "2026-11-21T10:36:32.000Z",
+      "topic": "opensource",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "description": "",
+      "score": 66.22222222222223,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
+      "id": "hn-50566495",
+      "title": "Self-hosted library branch over public web OPDS",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-11-19T21:15:47.000Z",
+      "topic": "devtools",
+      "url": "https://joinmayberry.com/",
+      "description": "",
+      "score": 64.85714285714286,
+      "cachedAt": "2026-11-22T14:16:15.501Z"
+    },
+    {
       "id": "rss-3xwq3wtu",
       "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
       "source": "TechCrunch",
@@ -22,18 +202,6 @@
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
       "score": 86,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
-      "id": "rss-twlaoyp5",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-11-19 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "description": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "score": 85,
       "cachedAt": "2026-11-21T14:23:37.753Z"
     },
     {
@@ -61,30 +229,6 @@
       "cachedAt": "2026-11-21T14:23:37.753Z"
     },
     {
-      "id": "rss-rivdx0ij",
-      "title": "Put Gemini to work for you",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-11-17 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "description": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
-      "id": "rss-xf04m3s8",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-11-18 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "description": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "score": 79,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
       "id": "hn-50579297",
       "title": "Vibecoding an inference chip",
       "source": "Hacker News",
@@ -94,30 +238,6 @@
       "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
       "description": "",
       "score": 77,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
-      "id": "rss-iwtq54ud",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "source": "Google Blog",
-      "time": "1d ago",
-      "rawDate": "2026-11-19 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "score": 75,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
-      "id": "hn-50587875",
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "source": "Hacker News",
-      "time": "3h ago",
-      "rawDate": "2026-11-21T10:36:32.000Z",
-      "topic": "opensource",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "description": "",
-      "score": 74.22222222222223,
       "cachedAt": "2026-11-21T14:23:37.753Z"
     },
     {
@@ -178,30 +298,6 @@
       "url": "http://ricapar.net/ClawDOS/",
       "description": "Comments",
       "score": 69.5,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
-      "id": "rss-l8lm6nj5",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-11-21T14:23:37.753Z"
-    },
-    {
-      "id": "rss-qgmwje4a",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-11-21T14:23:37.753Z"
     },
     {
@@ -839,126 +935,6 @@
       "description": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate appeared first on MarkTechPost .",
       "score": 67.22222222222223,
       "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "rss-1mxe19rr",
-      "title": "Where was Nvidia’s security team?",
-      "source": "TechCrunch",
-      "time": "13h ago",
-      "rawDate": "2026-11-15 00:08:07",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "score": 88,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "rss-cjpsm7xj",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "source": "TechCrunch",
-      "time": "21h ago",
-      "rawDate": "2026-11-14 16:34:15",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "score": 88,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "rss-dwgit7w9",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "source": "TechCrunch",
-      "time": "15h ago",
-      "rawDate": "2026-11-14 21:41:22",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "score": 80.85714285714286,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "rss-m40p5kw9",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "source": "TechCrunch",
-      "time": "20h ago",
-      "rawDate": "2026-11-14 17:30:00",
-      "topic": "space",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "score": 79.42857142857143,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "hn-50506180",
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "source": "Hacker News",
-      "time": "1h ago",
-      "rawDate": "2026-11-15T11:40:51.000Z",
-      "topic": "infra",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "description": "",
-      "score": 75.33333333333333,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "rss-1l8t2gce",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "source": "Hacker News",
-      "time": "16h ago",
-      "rawDate": "2026-11-14 21:22:24",
-      "topic": "space",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "description": "Comments",
-      "score": 74.5,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "hn-50497892",
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "source": "Hacker News",
-      "time": "21h ago",
-      "rawDate": "2026-11-14T15:40:52.000Z",
-      "topic": "devtools",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "description": "",
-      "score": 68.81818181818181,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "hn-50481321",
-      "title": "What thousands of conversations look like inside a language model",
-      "source": "Hacker News",
-      "time": "2d ago",
-      "rawDate": "2026-11-13T10:26:01.000Z",
-      "topic": "llms",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "description": "",
-      "score": 66,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "hn-50441444",
-      "title": "Generative AI uses more energy on non-English text",
-      "source": "Hacker News",
-      "time": "4d ago",
-      "rawDate": "2026-11-10T15:07:28.000Z",
-      "topic": "llms",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "description": "",
-      "score": 64.5,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
-    },
-    {
-      "id": "rss-wia6dh7l",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "source": "TechCrunch",
-      "time": "18h ago",
-      "rawDate": "2026-11-13 18:40:30",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "score": 59,
-      "cachedAt": "2026-11-15T13:38:37.745Z"
     }
   ]
 }
