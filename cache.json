@@ -1,6 +1,210 @@
 {
   "stories": [
     {
+      "id": "rss-r148es68",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "source": "TechCrunch",
+      "time": "Just now",
+      "rawDate": "2026-11-23 16:57:40",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "description": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI industry built on top of Nvidia’s AI infrastructure, […]",
+      "score": 95.5,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-muux8l9w",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "source": "TechCrunch",
+      "time": "Just now",
+      "rawDate": "2026-11-23 16:39:10",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "description": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+      "score": 93,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-80z9a458",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "source": "TechCrunch",
+      "time": "2h ago",
+      "rawDate": "2026-11-23 15:04:01",
+      "topic": "infra",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "score": 87.28571428571429,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-ri3fs1om",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "source": "Google Blog",
+      "time": "3d ago",
+      "rawDate": "2026-11-19 18:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "description": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "score": 83,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-hiyhq67w",
+      "title": "Put Gemini to work for you",
+      "source": "Google Blog",
+      "time": "6d ago",
+      "rawDate": "2026-11-17 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "description": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "score": 79.66666666666667,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-zmpd9zud",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "source": "Google Blog",
+      "time": "5d ago",
+      "rawDate": "2026-11-18 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "description": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "score": 79,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-765xwniu",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "source": "Hacker News",
+      "time": "3h ago",
+      "rawDate": "2026-11-23 14:00:18",
+      "topic": "infra",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "description": "Comments",
+      "score": 78.66666666666667,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-0y8lxo2l",
+      "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-22 10:03:54",
+      "topic": "llms",
+      "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+      "description": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost .",
+      "score": 77,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "hn-50612686",
+      "title": "GTA 6 Xbox executable released early by cyberleek",
+      "source": "Hacker News",
+      "time": "2h ago",
+      "rawDate": "2026-11-23T14:49:44.000Z",
+      "topic": "opensource",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "description": "",
+      "score": 74.5,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-4vxezuqm",
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "source": "MarkTechPost",
+      "time": "2d ago",
+      "rawDate": "2026-11-21 11:46:17",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "description": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost .",
+      "score": 74.0909090909091,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-p0ep7r3z",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "source": "Google Blog",
+      "time": "4d ago",
+      "rawDate": "2026-11-19 17:00:00",
+      "topic": "llms",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "score": 73,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-90ah7uen",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "source": "VentureBeat",
+      "time": "Aug 27",
+      "rawDate": "2026-08-27 14:01:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "description": "Presented by Gravitee Read more",
+      "score": 69.33333333333333,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-9pxdwnw6",
+      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "source": "MarkTechPost",
+      "time": "2d ago",
+      "rawDate": "2026-11-21 12:13:50",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "description": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost .",
+      "score": 69.28571428571429,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-nqrva8oj",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "source": "Hacker News",
+      "time": "7h ago",
+      "rawDate": "2026-11-23 10:06:43",
+      "topic": "llms",
+      "url": "https://z.ai/blog/glm-5.4",
+      "description": "Comments",
+      "score": 69.22222222222223,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-pltt1los",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "source": "VentureBeat",
+      "time": "Aug 26",
+      "rawDate": "2026-08-26 14:30:00",
+      "topic": "agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "description": "Presented by Tata Communications Read more",
+      "score": 69.07692307692308,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "rss-aaow5v0o",
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "source": "MarkTechPost",
+      "time": "1d ago",
+      "rawDate": "2026-11-22 01:51:43",
+      "topic": "research",
+      "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "description": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first on MarkTechPost .",
+      "score": 68.25,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
+      "id": "hn-50587439",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "source": "Hacker News",
+      "time": "2d ago",
+      "rawDate": "2026-11-21T09:14:02.000Z",
+      "topic": "space",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "description": "",
+      "score": 66,
+      "cachedAt": "2026-11-23T17:38:25.308Z"
+    },
+    {
       "id": "rss-bgwkcbis",
       "title": "A tale of two Nvidias",
       "source": "TechCrunch",
@@ -13,42 +217,6 @@
       "cachedAt": "2026-11-22T14:16:15.501Z"
     },
     {
-      "id": "rss-pn0gx3sa",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-11-19 18:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "description": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "score": 83,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
-      "id": "rss-b4l4bpnp",
-      "title": "Put Gemini to work for you",
-      "source": "Google Blog",
-      "time": "4d ago",
-      "rawDate": "2026-11-17 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "description": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "score": 79.66666666666667,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
-      "id": "rss-cx4aaowy",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "source": "Google Blog",
-      "time": "3d ago",
-      "rawDate": "2026-11-18 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "description": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "score": 79,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
       "id": "hn-50595554",
       "title": "Data Processing Incidents on Inference Providers",
       "source": "Hacker News",
@@ -58,18 +226,6 @@
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "description": "",
       "score": 77,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
-      "id": "rss-zzolh36v",
-      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-21 11:46:17",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
-      "description": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost .",
-      "score": 76.0909090909091,
       "cachedAt": "2026-11-22T14:16:15.501Z"
     },
     {
@@ -97,42 +253,6 @@
       "cachedAt": "2026-11-22T14:16:15.501Z"
     },
     {
-      "id": "rss-ygslgz7h",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "source": "Google Blog",
-      "time": "2d ago",
-      "rawDate": "2026-11-19 17:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "score": 73,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
-      "id": "rss-0uznckbh",
-      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
-      "source": "MarkTechPost",
-      "time": "1d ago",
-      "rawDate": "2026-11-21 12:13:50",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
-      "description": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost .",
-      "score": 71.28571428571429,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
-      "id": "rss-lvmm09r6",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "source": "VentureBeat",
-      "time": "Aug 27",
-      "rawDate": "2026-08-27 14:01:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Read more",
-      "score": 69.33333333333333,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
       "id": "rss-iglx690a",
       "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
       "source": "MarkTechPost",
@@ -142,18 +262,6 @@
       "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
       "description": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost .",
       "score": 69.22222222222223,
-      "cachedAt": "2026-11-22T14:16:15.501Z"
-    },
-    {
-      "id": "rss-frzk24wy",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "source": "VentureBeat",
-      "time": "Aug 26",
-      "rawDate": "2026-08-26 14:30:00",
-      "topic": "agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "description": "Presented by Tata Communications Read more",
-      "score": 69.07692307692308,
       "cachedAt": "2026-11-22T14:16:15.501Z"
     },
     {
@@ -839,102 +947,6 @@
       "description": "",
       "score": 69.85714285714286,
       "cachedAt": "2026-11-17T15:40:03.956Z"
-    },
-    {
-      "id": "rss-sbroh6ee",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "source": "TechCrunch",
-      "time": "Just now",
-      "rawDate": "2026-11-16 15:02:34",
-      "topic": "infra",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "description": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "score": 95.14285714285714,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "hn-50512235",
-      "title": "What's Next for Nvidia?",
-      "source": "Hacker News",
-      "time": "15h ago",
-      "rawDate": "2026-11-15T23:55:55.000Z",
-      "topic": "infra",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "description": "",
-      "score": 77,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "rss-9017qdp9",
-      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-      "source": "MarkTechPost",
-      "time": "3d ago",
-      "rawDate": "2026-11-13 10:32:26",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
-      "description": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost .",
-      "score": 75,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "rss-afk9sl5p",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "source": "Google Blog",
-      "time": "5d ago",
-      "rawDate": "2026-11-11 09:00:00",
-      "topic": "llms",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.",
-      "score": 73,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "rss-aa8unz0x",
-      "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
-      "source": "MarkTechPost",
-      "time": "2d ago",
-      "rawDate": "2026-11-13 17:23:51",
-      "topic": "multimodal",
-      "url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
-      "description": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API […] The post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost .",
-      "score": 72.6923076923077,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "rss-vhimahem",
-      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
-      "source": "MarkTechPost",
-      "time": "3d ago",
-      "rawDate": "2026-11-13 09:45:48",
-      "topic": "llms",
-      "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
-      "description": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost .",
-      "score": 72.27272727272728,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "hn-50512441",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "source": "Hacker News",
-      "time": "14h ago",
-      "rawDate": "2026-11-16T00:21:54.000Z",
-      "topic": "security",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "description": "",
-      "score": 71,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
-    },
-    {
-      "id": "rss-e20qtqen",
-      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
-      "source": "MarkTechPost",
-      "time": "2d ago",
-      "rawDate": "2026-11-13 16:10:02",
-      "topic": "research",
-      "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
-      "description": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate appeared first on MarkTechPost .",
-      "score": 67.22222222222223,
-      "cachedAt": "2026-11-16T15:09:53.556Z"
     }
   ]
 }
