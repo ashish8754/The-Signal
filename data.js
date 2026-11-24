@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-23T17:38:25.310Z
-   Stories: 17 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-24T17:09:32.879Z
+   Stories: 16 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-r148es68",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "Jensen Huang isn’t out of the woods yet",
-    "excerpt": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI industry built on top of Nvidia’s AI…",
+    "id": "rss-m048obrx",
+    "topic": "Artificial Intelligence",
+    "topicId": "energy",
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "excerpt": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
     "source": "TechCrunch",
     "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 96,
-    "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+    "relevance": 93,
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
 },
 
     topics: [
@@ -45,75 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-ri3fs1om",
+                "id": "rss-eq2ks4cw",
                 "title": "Introducing Tool Retrieval in the Gemini API",
                 "source": "Google Blog",
-                "time": "3d ago",
+                "time": "4d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-hiyhq67w",
-                "title": "Put Gemini to work for you",
+                "id": "rss-sj8s9gyr",
+                "title": "A more tailored Google Search that’s uniquely yours",
                 "source": "Google Blog",
-                "time": "6d ago",
+                "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-zmpd9zud",
+                "id": "rss-3ldqz89j",
                 "title": "The Gemini app is now available on lower-memory Android devices.",
                 "source": "Google Blog",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 79
             },
             {
-                "id": "rss-0y8lxo2l",
+                "id": "hn-50627340",
+                "title": "LLM agents work for their parent companies, not for you",
+                "source": "Hacker News",
+                "time": "4h ago",
+                "relevance": 76
+            },
+            {
+                "id": "rss-fm0apol9",
                 "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 77
-            },
-            {
-                "id": "rss-p0ep7r3z",
-                "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-                "source": "Google Blog",
-                "time": "4d ago",
-                "relevance": 73
-            }
-        ]
-    },
-    {
-        "id": "topic-infra",
-        "name": "AI Infrastructure",
-        "icon": "▣",
-        "color": "#fb923c",
-        "stories": [
-            {
-                "id": "rss-r148es68",
-                "title": "Jensen Huang isn’t out of the woods yet",
-                "source": "TechCrunch",
-                "time": "Just now",
-                "relevance": 96
-            },
-            {
-                "id": "rss-muux8l9w",
-                "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-                "source": "TechCrunch",
-                "time": "Just now",
-                "relevance": 93
-            },
-            {
-                "id": "rss-80z9a458",
-                "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-                "source": "TechCrunch",
-                "time": "2h ago",
-                "relevance": 87
-            },
-            {
-                "id": "rss-765xwniu",
-                "title": "Nvidia Reinstates Jensen Huang as CEO",
-                "source": "Hacker News",
-                "time": "3h ago",
-                "relevance": 79
+                "time": "2d ago",
+                "relevance": 75
             }
         ]
     },
@@ -124,25 +88,47 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-4vxezuqm",
-                "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+                "id": "rss-64md47ab",
+                "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
                 "source": "MarkTechPost",
-                "time": "2d ago",
+                "time": "1d ago",
+                "relevance": 77
+            },
+            {
+                "id": "rss-a64rlni4",
+                "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+                "source": "MarkTechPost",
+                "time": "1d ago",
                 "relevance": 74
             },
             {
-                "id": "rss-9pxdwnw6",
-                "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
-                "source": "MarkTechPost",
-                "time": "2d ago",
-                "relevance": 69
-            },
-            {
-                "id": "rss-aaow5v0o",
-                "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+                "id": "rss-a2g9shsa",
+                "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 68
+                "relevance": 71
+            }
+        ]
+    },
+    {
+        "id": "topic-infra",
+        "name": "AI Infrastructure",
+        "icon": "▣",
+        "color": "#fb923c",
+        "stories": [
+            {
+                "id": "hn-50629231",
+                "title": "A training engine for your local model, using your idle compute",
+                "source": "Hacker News",
+                "time": "2h ago",
+                "relevance": 74
+            },
+            {
+                "id": "hn-50611576",
+                "title": "Nvidia Reinstates Jensen Huang as CEO",
+                "source": "Hacker News",
+                "time": "1d ago",
+                "relevance": 71
             }
         ]
     },
@@ -153,14 +139,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-90ah7uen",
+                "id": "rss-gjlrc50q",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-pltt1los",
+                "id": "rss-prkr8rmc",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -172,73 +158,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-9objq3e3",
-        "title": "Optimal Linear Regression Without a Variance",
-        "authors": "Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett, Kevin…",
+        "id": "arxiv-qkw3qck6",
+        "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+        "authors": "Seongchan Kim, Soowon Son, Sangoh Kim, Hyunah Ko, Eunbeen…",
         "journal": "arXiv preprint",
-        "abstract": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction that converts…",
-        "badge": "Research",
-        "url": "http://arxiv.org/abs/2611.27983v1"
-    },
-    {
-        "id": "arxiv-xfaf713r",
-        "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&amp;P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
-        "authors": "Hari Sitaula, Joseph Opitz",
-        "journal": "arXiv preprint",
-        "abstract": "This study examines one-day-ahead forecasting of the S&amp;P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. We benchmark three model families, namely linear regression, vanilla recurrent neural networks (RNN), and long…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.27978v1"
-    },
-    {
-        "id": "arxiv-5pn73ip8",
-        "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
-        "authors": "Chang Nie, Chaoyou Fu, Songlin Liu, Yiqing Hu, Caifeng Shan",
-        "journal": "arXiv preprint",
-        "abstract": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear GPU memory growth and quadratic…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2611.27973v1"
-    },
-    {
-        "id": "arxiv-95amfyih",
-        "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
-        "authors": "Javier Sanchis, Álvaro Navarro, Jorge García-Carrasco,…",
-        "journal": "arXiv preprint",
-        "abstract": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and adolescents perform cognitive tasks. However, comparing features derived from these recordings requires consistent…",
-        "badge": "ML",
-        "url": "http://arxiv.org/abs/2611.27970v1"
-    },
-    {
-        "id": "arxiv-b93ssrun",
-        "title": "Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design",
-        "authors": "Haoyang Wang, Weibo Gao, Zhengxiong Li, Lingfeng Tao",
-        "journal": "arXiv preprint",
-        "abstract": "Dexterous hand design demands repeated expert work across geometry, robot-description code, collision debugging, grasp initialization, and policy training. We present Task2Hand, a Skill: a specification package that turns a functional manipulation brief into a parameterized hand model and routes every candidate…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.27967v1"
-    },
-    {
-        "id": "arxiv-1sbrg92i",
-        "title": "Non-penetrating World Models",
-        "authors": "Yuhang Dai, Yinwei Wu, Ziyue Lin, Han Ji, Xingyi Yang",
-        "journal": "arXiv preprint",
-        "abstract": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent…",
+        "abstract": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.27963v1"
+        "url": "http://arxiv.org/abs/2611.31240v1"
+    },
+    {
+        "id": "arxiv-qs72mw8g",
+        "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+        "authors": "Chen Wang, Jiahui Huang, Riccardo de Lutio, Alex…",
+        "journal": "arXiv preprint",
+        "abstract": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based video generation methods preserve what they have already seen, but have no anchor beyond it, where the camera drifts…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.31239v1"
+    },
+    {
+        "id": "arxiv-mmnzjr4e",
+        "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
+        "authors": "Zihang Lin, Huaiyuan Qin, Liangli Zhen, Qing Guo, Jun Liu,…",
+        "journal": "arXiv preprint",
+        "abstract": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transformers (ViTs): on white noise, which contains neither objects nor spatial structure, a few directions of their features…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.31238v1"
+    },
+    {
+        "id": "arxiv-4xtwzlkv",
+        "title": "Let Vision-Language Models Generate Images through Their Representations",
+        "authors": "JB Kim, Byungwoo Jeon, Kyungmin Lee, Hyeonmo Kang, Cheonbok…",
+        "journal": "arXiv preprint",
+        "abstract": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.31237v1"
+    },
+    {
+        "id": "arxiv-8pwas3tx",
+        "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+        "authors": "Hani Alomari, Md Atabuzzaman, Chris Thomas",
+        "journal": "arXiv preprint",
+        "abstract": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.31233v1"
+    },
+    {
+        "id": "arxiv-4g880g1v",
+        "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+        "authors": "Daniel Theron",
+        "journal": "arXiv preprint",
+        "abstract": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and…",
+        "badge": "AI",
+        "url": "http://arxiv.org/abs/2611.31228v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-hb0xbpmw",
+        "id": "gh-2waohtj6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "265.6k",
+        "stars": "265.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-sbbtqavk",
+        "id": "gh-c9adik0r",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.2k",
@@ -247,34 +233,34 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-ndsba1f4",
+        "id": "gh-4oher5y2",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.7k",
+        "stars": "161.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-4gr7o3w5",
+        "id": "gh-6bnt1shj",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "169.4k",
+        "stars": "169.2k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-gocrbend",
+        "id": "gh-eb1xy7k4",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.8k",
+        "stars": "105.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-x3x45xlo",
+        "id": "gh-381eaie3",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.4k",
@@ -283,10 +269,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-d3m0io29",
+        "id": "gh-rg3uojsj",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "148.3k",
+        "stars": "148.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
