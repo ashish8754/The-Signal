@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-24T17:09:32.879Z
-   Stories: 16 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-25T16:55:55.725Z
+   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-m048obrx",
-    "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "excerpt": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "id": "rss-ftfcd83x",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "excerpt": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
     "source": "TechCrunch",
-    "time": "Just now",
+    "time": "3h ago",
     "readTime": "5 min read",
-    "relevance": 93,
-    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
+    "relevance": 89,
+    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-eq2ks4cw",
+                "id": "rss-rzeo1epg",
                 "title": "Introducing Tool Retrieval in the Gemini API",
                 "source": "Google Blog",
-                "time": "4d ago",
+                "time": "5d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-sj8s9gyr",
+                "id": "rss-tex0s0my",
                 "title": "A more tailored Google Search that’s uniquely yours",
                 "source": "Google Blog",
                 "time": "1d ago",
                 "relevance": 80
             },
             {
-                "id": "rss-3ldqz89j",
-                "title": "The Gemini app is now available on lower-memory Android devices.",
+                "id": "rss-hnhb1gls",
+                "title": "How Gemini is changing the game for Golden State's organization and fans.",
                 "source": "Google Blog",
-                "time": "6d ago",
-                "relevance": 79
+                "time": "1d ago",
+                "relevance": 78
             },
             {
-                "id": "hn-50627340",
-                "title": "LLM agents work for their parent companies, not for you",
+                "id": "rss-uo3nuvii",
+                "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+                "source": "Google Blog",
+                "time": "5d ago",
+                "relevance": 73
+            },
+            {
+                "id": "hn-50637056",
+                "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
                 "source": "Hacker News",
-                "time": "4h ago",
-                "relevance": 76
-            },
-            {
-                "id": "rss-fm0apol9",
-                "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
-                "source": "MarkTechPost",
-                "time": "2d ago",
-                "relevance": 75
+                "time": "16h ago",
+                "relevance": 72
             }
         ]
     },
@@ -88,25 +88,39 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-64md47ab",
-                "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+                "id": "rss-e4qj0nlw",
+                "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
                 "source": "MarkTechPost",
                 "time": "1d ago",
-                "relevance": 77
+                "relevance": 76
             },
             {
-                "id": "rss-a64rlni4",
+                "id": "rss-nzcrvxzo",
+                "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 72
+            },
+            {
+                "id": "rss-15yxokhr",
                 "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 74
+                "time": "2d ago",
+                "relevance": 72
             },
             {
-                "id": "rss-a2g9shsa",
+                "id": "hn-50635783",
+                "title": "Predicting LoRA size for any dataset",
+                "source": "Hacker News",
+                "time": "18h ago",
+                "relevance": 70
+            },
+            {
+                "id": "rss-rwfttouz",
                 "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 71
+                "time": "2d ago",
+                "relevance": 69
             }
         ]
     },
@@ -117,18 +131,32 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "hn-50629231",
-                "title": "A training engine for your local model, using your idle compute",
-                "source": "Hacker News",
-                "time": "2h ago",
-                "relevance": 74
+                "id": "rss-ftfcd83x",
+                "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+                "source": "TechCrunch",
+                "time": "3h ago",
+                "relevance": 89
             },
             {
-                "id": "hn-50611576",
-                "title": "Nvidia Reinstates Jensen Huang as CEO",
+                "id": "rss-ysfssm73",
+                "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+                "source": "TechCrunch",
+                "time": "1h ago",
+                "relevance": 88
+            },
+            {
+                "id": "rss-x9ygw0h2",
+                "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+                "source": "TechCrunch",
+                "time": "16h ago",
+                "relevance": 84
+            },
+            {
+                "id": "rss-f5ixo80o",
+                "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
                 "source": "Hacker News",
-                "time": "1d ago",
-                "relevance": 71
+                "time": "12h ago",
+                "relevance": 70
             }
         ]
     },
@@ -139,14 +167,21 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-gjlrc50q",
+                "id": "rss-m761mgpd",
+                "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+                "source": "TechCrunch",
+                "time": "2h ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-nbx553je",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-prkr8rmc",
+                "id": "rss-y18f70k5",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -158,73 +193,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-qkw3qck6",
-        "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-        "authors": "Seongchan Kim, Soowon Son, Sangoh Kim, Hyunah Ko, Eunbeen…",
+        "id": "arxiv-neb06f3m",
+        "title": "OmniAct: One Policy, One Million Embodiments",
+        "authors": "Xiang Fan, Yuheng Wang, Jiayuan Yan, Bohan Fang, Wisdom…",
         "journal": "arXiv preprint",
-        "abstract": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.31240v1"
+        "abstract": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot…",
+        "badge": "Robotics",
+        "url": "http://arxiv.org/abs/2611.33158v1"
     },
     {
-        "id": "arxiv-qs72mw8g",
-        "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-        "authors": "Chen Wang, Jiahui Huang, Riccardo de Lutio, Alex…",
+        "id": "arxiv-1oqd58fh",
+        "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+        "authors": "Miguel Farinha, Sam Sartor, Iliyan Georgiev, Giuseppe…",
         "journal": "arXiv preprint",
-        "abstract": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based video generation methods preserve what they have already seen, but have no anchor beyond it, where the camera drifts…",
+        "abstract": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a different decomposition…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.31239v1"
+        "url": "http://arxiv.org/abs/2611.33157v1"
     },
     {
-        "id": "arxiv-mmnzjr4e",
-        "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
-        "authors": "Zihang Lin, Huaiyuan Qin, Liangli Zhen, Qing Guo, Jun Liu,…",
+        "id": "arxiv-xtknmuv9",
+        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+        "authors": "Binfei Ji, Zhiwen Cao, Anqi Yang, Prem Seetharaman, Shuo…",
         "journal": "arXiv preprint",
-        "abstract": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transformers (ViTs): on white noise, which contains neither objects nor spatial structure, a few directions of their features…",
+        "abstract": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model,…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.31238v1"
+        "url": "http://arxiv.org/abs/2611.33153v1"
     },
     {
-        "id": "arxiv-4xtwzlkv",
-        "title": "Let Vision-Language Models Generate Images through Their Representations",
-        "authors": "JB Kim, Byungwoo Jeon, Kyungmin Lee, Hyeonmo Kang, Cheonbok…",
+        "id": "arxiv-m46c9tz5",
+        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+        "authors": "Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano, Yuan-Sen Ting,…",
         "journal": "arXiv preprint",
-        "abstract": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge…",
+        "abstract": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.31237v1"
+        "url": "http://arxiv.org/abs/2611.33151v1"
     },
     {
-        "id": "arxiv-8pwas3tx",
-        "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-        "authors": "Hani Alomari, Md Atabuzzaman, Chris Thomas",
+        "id": "arxiv-78250d58",
+        "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+        "authors": "Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano",
         "journal": "arXiv preprint",
-        "abstract": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post…",
-        "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.31233v1"
+        "abstract": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose…",
+        "badge": "NLP",
+        "url": "http://arxiv.org/abs/2611.33148v1"
     },
     {
-        "id": "arxiv-4g880g1v",
-        "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-        "authors": "Daniel Theron",
+        "id": "arxiv-ntq6rqfm",
+        "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+        "authors": "Anthony Chen, Naomi Ken Korem, Matan Ben-Yosef, Tavi…",
         "journal": "arXiv preprint",
-        "abstract": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and…",
-        "badge": "AI",
-        "url": "http://arxiv.org/abs/2611.31228v1"
+        "abstract": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing additional shots from a single wide-angle…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.33147v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-2waohtj6",
+        "id": "gh-38ib0gwi",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "265.8k",
+        "stars": "266.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-c9adik0r",
+        "id": "gh-go1ztti9",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.2k",
@@ -233,25 +268,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-4oher5y2",
+        "id": "gh-aksdz0ob",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.8k",
+        "stars": "161.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-6bnt1shj",
+        "id": "gh-ovcy1bz7",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "169.2k",
+        "stars": "169.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-eb1xy7k4",
+        "id": "gh-18fnxwy3",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.7k",
@@ -260,7 +295,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-381eaie3",
+        "id": "gh-rxixaydu",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.4k",
@@ -269,10 +304,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-rg3uojsj",
+        "id": "gh-e2n1wj42",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "148.4k",
+        "stars": "148.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
