@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-25T16:55:55.725Z
-   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-26T16:34:16.488Z
+   Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-ftfcd83x",
-    "topic": "AI Infrastructure",
-    "topicId": "infra",
-    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-    "excerpt": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "id": "rss-m8f8awdi",
+    "topic": "Artificial Intelligence",
+    "topicId": "energy",
+    "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
     "source": "TechCrunch",
-    "time": "3h ago",
+    "time": "Just now",
     "readTime": "5 min read",
-    "relevance": 89,
-    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    "relevance": 93,
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
 },
 
     topics: [
@@ -45,39 +45,39 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-rzeo1epg",
+                "id": "rss-1dfra648",
+                "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 85
+            },
+            {
+                "id": "rss-oa18vd9a",
                 "title": "Introducing Tool Retrieval in the Gemini API",
                 "source": "Google Blog",
-                "time": "5d ago",
+                "time": "6d ago",
                 "relevance": 83
             },
             {
-                "id": "rss-tex0s0my",
-                "title": "A more tailored Google Search that’s uniquely yours",
-                "source": "Google Blog",
-                "time": "1d ago",
-                "relevance": 80
+                "id": "rss-9hxczx6z",
+                "title": "Searching for distant planets with Astra",
+                "source": "OpenAI",
+                "time": "2d ago",
+                "relevance": 82
             },
             {
-                "id": "rss-hnhb1gls",
-                "title": "How Gemini is changing the game for Golden State's organization and fans.",
+                "id": "rss-p6k60hwu",
+                "title": "A more tailored Google Search that’s uniquely yours",
                 "source": "Google Blog",
-                "time": "1d ago",
+                "time": "2d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-uo3nuvii",
-                "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+                "id": "rss-9ulq9hsr",
+                "title": "How Gemini is changing the game for Golden State's organization and fans.",
                 "source": "Google Blog",
-                "time": "5d ago",
-                "relevance": 73
-            },
-            {
-                "id": "hn-50637056",
-                "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-                "source": "Hacker News",
-                "time": "16h ago",
-                "relevance": 72
+                "time": "2d ago",
+                "relevance": 76
             }
         ]
     },
@@ -88,38 +88,31 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-e4qj0nlw",
+                "id": "rss-b1ssd87a",
                 "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 76
+                "time": "2d ago",
+                "relevance": 74
             },
             {
-                "id": "rss-nzcrvxzo",
+                "id": "rss-qxv2opkz",
                 "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
                 "source": "MarkTechPost",
-                "time": "1d ago",
-                "relevance": 72
-            },
-            {
-                "id": "rss-15yxokhr",
-                "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
-                "source": "MarkTechPost",
                 "time": "2d ago",
-                "relevance": 72
-            },
-            {
-                "id": "hn-50635783",
-                "title": "Predicting LoRA size for any dataset",
-                "source": "Hacker News",
-                "time": "18h ago",
                 "relevance": 70
             },
             {
-                "id": "rss-rwfttouz",
+                "id": "rss-j0mvno0m",
+                "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+                "source": "MarkTechPost",
+                "time": "1d ago",
+                "relevance": 69
+            },
+            {
+                "id": "rss-od7ewpz4",
                 "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
                 "source": "MarkTechPost",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 69
             }
         ]
@@ -131,32 +124,25 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-ftfcd83x",
-                "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+                "id": "rss-nwpscs6q",
+                "title": "S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks",
                 "source": "TechCrunch",
-                "time": "3h ago",
-                "relevance": 89
+                "time": "17h ago",
+                "relevance": 83
             },
             {
-                "id": "rss-ysfssm73",
-                "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+                "id": "rss-f35jhodx",
+                "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
                 "source": "TechCrunch",
-                "time": "1h ago",
-                "relevance": 88
+                "time": "20h ago",
+                "relevance": 81
             },
             {
-                "id": "rss-x9ygw0h2",
-                "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-                "source": "TechCrunch",
-                "time": "16h ago",
-                "relevance": 84
-            },
-            {
-                "id": "rss-f5ixo80o",
-                "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+                "id": "hn-50651863",
+                "title": "An algebraic quantization of gravity from the null cone",
                 "source": "Hacker News",
-                "time": "12h ago",
-                "relevance": 70
+                "time": "10h ago",
+                "relevance": 69
             }
         ]
     },
@@ -167,21 +153,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-m761mgpd",
-                "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-                "source": "TechCrunch",
-                "time": "2h ago",
-                "relevance": 85
-            },
-            {
-                "id": "rss-nbx553je",
+                "id": "rss-jqtkd5kp",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-y18f70k5",
+                "id": "rss-7g89ult9",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -193,73 +172,73 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-neb06f3m",
-        "title": "OmniAct: One Policy, One Million Embodiments",
-        "authors": "Xiang Fan, Yuheng Wang, Jiayuan Yan, Bohan Fang, Wisdom…",
+        "id": "arxiv-72o86q9c",
+        "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+        "authors": "Weijie Lyu, Zhixin Shu, Yuntian Ke, Ming-Hsuan Yang",
         "journal": "arXiv preprint",
-        "abstract": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot…",
-        "badge": "Robotics",
-        "url": "http://arxiv.org/abs/2611.33158v1"
-    },
-    {
-        "id": "arxiv-1oqd58fh",
-        "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
-        "authors": "Miguel Farinha, Sam Sartor, Iliyan Georgiev, Giuseppe…",
-        "journal": "arXiv preprint",
-        "abstract": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a different decomposition…",
+        "abstract": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.33157v1"
+        "url": "http://arxiv.org/abs/2611.34944v1"
     },
     {
-        "id": "arxiv-xtknmuv9",
-        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
-        "authors": "Binfei Ji, Zhiwen Cao, Anqi Yang, Prem Seetharaman, Shuo…",
+        "id": "arxiv-pvb3255a",
+        "title": "Tracking Any Point with Agentic Visual Reasoning",
+        "authors": "Xuweiyi Chen, Jin Yao, Linzhan Mou, Lei Gong, Di Liu, Cheng…",
         "journal": "arXiv preprint",
-        "abstract": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model,…",
+        "abstract": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.33153v1"
+        "url": "http://arxiv.org/abs/2611.34943v1"
     },
     {
-        "id": "arxiv-m46c9tz5",
-        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
-        "authors": "Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano, Yuan-Sen Ting,…",
+        "id": "arxiv-68qb10a5",
+        "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+        "authors": "Yalin E. Sagduyu, Tugba Erpek",
         "journal": "arXiv preprint",
-        "abstract": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of…",
+        "abstract": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test…",
+        "badge": "Research",
+        "url": "http://arxiv.org/abs/2611.34942v1"
+    },
+    {
+        "id": "arxiv-6hb7zaal",
+        "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+        "authors": "Ji Xie, Yanhao Jia, Xiangpeng Yang, Martin Q. Ma, Sihan Xu,…",
+        "journal": "arXiv preprint",
+        "abstract": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.33151v1"
+        "url": "http://arxiv.org/abs/2611.34941v1"
     },
     {
-        "id": "arxiv-78250d58",
-        "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
-        "authors": "Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano",
+        "id": "arxiv-5dgkexbg",
+        "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+        "authors": "Yipengjing Sun, Chenyang Wang, Boyao Zhou, Jiapeng Zhu, Ka…",
         "journal": "arXiv preprint",
-        "abstract": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose…",
-        "badge": "NLP",
-        "url": "http://arxiv.org/abs/2611.33148v1"
-    },
-    {
-        "id": "arxiv-ntq6rqfm",
-        "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
-        "authors": "Anthony Chen, Naomi Ken Korem, Matan Ben-Yosef, Tavi…",
-        "journal": "arXiv preprint",
-        "abstract": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing additional shots from a single wide-angle…",
+        "abstract": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive neural shader. This…",
         "badge": "Vision",
-        "url": "http://arxiv.org/abs/2611.33147v1"
+        "url": "http://arxiv.org/abs/2611.34940v1"
+    },
+    {
+        "id": "arxiv-6txqjcqk",
+        "title": "A Mesh for Every Moment",
+        "authors": "Roy Or-El, Jeong Joon Park, Ira Kemelmacher-Shlizerman",
+        "journal": "arXiv preprint",
+        "abstract": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing dynamic Gaussian splatting methods either model appearance alone or target isolated objects segmented by foreground…",
+        "badge": "Vision",
+        "url": "http://arxiv.org/abs/2611.34939v1"
     }
 ],
 
     repos: [
     {
-        "id": "gh-38ib0gwi",
+        "id": "gh-lqox6yb0",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "266.0k",
+        "stars": "266.3k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-go1ztti9",
+        "id": "gh-7ma6olof",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.2k",
@@ -268,7 +247,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-aksdz0ob",
+        "id": "gh-ck15eru3",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
         "stars": "161.9k",
@@ -277,25 +256,25 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-ovcy1bz7",
+        "id": "gh-4pafwv2l",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
-        "stars": "169.3k",
+        "stars": "169.4k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-18fnxwy3",
+        "id": "gh-yisrqttm",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "stars": "105.7k",
+        "stars": "105.8k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-rxixaydu",
+        "id": "gh-80grn6ac",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.4k",
@@ -304,10 +283,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-e2n1wj42",
+        "id": "gh-0o7h54fq",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "148.6k",
+        "stars": "148.7k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
