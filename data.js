@@ -1,7 +1,7 @@
 /* ============================================
    THE SIGNAL — Auto-Generated Content
-   Updated: 2026-11-26T16:34:16.488Z
-   Stories: 19 | Clusters: 4 | Papers: 6 | Repos: 7
+   Updated: 2026-11-27T16:19:58.456Z
+   Stories: 21 | Clusters: 4 | Papers: 6 | Repos: 7
    ============================================ */
 
 const NEWSLETTER_DATA = {
@@ -25,16 +25,16 @@ const NEWSLETTER_DATA = {
     ],
 
     featured: {
-    "id": "rss-m8f8awdi",
-    "topic": "Artificial Intelligence",
-    "topicId": "energy",
-    "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-    "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "id": "rss-xe23l3oz",
+    "topic": "AI Infrastructure",
+    "topicId": "infra",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
     "source": "TechCrunch",
-    "time": "Just now",
+    "time": "20h ago",
     "readTime": "5 min read",
-    "relevance": 93,
-    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    "relevance": 87,
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
 },
 
     topics: [
@@ -45,38 +45,38 @@ const NEWSLETTER_DATA = {
         "color": "#d4a03d",
         "stories": [
             {
-                "id": "rss-1dfra648",
+                "id": "rss-ylofg8fs",
                 "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 85
             },
             {
-                "id": "rss-oa18vd9a",
+                "id": "rss-byg9nvjx",
                 "title": "Introducing Tool Retrieval in the Gemini API",
                 "source": "Google Blog",
-                "time": "6d ago",
+                "time": "Nov 19",
                 "relevance": 83
             },
             {
-                "id": "rss-9hxczx6z",
+                "id": "rss-ucb5ki9t",
                 "title": "Searching for distant planets with Astra",
                 "source": "OpenAI",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 82
             },
             {
-                "id": "rss-p6k60hwu",
+                "id": "rss-y7pnk8zi",
                 "title": "A more tailored Google Search that’s uniquely yours",
                 "source": "Google Blog",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 78
             },
             {
-                "id": "rss-9ulq9hsr",
+                "id": "rss-wyb5577n",
                 "title": "How Gemini is changing the game for Golden State's organization and fans.",
                 "source": "Google Blog",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 76
             }
         ]
@@ -88,32 +88,32 @@ const NEWSLETTER_DATA = {
         "color": "#60a5fa",
         "stories": [
             {
-                "id": "rss-b1ssd87a",
+                "id": "rss-6ritc3re",
                 "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
                 "source": "MarkTechPost",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 74
             },
             {
-                "id": "rss-qxv2opkz",
+                "id": "rss-wtakx9jf",
                 "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
                 "source": "MarkTechPost",
-                "time": "2d ago",
+                "time": "3d ago",
                 "relevance": 70
             },
             {
-                "id": "rss-j0mvno0m",
-                "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+                "id": "rss-p8cm1ljl",
+                "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
                 "source": "MarkTechPost",
-                "time": "1d ago",
+                "time": "4d ago",
                 "relevance": 69
             },
             {
-                "id": "rss-od7ewpz4",
-                "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+                "id": "rss-0t9uj9pf",
+                "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
                 "source": "MarkTechPost",
-                "time": "3d ago",
-                "relevance": 69
+                "time": "2d ago",
+                "relevance": 67
             }
         ]
     },
@@ -124,25 +124,18 @@ const NEWSLETTER_DATA = {
         "color": "#fb923c",
         "stories": [
             {
-                "id": "rss-nwpscs6q",
-                "title": "S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-                "source": "TechCrunch",
-                "time": "17h ago",
-                "relevance": 83
-            },
-            {
-                "id": "rss-f35jhodx",
-                "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+                "id": "rss-xe23l3oz",
+                "title": "Nvidia hits pause on chip shipments to Southeast Asia",
                 "source": "TechCrunch",
                 "time": "20h ago",
-                "relevance": 81
+                "relevance": 87
             },
             {
-                "id": "hn-50651863",
-                "title": "An algebraic quantization of gravity from the null cone",
-                "source": "Hacker News",
-                "time": "10h ago",
-                "relevance": 69
+                "id": "rss-e9ikavji",
+                "title": "S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+                "source": "TechCrunch",
+                "time": "1d ago",
+                "relevance": 80
             }
         ]
     },
@@ -153,14 +146,14 @@ const NEWSLETTER_DATA = {
         "color": "#c9862e",
         "stories": [
             {
-                "id": "rss-jqtkd5kp",
+                "id": "rss-1en1cfn0",
                 "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
                 "source": "VentureBeat",
                 "time": "Aug 27",
                 "relevance": 69
             },
             {
-                "id": "rss-7g89ult9",
+                "id": "rss-nkgcmizm",
                 "title": "Orchestration is the new challenge for CX in the age of AI agents",
                 "source": "VentureBeat",
                 "time": "Aug 26",
@@ -172,7 +165,7 @@ const NEWSLETTER_DATA = {
 
     papers: [
     {
-        "id": "arxiv-72o86q9c",
+        "id": "arxiv-ipe186nt",
         "title": "AnyCam: Anything Can Represent Camera for Video Generation",
         "authors": "Weijie Lyu, Zhixin Shu, Yuntian Ke, Ming-Hsuan Yang",
         "journal": "arXiv preprint",
@@ -181,7 +174,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.34944v1"
     },
     {
-        "id": "arxiv-pvb3255a",
+        "id": "arxiv-f5i5pmnj",
         "title": "Tracking Any Point with Agentic Visual Reasoning",
         "authors": "Xuweiyi Chen, Jin Yao, Linzhan Mou, Lei Gong, Di Liu, Cheng…",
         "journal": "arXiv preprint",
@@ -190,7 +183,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.34943v1"
     },
     {
-        "id": "arxiv-68qb10a5",
+        "id": "arxiv-19lg89ul",
         "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
         "authors": "Yalin E. Sagduyu, Tugba Erpek",
         "journal": "arXiv preprint",
@@ -199,7 +192,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.34942v1"
     },
     {
-        "id": "arxiv-6hb7zaal",
+        "id": "arxiv-f16gnwce",
         "title": "Improving and Expanding Video Editing Capabilities Without Videos",
         "authors": "Ji Xie, Yanhao Jia, Xiangpeng Yang, Martin Q. Ma, Sihan Xu,…",
         "journal": "arXiv preprint",
@@ -208,7 +201,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.34941v1"
     },
     {
-        "id": "arxiv-5dgkexbg",
+        "id": "arxiv-8o6s7i1p",
         "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
         "authors": "Yipengjing Sun, Chenyang Wang, Boyao Zhou, Jiapeng Zhu, Ka…",
         "journal": "arXiv preprint",
@@ -217,7 +210,7 @@ const NEWSLETTER_DATA = {
         "url": "http://arxiv.org/abs/2611.34940v1"
     },
     {
-        "id": "arxiv-6txqjcqk",
+        "id": "arxiv-prbx2xl5",
         "title": "A Mesh for Every Moment",
         "authors": "Roy Or-El, Jeong Joon Park, Ira Kemelmacher-Shlizerman",
         "journal": "arXiv preprint",
@@ -229,16 +222,16 @@ const NEWSLETTER_DATA = {
 
     repos: [
     {
-        "id": "gh-lqox6yb0",
+        "id": "gh-basl1rr6",
         "name": "NousResearch/hermes-agent",
         "desc": "The agent that grows with you",
-        "stars": "266.3k",
+        "stars": "266.6k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-        "id": "gh-7ma6olof",
+        "id": "gh-9zneb6mb",
         "name": "Significant-Gravitas/AutoGPT",
         "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so…",
         "stars": "188.2k",
@@ -247,16 +240,16 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/Significant-Gravitas/AutoGPT"
     },
     {
-        "id": "gh-ck15eru3",
+        "id": "gh-3bxifg94",
         "name": "langgenius/dify",
         "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on…",
-        "stars": "161.9k",
+        "stars": "162.0k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/langgenius/dify"
     },
     {
-        "id": "gh-4pafwv2l",
+        "id": "gh-a8bdrcmj",
         "name": "huggingface/transformers",
         "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio,…",
         "stars": "169.4k",
@@ -265,7 +258,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/huggingface/transformers"
     },
     {
-        "id": "gh-yisrqttm",
+        "id": "gh-d36cc06a",
         "name": "pytorch/pytorch",
         "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "stars": "105.8k",
@@ -274,7 +267,7 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/pytorch/pytorch"
     },
     {
-        "id": "gh-80grn6ac",
+        "id": "gh-ly0jam79",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
         "desc": "Stable Diffusion web UI",
         "stars": "165.4k",
@@ -283,10 +276,10 @@ const NEWSLETTER_DATA = {
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
-        "id": "gh-0o7h54fq",
+        "id": "gh-156r5ue6",
         "name": "Comfy-Org/ComfyUI",
         "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",
-        "stars": "148.7k",
+        "stars": "148.9k",
         "lang": "Python",
         "langColor": "#3572A5",
         "url": "https://github.com/Comfy-Org/ComfyUI"
@@ -295,44 +288,28 @@ const NEWSLETTER_DATA = {
 
     nextgen: [
     {
-        "id": "n1",
-        "title": "Quantum Error Correction Milestone Achieved",
-        "desc": "Recent breakthroughs in logical qubit stability bring fault-tolerant quantum computing closer to reality.",
-        "tag": "Quantum",
-        "tagClass": "quantum",
-        "source": "Nature"
-    },
-    {
-        "id": "n2",
-        "title": "AlphaFold Updates Expand Drug Discovery Pipeline",
-        "desc": "New protein interaction predictions are accelerating pharmaceutical research timelines.",
+        "id": "ng-rss-ylofg8fs",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "desc": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
         "tag": "Biotech",
         "tagClass": "biotech",
-        "source": "DeepMind"
+        "source": "OpenAI"
     },
     {
-        "id": "n3",
-        "title": "Commercial Space Stations Planned for 2027",
-        "desc": "Multiple companies are racing to deploy orbital habitats for research and tourism.",
+        "id": "ng-rss-ucb5ki9t",
+        "title": "Searching for distant planets with Astra",
+        "desc": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
         "tag": "Space",
         "tagClass": "space",
-        "source": "SpaceNews"
+        "source": "OpenAI"
     },
     {
-        "id": "n4",
-        "title": "Solid-State Battery Production Lines Go Live",
-        "desc": "Manufacturing scale-up begins for next-generation batteries with 2x energy density.",
-        "tag": "Energy",
-        "tagClass": "energy",
-        "source": "Reuters"
-    },
-    {
-        "id": "n5",
-        "title": "Self-Healing Materials Enter Pilot Testing",
-        "desc": "New polymers that autonomously repair cracks could revolutionize construction and aerospace.",
-        "tag": "Materials",
-        "tagClass": "materials",
-        "source": "MIT News"
+        "id": "ng-hn-50667664",
+        "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+        "desc": "Click to read more about this development.",
+        "tag": "Quantum",
+        "tagClass": "quantum",
+        "source": "Hacker News"
     }
 ]
 };
